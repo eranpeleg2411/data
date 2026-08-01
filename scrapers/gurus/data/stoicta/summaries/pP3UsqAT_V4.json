@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "pP3UsqAT_V4",
+    "title": "Simple Trend Following Trading Strategy (Full tutorial from Beginner to Advanced)",
+    "url": "https://www.youtube.com/watch?v=pP3UsqAT_V4",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/pP3UsqAT_V4.json"
+  },
+  "stats": {
+    "word_count": 7879,
+    "duration_seconds": 3584.9,
+    "segments": 716,
+    "concepts_detected": 3,
+    "candidate_strategies": 1
+  },
+  "concept_mentions": {
+    "Liquidity": 4,
+    "Fair Value Gap": 1,
+    "Power of Three": 1
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Power of Three / AMD",
+      "evidence": [
+        {
+          "start": 979.92,
+          "end": 1003.92,
+          "text": "consolidation right at the top of the range and then we have a dip and we have a quick move out after mitigating unmitigated area and in here we could be looking for our setup this is your classic accumulation manipulation and distribution and usually and people not really",
+          "concepts": [
+            "Power of Three"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 11
+        },
+        {
+          "start": 996.64,
+          "end": 1019.36,
+          "text": "your classic accumulation manipulation and distribution and usually and people not really aware of this but when they're talking about the accumulation manipulation distribution usually it's all happening inside of the swing point and that's why i'm keep telling you guys",
+          "concepts": [
+            "Power of Three"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 16
+        },
+        {
+          "start": 1582.0,
+          "end": 1603.92,
+          "text": "take it higher but that's not what we're talking about here today this is not our trade because it haven't reached 50 percent so we wait all of this and remember what i said this is inducement this is engineered liquidity this is accumulation we have final manipulation and we have expansion",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 11
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 201.36,
+      "end": 223.68,
+      "text": "It's about execution of the concepts. All right so let's start with swing points. What is a swing point? Bullish swing point is established after price closes above the high and the bearish swing point is established after price closes below the low. And I'm highlighting the",
+      "concepts": [],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 216.64,
+      "end": 241.28,
+      "text": "bearish swing point is established after price closes below the low. And I'm highlighting the word closes because that's what is going to confirm and establish a swing point. A price closing above a high. Closed above the high, pull back into the swing and goes back out.",
+      "concepts": [],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 248.88,
+      "end": 272.0,
+      "text": "This is not the part of this model. We want to have a clean swing point and the swing point is confirmed after price closes above the high or below the low. Swing point is established. The bullish swing point is going to be the last move down before price breaks higher and the bearish",
+      "concepts": [],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 855.04,
+      "end": 877.52,
+      "text": "and we enter in here this is the ultimate target the new swing high you can exit one to one one to one from this zone is is very good or you can exit at the swing point high right here swing point in here established there's 50 there is a swing point high there is a swing point low so",
+      "concepts": [],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 871.44,
+      "end": 890.64,
+      "text": "point in here established there's 50 there is a swing point high there is a swing point low so you can have a trade going from 50 to the swing point high and you can have a stop loss below the swing point low that's the simplest trading model you can have but you still got to backtest",
+      "concepts": [],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 921.04,
+      "end": 943.36,
+      "text": "keep it simple trigger entry target trigger entry target trigger entry target trigger is the swing point entry is unmitigated snd flip target is the target new high here's another version of this schematic so this is going to showcase the logic of the swing point and how swing points really work",
+      "concepts": [],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 936.4,
+      "end": 958.56,
+      "text": "schematic so this is going to showcase the logic of the swing point and how swing points really work a lot of the times you have the swing point established and we we have a closure above and then what happens is that all of this price action in here that is not coming down to this unmitigated",
+      "concepts": [],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 979.92,
+      "end": 1003.92,
+      "text": "consolidation right at the top of the range and then we have a dip and we have a quick move out after mitigating unmitigated area and in here we could be looking for our setup this is your classic accumulation manipulation and distribution and usually and people not really",
+      "concepts": [
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 11
+    },
+    {
+      "start": 996.64,
+      "end": 1019.36,
+      "text": "your classic accumulation manipulation and distribution and usually and people not really aware of this but when they're talking about the accumulation manipulation distribution usually it's all happening inside of the swing point and that's why i'm keep telling you guys",
+      "concepts": [
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 16
+    },
+    {
+      "start": 1066.88,
+      "end": 1087.36,
+      "text": "this could be inducement the smart money engineering the liquidity for the final manipulation down and up because the narrative is bullish so this is the highest probability setup right here when we have inducement we have engineered liquidity we have a manipulation",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 1545.76,
+      "end": 1568.0,
+      "text": "to start with one to ones and just try to get you know five points stop loss five point target on i'm talking about nasdaq and q that's what i'm trading i'm trading futures nasdaq here's another example with inducement we have this swing point that's left behind we went up right closed about",
+      "concepts": [],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 1582.0,
+      "end": 1603.92,
+      "text": "take it higher but that's not what we're talking about here today this is not our trade because it haven't reached 50 percent so we wait all of this and remember what i said this is inducement this is engineered liquidity this is accumulation we have final manipulation and we have expansion",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 11
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:01.188611+00:00"
+}

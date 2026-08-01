@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "4FQPg2qYVO0",
+    "title": "Trading Psychology: Manifestation in Trading | Paradigm Shift",
+    "url": "https://www.youtube.com/watch?v=4FQPg2qYVO0",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/4FQPg2qYVO0.json"
+  },
+  "stats": {
+    "word_count": 2190,
+    "duration_seconds": 1252.98,
+    "segments": 259,
+    "concepts_detected": 1,
+    "candidate_strategies": 0
+  },
+  "concept_mentions": {
+    "Time Cycles": 1
+  },
+  "spoken_time_references": [
+    "10am",
+    "11AM",
+    "11am",
+    "30 AM",
+    "8PM"
+  ],
+  "candidate_strategies": [],
+  "key_passages": [
+    {
+      "start": 94.16,
+      "end": 111.38,
+      "text": "And the result was a profitable system and a clarity that makes the market feel predictable. My students in stoic traders now do the same. They manifest their edge, turning blurry charts into laser sharp profits.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 401.26,
+      "end": 419.7,
+      "text": "Weak belief creates a weak reality. Manifestation requires certainty built through repetitive evidence. In 1980s, trader Linda Rushki struggled with confidence until she back-tested her setups",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 570.1,
+      "end": 585.26,
+      "text": "The asset, the pattern, the entry price, the stop loss, the target. For example, I see a swing breakout sequence forming on NASDAQ chart. The time frame is five minutes.",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 592.38,
+      "end": 609.86,
+      "text": "Describe every nuance of the setup. Read it daily, then close your eyes and visualize it for five minutes. This primes your reticular activating system to spot your setup in real time.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 638.5,
+      "end": 661.34,
+      "text": "List 10 past trades where your setup worked, noting the date, profit and why it succeeded. View this list before every session to reinforce the expectancy effect. If you are new, backtest your setup and log 10 winning examples.",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 697.3,
+      "end": 713.02,
+      "text": "Step number three, manifestation triggers. Create manifestation triggers to align action with vision. These are if-then rules tied to your setup.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 767.24,
+      "end": 781.48,
+      "text": "Read your visualization script and belief anchor before opening charts. Focus timer. Trade in 90-minute blocks to stay sharp with 10-minute breaks to reset.",
+      "concepts": [
+        "Time Cycles"
+      ],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 1040.58,
+      "end": 1056.72,
+      "text": "She notes, I hesitated slightly so I will add 2 minute breath work to ritual. And by the result, tomorrow her lens is a bit sharper. This is manifestation in action.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:00.535222+00:00"
+}

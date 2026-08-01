@@ -1,0 +1,1301 @@
+[00:00] Alright, welcome in.
+[00:01] If you can hear me clearly, if you can see the screen, and if you are tired of waking
+[00:07] up every day and letting random candles control your mood, then you are in the right place.
+[00:14] Because this free training is for traders who struggle with execution.
+[00:18] I'm going to show you how Stoic Edge helps inconsistent traders become Stoic traders
+[00:25] in 90 days through the Stoic Trader Protocol.
+[00:29] Without relying on signals, without studying endless theory, so you can finally stop strategy
+[00:36] hopping and build a consistent execution process you can actually follow.
+[00:42] From noise to the process.
+[00:45] And that's the whole point.
+[00:46] Most traders think that the next setup is going to save them.
+[00:50] They think the next entry model is going to save them.
+[00:54] They think if they can just find the right strategy, the right trader to follow, the
+[01:00] right watchlist, the right indicator, the right candle pattern, then all of the chaos
+[01:05] is finally going to stop.
+[01:08] But that's usually not what happens.
+[01:10] They learn the new setup, they get excited, they mark up a few charts, they take a trade,
+[01:17] maybe it works, maybe it fails, then the market starts moving again, the emotion comes back,
+[01:23] the rules get fuzzy and suddenly they are right back when they started chasing, hesitating,
+[01:30] overtrading, revenge trading, taking trades they can't explain, moving stops they promised
+[01:36] they would not move, calling everything manipulation, trying to make the money back before the day
+[01:42] ends.
+[01:43] And then they close the laptop with the same tired feeling, not only because they lost
+[01:50] But because they lost trust in themselves again.
+[01:54] And that's the deeper problem.
+[01:56] Trading tests more than just your chart knowledge.
+[02:00] Trading is testing your attention, patience, self-control, risk tolerance, boredom tolerance
+[02:06] and ability to follow a process when the next candle is trying to pull you out of it.
+[02:13] If you take this seriously and actually build the process, it can serve you for a lifetime.
+[02:19] Not because you learn how to predict every move, you won't.
+[02:23] But because you learn how to manage risk, you learn how to make decisions under pressure,
+[02:30] you learn how to stay calm when money, emotion, fear, greed and uncertainty are all hitting
+[02:37] at the same time.
+[02:39] That's not just chart reading, that's a life skill.
+[02:43] Trading becomes the place where you meet yourself, you see where you chase, you see where you
+[02:49] hesitate, you see where you get greedy, you see where you panic.
+[02:54] And if you can learn to manage yourself there, if you can win that battle against yourself,
+[03:01] you build a skill that stays with you.
+[03:04] So today I am not going to sell you a fantasy.
+[03:08] I am not going to tell you that one video can make you profitable.
+[03:12] I am not going to tell you that a community can remove entire risk.
+[03:18] And I am not going to tell you to blindly copy anything I do.
+[03:22] That's not the stoic way of trading.
+[03:25] Here's what we're going to cover in this video.
+[03:28] First I am going to show you why the current trading environment is so dangerous for undisciplined
+[03:34] traders.
+[03:36] Not because markets are evil, manipulated, but because markets are markets.
+[03:41] The danger is that most traders are walking into a high stimulation environment with no
+[03:47] operating system.
+[03:49] They have a chart, a social feed, a few concepts, maybe some indicators and a lot of emotion.
+[03:56] And that combination of puzzle pieces is not really a process.
+[04:02] Second I am going to show you the real enemy, which is the noise trap.
+[04:06] And the noise trap is way bigger than just watching too many YouTube videos.
+[04:12] It's the condition where everything looks tradeable.
+[04:15] Every move feels urgent, every missed move feels personal and every loss creates the
+[04:21] desire to get even.
+[04:23] Third I am going to teach you the stoic lens.
+[04:26] This is the filter we use to decide what matters and what does not matter.
+[04:31] High time frame context, trapped trader psychology, patience, process, restraint.
+[04:38] Without a lens every candle can become a reason to do something.
+[04:42] But with a lens the chart gets quiet.
+[04:45] Fourth I am going to show you the core stoic trader concepts.
+[04:50] The no edge zone, HCOM and LCOM, the monthly extremes that give the high time frame bias,
+[04:59] and asymmetrical risk to reward.
+[05:02] Daily levels like previous day high, previous day low and previous day close.
+[05:07] Simplified market structure around those levels.
+[05:10] The two setups, break and retest or swing failure pattern.
+[05:15] SBS, swing breakout sequence as the entry model.
+[05:19] The 20 and 200 moving averages logic, fib geometry, trapped traders, risk and validation,
+[05:27] target management and review.
+[05:29] I am not hiding the names of the concepts.
+[05:32] The names aren't the edge.
+[05:34] How you implement them is the real edge.
+[05:36] Fifth I am going to show you how these concepts become a system you can actually execute.
+[05:43] Here is where most traders fail.
+[05:45] They collect strategies but they never define their territory.
+[05:49] They never define their conditions.
+[05:51] They never define what invalidates the trade.
+[05:54] They never define how they manage risk.
+[05:57] They never define how they review the decision after it's over.
+[06:02] So the concept never becomes a system.
+[06:05] And finally I am going to show you how stoic trader's community helps you implement.
+[06:10] Inside the community the goal isn't to create signal dependency.
+[06:15] The goal is to help you build a consistent execution process over the next 90 days.
+[06:22] You learn the concepts, you see current market context, you study the full watch list and
+[06:27] execution logic, you build your own system, you review your own decisions and you learn
+[06:33] how to think through risk like a stoic trader and not just react like a gambler with a
+[06:39] chart software.
+[06:41] And again, if this training helps you and you want the full stoic trader protocol, the
+[06:46] implementation environment and the next 90 day execution challenge, join us at stoicedge.com.
+[06:54] But before we go any deeper, let me be very clear on who this is for.
+[06:59] This is for the trader whose main issue is execution, not lack of trading concepts, not
+[07:06] lack of videos or lack of another strategy.
+[07:10] Execution.
+[07:11] This is what it's all about.
+[07:13] This is for the trader who's tired of being pulled around by lower timeframe movement.
+[07:19] You know what it feels like.
+[07:21] You tell yourself you are only going to take one or two trades.
+[07:25] Then the chart moves, then a level breaks, then a wick forms, then someone online posts
+[07:31] a chart, then suddenly you are in a trade you didn't plan, then you are managing a position
+[07:37] you don't understand, then you are hoping instead of executing.
+[07:42] If that sounds like you, this video is for you.
+[07:45] This is for the trader who has learned enough concepts to sound smart but still doesn't
+[07:51] trust himself under pressure.
+[07:53] You can explain liquidity, you can explain a sweep, you can explain a retest, moving
+[07:58] averages, fib geometry, fib retracements, but when real money is on the line, you still
+[08:05] hesitate, chase, oversize, move stops, close early, hold too long or take trades that don't
+[08:12] belong in your plan.
+[08:15] This is for the trader who doesn't want to live in the charts all day.
+[08:19] Maybe you have a job, maybe you run a business, maybe you have a family, maybe you are just
+[08:24] trying to build a life where trading supports your freedom instead of stealing your attention.
+[08:30] You are not trying to become a full-time candle addict.
+[08:34] You want a clear way to identify opportunities, understand risk and participate with discipline.
+[08:42] If that's you, this video is for you.
+[08:45] This is for the former scalper or day trader who knows the lower timeframes can teach real
+[08:51] skill but also knows they can become chaos if there is no structure.
+[08:56] The same edge can be raised to a bigger timeframe.
+[09:00] The same concepts can be used with more patience.
+[09:03] The same market understanding can be turned into a cleaner process.
+[09:09] If that's you, this video is for you.
+[09:12] This is also for the course collector.
+[09:14] The trader who has bought trainings, watched videos, joined groups, downloaded PDFs, built
+[09:21] giant folders of screenshots and still doesn't have a process he can actually follow.
+[09:28] You don't need more random information.
+[09:30] You need to stop strategy hopping and finally start building an execution process.
+[09:37] If that's you, this video is for you.
+[09:40] But this isn't for everyone.
+[09:43] Before we get into the concepts, there are a few house rules.
+[09:47] Rule number one, this is education, not financial advice.
+[09:51] I'm not telling you what to buy.
+[09:53] I'm not telling you what to sell.
+[09:55] I'm not telling you that any market setup, strategy or process is guaranteed to make
+[10:01] money.
+[10:02] Trading involves risk.
+[10:04] You are ultimately responsible for your own decisions.
+[10:08] Rule number two, this isn't a signal room pitch.
+[10:12] Stoic traders isn't built around blind copy trading.
+[10:16] The point isn't for you to become dependent on someone else's button.
+[10:21] The point is for you to build a process strong enough that you can understand why a setup
+[10:28] matters, what risk is involved, what would invalidate the idea and whether it fits your
+[10:36] own system.
+[10:37] Rule number three, no concept removes uncertainty.
+[10:41] Not Breakin' Retes, not SFP, Fib Geometry, 2200 SMA, daily levels, not a watch list,
+[10:50] not a community, not an order block, enigma, whatever you might learned.
+[10:56] A concept can improve your lens, but it can't remove real risk.
+[11:03] Rule number four, if you are looking for constant action, you probably hate this.
+[11:08] The stoic way of trading puts patience above entertainment.
+[11:13] Cash is a position.
+[11:15] No trade is valid outcome.
+[11:17] The setup has to deserve risk.
+[11:20] Rule number five, the concepts are only the beginning.
+[11:24] This is the big one.
+[11:25] I can give you concepts in a video.
+[11:27] I can explain a noise trap.
+[11:29] I can explain stoic lands, no edge zone.
+[11:33] I can explain daily levels, retest, failures, moving averages, fibs and the protocol.
+[11:40] But I can't do your repetitions for you.
+[11:43] I can't make you follow your stop loss.
+[11:45] I can't make you avoid the trade that's outside of your plan.
+[11:49] I can't make you journal honestly.
+[11:52] And ultimately, I can't make you stop using one win as permission to lose discipline.
+[11:58] And this is exactly why implementation matters.
+[12:02] Information can be consumed alone, but that's not enough anymore.
+[12:07] There was a time when the problem was lack of information.
+[12:11] But now the problem is abundance of misinformation.
+[12:15] Not because every trader online is trying to hurt you, but because the market rewards
+[12:21] confidence, content rewards certainty, and most people who teach trading are still trapped
+[12:27] in the same noise they are selling you away out of.
+[12:31] So the real question isn't can you consume more information.
+[12:36] You can, of course, go ahead, knock yourself out.
+[12:39] But the real question is do you have a process strong enough to filter what deserves your
+[12:45] attention?
+[12:47] Implementation usually needs an environment.
+[12:50] That's what the stoic trader community is for.
+[12:53] Right now, traders have more information than ever.
+[12:57] strategies, more indicators, more backtests, platforms, opinions, screenshots, watch lists,
+[13:03] more people yelling about the next move.
+[13:07] And yet, most traders aren't becoming calmer.
+[13:10] They are becoming more reactor.
+[13:12] And why is that?
+[13:13] Well, because more information doesn't automatically create better judgment.
+[13:18] More information without a filter creates more noise.
+[13:23] And trading noise is especially dangerous because it looks useful.
+[13:28] A random candle looks like information.
+[13:31] A random chart post looks like opportunity.
+[13:34] A random opinion looks like confirmation.
+[13:37] And a random missed move looks like evidence that you are behind.
+[13:41] So the trader keeps consuming.
+[13:44] He thinks he is studying.
+[13:46] But emotionally, he is training urgency.
+[13:49] He is training the belief that every move matters.
+[13:53] He is training the feeling that being flat means he is missing out.
+[13:58] He is training himself to look for reasons to trade instead of reasons to wait.
+[14:04] And that's the modern trading trap.
+[14:07] The market doesn't only move.
+[14:09] It now moves inside an attention machine.
+[14:13] Your chart is moving.
+[14:14] Your phone is moving.
+[14:15] Your feed is moving.
+[14:17] Your group chat is moving.
+[14:18] Your emotions are moving.
+[14:20] And if you don't have a process, movement becomes your master.
+[14:25] That's why I say Stoic Traders is the anti-chaos trading brand.
+[14:31] I am not trying to give you more things to react to.
+[14:34] I am trying to give you a lens that reduces the field.
+[14:39] What matters?
+[14:40] What doesn't matter?
+[14:41] What's the context?
+[14:42] Who is trapped?
+[14:44] Where is the clean and validation?
+[14:46] Where is the asymmetrical risk to reward opportunity?
+[14:50] Is this my territory?
+[14:52] Does this setup deserve risk?
+[14:55] Or am I just being seduced by movement?
+[14:58] That's the real paradigm shift that needs to happen for every trader if they want to
+[15:03] be consistently profitable.
+[15:06] From reaction to selection.
+[15:09] From noise to process.
+[15:11] From random candles to the stoic lens.
+[15:15] And personally, I got into markets during the covid crash in 2020.
+[15:20] That was the beginning.
+[15:22] Like a lot of traders, I started with the basics.
+[15:25] Simple charts, swing trading, basic ideas about price.
+[15:30] Then over time, I got pulled deeper into the lower timeframes.
+[15:34] More detail, more concepts, terminology, complexity.
+[15:39] Personally I went deep into ICT, smart money concepts, liquidity language, kill zones,
+[15:45] fair value gaps, order blocks, breaker blocks, new models, new variations and all that language
+[15:51] that comes with that world.
+[15:54] And I want to be fair.
+[15:56] There are real market ideas there.
+[15:59] Liquidity matters, trap traders matter, fake moves matter, time of day can matter, context
+[16:04] matters.
+[16:05] But the ecosystem around complexity can become very dangerous.
+[16:10] Over time I started refining.
+[16:13] And that word matters a lot.
+[16:15] Because I'm not trying to teach every concept I ever learned.
+[16:19] I'm trying to strip the market down to the pieces that keep proving useful.
+[16:25] The levels that matter, the patterns that matter, the places where traders get trapped,
+[16:30] the conditions where the risk is actually worth considering.
+[16:35] That's why the higher timeframe became more important to me.
+[16:39] Lower timeframe trading can train your eye.
+[16:42] But it can also train you to chase tiny moves and overreact to every candle close.
+[16:48] A 5 minute candle close can look convincing, but on the 1 hour chart it may only be a wick.
+[16:55] A candle can close through a level on one timeframe and mean almost nothing on the timeframe
+[17:01] that actually controls the move.
+[17:04] That's why I don't blindly trust candle closures by themselves.
+[17:08] I care about higher timeframe context first.
+[17:12] Lower timeframes can help with execution, but they don't decide the trade for me.
+[17:18] The higher timeframe is what lets you think in bigger structure, cleaner invalidation
+[17:24] and better risk instead of trying to scalp every little reaction.
+[17:29] This is the move from collecting concepts to building a real trading system.
+[17:35] So I kept the pieces that made the system clear.
+[17:39] HCOM and LCOM, trapped trader logic, asymmetrical risk to reward, PDH, PDL, PDC, simplified
+[17:47] market structure, two setups, break and retest or swing failure pattern, SBS as the entry
+[17:54] model, 2200 SMA logic, fib geometry.
+[17:59] And this is not because those names are some kind of magic.
+[18:04] It's because those are the ingredients of the consistently profitable trading system.
+[18:10] These are the ingredients that I kept seeing matter when they are placed inside a full
+[18:16] trading process.
+[18:18] Because when a trader is confused, he keeps looking for the missing piece.
+[18:23] When a trader feels almost there, he keeps consuming.
+[18:27] When a trader thinks the next model will finally solve everything, he never has to face the
+[18:33] more uncomfortable question.
+[18:36] Can I follow a simple process?
+[18:39] And that's the exact question most traders avoid.
+[18:42] It's way easier and more satisfying to learn another concept than to review the last ten
+[18:48] trades honestly.
+[18:50] It's easier to blame manipulation than to admit that the setup had no clean invalidation.
+[18:57] It's easier to say the model failed than to admit you entered in the middle of nowhere
+[19:02] because you were bored.
+[19:04] It's just easier to keep studying than to define rules that expose you.
+[19:09] That's why stoic traders exist.
+[19:12] Not to create another hype discord room, not to make traders dependent on alerts.
+[19:19] Stoic traders exist to help traders leave the noise trap and learn to trade through
+[19:25] the stoic lens.
+[19:27] The vision is very simple.
+[19:28] A trader should know what kind of market he is trying to trade.
+[19:33] He should know where he has edge and where he doesn't.
+[19:37] He should know the difference between movement and opportunity.
+[19:41] He should understand risk before entry.
+[19:45] He should have invalidation before entry.
+[19:47] He should have a management plan before entry.
+[19:50] He should be able to sit in cash without feeling punished.
+[19:54] He should be able to miss a move without losing his mind.
+[19:59] He should be able to take a loss without turning the next trade into emotional revenge.
+[20:05] That's the stoic trader standard.
+[20:08] And that's exactly what we are building.
+[20:11] The first concept that I want to talk about is the noise trap.
+[20:16] The noise trap is the condition most traders are in before they have a real process.
+[20:21] Here's what it looks like.
+[20:22] You open the chart, price is moving.
+[20:25] Immediately your brain starts creating stories.
+[20:29] This could be a breakout, this could be a fake out sweep, retest, this could be the
+[20:33] start of the move, this could be the reversal, or maybe this could be the one I can't miss.
+[20:41] Notice what happens.
+[20:42] The chart has not given you a complete trade idea yet, but emotionally you are already
+[20:49] involved.
+[20:50] You start looking for reasons.
+[20:52] You zoom in, you change time frame, you draw another level, you look at social media, you
+[20:58] check what someone else is saying, you find confirmation, then you click.
+[21:03] And after you click, you try to build the plan around the trade.
+[21:08] And that's actually backwards.
+[21:10] The noise trap is when the market creates the emotion first and the trader creates the
+[21:16] justification second.
+[21:18] And that's exactly why traders can know a lot but still trade badly.
+[21:23] Knowledge doesn't protect you if the environment keeps making you impulsive.
+[21:29] In the noise trap, everything feels important.
+[21:32] Every candle has a meaning.
+[21:35] Every missed move feels like failure.
+[21:37] Every loss feels like something that needs to be repaired immediately.
+[21:43] Every win feels like permission to keep going.
+[21:46] Every opinion online becomes a possible signal.
+[21:50] Every chart looks like it has something.
+[21:53] That's not freedom.
+[21:54] That's mental prison.
+[21:57] The trader thinks he is scanning for opportunity, but really he is waiting for the next emotional
+[22:03] trigger.
+[22:05] And if he doesn't escape that, it doesn't matter how many concepts he learns, he will
+[22:10] use every concept as another excuse to trade.
+[22:14] Breakin' retest becomes an excuse.
+[22:17] Swing failure pattern becomes an excuse.
+[22:20] An order block, liquidity grab, whatever.
+[22:24] Daily levels become an excuse.
+[22:26] Moving averages become an excuse.
+[22:29] Fibonacci retracements become an excuse.
+[22:32] Trading becomes an excuse because the underlying behavior never changed.
+[22:37] So the first step is diagnosis.
+[22:40] Are you trading a plan?
+[22:42] Or are you trading noise by pretending to be smart money?
+[22:46] The second concept is the stoic lens.
+[22:49] The stoic lens is the filter we use before we let any setup matter.
+[22:55] This is very, very, very important.
+[22:57] A setup doesn't get authority just because it appears on a chart.
+[23:03] A level doesn't get authority just because price touches it.
+[23:08] A candle doesn't matter just because it moves fast.
+[23:12] The lens decides whether the information is allowed to matter.
+[23:17] The stoic lens has five parts.
+[23:20] Higher time frame context, trapped trader psychology, patience, process, and professional
+[23:27] restraint.
+[23:28] Higher time frame context tells you where you are.
+[23:32] Are you in a trend?
+[23:33] Are you in a range?
+[23:34] Are you near a meaningful high or low?
+[23:38] Maybe you are in the middle of nowhere.
+[23:40] Are you at the place where a bigger group of traders is likely watching?
+[23:45] Without context, you are just reacting to candles.
+[23:49] Trap trader psychology tells you who might be vulnerable.
+[23:54] Where did traders get long and then lose control?
+[23:58] Where did traders get short and then got squeezed?
+[24:02] Where did a breakout fail?
+[24:04] Where did the level look obvious enough to attract participation and then punish the
+[24:09] late participants?
+[24:12] The market is more than just lines and shapes and rectangles.
+[24:16] It's people, positioning, emotion, leverage, hope, and most importantly, pain.
+[24:23] Patience keeps you from forcing the setup before the market reaches territory that matters.
+[24:28] Most traders don't lose only because they are wrong.
+[24:32] They actually lose because they enter early, in the middle, without the market giving them
+[24:37] enough confirmation.
+[24:39] They want the move before the setup deserves the risk.
+[24:43] Patience tells you what happens next.
+[24:46] If this is valid, what's the entry logic?
+[24:49] What's the invalidation?
+[24:51] Where is risk defined?
+[24:53] Where is the target?
+[24:55] How will the trade be managed?
+[24:57] What will be reviewed?
+[24:59] And restraint tells you when no trade is the correct trade.
+[25:04] This is the part that hurts undisciplined traders.
+[25:07] They want the lens to tell them where to enter.
+[25:11] But a good lens will often tell you not to trade.
+[25:15] And that's actually a feature, not a bug.
+[25:18] And that's the whole point.
+[25:19] The stoic lens isn't there to create more trades.
+[25:23] It's there to create better decisions.
+[25:27] The third stoic trader concept is the no edge zone.
+[25:31] The no edge zone is any part of the chart where price may be moving, but the stoic lens
+[25:37] gives you no clear reason to risk capital.
+[25:41] That definition matters.
+[25:43] Price can move in a no edge zone.
+[25:45] Price can move aggressively in a no edge zone.
+[25:48] Price can make you feel stupid for not participating.
+[25:52] That doesn't mean you were supposed to trade it.
+[25:55] One of the hardest parts of becoming a better trader is accepting that market can move without
+[26:01] you.
+[26:02] A bad trade can work.
+[26:03] A good trade can lose.
+[26:05] You can skip the trade and the market provides an absolute banger.
+[26:09] And this is exactly why you can't judge the process by one candle.
+[26:15] You have to know your territory.
+[26:18] And the common no edge zone includes the middle of the range.
+[26:22] Messy chop around the 20 and 200 simple moving averages.
+[26:26] Low context candles far away from meaningful levels.
+[26:30] Setups with no trap side.
+[26:33] Trades with no clean invalidation.
+[26:36] Trades with no realistic target.
+[26:38] Trades you are taking because you are bored.
+[26:41] Trades you are taking because you missed the first move and want to catch the second one.
+[26:45] Trades you are taking because someone else posted a chart and now you feel behind.
+[26:51] The no edge zone gives patience a name.
+[26:54] It gives the trader a reason to stay out without feeling like he failed.
+[27:00] This is one of the biggest identity shifts.
+[27:03] The random candle chaser asks, can I trade this?
+[27:08] But the stoic trader asks, should I be playing this game?
+[27:12] Different question, different trader.
+[27:15] Now let's talk about levels.
+[27:18] Because most traders mark too many levels.
+[27:21] They mark every swing, every wick.
+[27:23] They mark every tiny support and resistance area.
+[27:27] Then they wonder why their chart feels confusing.
+[27:30] If everything is a level, nothing is a level.
+[27:34] Inside the stoic lens, levels aren't decoration.
+[27:37] They are decision territory.
+[27:40] And the very first levels, the most important levels on any chart that I care about aren't
+[27:45] one minute time frame levels.
+[27:48] They are the higher time frame levels.
+[27:50] HCOM and LCOM.
+[27:52] HCOM means highest daily close of the month.
+[27:57] LCOM means lowest daily close of the month.
+[28:01] Not the highest wick, not the lowest wick.
+[28:05] Lowest daily close of the month.
+[28:11] That distinction matters.
+[28:13] A wick can be just an emotional reaction.
+[28:17] But a real daily close shows where the market actually accepted price at the end of the
+[28:23] day.
+[28:24] For this part of my system, the daily close is the level that matters the most.
+[28:30] It filters out a lot of lower time frame noise.
+[28:34] So when I mark out HCOM and LCOM, I am not trying to mark every possible support and
+[28:40] resistance level.
+[28:42] I am trying to identify the monthly extremes that actually matter on a closing basis.
+[28:49] If you go back and mark the highest daily close and the lowest daily close from prior
+[28:54] months, you'll start noticing something.
+[28:57] Those levels often become real decision zones.
+[29:01] They can act as support or resistance.
+[29:04] They can become the place where acceptance or rejection finally becomes obvious.
+[29:10] That's why I ignore most of the other levels.
+[29:13] The market gives you infinite lines if you want them.
+[29:16] I don't want infinite lines.
+[29:18] I want the few levels that help me frame the system.
+[29:23] And here's the logic.
+[29:24] When price extends far away during the month, especially after multiple higher closes, that
+[29:31] tells you buyers have been committing higher and higher.
+[29:36] After three higher closes into a monthly extreme, you can visually see the pressure.
+[29:42] Late buyers start feeling safe.
+[29:45] They think the breakout is confirmed.
+[29:47] They think the move is obvious.
+[29:49] But if price extended into HCOM and then fails, those buyers can become trapped.
+[29:56] That's where the asymmetrical risk to reward can shift.
+[30:01] The clean move may not be chasing the last part of the long.
+[30:05] The clean move may be the reversal as trapped traders start to panic and are forced to respond.
+[30:13] Same idea on the downside.
+[30:15] If price keeps pushing lower into LCOM and sellers start pressing after multiple lower
+[30:22] closes, then a reclaim can trap the late sellers.
+[30:27] That's the trapped trader logic.
+[30:29] Not in theory, but visually.
+[30:32] Where did one side commit very hard?
+[30:35] Where did they get comfortable?
+[30:38] Where would they be wrong?
+[30:40] Where would they be forced to exit?
+[30:43] That's why HCOM and LCOM matter so much.
+[30:47] They tell you exactly where the market is stretched on the higher timeframe before you
+[30:52] ever start thinking about an intraday setup.
+[30:57] And this is also why I'm so careful with candle closures.
+[31:01] A candle close isn't automatically truth.
+[31:04] A 5-minute candle can close above a level, but on the 1-hour chart, the same move can
+[31:10] be nothing but a wick.
+[31:12] A lower timeframe close can make you feel like something confirmed.
+[31:17] While the higher timeframe chart is telling you nothing has really accepted yet.
+[31:22] So I don't trade just because a candle closed somewhere.
+[31:25] I want the higher timeframe context first.
+[31:28] I want to know whether price is near HCOM or LCOM.
+[31:33] I want to know whether the market is accepting, rejecting, extending or trapping one side.
+[31:40] And that's exactly what gives the actual overall market bias.
+[31:45] HCOM and LCOM frame the higher timeframe map.
+[31:50] And then, trapped trader logic tells me where the asymmetrical risk to reward might be.
+[31:56] And that brings me to the concept number 5.
+[32:00] Trapped traders.
+[32:01] This is the part most traders miss.
+[32:03] They look for a trading pattern while I'm looking for pressure.
+[32:08] I'm looking for the side of the market that's vulnerable.
+[32:12] That's what trapped trader logic means.
+[32:15] Markets aren't just candles.
+[32:18] Markets are fear, greed, positioning, leverage, confidence, panic and pain.
+[32:24] When price extends hard in one direction, traders start believing the move is obvious.
+[32:30] Late buyers chase strength.
+[32:33] Late sellers chase weakness.
+[32:36] People add after the move is already extended because they don't want to miss it.
+[32:41] And that's the greed.
+[32:42] FOMO, fear of missing out.
+[32:45] Even if the market fails at a meaningful higher timeframe level, that greed turns into fear.
+[32:52] The late side is now trapped.
+[32:54] They entered late.
+[32:56] They are holding and hoping from bad location.
+[33:00] Their invalidation is very close.
+[33:02] Their pain point is very obvious.
+[33:05] And that's where asymmetrical risk to reward can appear.
+[33:12] Greed doesn't mean the trade is guaranteed, but it means the risk can be defined clearly
+[33:18] while the possible forced move is way larger.
+[33:21] If price extends into h-com after multiple higher closes, I am not thinking how do I
+[33:28] scalp a tiny base hit in the middle of the move.
+[33:32] I am thinking is this where the late buyers get trapped?
+[33:37] If the answer is yes, the risk can be above the failed high or above the invalidation
+[33:43] area and the target can be back towards the structure prior close levels, the old range
+[33:50] or the next meaningful level.
+[33:52] That's a completely different kind of opportunity than chasing a one-minute candle.
+[33:59] The higher timeframe context is what gives the setup weight.
+[34:04] It's what gives the setup meaning.
+[34:06] It lets me filter harder.
+[34:08] It lets me ignore most trades.
+[34:11] It lets me wait for the few setups where the trapped side, the level, the invalidation
+[34:17] and the target all make sense together.
+[34:21] That's what I mean by looking for asymmetrical risk opportunities.
+[34:25] I'm not looking for more trades.
+[34:28] I'm looking for better selected trades.
+[34:32] And to be clear, sometimes the market keeps going.
+[34:36] Sometimes price extends into HCOM holds and keeps grinding higher.
+[34:41] And that's completely fine.
+[34:43] I don't need to fight it.
+[34:44] I don't need to predict the top.
+[34:47] I only care about the setup.
+[34:50] If the failure doesn't happen, there is no trade.
+[34:53] If the trapped side never appears, there is no trade.
+[34:57] If the risk to reward isn't there, there is no trade.
+[35:02] We don't care what the market does.
+[35:05] We care whether our setup is there.
+[35:09] That's how you stop chasing every move.
+[35:11] You stop asking where price is going and you start asking is my setup here?
+[35:18] That's the difference between studying trading and trading a system.
+[35:24] Concept number six, PDH, PDL, PDC.
+[35:29] Once the monthly map is clear, then I come down into the previous day levels.
+[35:35] Previous day high, previous day low, previous day close.
+[35:39] These aren't just random lines either.
+[35:43] They tell you where yesterday's market made decisions.
+[35:47] Those levels can help frame where the market is stretching, reclaiming, failing, breaking,
+[35:52] retesting or trapping one side.
+[35:56] The point isn't that every touch of a daily level is a trade.
+[36:00] That's how traders turn useful concepts into noise.
+[36:04] The point is the daily levels can help you ask better questions.
+[36:09] Where the traders likely positioned?
+[36:12] Where would a breakout attract late buyers?
+[36:16] Where would a breakout attract late sellers?
+[36:19] Where could a failure create trapped traders?
+[36:23] Where would reclaiming a level change the read?
+[36:26] Where's the market relative to yesterday's important territory?
+[36:32] This is the order that matters.
+[36:34] Monthly extremes give the higher timeframe bias.
+[36:38] Previous day levels frame the day.
+[36:40] The 20 and 200 SMA logic help with session bias.
+[36:45] Then the setup has to form.
+[36:48] That's how a level becomes part of a process.
+[36:52] It gives context.
+[36:53] It gives territory.
+[36:55] It gives a place to wait.
+[36:57] But it doesn't give permission by itself.
+[37:00] The level isn't the trade.
+[37:02] The level is where the market may offer information.
+[37:06] Now that we have the structural framework, HCOM and LCOM give me the monthly extremes,
+[37:12] PDH, PDL, PDC give me the previous day structure.
+[37:16] Together those levels create a higher timeframe map.
+[37:20] They tell me where price is stretched, where price is accepting, where price is rejecting,
+[37:26] where one side may be trapped, where is the risk may be worth considering.
+[37:32] But the levels are still not enough.
+[37:35] You also need to understand how price behaves around those levels.
+[37:40] That's where market structure comes in.
+[37:42] And market structure isn't as complicated as people make it.
+[37:47] Price consolidates, then it expands, then it consolidates again, then it expands again.
+[37:53] That's the basic loop.
+[37:55] Consolidation, expansion, consolidation, expansion.
+[38:00] Our job isn't to trade every candle inside that loop.
+[38:04] Our job is to know where we are in the loop.
+[38:08] If price is consolidating, the job is usually patience, not forcing trades, not chopping
+[38:14] yourself up, not taking a trade just because the chart is moving.
+[38:20] Some days are expansion days and some days are trend days.
+[38:24] Some days are clean.
+[38:26] Some days are just chopping around.
+[38:29] And on the choppy days, the best trade may be walking away.
+[38:34] Sounds very simple, but for most traders, it's one of the hardest skills because walking
+[38:39] away feels like doing nothing.
+[38:42] But walking away is often the thing that protects the trader from tilt.
+[38:47] The best way to not tilt is to walk away.
+[38:51] If the structure isn't clean, walk away.
+[38:53] If the risk to reward isn't clean, walk away.
+[38:57] If the setup isn't there, walk away.
+[39:00] If you already broken your rules, just walk away.
+[39:04] And here's how you become more level-headed.
+[39:07] Not by pretending you have no emotions, but actually having rules that stop emotion from
+[39:14] taking control.
+[39:16] And you have to slowly get adjusted to the feeling of taking risk.
+[39:21] Start as small as possible.
+[39:23] Trade small enough that you can actually follow the plan.
+[39:27] Then slowly increase risk only as your process becomes more consistent.
+[39:34] Because the real work isn't executing the exact same trade model every single time like
+[39:39] a robot.
+[39:41] The real work is generating a trade idea, defining the risk, waiting for the setup,
+[39:48] executing the idea, managing the trade according to your rules and reviewing the decision after
+[39:54] the trade is done.
+[39:56] That's the refinement loop.
+[39:58] Idea, execution, review, refinement.
+[40:02] Here's how your trading strategy becomes your own.
+[40:05] People add hundred names to price action.
+[40:08] Liquidity sweep, fair value gap, order block, breaker, whatever the label is.
+[40:14] Price is still moving through the same basic cycle.
+[40:17] Compression, acceptance, rejection, continuation, reversal.
+[40:23] And it's simply consolidation, expansion, consolidation.
+[40:27] I don't care about collecting more names.
+[40:29] I care about whether there is a clean risk to reward.
+[40:33] I care about whether one side is dropped.
+[40:36] I care about whether the setup belongs inside my system.
+[40:41] That's the real framework.
+[40:43] And now we can talk about setups.
+[40:46] And I want to make this very simple.
+[40:49] There are only two trading setups I care about.
+[40:52] This is what price does every single time, every day on any chart, on any timeframes.
+[40:59] There are only two trading setups.
+[41:01] Keep it simple.
+[41:03] Break and retest or swing failure pattern.
+[41:07] That's it.
+[41:08] Not 50 setups, not a new name every week, not a different pattern for every candle.
+[41:14] Two setups.
+[41:17] The reason this matters is because we just talked about market structure.
+[41:22] Price consolidates, then price expands, then it consolidates again, then it expands again.
+[41:28] So the question is how do we participate when price is building pressure inside consolidation
+[41:35] before the next expansion?
+[41:37] We do it through one of two setups.
+[41:40] Our goal is to enter from the consolidation phase and not to chase after the expansion
+[41:47] is already obvious.
+[41:48] Either price breaks a meaningful level and retest it or price sweeps a level, fails and
+[41:56] traps the laid side.
+[41:58] That's the framework.
+[42:00] Break and retest is the continuation setup.
+[42:03] Price breaks a meaningful level, then price comes back to test that level.
+[42:08] If the retest holds, the idea is that the market may be accepting the new side of the
+[42:14] level, but the level is still not the trade.
+[42:18] The retest has to happen in the right context, at the right level, with clean invalidation,
+[42:25] with enough room to target, with risk to reward that makes sense.
+[42:31] Swing failure pattern is the failure setup.
+[42:34] And it's the same thing as break and retest.
+[42:37] I also call it sweep and retest because we are sweeping the level and retesting it.
+[42:44] Swing failure pattern and sweep and retest is the same thing.
+[42:47] I just trying to keep it simple.
+[42:49] So for the sweep and retest, price takes a prior swing high or low, breakout buyers
+[42:55] or breakout sellers enter late, stops may be triggered, liquidity gets taken, then price
+[43:02] fails back through the level, now the laid side can be trapped.
+[43:07] That's the basic idea behind these setups.
+[43:10] And don't worry, we're going to put this all together and I'm going to show you examples
+[43:14] later in this video.
+[43:16] But when I'm watching consolidation, I'm not asking can I find a random entry.
+[43:21] I'm asking is this consolidation setting up a break and retest or is this consolidation
+[43:28] setting up a swing failure pattern?
+[43:31] Those are two paths.
+[43:33] If neither path is forming, there is no setup.
+[43:36] If the level isn't meaningful, there is no setup.
+[43:39] If the invalidation isn't clean, there is no setup.
+[43:44] If the target doesn't justify the risk, there is no setup.
+[43:48] If price is just chopping around and making you emotional, there is no setup.
+[43:55] Walk away.
+[43:57] And this is exactly how you keep the system simple.
+[44:01] And believe it or not, this is exactly how you stay consistent as a trader and you develop
+[44:07] an actual execution edge because you know how to stay away.
+[44:13] See most traders want the concept to make the decision for them.
+[44:18] It won't.
+[44:19] Break and retest isn't automatically a trade.
+[44:22] SFP isn't automatically a trade.
+[44:24] The process decides.
+[44:26] It's all about your process.
+[44:29] The stoic lens decides whether the setup deserves the risk.
+[44:34] Now let's talk about 20 and 200 simple moving averages.
+[44:39] Again, these are tools.
+[44:41] They aren't magic.
+[44:42] The 20 and 200 SMA help with session bias.
+[44:47] And mainly I use them on the 5-minute chart.
+[44:49] I no longer look at the 1-minute chart and I only focus on 5-minute.
+[44:55] I find it way more peaceful and keeps you patient as a trader.
+[44:59] HCOM and LCOM give me the higher timeframe map.
+[45:03] PDH, PDL, PDC frame the day.
+[45:06] Simplified market structure tells me whether price is consolidating or expanding around
+[45:11] that map.
+[45:12] The 20 and 200 SMA help me read the session environment inside that map.
+[45:19] Is price about the moving averages and accepting?
+[45:23] Is price below them and failing?
+[45:25] Is price chopping through them and telling me this is a no-edge zone?
+[45:30] That's how I use them.
+[45:32] They can help you see whether the market is extended, consolidating, reclaiming structure
+[45:38] or chopping in a place where patience is required.
+[45:42] But a moving average isn't a trade by itself.
+[45:45] If you use it like a button, you'll get hurt.
+[45:48] The question isn't did price touch the 20 SMA.
+[45:52] The question is what's the broader context?
+[45:56] Is the market trending?
+[45:58] Is price respecting dynamic structure?
+[46:01] Is the 20 SMA aligned with the territory you already care about?
+[46:06] Is the 200 showing a larger directional filter?
+[46:09] Are the moving averages actually creating clarity or are they becoming another reason
+[46:15] to force a trade?
+[46:17] And I have more detailed video about 20 and 200 SMA bias.
+[46:21] You can find it on this YouTube channel.
+[46:24] If you want more information about this concept, I will link those YouTube videos down below
+[46:30] in the description.
+[46:32] But the next concept that I want to talk about is my proprietary concept that I have personally
+[46:38] developed throughout my trading career.
+[46:42] And this is one of the most important patterns.
+[46:45] This is the one of the most common patterns that I see price doing every single day on
+[46:51] any timeframe, every single time.
+[46:54] This is the sequence, the swing breakout sequence, SBS.
+[47:00] This is one of the patterns I keep coming back to because it forces the right order
+[47:04] of thinking.
+[47:06] Not entry first, but the context first.
+[47:09] Monthly extremes first, previous day level second, session bias after that, then the
+[47:15] setup, then the entry model.
+[47:18] And that entry model is the swing breakout sequence.
+[47:22] And SBS is more than just a candle pattern.
+[47:25] It's a sequence.
+[47:27] And there are two SBS models.
+[47:30] There is SBS model one, which is simply looks like break and retest of the resistance that
+[47:37] becoming support.
+[47:39] And this is one of the most common market structure behaviors.
+[47:43] This is how the price moves around the support and resistance levels.
+[47:49] And the sequence is the breakout.
+[47:53] First people that bought the breakout price creates a new high and then returns to liquidate
+[48:00] the first people, the first people that bought this breakout after this liquidation.
+[48:07] The price usually creates a double bottom.
+[48:10] You can have a lower low double bottom or you can have a lower high double bottom.
+[48:16] Don't try to time which one is it, but enter on this breakout over here because the price
+[48:23] is fractal.
+[48:25] So just like we have a break and retest based on this resistance that turn support.
+[48:32] Now we have the same break and retest based on this resistance that become support.
+[48:41] And that's the SBS model one.
+[48:43] The SBS is the sweep of the number two.
+[48:48] And the best entry for the SBS is buying this breakout.
+[48:54] You can buy the breakout or break and retest.
+[48:57] Sometimes you don't get the retest.
+[48:59] Sometimes the price just rockets.
+[49:02] But this is the sequence of price and I call it swing breakout sequence.
+[49:08] This is the SBS model one where you have break and retest on top of the range.
+[49:15] Now SBS model two is a little bit more complicated because now instead of retesting on top of
+[49:24] the range, the price sweeps down below into the move origin.
+[49:30] And yet again, I talk about move origin and S&D responsible here.
+[49:35] I talk about them on this YouTube channel.
+[49:38] But the difference between SBS model one and SBS model two is that the SBS model two
+[49:45] has a deeper retracement into this move origin.
+[49:50] This is what you can also call the order block.
+[49:53] This is the last move down before the price goes higher.
+[49:59] So this is also an SBS in here.
+[50:02] We have the breakout and the retest.
+[50:05] This is the first buyers that bought this low.
+[50:10] Price breaks out.
+[50:11] So now these buyers feel comfortable.
+[50:13] These buyers are trapped traders.
+[50:16] This is the whole premise of SBS.
+[50:19] We are hunting the trapped traders.
+[50:22] And you can take the short down to the number two, down to this number two.
+[50:27] But you got to keep in mind that SBS model one might be here.
+[50:32] So if this level holds, it's likely to be SBS model one.
+[50:38] But if this level fails, you have SBS model two.
+[50:43] And here's the full schematic, the full sequence.
+[50:47] You might have SBS model one on top of the range.
+[50:51] But then after SBS model one completes, it creates a bigger SBS model two.
+[50:58] And price comes back all the way down here for these first buyers.
+[51:03] And that's the swing breakout sequence, the SBS.
+[51:07] If there is a holy grail of price action, this is it.
+[51:11] This is the model that allowed me to become profitable.
+[51:15] I used to scalp with this model and now I'm applying it on the higher timeframes.
+[51:20] Moving on to the concept number 11, fib geometry.
+[51:25] This is also the concept that I have created from the understanding of the Fibonacci sequence.
+[51:32] Fib geometry helps me measure the target and asymmetrical risk to reward opportunity.
+[51:39] And there is video on this YouTube channel also explaining in depth how you can use this
+[51:45] model as a mechanical trading system.
+[51:48] But if you combine this with the higher timeframe structure and levels, this becomes dangerous.
+[51:54] With the proper risk management, you can capitalize on the asymmetrical risk to reward trades.
+[52:01] I'm not going to dive deep into how to use the fib geometry, but we are using it for the targets.
+[52:07] So we're using fib retracements to measure the pullbacks.
+[52:12] So there is a first pullback, second pullback, just like here, first pullback, second pullback.
+[52:17] We measuring the first and second pullback after reversal.
+[52:22] So because we don't know the first pullback might be a fake out, we're looking for the
+[52:27] second pullback.
+[52:29] And once the second pullback occurs, then that's more likely that price actually reversed.
+[52:35] Then we use the trend extension tool to measure this very first pullback in order to give
+[52:41] us these targets.
+[52:43] And we have a target of 2618, 423, and there is even a higher target of 686.
+[52:52] Here's another schematic if you want to take a screenshot, but you can also find this in
+[52:56] the video on this YouTube channel, link in the description down below.
+[53:00] All right, let's put this all together on the charts.
+[53:04] And on the left, I'm going to have daily chart and on the right, I'm going to have five minute
+[53:09] chart.
+[53:10] So this is what happened on Russell, RTY symbol.
+[53:15] This is the futures for the Russell 2000.
+[53:19] These are the small caps.
+[53:20] But the chart is the chart.
+[53:22] It moves, it breaks out, it retests, and this is what exactly happened on the higher time
+[53:28] frame.
+[53:29] This is break and retest.
+[53:32] So you can go back and look at the chart.
+[53:35] This was a all-time high breakout and this was a retest.
+[53:40] So when the price came back down into the January H-com, this was the resistance that
+[53:47] now served as support.
+[53:50] And so what happened here on this day, you have the day starting over here from the Asia
+[53:55] session.
+[53:56] This is your previous daily close.
+[53:59] This is your previous daily low.
+[54:02] And what have you noticed?
+[54:04] After market opens up, it drives down and creates a sweep with a test.
+[54:11] This is your sweep and retest.
+[54:14] This is the swing failure pattern.
+[54:17] 3 a.m. London session opens up, price trades higher.
+[54:22] This could be your entry.
+[54:24] After this over here, this is a structural break and retest on the lower time frames.
+[54:30] But wait, actually, we can notice that 20 and 200 SMA is not agreeing with our entry.
+[54:37] The price is below moving averages.
+[54:40] So if we want to be careful, we wait for the price to get back about moving averages.
+[54:46] We're placing the stop loss in the logical place, which is behind structure.
+[54:52] So you can see you have structure going up.
+[54:56] This is also structure.
+[54:58] This low, by the way, over here never swept these lows.
+[55:02] So let's say you entered over here during the London session.
+[55:06] Let's say you entered here when the price started to close back about 20, 200 SMA.
+[55:12] And all you have to do now is just hold.
+[55:15] You hold about 20 and 200 SMA.
+[55:20] And as you can see, price trades into the New York session and eventually at 930 market
+[55:25] open, it has a breakout and it has a retest.
+[55:30] There is actually a small SBS sequence over here on that maybe on the one minute chart.
+[55:37] And also, if we measure this pullback from this low where the move started to the high,
+[55:43] we will get the retracement.
+[55:45] We will get the Fibonacci retracement of 50% and 618.
+[55:51] And this is exactly the trade that I took.
+[55:54] And I took it right after this retracement and I was able to hold this trade.
+[55:59] And look at this timing.
+[56:01] You got 930 market open.
+[56:03] You have a pullback.
+[56:04] 10 a.m. is a very popular time for the New York session rotation.
+[56:10] So that's what you see over here and this was exactly the break and retest.
+[56:15] This was exactly the same setup that is happening on higher timeframes because there are only
+[56:23] two setups, break and retest and swing failure pattern.
+[56:28] So you can see how this is a break and retest on higher time frame but this over here is
+[56:33] a swing failure pattern.
+[56:36] So when the price opens up, dives and sweeps and by the time you open your chart, let's
+[56:41] say you are in New York, you shouldn't be looking for the trade back or whatever.
+[56:47] You should be just following the moving averages.
+[56:50] I made it very simple.
+[56:53] Consolidation leads to expansion.
+[56:55] That's all you really need.
+[56:57] And we're trying to position ourselves during the consolidation.
+[57:01] So this is the consolidation that you want to see leading into the New York open, leading
+[57:08] into the 3 a.m. London session.
+[57:11] And notice, right after the London session opened, it provides a swing failure pattern
+[57:18] setup.
+[57:19] After the New York opens, it provides break and retest setup.
+[57:25] So this should tell you something about the best timing.
+[57:28] Here's a setup on gold.
+[57:30] This is when we had that generational run up on gold and everybody was so excited but
+[57:36] then the price printed a first red day.
+[57:40] So the first red day by itself is very meaningful because this is the first day after this big
+[57:47] run up where this candle got liquidated.
+[57:50] So these are trap traders that got liquidated and anybody who's buying after the first red
+[57:57] danger because on the following day we had a beautiful setup.
+[58:03] This was the setup during the London session.
+[58:06] There's a little pull back in there.
+[58:09] There's a break and retest of the range but then the price comes back and sweeps the number
+[58:15] two.
+[58:16] So not the best setup for the London session but we got a good setup during the 930 open.
+[58:22] Look at that manipulation, right?
+[58:25] During 930 open, the bias is short because we are below 200 simple moving averages and
+[58:32] these are also the higher time frame fib extensions.
+[58:37] So I am targeting lower.
+[58:39] I'm targeting the 686 here.
+[58:42] This is where you can't see it on the chart here but that's the final fib geometry extension.
+[58:48] And also based on this setup, this is the first pull back.
+[58:52] We measure the first pull back and we get these projections and look at this precision,
+[58:59] how the price reacts from these levels.
+[59:02] These are not just random levels and yet again because we know where we are within the higher
+[59:08] time frame structure, we know that we are rejecting from this highest close of the month.
+[59:15] There it is over here.
+[59:16] We never even tested it, right?
+[59:20] But we don't try to argue with price.
+[59:22] We don't try to go in on this trade and try to go long.
+[59:27] The bias is short and you need to trust the moving averages.
+[59:32] That's why they're there.
+[59:34] It gives you the session bias right away.
+[59:37] And because we are breaking below the previous daily close which is the same as this February
+[59:42] HCOM, now the daily levels coming into play.
+[59:46] And then you have the setup.
+[59:48] What is the setup?
+[59:49] This is a break and retest.
+[59:52] Well there is over here, break and retest of the PDC.
+[59:56] But ultimately this is a swing failure pattern on the higher time frame.
+[01:00:01] Then you drive into the session.
+[01:00:04] You have the 930 open.
+[01:00:06] This is a pull back.
+[01:00:08] Over here there is a little break and retest.
+[01:00:11] This sweep over here during the late London session, this was a swing failure pattern.
+[01:00:18] There are only two setups and they are happening all over the place on every time frame.
+[01:00:23] But you don't just take any setup.
+[01:00:25] You take the setups that line up with the higher time frame bias.
+[01:00:30] Because if we think about this chart, who are the traders that are trapped?
+[01:00:35] The shorts are not trapped over here.
+[01:00:38] It's the longs that are entering late.
+[01:00:42] They get stopped out and then lower traders panic.
+[01:00:45] They panic, panic, panic.
+[01:00:48] Everybody panics and that's what creates the move.
+[01:00:51] And that's the exact move that we are after.
+[01:00:54] Like I said, I'm not interested in chasing one minute candles.
+[01:00:59] I'm interested in asymmetrical risk to reward opportunities.
+[01:01:04] The opportunities that just sell off.
+[01:01:07] They don't come back and they'll stop you out because the bias is there.
+[01:01:13] We are trying to trade a trending day and trying to stay out of the choppy days, of
+[01:01:19] the consolidation days.
+[01:01:22] This was another gold setup after it sold off.
+[01:01:26] It created lowest close of the month.
+[01:01:29] This was February lowest close of the month.
+[01:01:32] And then it came back and retested that lowest close of the month.
+[01:01:37] So this is the trade candle that I'm showing you right now.
+[01:01:42] You have February lowest close.
+[01:01:44] Asian session opens up, retesting, breaking about 2200 SMA.
+[01:01:51] And look at this.
+[01:01:52] This is a break and retest, right?
+[01:01:56] The resistance becomes support.
+[01:01:59] And there is the 3 a.m. London session.
+[01:02:02] What is this?
+[01:02:04] A reversal, right?
+[01:02:06] This is a simple market structure reversal, change of character, whatever you want to
+[01:02:12] call it.
+[01:02:13] It doesn't matter.
+[01:02:14] All it is is a swing failure pattern.
+[01:02:16] And then here it was a break and retest.
+[01:02:18] And then here at 930, it's a break and retest.
+[01:02:23] And also SBS.
+[01:02:26] And also a retracement into the 618.
+[01:02:31] And also there is the 100% extension based on the first pullback after reversal, right?
+[01:02:38] We measure the first pullback.
+[01:02:40] This is the fib geometry.
+[01:02:42] 100% to 618 hits right after the hours.
+[01:02:47] Beautiful.
+[01:02:48] And all you have to do is just enter long and hold into the close.
+[01:02:53] Absolutely beautiful stuff.
+[01:02:55] Look at that previous daily close.
+[01:02:58] The levels line up.
+[01:02:59] Everything lines up.
+[01:03:01] Previous daily low, previous daily close gets swept and price trades the opposite way
+[01:03:07] from the LCOM.
+[01:03:10] Monthly extremes, daily levels, 2200 SMA, session bias, SBS, fib retracements, fib projections,
+[01:03:21] all comes into one cohesive trading system.
+[01:03:26] Here's beautiful trade on Bitcoin.
+[01:03:28] Yet again, highest close of the month.
+[01:03:30] The month just opened.
+[01:03:32] This green candle couldn't break out and we have the next candle rejecting from the HCOM.
+[01:03:39] You can see how the price is staying below 20 and 200 simple moving averages.
+[01:03:45] You have a sweep over here.
+[01:03:47] This is beautiful swing failure pattern during the 4am London session.
+[01:03:54] So this breaks below moving averages.
+[01:03:57] It's already telling you that it wants to go short.
+[01:04:00] And it consolidates again.
+[01:04:04] Consolidation leads to expansion.
+[01:04:06] It's all the same thing.
+[01:04:08] But when you're looking for the setup and you don't see consolidation, that's the time
+[01:04:13] where you walk away.
+[01:04:15] Because if the price already extending, then you are chasing.
+[01:04:19] We want to enter during consolidation.
+[01:04:23] Look at this, 9.30am breakdown and then 10am rotation here creates SBS.
+[01:04:32] And this was a break and retest of this support that turned resistance, right?
+[01:04:40] It's all the same thing, guys.
+[01:04:42] And it's so funny to me when people accuse me of hopping the strategies.
+[01:04:46] I've been refining the same thing over and over for years.
+[01:04:51] This is just higher timeframe.
+[01:04:53] But when you put these concepts together and when they align for the session, that's when
+[01:04:59] the real magic happens.
+[01:05:01] That's when you can capture this type of movement.
+[01:05:04] Truly asymmetrical trades, right?
+[01:05:08] And this on the higher timeframe wasn't that big of a deal.
+[01:05:11] This was just from previous daily close to the previous daily low.
+[01:05:16] That was the trade.
+[01:05:18] Price sells off and here's the lowest close of the month.
+[01:05:22] Here's the swing failure pattern.
+[01:05:24] Look at the 5-minute chart.
+[01:05:26] Asia opens up, sweeps, creates SBS, price gets above moving averages.
+[01:05:32] There is your break and retest during 9.30 open and price extends.
+[01:05:38] Beautiful setup.
+[01:05:39] There is your consolidation, right?
+[01:05:42] Consolidation leads to expansion.
+[01:05:47] Here's NASDAQ.
+[01:05:48] Beginning of the month, price does the sweep.
+[01:05:50] Yet again, consolidation leads to expansion.
+[01:05:55] If we measure this first pullback after this SBS, with the retracement into the 618, 50%
+[01:06:02] retracement, you have FIP projections, 686, final target, and then it reverses and closes.
+[01:06:10] And hopefully you can notice that I'm showing you the same behavior in price.
+[01:06:15] These are the same setups.
+[01:06:18] Consolidation leading to expansion.
+[01:06:20] You will have some kind of SBS.
+[01:06:22] It's not going to look the same, but the logic is the same.
+[01:06:27] Consolidation leads to expansion.
+[01:06:29] Price needs to be below 220 SMA.
+[01:06:34] If your bias is short, that's what you do.
+[01:06:37] You wait for the price to get below moving averages and then you short at 9.30.
+[01:06:43] Here's another NASDAQ chart after it sold off, right?
+[01:06:46] You have three lower closes.
+[01:06:49] Price extended into the LCOM.
+[01:06:52] Asia opens up, sweeps, right?
+[01:06:56] Swing failure parent first, then you have a break and retest.
+[01:07:01] Beautiful.
+[01:07:02] Price gets back about 2200 SMA.
+[01:07:06] Consolidation leads to expansion.
+[01:07:10] Consolidation leads to expansion.
+[01:07:13] Not every day is going to be clean, right?
+[01:07:15] This wasn't a really clean day, but 9.30 manipulation here, 10 AM rotation, and you can just place
+[01:07:24] your stop loss below structure and ride this into the close.
+[01:07:29] Also fib geometry.
+[01:07:30] We measure the first pullback.
+[01:07:32] There is the first 100%.
+[01:07:34] This is your second pullback where we enter.
+[01:07:37] I didn't measure this, but there is probably 50% retracement.
+[01:07:42] And then you get the first target 2618 and the second target 423.
+[01:07:49] This is what real precision looks like.
+[01:07:52] And it's all the same thing.
+[01:07:55] Here's another NASDAQ setup from the HCOM.
+[01:07:58] You can see price bouncing from the February HCOM back to the HCOM.
+[01:08:03] This is where everybody was crying about NASDAQ consolidating.
+[01:08:07] But if you had HCOM, LCOM on your chart, you could have taken this trade.
+[01:08:12] 3 AM, right?
+[01:08:14] You got consolidation, breakdown, breaks down, and 9.30 has a nice SBS sweep and sells off
+[01:08:23] into the close.
+[01:08:25] And because this was a rejection from HCOM, you can hold it into the close.
+[01:08:33] There is more trust to hold these moves instead of just, you know, maybe you could have taken
+[01:08:39] this sweep and then target the buy side liquidity and that's it.
+[01:08:44] Your trade is done.
+[01:08:45] But if you just looked at the rejection from HCOM, you would be holding into the close
+[01:08:51] and not giving up on the perfect setup.
+[01:08:55] And also this one over here, this was a rejection from the February HCOM.
+[01:09:02] A lot of people were bullish here.
+[01:09:03] A lot of people were trying to buy this, but I just saw multiple rejections from the February
+[01:09:09] HCOM and you can see there is a PDC, PDL, there is a consolidation, big SBS in there.
+[01:09:17] There's a sweep.
+[01:09:19] But more importantly, I trade 9.30, 10 o'clock.
+[01:09:23] This wasn't a pretty setup, but the logic was there.
+[01:09:27] You got the rejection from the LCOM, you got the rejection from the February LCOM.
+[01:09:33] It was just bearish.
+[01:09:34] So while a lot of people might be getting faked out here trying to buy this up, I saw
+[01:09:42] rejection.
+[01:09:43] So this is the trade.
+[01:09:44] There is your 10 o'clock rotation, price gets back below 20 SMA and you can start shorting
+[01:09:51] this.
+[01:09:52] This stop loss goes about here and you hold it into the close.
+[01:09:57] Of course, these setups are not going to be perfect.
+[01:10:00] They all going to look a little bit different, but the logic stays the same.
+[01:10:06] We are targeting trapped traders, vulnerable traders, traders who are offside, traders
+[01:10:13] who are too comfortable.
+[01:10:15] That's the whole point of the Stoic Edge system.
+[01:10:18] All of these Stoic Trader concepts are just tools.
+[01:10:22] They can help you see whether the market is extended, consolidating, reclaiming structure
+[01:10:27] or chopping in place where patience is required.
+[01:10:31] But a moving average isn't a trade by itself.
+[01:10:35] If you use it like a button, you'll get hurt.
+[01:10:38] The question isn't did price touch the 20 SMA.
+[01:10:42] The question is, what's the broader context?
+[01:10:45] Is the market trending?
+[01:10:47] Is price respecting dynamic structure?
+[01:10:50] Is the 20 SMA aligned with the territory you already care about?
+[01:10:55] Is the 200 showing a larger directional filter?
+[01:10:58] Are the moving averages helping clarity or are they becoming another reason to force
+[01:11:04] a trade?
+[01:11:05] FIPS can help you think about pullback structure, continuation and trader logic.
+[01:11:11] They can help you define where a retracement might become interesting and where extension
+[01:11:17] targets might be reasonable.
+[01:11:19] But FIPS aren't prophecy.
+[01:11:21] They are measurement tools.
+[01:11:23] They help frame risk and target.
+[01:11:26] They don't remove uncertainty.
+[01:11:28] This is the pattern you should notice in everything I'm teaching.
+[01:11:32] The tool is never enough by itself.
+[01:11:35] The tool only becomes useful when it's inside a lens, a system and a review process.
+[01:11:44] That's why I don't care about hiding concepts.
+[01:11:47] I am sharing all of my concepts for free and I've been doing that since I started trading.
+[01:11:53] I share my progress as a trader.
+[01:11:56] I share my development of my own trading system and trying to teach you what helped me on
+[01:12:02] my trading journey.
+[01:12:03] That's why I don't care about giving away concepts because I know without the right
+[01:12:08] implementations, concepts are going to be useless.
+[01:12:12] The two setups, break and reater, swing failure pattern, SBS, HCOM, LCOM, PDH, PDL, PDC,
+[01:12:21] market structure, 2200 SMA, FIP geometry, no edge zone, stoic lens, protocol.
+[01:12:28] Here they are, all of the concepts that I use and now you have them for free.
+[01:12:34] But the real question is, can you implement them without turning them into excuses for
+[01:12:39] impulsive trades?
+[01:12:41] And that's the real work that nobody wants to talk about.
+[01:12:46] Now I want to make a distinction that can change how you think about trading.
+[01:12:51] Strategy, system, protocol.
+[01:12:54] Most traders use these words like they are the same.
+[01:12:57] Well, they are not.
+[01:12:59] A strategy is the visible tool.
+[01:13:01] It's the setup, break and reater, swing failure pattern, FIP pullback, moving average trend,
+[01:13:07] daily level reclaim, those are strategy or concepts.
+[01:13:12] They tell you what might work.
+[01:13:15] But a strategy doesn't automatically tell you when to use it, when to ignore it, what
+[01:13:20] market condition it belongs in, how much risk it deserves, where it's invalidated, how it
+[01:13:26] should be managed or whether it fits your life.
+[01:13:30] That's actually the job of the system.
+[01:13:32] A system is the operating environment around the strategy.
+[01:13:37] The system answers what markets do I trade, what time frame do I focus on, what conditions
+[01:13:43] am I looking for, what levels matter, what setups am I allowed to take, what makes a
+[01:13:50] setup invalid, what's my risk per trade, what's my maximum number of trades, what conditions
+[01:13:56] make me stop, how do I manage winners, how do I manage losers, what do I review, what
+[01:14:03] do I track, what do I improve?
+[01:14:06] Now the protocol is the loop that keeps that system alive.
+[01:14:11] And the Stoic Trader Protocol is very simple.
+[01:14:15] Generate trade ideas, commit to trade ideas, execute trade ideas, manage your trade and
+[01:14:22] then review the process.
+[01:14:25] Generate means you build the idea before your trade.
+[01:14:30] What's the market?
+[01:14:31] What's the setup?
+[01:14:32] What's the context?
+[01:14:33] Is there a asymmetrical risk to reward?
+[01:14:36] Why does this setup deserve my attention?
+[01:14:40] Committing to trade idea means you define the plan before emotions enters.
+[01:14:46] You want to see the price doing what you thought it will do.
+[01:14:51] You want to see the price confirming your entry.
+[01:14:54] Invalidation, risk, target, management, no improvising after the candle starts moving.
+[01:15:02] Manage means you follow that plan.
+[01:15:05] Not your mood, not the feeling, not the panic, your plan that you made before you entered
+[01:15:11] the trade.
+[01:15:13] Manage means you handle the trade according to your rules.
+[01:15:17] Not according to fear or greed or revenge, but the rules that again you pre-define before
+[01:15:25] you enter the trade.
+[01:15:27] And finally, review means you study the decision after the outcome.
+[01:15:32] And very important, you're not studying the outcome, you're studying the decision.
+[01:15:37] Did you follow the process?
+[01:15:39] Was the setup valid?
+[01:15:41] Was the risk correct?
+[01:15:43] Was the management clean?
+[01:15:45] What needs to change?
+[01:15:47] What needs to stay?
+[01:15:49] And this is very, very important.
+[01:15:53] This review doesn't mean staring at the chart after the fact and inventing reasons why price
+[01:15:58] moved.
+[01:16:00] Most traders do that.
+[01:16:01] They win, then they look for the liquidity sweep that proves they were a genius.
+[01:16:07] They lose, then they look for the candle, wick, imbalance, order block or hidden reason
+[01:16:13] that explains exactly why the market betrayed them.
+[01:16:17] That's not a review, that's storytelling.
+[01:16:21] Price action repeats the same broad behavior over and over and over and over and over and
+[01:16:28] over again.
+[01:16:29] Consolidation, expansion, consolidation again, expansion again.
+[01:16:34] The chart is always going to give you labels, reasons, names if you go hunting for them
+[01:16:40] after the fact.
+[01:16:42] Real review is different.
+[01:16:44] You review yourself, you review the process, you review the behavior.
+[01:16:50] Same standard.
+[01:17:20] And that's the real review that actually matters.
+[01:17:24] Not whether you can find a new name for what price did, whether you can improve the action
+[01:17:31] of trading, the action of executing your trade ideas.
+[01:17:39] That's how the trader improves.
+[01:17:42] Not by worshipping one win, not by hating himself after one loss, but by reviewing the
+[01:17:49] process over a series of decisions.
+[01:17:54] This is the difference between someone who knows trading language and someone who's building
+[01:18:00] a professional trading process that they can follow day in and day out following the same
+[01:18:08] habits, the same schedule and the same routine.
+[01:18:13] That's what makes the real difference for the trader.
+[01:18:16] Now you know all the concepts, so let's turn this into something practical.
+[01:18:22] If you want to build your own execution system, don't start with 50 setups.
+[01:18:28] Start with constraints.
+[01:18:30] A system without constraints is just a wish.
+[01:18:34] Step one, define your market.
+[01:18:36] Are you trading stocks, crypto, futures, forex, options, a mix of both or two or three?
+[01:18:42] You don't need to trade everything.
+[01:18:45] The more you trade, the more noise you invite.
+[01:18:48] Step number two, define your timeframe.
+[01:18:51] Are you trying to scalp day trade, swing trade, position trade?
+[01:18:56] You can learn from multiple timeframes, but your system needs a primary operating lane.
+[01:19:01] If your timeframe changes every time you are emotional, you don't have a timeframe.
+[01:19:07] You simply have a coping mechanism.
+[01:19:09] Step number three, define your territory.
+[01:19:13] Where are you allowed to care?
+[01:19:15] H-com or L-com, previous day levels, higher timeframe breakouts, retests, sweeps of meaningful
+[01:19:21] highs or lows, pullbacks into structure, clean moving average alignment.
+[01:19:26] If price isn't in your territory, you wait.
+[01:19:30] Step number four, define your setup.
+[01:19:33] Pick one setup to study first, break and retest or swing failure pattern, then define the
+[01:19:39] entry you use to execute it.
+[01:19:42] For me and many others, we use SBS that helps structure the entry sequence, but do not
+[01:19:48] start by trying to trade everything.
+[01:19:51] Mustery comes from repetition.
+[01:19:54] Step five, define invalidation.
+[01:19:57] Before you enter, you need to know where the idea is wrong.
+[01:20:02] If you don't know where the idea is wrong, you don't know what you are risking.
+[01:20:06] So the step six, define the risk.
+[01:20:09] How much are you willing to lose if the idea is wrong?
+[01:20:13] How many trades are you allowed to take?
+[01:20:16] What happens after a loss?
+[01:20:18] What happens after two losses?
+[01:20:20] What happens after a win?
+[01:20:22] If the answer is emotional, it's not a system.
+[01:20:26] Step seven, define trade management.
+[01:20:29] Where do you take partials if you take partials?
+[01:20:32] Where do you move the stop if you move it?
+[01:20:34] What has to happen for you to hold?
+[01:20:36] What has to happen for you to exit?
+[01:20:39] What will you not negotiate?
+[01:20:41] And finally, step eight, define review questions.
+[01:20:45] What screenshots do you have?
+[01:20:47] What questions do you answer?
+[01:20:49] What counts as a process mistake?
+[01:20:52] What counts as a clean loss?
+[01:20:54] What counts as a valid skip?
+[01:20:56] Here's how you stop being a trader who collects concepts and start becoming a trader who builds
+[01:21:02] a process.
+[01:21:03] And if it feels like more work than watching another strategy video, then it's actually
+[01:21:08] a good feeling because that's the exact point.
+[01:21:11] The market isn't going to reward you for having a folder full of notes.
+[01:21:16] The market is going to test whether you can turn those notes into decisions under pressure.
+[01:21:24] Now I want to address the most important part of this whole trading.
+[01:21:28] I am giving you the concepts.
+[01:21:31] That's intentional.
+[01:21:32] The noise trap, the stoic lens, the no edge zone, HCOM, LCOM, PDH, PDL, PDC, market structure,
+[01:21:40] trap trader logic, two setups, break and retest, SFP, swing breakout sequence, 2200 SMA, FIB
+[01:21:50] geometry, the stoic trader protocol, generate, commit, execute, manage, review.
+[01:21:56] I'm not hiding these behind a paywall.
+[01:21:59] Although I do have more nuanced trading around these concepts inside the stoic trader's
+[01:22:05] community and I constantly refining my framework, understanding and process, but what I want
+[01:22:11] to make clear is that the concept name isn't the real value.
+[01:22:17] The real value is implementation.
+[01:22:20] The real value is what happens after the concept sound obvious.
+[01:22:26] And that's where traders actually break.
+[01:22:28] Not when they hear the word reset, not when they hear the word failure, not when they
+[01:22:34] draw a daily level.
+[01:22:37] They break when the market is open, price is moving, they feel late and they have to
+[01:22:44] decide whether the thing in front of them actually deserves risk.
+[01:22:49] That's why I'm not going to pretend that the concept name is some sacred secret.
+[01:22:56] Anyone can say break and retest.
+[01:22:58] Can you define which break matters?
+[01:23:01] Anyone can say swing failure pattern?
+[01:23:04] Can you tell the difference between a meaningful failure and a random wick?
+[01:23:10] Anyone can draw HCOM.
+[01:23:12] But can you tell whether price is accepting at a monthly extreme or trapping the late
+[01:23:17] side?
+[01:23:19] Anyone can draw previous day high.
+[01:23:21] But can you actually use it inside a full context read?
+[01:23:26] Anyone can say SBS.
+[01:23:28] Can you actually wait for the sequence instead of forcing the entry?
+[01:23:33] And for sure anyone can add 20 and 200 SME on their chart.
+[01:23:38] But can you use them without over trading CHOP?
+[01:23:42] Anyone can draw Fibonacci retracements extensions.
+[01:23:46] But can you use it as a risk and target tool instead of a prediction machine?
+[01:23:52] And of course anyone can say I'll follow my rules.
+[01:23:56] But can you actually follow them after you miss the first move?
+[01:24:01] Anyone can say I am disciplined.
+[01:24:03] But can you stay disciplined after a red trade?
+[01:24:07] Anyone can say I am building a trading system.
+[01:24:11] But have you reviewed your last 10 trades honestly and let the data correct you?
+[01:24:16] Did you refine your system based on that decision?
+[01:24:20] And see that's where the actual implementation matters a lot.
+[01:24:26] Stoic Traders Community and Stoic Trader Protocol are not about collecting more trading concepts.
+[01:24:32] The concepts are free.
+[01:24:34] I shared them in this video.
+[01:24:36] And I've said this for a long long time.
+[01:24:39] Almost everything can work.
+[01:24:41] Break and retest can work.
+[01:24:43] SFP, SBS can work.
+[01:24:45] Pullback model can work.
+[01:24:47] Reclaim model can work.
+[01:24:49] Turtle Soup, Enigma, Breakers.
+[01:24:53] Even your own trading concepts that you created can work.
+[01:24:58] But the caveat here is that it needs to be inside the defined process.
+[01:25:04] The concept is not the edge.
+[01:25:07] The trader is the edge.
+[01:25:09] More specifically, the trader's process is the edge.
+[01:25:14] His routine, his preparation, his risk rules, his execution standard, his review.
+[01:25:22] What he does every single day.
+[01:25:25] How you do one thing is how you do everything.
+[01:25:29] If you are sloppy in preparation, that shows up in execution.
+[01:25:33] If you negotiate your risk, that shows up in management.
+[01:25:38] If you avoid review, that shows up in the same mistakes repeating again and again, week
+[01:25:46] after week, months after months, years after years.
+[01:25:53] That is why traders still stuck after years and years of deliberate study and trying to
+[01:26:01] make this work.
+[01:26:03] That's not what creates scale of trading.
+[01:26:07] Not the concept by itself, the routine around the concept, the process around the concept,
+[01:26:14] the way the trader applies it under pressure when the real risk is on, when the money,
+[01:26:21] when the P&L is there.
+[01:26:24] That's the scale that can serve you for a lifetime.
+[01:26:28] Managing risk.
+[01:26:30] Everybody says risk management is the most important thing.
+[01:26:34] Yes, it is.
+[01:26:36] Everybody knows what to do, why everyone ignores the risk management.
+[01:26:41] That's the scale that can serve you for a lifetime.
+[01:26:44] So if you are already having a trading concept, if you know SMC, ICT or whatever enigma order
+[01:26:52] blocks you've been studying, bring it on.
+[01:26:55] If you already know a trading system, bring it.
+[01:26:58] If your main issue is execution, which is the case for the most traders, especially
+[01:27:04] under pressure, then the Stoic Trader Protocol can still help you.
+[01:27:09] I've designed this program to help you take all of those trading puzzle pieces you've
+[01:27:14] been collecting and organizing from many mentors and put them into one cohesive execution system.
+[01:27:23] The one system that you can actually follow, the one that you can execute, the one that
+[01:27:29] you can review, and most importantly the one that you can continue refining and stop
+[01:27:36] starting from scratch every time you're hopping the system.
+[01:27:41] That's how you get better at the act of trading.
+[01:27:44] A video can give you the map, but the community helps you walk that path.
+[01:27:50] The course can teach you the structure, but the market makes you apply it again and again
+[01:27:56] under different conditions.
+[01:27:59] So this is the clean decision.
+[01:28:02] Keep collecting free concepts or come inside and finally start building your own trading
+[01:28:07] system that you can trust.
+[01:28:09] So if you are a trader who struggles with execution, if you are ready to stop strategy
+[01:28:15] hopping, if you are ready to become a Stoic Trader in the next 90 days through the Stoic
+[01:28:21] Trader Protocol, join Stoic Traders community today.
+[01:28:26] Go to the stoicedge.com, join for the year, keep the course and start building the execution
+[01:28:32] process.
+[01:28:33] I'll see you inside.

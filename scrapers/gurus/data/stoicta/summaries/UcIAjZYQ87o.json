@@ -1,0 +1,135 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "UcIAjZYQ87o",
+    "title": "The Ultimate Market Structure Trading Strategy Free Course (from Beginner to Advanced)",
+    "url": "https://www.youtube.com/watch?v=UcIAjZYQ87o",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/UcIAjZYQ87o.json"
+  },
+  "stats": {
+    "word_count": 6083,
+    "duration_seconds": 2762.22,
+    "segments": 535,
+    "concepts_detected": 2,
+    "candidate_strategies": 0
+  },
+  "concept_mentions": {
+    "Liquidity": 1,
+    "Market Structure Shift": 6
+  },
+  "spoken_time_references": [
+    "London session"
+  ],
+  "candidate_strategies": [],
+  "key_passages": [
+    {
+      "start": 569.52,
+      "end": 585.28,
+      "text": "That's the simple logic of market structure trends making higher highs and higher lows. When the protected low is broken, this is what traders call it change of character or market structure shift.",
+      "concepts": [
+        "Market Structure Shift"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 660.26,
+      "end": 679.16,
+      "text": "But the truth is that market structure is the same on all timeframes. What traders truly referring to is higher timeframe equals big swing and lower timeframe equals smaller swings within the big swing.",
+      "concepts": [],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 705.22,
+      "end": 727.02,
+      "text": "We have move down, price goes up, breaks the structure. So we have big structure, big swing point and inside of this bigger swing point, we have little swing points that are forming structure and trends within a bigger swing",
+      "concepts": [],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 736.78,
+      "end": 757.3,
+      "text": "So this is why we have smaller swings inside of the bigger swing and price moves from the higher timeframe objective, from the big swing objective to the big swing objective. So from higher timeframe objective to higher timeframe objective.",
+      "concepts": [],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 801.34,
+      "end": 823.7,
+      "text": "Well if this is a higher timeframe bullish swing point, the most logical thing for the price to do after the retracement is to trend higher, creating lower timeframe swing points, creating these smaller swing points within the bigger swing point in order to reach the",
+      "concepts": [],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 816.7,
+      "end": 833.9,
+      "text": "creating these smaller swing points within the bigger swing point in order to reach the next high timeframe objective. And because of this bullish swing point, the next logical objective for the price is to",
+      "concepts": [],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 1075.22,
+      "end": 1092.22,
+      "text": "this zone or maybe we sweep this number two and then go back up higher. Stop guessing and start respecting the rules of market structure. I created the swing breakout sequence for the purpose of the swing break out sequence.",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1259.22,
+      "end": 1277.22,
+      "text": "He can sweep down, sweep up and then eventually taps into the move origin and goes back higher. That's what all market does 24-7 every single day. It's manipulation around the market structure POIs.",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1680.22,
+      "end": 1703.22,
+      "text": "And now we are understanding that this is currently a bullish swing point that we are in. And as you notice inside of this bullish swing point over here, there are smaller structure, there are smaller structure, there are lower time frame swing points that are trending higher.",
+      "concepts": [],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 1848.22,
+      "end": 1875.22,
+      "text": "And eventually it goes back down to test this move origin on the higher time frame for this bigger swing point. So we always want to be focusing on the smaller swing points and what are they doing and what is the next target for that swing point. But also we want to respect the lower time frame market structure, breaks and shifts.",
+      "concepts": [],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 2132.22,
+      "end": 2158.22,
+      "text": "Because truly price moves in trends and it needs to create trends. So we have break of structure, retracement, break of structure, retracement, break of structure, retracement, break of structure, market structure shift, breaking protected low, change of character. So now price have these internal swings on the way down.",
+      "concepts": [
+        "Market Structure Shift"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 2472.22,
+      "end": 2491.22,
+      "text": "And eventually over here is what happening is we have a break of structure to the upside. So we have a change of character. We have that reversal, that market structure shift, that everybody trades, but a lot of times in the wrong location.",
+      "concepts": [
+        "Market Structure Shift"
+      ],
+      "strategies": [],
+      "score": 9
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:00.946653+00:00"
+}

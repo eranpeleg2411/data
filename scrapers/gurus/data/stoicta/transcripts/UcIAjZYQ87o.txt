@@ -1,0 +1,535 @@
+[00:00] Every trading guru wants to sell you a new secret strategy, but the truth is there is
+[00:21] only one framework that rules them all.
+[00:25] In this video, we're going to dive in deeper into the core trading framework.
+[00:32] It's the true meta of trading concepts.
+[00:36] Every other trading concept fits inside of this one main meta trading concept, which
+[00:43] is the market structure.
+[00:46] If you can understand this one simple trading framework, everything will start making sense
+[00:52] in trading.
+[00:53] And I promise you that by the end of this video, you will have a complete understanding
+[00:59] of how the market moves and you will have the complete trading framework that you can
+[01:03] apply to your trading right away.
+[01:07] And see, the reality of trading is that most traders live in confusion.
+[01:13] System hopping from ICT to Wycoff, SMC, there is so much out there and every system is promising
+[01:23] the riches, every system promising the best outcome.
+[01:27] This is the best thing.
+[01:28] This is the holy grail.
+[01:30] And traders end up with 20 different setups, 50 indicators, but zero clarity.
+[01:37] So truly it all becomes gambling disguised as education, gurus selling signals while
+[01:44] students blow up.
+[01:46] And even if you are able to ignore all of that noise, you end up alone repeating the
+[01:52] same mistakes.
+[01:54] The real trading is the quite opposite of this.
+[01:59] Real trading is all about following one simple framework with clear rules, as well as having
+[02:06] risk boundaries that protect you from your own self, that protect you in those moments
+[02:13] where you are going to go on tilt, where you want to over leverage.
+[02:19] It's ultimately structure over chaos.
+[02:23] And this is precisely why I created a Stoic Trader Community, a tribe that keeps you accountable,
+[02:31] where we focus not on the holy grail trading strategy, we focus on the small steady progress
+[02:40] compounding into true freedom.
+[02:43] And as a Stoic Trader, I don't want to keep the trading system behind the paywall because
+[02:49] that's not what really makes you a profitable trader.
+[02:54] Execution and discipline makes you a profitable trader.
+[02:57] So this is why in this video, I'm going to give you the full trading framework from start
+[03:03] to finish, from beginner to advanced, the meta trading framework that you can apply
+[03:10] to your trading right away.
+[03:13] And if you want to master the execution around this trading framework, I invite you to join
+[03:20] the Stoic Traders Community at stoicedge.com.
+[03:24] But I got to warn you, I am not your regular trading guru.
+[03:28] I don't sell signals, I don't sell dreams, but I provide the structure, accountability
+[03:35] and execution environment that turns confusion into clarity.
+[03:41] The framework I'm going to give you for free in this video, but accountability, execution
+[03:47] and tribe is earned through the consistently following your own rules.
+[03:52] That's what Stoic Traders is all about.
+[03:55] So if you are tired of chaos and ready to trade with discipline, first of all, subscribe
+[04:01] to this YouTube channel, follow me on X at StoicTA and if you are ready to put structure
+[04:08] around your trading, join Stoic Traders Community today.
+[04:13] So with that being said, let's dive in into the core trading framework.
+[04:19] And this framework consists of three main areas that every trader should be improving
+[04:27] and focusing on every single day.
+[04:30] We have number one, market structure.
+[04:33] And what I mean about market structure is price action reading.
+[04:39] It's the chart reading skill that you need in order to spot the best setups possible.
+[04:48] Those A++ setups that everybody likes to talk about, but when you ask them, they completely
+[04:55] don't understand what the actual setup means.
+[04:59] And this video will answer that question once and for all.
+[05:03] What is that one trading setup?
+[05:06] That's the number two for the core trading framework.
+[05:10] The one setup.
+[05:12] I simplified it to the sweep trigger entry.
+[05:16] And we're going to dive deeper later in this video how to spot that one setup.
+[05:23] And the number three is execution, which is consistently following your own rules and
+[05:29] tracking your performance, making sure that you are refining and improving with each trade
+[05:36] you take.
+[05:38] As long as you can follow on all of these three main areas, market structure, D1 setup,
+[05:47] and execution, you will find consistency in trading.
+[05:51] I can promise you, I can guarantee you because I've seen it happen times and times again.
+[05:57] When people slow down, have patience, and focus on their trading framework, on these
+[06:03] three main areas, they succeed not only in trading, but in life as well, because this
+[06:11] teaches you how anything in life works.
+[06:15] So let's talk a little bit about market structure, which is the true meta of trading concepts.
+[06:23] Everything fits inside the market structure.
+[06:26] So every other concept that you know, that you might learn, be it ICT, Wycoff, whatever
+[06:32] that might be, fitting inside of that one true trading core framework, which is the
+[06:42] market structure.
+[06:44] Because it doesn't matter what trading methodology you use, it always comes back down to market
+[06:50] structure because the price is moving from the highs to the lows, from the lows to the
+[06:55] highs, creating trends, reversals, and everything else that you might be learning about trading,
+[07:02] everything will fit inside of this one true trading concept, market structure.
+[07:10] Once you understand how to read price, once you understand the rules of market structure,
+[07:16] you will be able to execute your setups, your A++ setups in the right locations.
+[07:23] And I don't care what methodology you want to use, what entry model you want to use,
+[07:29] but if you can execute your one core setup, aligning with the market structure, you will
+[07:35] find better results in trading.
+[07:38] And the main idea that I'm trying to get across is alignment with market structure.
+[07:45] Everything is about alignment.
+[07:48] If you can align the market structure with the highest probability location for your
+[07:54] I can promise you that your trading will get less confusing and you will finally find that
+[08:00] clarity and simplicity within your trading approach.
+[08:05] So this video will touch on the market structure and the one setup, but for the execution,
+[08:11] if you want that accountability, if you want to focus on the real progress and improvement
+[08:16] in your trading, join Stoic Traders Community at stoicedge.com.
+[08:22] But without any further ado, what is market structure?
+[08:26] Simply put, market structure is higher highs and higher lows.
+[08:31] That's all it is.
+[08:33] Higher highs and higher lows, breaking the highs, creating higher lows.
+[08:39] And here I have marked out protected lows and protected highs.
+[08:43] So what is protected low and protected high?
+[08:46] So essentially, protected lows is the higher lows in the trend and protected highs is the
+[08:53] lower highs in the trend.
+[08:56] When price is making higher highs and breaking structure to the upside, this is what we call
+[09:03] a break of structure.
+[09:05] You have a higher high and then when price makes a higher low and this higher low delivers
+[09:12] a new break of structure, meaning this higher low delivers a new higher high, this higher
+[09:19] low becomes a protected low.
+[09:22] So when the price retracing down, it should not break this protected low.
+[09:29] That's the simple logic of market structure trends making higher highs and higher lows.
+[09:36] When the protected low is broken, this is what traders call it change of character or
+[09:43] market structure shift.
+[09:45] It's still a break of structure to the downside.
+[09:48] So this break of the protected low will signal a change in trend.
+[09:55] So now we are expecting a lower high to form and price start to create lower lows, breaking
+[10:05] the structure to the downside.
+[10:08] Within this whole framework of market structure, of course, it's not going to look as easy
+[10:14] as my drawing.
+[10:15] We'll get into the details and real examples later in this video, but every other trading
+[10:21] concept that you can imagine will fit inside of this main market structure framework, making
+[10:30] higher highs and higher lows.
+[10:33] And with the protected lows and protected highs, this is how we can track the market
+[10:39] structure and what market structure we are currently in.
+[10:44] Because the reality of market structure and price movement is that we have structure within
+[10:52] structure.
+[10:53] This is where traders start talking about higher timeframe versus lower timeframe.
+[11:00] But the truth is that market structure is the same on all timeframes.
+[11:06] What traders truly referring to is higher timeframe equals big swing and lower timeframe
+[11:14] equals smaller swings within the big swing.
+[11:19] So that's how we can drill down from the higher timeframe structure, like on the monthly
+[11:27] weekly chart, daily chart, that structure might look the same.
+[11:31] We might see the same swing on the higher timeframe.
+[11:35] So in this illustration, as I have outlined over here, we have higher timeframe swing
+[11:42] point.
+[11:43] This is the swing point.
+[11:45] We have move down, price goes up, breaks the structure.
+[11:51] So we have big structure, big swing point and inside of this bigger swing point, we
+[11:58] have little swing points that are forming structure and trends within a bigger swing
+[12:07] point.
+[12:08] So if you've been trading for a while, you understand that price does not move within
+[12:15] the straight line.
+[12:16] So this is why we have smaller swings inside of the bigger swing and price moves from the
+[12:25] higher timeframe objective, from the big swing objective to the big swing objective.
+[12:32] So from higher timeframe objective to higher timeframe objective.
+[12:37] So when we're looking at the price and talking about the probability of what price might
+[12:44] do next, are we trying to figure out where price is going and where is that higher timeframe
+[12:52] objective?
+[12:53] So when we have this retracement over here and protected low down here, we understand
+[13:01] that the price within the bullish swing point and because of this bullish swing point, when
+[13:09] we see a break of structure on the lower timeframe, what is the most logical thing, the highest
+[13:17] probability thing that price will do next?
+[13:21] Well if this is a higher timeframe bullish swing point, the most logical thing for the
+[13:28] price to do after the retracement is to trend higher, creating lower timeframe swing points,
+[13:36] creating these smaller swing points within the bigger swing point in order to reach the
+[13:43] next high timeframe objective.
+[13:46] And because of this bullish swing point, the next logical objective for the price is to
+[13:53] make a higher high.
+[13:56] When we do make a higher high like in this scenario, what is the most logical thing for
+[14:01] the price to do after breaking the structure to the downside?
+[14:06] Well it's to test this support down here.
+[14:11] There is a demand zone that's created down here because we are in the bullish structural
+[14:20] swing point.
+[14:21] It's all about external structure and internal structure.
+[14:27] So this is the external structure and inside of that external structure we have internal
+[14:36] structure forming lower timeframe trends within the higher timeframe.
+[14:43] So the main point is not to focus on the timeframe itself and focus on the structure.
+[14:51] What is the structure doing right now?
+[14:56] And we want to align ourselves and our trading setups with the structure and we can achieve
+[15:04] that through the process of top down analysis that we will do in a bit.
+[15:09] But first of all let's dive even deeper into the price action and how price actually moves.
+[15:17] And there is a sequence that I call swing breakout sequence.
+[15:22] You can watch my older videos on this YouTube channel and you will understand more about
+[15:27] the SBS.
+[15:29] But to quickly recap, we have a break of structure.
+[15:33] Price creates consolidation here, creates that first tap into the range.
+[15:41] So after the break of structure there's people that are going to be buying this breakout.
+[15:48] So of course there is not a secret that market is manipulated by smart money, by the traders
+[15:56] with bigger pockets and we all just playing within the big pond with sharks.
+[16:03] So what we want to do is we want to study the manipulation and how it unfolds so we
+[16:10] can align ourselves not only with the overall market structure but we also align ourselves
+[16:17] with the real players, with big money that can actually push market around and move in
+[16:24] our favor.
+[16:25] So the swing breakout sequence, we need a breakout, we need first people that bought,
+[16:32] price creates some kind of consolidation, creates even the higher high to entice new
+[16:38] buyers.
+[16:39] When there is enough consolidation, price goes back down to liquidate these first people
+[16:46] because they're going to put their stop losses right below this number two.
+[16:51] So number four in the sequence is liquidation of this number two.
+[16:57] Now this is not enough for the reversal because we still want to follow the market structure.
+[17:04] So these internal swings after the break of structure over here, we following the internal
+[17:11] swings now until price reaches move origin.
+[17:16] So what is move origin?
+[17:18] Simply put it's a point of interest.
+[17:21] It's the origin of the move where the trend started and to simplify it, it's the last
+[17:28] move down before price started to go higher and it's the last move up before price started
+[17:37] to go lower.
+[17:38] That's all it is and it's the best point of interest that you can have on any chart, any
+[17:46] trend, any swing point.
+[17:49] Don't try to guess if this is the bounce or this structure is the bounce, this zone or
+[17:55] this zone or maybe we sweep this number two and then go back up higher.
+[18:00] Stop guessing and start respecting the rules of market structure.
+[18:05] I created the swing breakout sequence for the purpose of the swing break out sequence.
+[18:12] And if you can follow the sequence, you will be more patient with your trades.
+[18:18] So instead of jumping in on these random pullbacks over here or over here or over here, we wait
+[18:27] for the price to get into the move origin.
+[18:31] So how do we know that the price is done reversing?
+[18:35] Well, that's why there is a swing breakout sequence.
+[18:39] And the number five is simply a reversal.
+[18:42] Sometimes they look like double bottom or double top, but mainly after the liquidation
+[18:49] of number two, we want to see the price go down into the move origin.
+[18:54] And after tapping into the move origin, price needs to break structure, reverse, and then
+[19:01] return to the move origin.
+[19:02] And after tapping into the move origin, price needs to break structure, retrace to that
+[19:11] move origin inside of this internal structure swing point and have the same kind of sequence,
+[19:20] the same SPS sequence, but internally tapping into the internal move origin and pushing
+[19:28] higher.
+[19:29] So this is the one setup that most traders trying to trade without even realizing.
+[19:36] Most methodology is going to talk about the same thing.
+[19:40] And I simplify it to just sweep, trigger, entry.
+[19:46] So the sweep, we have the sweep to the left.
+[19:51] This is also a start of the SPS sequence.
+[19:54] We have the one, we have the two.
+[19:56] This was the breakout over here.
+[19:58] So there is the sweep of these first people.
+[20:01] We also have a sweep of this last low.
+[20:04] It's also considered the sweep because price did not continue lower, but it continue higher.
+[20:12] So we have the sweep, which is the number one condition.
+[20:15] Number two, break of structure, which is the trigger.
+[20:19] We not just jumping in on the random pullbacks that look like a sweep, that look like a turtle
+[20:27] soup and then now we are aiming for the highs.
+[20:30] That's the recipe for disaster.
+[20:33] Don't just jump in randomly into the setups.
+[20:36] You need to have patience.
+[20:39] And that's your edge because most people cannot have the patience to wait for this move origin.
+[20:48] And that's how the price gets manipulated around the market structure where we have all of
+[20:55] this internal structure.
+[20:57] Price can do whatever he wants.
+[20:59] He can sweep down, sweep up and then eventually taps into the move origin and goes back higher.
+[21:06] That's what all market does 24-7 every single day.
+[21:12] It's manipulation around the market structure POIs.
+[21:17] Even when the price is moving up higher, traders will see this as a break of structure and
+[21:23] continuation lower because they don't understand that the higher time frame structure, the bigger swing
+[21:32] is in control.
+[21:34] So when we have the reversal here at the bottom, if our analysis is correct, if we are truly aligned
+[21:40] with the structure, this is a trap.
+[21:44] This over here is retracement to go down lower will entice traders to short only for it to
+[21:52] reverse and go to the higher time frame objective, which is to make a higher high.
+[21:59] This is why traders get confused.
+[22:02] This is why traders say that market structure doesn't work, that break of structure always fails.
+[22:09] Well, it doesn't fail when you are in alignment with the structure.
+[22:14] It doesn't fail when you understand where is the next higher time frame objective.
+[22:22] And I'm not talking about just liquidity.
+[22:25] I'm talking about the overall market structure because that's what everybody sees.
+[22:33] That's what everybody's basing their decisions off of.
+[22:37] And if you don't understand these simple rules of market structure, that the lower time frame price action
+[22:44] is simply delivering to the higher time frame objectives, if you don't understand it, you will always be confused.
+[22:51] You will always be asking why one set up fails and the other one works, why this break of structure worked
+[22:59] and the other one didn't.
+[23:01] The reality of trading is that one side needs to be hurt in order for the other side to win.
+[23:10] So that's why you see bullish and bearish setups at the same time.
+[23:15] There is always a bullish and bearish setup.
+[23:18] And which one do you take?
+[23:20] Well, you take the one that aligns with the market structure.
+[23:24] And if you can keep this core trading framework of market structure in your head all the time,
+[23:31] you will always be aligned with the market.
+[23:35] And that alignment is your edge.
+[23:38] That's the true trading edge that everybody needs.
+[23:43] Everybody talks about the bias.
+[23:45] How do we know where the price is going next?
+[23:49] Well, it's all about probabilities.
+[23:51] So the question that you need to be asking every single time before the trade,
+[23:57] where we are within the market structure.
+[24:01] And a lot of traders talk about time before price.
+[24:05] And actually it's price before time.
+[24:08] First of all, we need to know the location where we're going to take the trade.
+[24:16] And timing comes after knowing where.
+[24:20] First it's alignment with price and market structure.
+[24:24] And then you can apply the concept of time.
+[24:29] But what is the time?
+[24:31] All we're talking about is the volatility sessions with New York, London session.
+[24:36] So that's where you want to take the trade.
+[24:39] Yes, of course that's where you want to take the trade.
+[24:42] That's where the most volatility is.
+[24:45] As traders that's what we want.
+[24:47] We want volatility.
+[24:48] But if you are basing your trades just because of what time it is,
+[24:53] it's a recipe for disaster.
+[24:55] Because price will always come before time.
+[24:59] And if you don't believe me, go research.
+[25:02] Ask ChadGPT to research how the market actually functions instead of believing in fairy tales.
+[25:10] It's truly all about the alignment with market structure and knowing where to take your setups.
+[25:17] Not just when, but where.
+[25:21] What is the location?
+[25:23] What is that high probability zone?
+[25:26] Which is mainly support and resistance if you think about it.
+[25:30] If you strip down trading to its essential core, it's all about support and resistance.
+[25:37] All right, so let's get practical here.
+[25:40] And I'm going to show you on the real chart what I'm talking about.
+[25:45] So here we have a weekly chart of the Nasdaq.
+[25:48] And look, first of all, I'm going to flip through the timeframes.
+[25:51] It's all the same thing.
+[25:53] You have the same structure on all timeframes.
+[25:56] We have higher highs, higher low.
+[25:59] Higher high, higher low.
+[26:02] Price goes higher.
+[26:03] So we are in the bullish trend because the only way is up since forever, right?
+[26:09] So here on the monthly chart, we can simply just mark out this as break of structure.
+[26:15] And over here is also a break of structure.
+[26:19] Keep it very simple.
+[26:21] This is the move origin.
+[26:24] The last move down before price goes higher.
+[26:29] So as you notice, we have not retraced all the way down to this move origin.
+[26:35] So maybe this is some kind of consolidation in here.
+[26:40] And then we will tap into the move origin and go higher.
+[26:44] I don't know what's going to happen.
+[26:46] This is monthly chart, but we're not here to predict.
+[26:50] We are here to anticipate.
+[26:53] And when the price gets over here, our job is not to be bearish.
+[26:58] Our job to understand that the most probable trade in this scenario is long and not short.
+[27:06] That's all it is.
+[27:08] That's all we're trying to understand about market structure and price.
+[27:13] And like I said, don't try to be perfect with it.
+[27:17] Don't try to predict where the price is going because the price is going to do what it's going to do.
+[27:22] The further into the future you're trying to predict, the more likely you're going to be wrong.
+[27:28] So let's zoom in into the weekly chart.
+[27:30] And we can see the same thing on the weekly chart in here.
+[27:34] We can see this was a sweep over here.
+[27:38] So as far as the support and resistance, this over here was a support that got swept.
+[27:46] This was the move origin that got swept.
+[27:49] So currently this is a protected low on the weekly chart, but also it's a protected low on the daily chart.
+[27:58] So let's zoom in even more.
+[28:00] And now we are understanding that this is currently a bullish swing point that we are in.
+[28:08] And as you notice inside of this bullish swing point over here, there are smaller structure,
+[28:14] there are smaller structure, there are lower time frame swing points that are trending higher.
+[28:23] So this has created a bullish trend, but we want to keep in mind that we just broke out of this bullish swing point.
+[28:34] So where is the move origin?
+[28:37] The move origin is going to be the last move down.
+[28:40] So first of all, this candle over here is going to be the actual move origin.
+[28:46] This candle is the last move down, but also we have this one over here as a last move down.
+[28:53] You got from this candle high, down, and then price breaks out higher.
+[28:58] So it is in itself also a move origin, but let's keep it at the lowest candle.
+[29:06] And this is the objective on the higher time frame.
+[29:10] This move origin is the objective.
+[29:13] So when the price starts to go down lower, we want to target this move origin and then look for the reversal inside of this move origin.
+[29:24] So let's track the small swings.
+[29:27] We had the reversal in here.
+[29:29] We break in structure higher.
+[29:31] I don't know if I should consider this as a swing point, but price goes higher, higher.
+[29:38] And over here we have a candle closure on top.
+[29:42] This is signaling a swing point.
+[29:45] So currently for this trend, this would be the protected low.
+[29:50] We have a break of structure over here and the move origin is over here.
+[29:56] The last move down, which is that last candle, serves as a move origin.
+[30:02] So let's zoom in into this on daily chart.
+[30:06] If the price were to go down lower and break this protected low, I would look for the retracement and continuation down lower, targeting this move origin.
+[30:20] Right?
+[30:21] But we got to be careful.
+[30:23] Just because we have this move origin down here doesn't mean that price needs to go down all the way to the move origin.
+[30:31] Because as I mentioned, there is a SBS sequence, the swing breakout sequence.
+[30:38] So this could be number one.
+[30:40] This could be number two.
+[30:42] And price could go back up for the number three, creating more consolidation.
+[30:48] And eventually it goes back down to test this move origin on the higher time frame for this bigger swing point.
+[30:58] So we always want to be focusing on the smaller swing points and what are they doing and what is the next target for that swing point.
+[31:08] But also we want to respect the lower time frame market structure, breaks and shifts.
+[31:15] So right now we are still in the bullish trend on the lower time frames on this smaller swing points.
+[31:25] But when we break the protected low, that would signal a bearish trend.
+[31:31] But when we flip the trend up, it would signal a bullish trend.
+[31:36] So the price really can do whatever it wants to do within this swing point between the high and the move origin.
+[31:47] It could manipulate up, down, sideways, backwards.
+[31:52] You can't even imagine the level of manipulation that could happen.
+[31:56] And that's why we can't be trading every wiggle in price.
+[32:00] Because it doesn't work like that.
+[32:02] You might get caught up in that manipulation.
+[32:05] And the only way to avoid manipulation is to stay out and wait for the high probability setups that usually will come out of the move origin.
+[32:16] So let's zoom in into this daily chart.
+[32:19] And I like to look at the hourly chart.
+[32:22] There is the hourly.
+[32:24] The same break of structure here.
+[32:27] The same protected low.
+[32:29] So based on the swing point, what is the next objective for the price?
+[32:34] Well, it's to make a higher high.
+[32:37] So we know when the price gets into this bullish swing point, sweep something here to the left.
+[32:44] We understand that the next objective is to make a higher high.
+[32:49] But of course, price is not moving in the straight line.
+[32:54] That's why it's so difficult to trade.
+[32:56] That's why it doesn't make sense.
+[32:58] But it's all going to make sense when you align yourself with the market structure.
+[33:04] So let's track this internal structure and what's going on.
+[33:08] This is the last move down on the daily.
+[33:11] We can refine it further into this last move down.
+[33:16] Because this truly is a last move down.
+[33:19] We have this high driving lower and then breaking structure to the upside.
+[33:25] So this was a break of structure in here initially.
+[33:30] Let's mark it out.
+[33:32] We keep following the price.
+[33:34] We have a break of structure over here, break of structure over here, and a break of structure over here.
+[33:41] All of these higher lows are going to be protected lows, but protected lows for the internal structure.
+[33:49] So the last protected low was over here.
+[33:53] This in itself, this last move up and break below is a move origin.
+[34:02] So this whole thing we can mark out as a move origin.
+[34:08] So this is the bearish move origin.
+[34:10] And because price does not just move in the straight line and we have this internal break of structure.
+[34:19] So we have a trend down, retracement, and a new low.
+[34:26] This low was lower than this one.
+[34:29] So it made a lower low.
+[34:32] It turns out to be a sweep though, because now the price has break above this high,
+[34:40] creating internal bullish break of structure.
+[34:45] So the move origin is all the way down here, this last move down, and we still yet to test this move origin.
+[34:55] So this is what I call unmitigated move origin.
+[34:59] So especially when the price goes down lower over here, this would be an opportunity to look for the reversal and continuation higher.
+[35:11] We can also refine this bearish move origin all the way up into this last one over here.
+[35:20] And after this bounce in here, we can expect some kind of retracement at this move origin and then finally to make a new higher high.
+[35:32] Because truly price moves in trends and it needs to create trends.
+[35:39] So we have break of structure, retracement, break of structure, retracement, break of structure, retracement, break of structure, market structure shift, breaking protected low, change of character.
+[35:52] So now price have these internal swings on the way down.
+[35:58] So again, structure within structure. So now we are forming a smaller structure within this move down.
+[36:09] So when the price reversed over here at the top, you see that last swing point, it started to break structure to the downside.
+[36:18] So this was a break of structure in here. Let's put a different color.
+[36:23] And it started to break structure to the downside.
+[36:27] We have break of structure to the downside, creating this downward trend.
+[36:35] Price stops into the move origin, also sweeping this over here.
+[36:40] So this is an SBS 1, 2, 3 is all the way up here.
+[36:46] And then what we see is price reversing over here.
+[36:51] So we have now a bullish break of structure.
+[36:55] We have another break of structure over here.
+[36:58] And then what do we see?
+[37:00] We see another break of structure over here to the downside.
+[37:05] Price makes a lower low over here, sweeps that low and reverses to go higher.
+[37:14] So again, we made a lower low, topping again into this main move origin.
+[37:22] If this is a protected low over here, right?
+[37:25] If this is the last move down our support zone and our analysis is correct, this support zone should hold.
+[37:35] Sometimes we will wick through it. Sometimes the price will manipulate down below and then sweep it up.
+[37:41] It happens just like it happened over here when we swept this low.
+[37:48] We had the bullish structure, but then price sweeps.
+[37:52] And where that sweep location is, that sweep location is right inside the bigger swing point move origin, the higher time frame move origin.
+[38:06] So when the price comes down and sweeps this low, it's not reason to be bearish.
+[38:13] It's the reason to look for the buys because we are inside of the higher time frame move origin.
+[38:22] This is the whole logic of market structure alignment.
+[38:27] So let's zoom in into this trade over here because I took this trade inside of the Stoic Traders community.
+[38:35] I have a live recording and explaining my FAD process and everything, how I took this trade.
+[38:41] Absolutely textbook trade for a day trader.
+[38:46] So let's zoom in and see what was going on here that day and how I was able to take the trade with the same framework of D1 setup, which is the sweep trigger entry.
+[39:01] So let's zoom in into the one minute chart.
+[39:05] So I open up the chart, do my top down analysis and there is 930 a.m.
+[39:11] The market opened. So I see the market open, drives down, sweeps that low to the left that I was just talking about, right?
+[39:22] And then goes up and makes a break of structure.
+[39:26] So here we have a break of structure.
+[39:29] We also have the creation of the SBS.
+[39:32] We have the number one, number two, number three is the high, the number four is over here.
+[39:39] It's the liquidation of the number two and number five is the reversal.
+[39:45] So when I see this happening, I don't jump in into trades over here.
+[39:49] I don't jump in into trades over here.
+[39:52] I simply wait for my setup.
+[39:54] Patience is the edge.
+[39:57] Price eventually reverses here, right?
+[39:59] We have the break of structure to the downside.
+[40:02] This is also a trade in itself.
+[40:04] It's up to you if you want to trade towards the move origin.
+[40:09] The targets are a bit uncertain because it could reverse from the middle of the range and start going higher.
+[40:16] In my opinion, the best thing to do is to wait for the move origin and the move origin for this move up was this last candle, right?
+[40:24] The move origin, the last move down and what do we see happening?
+[40:29] So let's track the structure.
+[40:31] We had that bearish break of structure here at the top.
+[40:35] Price retraces into this move origin, into the bearish one.
+[40:40] This was a nice setup.
+[40:42] I missed it because I was waiting for the bullish reversal because I am aligned with the higher time frame market structure.
+[40:53] So we got this break of structure, the bearish one.
+[40:57] Then we have it over here.
+[40:59] Price going down, making these breaks of structure.
+[41:04] Keeps going down, making swings lower.
+[41:07] Lower highs, lower lows.
+[41:09] Lower highs, lower lows.
+[41:12] And eventually over here is what happening is we have a break of structure to the upside.
+[41:20] So we have a change of character.
+[41:23] We have that reversal, that market structure shift, that everybody trades, but a lot of times in the wrong location.
+[41:31] And then they stay confused.
+[41:33] Well, why this one worked and the other one didn't?
+[41:36] What was the reason?
+[41:38] This is the reason.
+[41:40] Is that you trading against the higher time frame structure, against the higher time frame narrative.
+[41:46] So where is the last move down?
+[41:49] Well, this over here was all the way down like this.
+[41:55] So price retraces into that move origin over here.
+[41:59] And I bought this candle over here.
+[42:03] I buy-stopped this bearish candle that tapped into the move origin.
+[42:07] Also, this was a sweep of the number two because there is an SBS.
+[42:13] We got one, two, three, four, five.
+[42:17] My stop loss goes below the move origin.
+[42:21] And I simply trail and track the structure, making sure that we are not breaking the protected lows.
+[42:29] So we have the break of structure over here.
+[42:32] We got the break of structure over here.
+[42:35] Break of structure over here.
+[42:37] And I just keep trailing below these lows.
+[42:41] And over here I have my stop loss below here.
+[42:45] And I'm not paying attention to these retracements because I understand that we have this last swing point.
+[42:53] And we can come back all the way down to the move origin.
+[42:57] So I'm not touching my stop loss.
+[42:59] And then after this breakout over here, I trail.
+[43:04] And eventually my target was over here to make a new higher high.
+[43:11] And this was the trade that I took.
+[43:14] And you can watch the recording in the Stoic Traders Community.
+[43:18] I post recordings of my trades there, explaining the narrative, my logic, and everything.
+[43:24] But here's the trade that was executed based on the market structure alignment.
+[43:32] Even if you missed the trade, there was other opportunities to join the trade.
+[43:39] So let's say you missed this initial reversal.
+[43:43] We have last move down over here, right?
+[43:47] Price goes up. Price goes up.
+[43:49] We have the last move down over here.
+[43:52] That's fine. Price didn't retrace there.
+[43:55] But over here we have this last move down.
+[44:01] Price almost retraces over here.
+[44:04] Almost touches that last move down, but continues higher.
+[44:09] The best setup is going to come out at the move origin here.
+[44:13] So if you can catch the move origin setup like this, that's the best positioning.
+[44:21] And the highest RR towards this high.
+[44:25] When the price starts moving higher, it might not provide an extra opportunity to join.
+[44:32] And this works on every asset in crypto, in futures, in stocks, forex, wherever.
+[44:39] If it has a chart, it most likely will follow this type of framework of market structure.
+[44:46] So here you have it. A complete trading framework that you can apply right away.
+[44:52] You can go ahead and start backtesting.
+[44:55] Don't trust me. Okay?
+[44:57] Don't trust me. I am not your guru.
+[45:00] Be your own guru. Go backtest this and prove it to yourself that it works.
+[45:05] And develop rules around this framework.
+[45:09] And follow your own rules.
+[45:11] Because that's all you got. You versus you.
+[45:15] Look in the mirror. Don't blame anything else.
+[45:18] Don't blame your guru. Don't trust your guru.
+[45:21] Verify it to yourself.
+[45:23] And if you want accountability and a tribe of the like-minded traders,
+[45:28] consider joining StoicTraders' community at stoicedge.com.
+[45:33] That's where we all grow together as StoicTraders.
+[45:38] Traders who focus on the process and execution.
+[45:42] Not just getting lucky on one or two wins.
+[45:45] We are after long-term consistency and progress.
+[45:49] So with that being said, thanks for watching.
+[45:52] And no matter what happens in life, in trading,
+[45:56] no matter what happens, you always have to remember that the only way is up.

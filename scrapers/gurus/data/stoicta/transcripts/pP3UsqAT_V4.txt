@@ -1,0 +1,716 @@
+[00:00] Hello everybody, welcome back to another trading video. Today we are talking about trend following
+[00:05] trading model. This is the trading model that I use on a day-to-day basis. This is what I trade
+[00:12] and this is what I found the most success with. But before we get I want to remind you guys that
+[00:18] this video is not a financial advice. This is for educational purposes only. Please consult your
+[00:25] personal financial advisor before making any financial decisions. So in this video I'm going
+[00:31] to be talking about swing points, how to identify swing points as well as unmitigated areas,
+[00:38] S&Ds, zones, whatever you want to call it and how identify those. And at the end we're going to go
+[00:43] for some examples and executions. So before we begin I want to mention one of my favorite quotes
+[00:50] from Leonardo da Vinci. Simplicity is the ultimate form of sophistication and I really try to live
+[00:58] by this every single day. Not only with trading but the everything in my life. Most people think
+[01:06] that the more complex something is the better it is. And really it couldn't be further from the
+[01:14] truth. Just because you're going to attach and put on so many confluences and so many ideas into
+[01:22] this one trade it does not mean that that trade is going to have a higher probability of success.
+[01:30] For example let's take something very simple. Steak. Alright. How do you want your steak cooked?
+[01:37] Medium rare, some salt and pepper and that's it. The steak is not going to taste better because
+[01:44] you're going to put a special sauce on it. The steak is going to taste better because the quality
+[01:52] of meat is better. The higher quality of meat the better your steak is going to taste. And then also
+[01:59] there's preparation and execution. How can you cook that perfect steak? How can you prepare that
+[02:07] perfect steak? It's not about adding a special sauce and special spices on the steak. It's about
+[02:16] the quality of meat and how you prepare it. The same with sushi. You got all kinds of sushi
+[02:23] restaurants. You get all kinds making all kinds of sushi rolls. But if you have a highest quality
+[02:30] of fish and you know it kept up in the right temperature and prepare it at the right way
+[02:38] that's what tastes the best. The fish is not going to taste better because you put special
+[02:43] sauce on it. If the fish is high quality you can eat it raw. Right? All the sushi is raw fish.
+[02:50] So you will notice if fish is bad. Really it's all about the essentials and the fundamentals of
+[02:58] the things. The same with trading. We want to strip away everything to find the essential truth. The
+[03:06] fundamental truth that there is to the price action. So let's keep this trading model as
+[03:12] simple as possible so we can go on and practice our execution. Because it's not about the concepts.
+[03:21] It's about execution of the concepts. All right so let's start with swing points. What is a swing
+[03:28] point? Bullish swing point is established after price closes above the high and the
+[03:36] bearish swing point is established after price closes below the low. And I'm highlighting the
+[03:43] word closes because that's what is going to confirm and establish a swing point. A price
+[03:53] closing above a high. Closed above the high, pull back into the swing and goes back out.
+[04:01] And I'm not talking about double tops. Okay? That we have the second high sweeping the first high.
+[04:08] This is not the part of this model. We want to have a clean swing point and the swing point
+[04:16] is confirmed after price closes above the high or below the low. Swing point is established.
+[04:25] The bullish swing point is going to be the last move down before price breaks higher and the bearish
+[04:32] swing point is going to be the last move up before price breaks lower. This is the fundamentals to
+[04:38] this trading strategy. Without the swing point we're not going to execute the strategy. So
+[04:48] first of all we need a high that's broken and a comeback into the area at least into the 50%
+[04:58] and we look for a trade inside here. If we don't see this formation, the swing point,
+[05:05] if we don't see this we're not taking any trades at least according to this trading strategy.
+[05:12] So I'm going to say this again. It's not the tools you use to engage with price but where
+[05:18] within the structure you are looking to engage. And this is where another concept of simplicity
+[05:27] comes in. You know a lot of people think that structure is not enough and I'm saying
+[05:34] and also as I learned from Dave Deaches, okay the DTFX, that structure is all you need. And a lot of
+[05:44] people are going to be fighting about it. A lot of people are going to be arguing about it that there
+[05:50] is more. There is more to it than just structure but really structure is all you need. Structure
+[05:58] provides narrative. Structure is what you see on the chart and hopefully in this video I'm
+[06:05] going to prove it to you that structure is all you need but some of you not going to believe me
+[06:11] until you going to take these concepts and apply it on your own chart and see it happen every day.
+[06:20] It's going to come through back testing, forward testing, live executions and so on.
+[06:27] But yet again I'm here to give you the framework. It's going to be up to you to master
+[06:33] that framework and to execute that framework. And this is a simple schematic what we are looking
+[06:39] for. If you open the chart this is you might see this type of price action right. So we have a
+[06:46] swing point established in here. We have the last move down before price breaks higher.
+[06:53] We have a closure above and we anticipate a retracement down into 50% or at least 50%.
+[07:03] When we have a strong trend sometimes price does not come back to 50%. I understand that.
+[07:10] It happens you know price is not going to be always going to 50% but according to this trading
+[07:17] model I want you guys to focus on 50% okay because really the 50% is all you need and you will stay
+[07:28] out of a lot of bad trades if you just focus on taking trades at or below 50% in the long trades
+[07:39] and the short trades it's the opposite. We want to short above 50%. This is the first component
+[07:46] of this trading strategy. We want to have established swing point and only then we're
+[07:52] going to be looking for the trades at or below 50% and when the price gets there we're looking
+[08:00] for the signature reversal pattern and this is where we anticipate to enter our trade to take it
+[08:10] to at least to this zone high which is the swing point high from all the way up here.
+[08:16] This could be target also the new high could be target or we can maybe just target you know from
+[08:24] here to here one to one. This in itself is already a winning strategy but also we can refine it by
+[08:34] including unmitigated S&Ds unmitigated zones and here in orange I have highlighted unmitigated
+[08:44] zones and here you can see where the price traded up and left without mitigating this portion of the
+[08:58] price action. Ideally we want to find this little area of price action that was left unmitigated.
+[09:08] Price moves away, breaks lower, retracement is higher, comes into the area that we identify
+[09:18] and inside this area we're going to be looking for the same thing but on a lower time frame.
+[09:25] You can also identify that on the same time frame just as I'm explaining on this schematic
+[09:32] but it's most likely going to be on a lower time frame that you're going to see
+[09:37] the same type of pattern where we make a swing higher we break below and we come back into
+[09:46] unmitigated area that was left behind. The same with the longs we have this area that we trade
+[09:54] away from and here as you may notice I actually drew it as we are tapping into this area this is
+[10:02] where that pattern comes in where we have a first stop and then double bottom continuation
+[10:09] this is one way of the how price action plays out sometimes so the same way we have our swing
+[10:16] established we have our zone established high probability zone below 50 percent below or at
+[10:26] 50 percent it's going to be high probability zone that you want to identify ideally it's
+[10:35] completely unmitigated zone just like in a short about here and when we get to this zone
+[10:42] we watch for this pattern yet again it's it's every time it's the same pattern okay it's the
+[10:51] same pattern and here inside of this pattern we want to look for the same thing for the unmitigated
+[10:59] zone that was left behind so we have price going down into the zone and we're not taking trades
+[11:08] until price comes out and makes a new high makes a flip and then we look for the areas left behind
+[11:18] inside this little swing to take our entry here stop loss below the swing and we can take targets
+[11:29] to the one-to-one may target this zone high or target a new high this is the whole model right here
+[11:40] now the next step is to pair two time frames you want to have one high time frame like in here
+[11:51] and also you want to follow the lower time frame so you can spot this reversal on the lower time
+[11:59] frame now you need to be back testing and experimenting yourself what time frames do you
+[12:06] like for example 15 minute time frame could be your high time frame and this is where you
+[12:14] look to identify the swing points and then on a lower time frame one minute you're watching
+[12:23] for the price to after it breaks and establishes new high right you're watching for the price to
+[12:30] come back down not sure why i drew this over here but let's assume this is a wick in here
+[12:37] but anyway on the lower time frame we after we broke the high we look for the price to come back
+[12:43] down into our unmitigated zone and give us an entry inside the unmitigated zone so what is
+[12:51] unmitigated area unmitigated area is a footprint of institutions buying or selling so when we have
+[12:59] an area left behind that means there was a lot of strong buying in here and most likely these
+[13:05] are institutions that buying it up but we still got to come back to fill those inefficiencies left
+[13:12] behind and this is where we going to find our opportunity to enter here's another example
+[13:20] schematic and i promise you i'm getting to some actual charts but here to reinforce the concepts
+[13:26] we have the trigger the trigger is the swing point established right and we broke a bow
+[13:33] closed above it so this the first criteria met we have a swing point established now we wait
+[13:41] for the price to come back at least 250 or below so as you can see here like this is around where
+[13:50] the 50 is and the price dipped below that that low and provided some push but ultimately we still
+[13:58] had this unmitigated zone left behind so we can anticipate this little trend to end and come back
+[14:08] down for this final piece in here and then after it comes down in here we look for the reversal
+[14:15] and we enter in here this is the ultimate target the new swing high you can exit one to one
+[14:22] one to one from this zone is is very good or you can exit at the swing point high right here swing
+[14:31] point in here established there's 50 there is a swing point high there is a swing point low so
+[14:37] you can have a trade going from 50 to the swing point high and you can have a stop loss below
+[14:44] the swing point low that's the simplest trading model you can have but you still got to backtest
+[14:50] this to find out which zones fail which zones hold and to train your eyes and to actually get
+[14:58] used to reading the the market because a lot of people like i said instead of keeping it simple
+[15:05] they add on so many confluences so many ideas into one trade that they end up with analysis
+[15:13] paralysis and then any little thing can throw off their original idea off so that's why i like to
+[15:21] keep it simple trigger entry target trigger entry target trigger entry target trigger is the swing
+[15:28] point entry is unmitigated snd flip target is the target new high here's another version of this
+[15:36] schematic so this is going to showcase the logic of the swing point and how swing points really work
+[15:43] a lot of the times you have the swing point established and we we have a closure above and
+[15:49] then what happens is that all of this price action in here that is not coming down to this unmitigated
+[15:58] snd this is could be considered as inducement where the smart money inducing the retail to
+[16:05] you know try take longs and longs again and then maybe shorts from here and this is all engineered
+[16:13] liquidity and you're going to see it on a lot of swing points like this where we have
+[16:19] consolidation right at the top of the range and then we have a dip and we have a quick
+[16:27] move out after mitigating unmitigated area and in here we could be looking for our setup this is
+[16:36] your classic accumulation manipulation and distribution and usually and people not really
+[16:43] aware of this but when they're talking about the accumulation manipulation distribution
+[16:50] usually it's all happening inside of the swing point and that's why i'm keep telling you guys
+[16:59] i keep talking about market structure is the most important thing market structure is the narrative
+[17:06] what's the narrative here we have established swing point so we bullish right we overall this
+[17:13] is a bullish swing point now we need to find out where to buy okay because we can buy it in the
+[17:18] top of the range we can buy the 50 we can buy at the bottom of the range but where do we buy
+[17:25] so that's the next one so what is the narrative here we we went up we closed the ballot and we
+[17:30] consolidating we consolidating right above our unmitigated area and this is where we want to
+[17:38] take a trade so when we see the consolidation above our area we know that this could be a trap
+[17:46] this could be inducement the smart money engineering the liquidity for the final
+[17:51] manipulation down and up because the narrative is bullish so this is the highest probability setup
+[17:59] right here when we have inducement we have engineered liquidity we have a manipulation
+[18:08] into unmitigated zone and this unmitigated zone should be responsible for something and usually
+[18:15] it's going to be responsible for breaking some structure in here maybe like overall structure
+[18:20] all the way there sometimes we have this as an snd responsible that i talked about in my previous
+[18:29] videos this could act as an area that will put a new high but overall this is part of the inducement
+[18:37] still this would be snd responsible and this is would be move origin in a very bullish market
+[18:43] sometimes we don't come back to the below 50 percent sometimes we just bounce off of the
+[18:49] snd responsible and that's fine you need to backtest and find out for yourself which trades are you
+[18:56] willing to take because i rather wait to 50 percent or below 50 percent because i know
+[19:03] that we could run into some shenanigans right on top of the range and i don't want to be caught
+[19:11] in a ranging environment when i'm looking for the continuations right so again a lot of people
+[19:18] are gonna run into the trouble because they might be longing here instead of waiting for this
+[19:25] it's all about the rules and you gotta follow your own rules all right so let's take a look at some
+[19:32] examples i found some random trades on nasdaq we're gonna be using 15 minute as our
+[19:40] high time frame and one minute as our lower time frame so number one we have our swing point
+[19:47] established we have the last move down before price breaks higher we have a closure about the
+[19:54] swing point so now we anticipate price to come back to 50 percent of the swing point and at the
+[20:02] 50 percent we're going to be looking for our setup as far as unmitigated snd that we are looking
+[20:11] for this is this candle in here this this whole candle is going to be unmitigated snd because
+[20:20] this candle in here closed the bow we went up right and now we're coming back to test
+[20:29] this snd also if you might notice there is this first step and if you follow me on twitter you
+[20:36] will understand me this is the first step that acts as an inducement going back to our schematic
+[20:44] this is the first step in here that acts as an inducement and this is the the double bottom
+[20:52] continuation that goes to make a new high okay and this is hard to see on 15 minute it's all
+[21:00] gonna depend what you're going to choose to follow as your higher time frame and it's gonna come from
+[21:05] backtesting you need to see the swing points form you need to see what happens after the swing point
+[21:14] so here on one minute once we got into that 50 percent right we tapped exactly 50 percent and
+[21:23] sometimes it's crazy precision like that we we tap 50 percent and what happened on one minute we have
+[21:31] a flip right this is the flip we have high low higher high and we came back where we came back
+[21:42] to the unmitigated area to unmitigated candle see these two candles the last move down before
+[21:51] price breaks higher is unmitigated it's never been tapped so we go tap this candle in here
+[22:00] and we immediately shift higher so this is what we're really looking for we're looking for the
+[22:08] flip on the lower time frame and then the unmitigated area to get in and as you can see here
+[22:18] this is was actually the only one unmitigated area sometimes you're going to have area on top
+[22:24] of the range which is less probability right what did i say i said at least coming back down into
+[22:33] 50 so but when we don't have unmitigated areas at 50 or below this is going to be the most likely
+[22:42] area that to support price because if we fail this area i would be anticipating going down below these
+[22:51] mitigated areas these areas already been mitigated as you can see we break higher we tap back in
+[22:57] break higher tap back in but only this area was left unmitigated after breaking this high so this
+[23:06] is exactly what we're looking for and then our target could be the zone high right which is that's
+[23:13] a small target here we could maybe hold it higher to this right this this is a zone could act as a
+[23:21] rejection and it did right this zone act as a rejection so this could be your target so we
+[23:29] we take a trade from here to here bam done done for the day that's how many points is that you
+[23:35] know there's 10 15 points in there and we don't have to hold to the ultimate target this is the
+[23:41] final target which is a new high let's take a look at another example we have a bearish swing in here
+[23:47] so number one bearish swing is established right we broke below closed below the bearish swing on
+[23:55] a 15 minute chart and now we anticipate a comeback into the 50 percent and into unmitigated zone
+[24:06] which is right here and we we tapped and rejected immediately right this is that unmitigated zone
+[24:16] right we we have a move up and shift lower without coming back and tapping the zone we only came back
+[24:25] and tap the zone after breaking the low so this swing point is confirmed so now this area in here
+[24:34] is going to be a high probability area for us to take a trade lower so again we're going to our
+[24:42] one minute and what do we see we have low high lower low and continuation down the same thing
+[24:53] is happening in here we have this swing point established after we break below the swing point
+[25:03] there is a candle closure below we look for the come back into where 50 percent and come back into
+[25:13] what unmitigated zone that's left behind so really you see this zone is responsible for breaking a low
+[25:23] and also was left unmitigated see there is a imbalance there is a gap in there
+[25:29] stop loss goes about here target goes to one to one or we have target zone low right there's a whole
+[25:39] zone low this is another target or the ultimate target we make a new low and i really suggest you
+[25:45] to start with one to ones and just try to get you know five points stop loss five point target on
+[25:53] i'm talking about nasdaq and q that's what i'm trading i'm trading futures nasdaq here's another
+[26:00] example with inducement we have this swing point that's left behind we went up right closed about
+[26:08] it and now we anticipate a pullback down at least to 50 percent right we trade higher we come back
+[26:15] down this is trade in itself if you know what you're doing you can buy below these lows and
+[26:22] take it higher but that's not what we're talking about here today this is not our trade because
+[26:27] it haven't reached 50 percent so we wait all of this and remember what i said this is inducement
+[26:35] this is engineered liquidity this is accumulation we have final manipulation and we have expansion
+[26:43] higher what happened in here we left this area unmitigated you see this in here this is unmitigated
+[26:54] move origin that we came back to and in here is where we're looking for our setup so what happened
+[27:01] on one minute we dipped below 50 we tapped into unmitigated zone in there and now we're looking
+[27:09] for our flip so what happened here what is this it's a flip right tp one one to one tp zone high
+[27:20] and the final tp could be the new high so yet again this is why i'm saying be careful of taking
+[27:27] zones on top of the range because they could be liquidated they could be swept just like we had
+[27:34] in here but ultimately you want to have stop loss below here below the swing low
+[27:42] on one minute after breaking out so this is our trigger we have swing point established we wait
+[27:49] for the price to come back into our unmitigated zone and we went higher and look look again right
+[27:56] we price keeps breaking higher comes back into unmitigated zone you see all of these imbalances
+[28:03] in here this is tells me that that's a gap price went higher this is institutional sponsorship
+[28:12] now they have to come back and mitigate this area because they they had so much buying in here
+[28:18] that they left unfilled orders in here market comes back to fill these orders and we take our
+[28:27] we are now entering into the bullish trend so what happens again we have this swing point
+[28:34] established right we come back into unmitigated zone in here right this this last move down
+[28:42] this whole thing and we trade higher and look what's happening on each swing as i said we have
+[28:49] foged up all of this swing part again
+[28:55] right now it seems graphic changes right so we have two LOWs and GO même.
+[29:03] if you notice remember you can have a good lock if you even some little cargo
+[29:17] So, keep that in mind, but this is essentially what we are looking for.
+[29:22] And it's all the same across all the time frame, every time, every day, all day long.
+[29:29] Alright guys, let's do some back testing and I'm going to show you how to anticipate and
+[29:34] execute these trades.
+[29:36] So just to prove a point that market structure is all you need, I'm going to be trading on
+[29:41] 15 second chart as my high time frame and 1 second chart as my lower time frame.
+[29:47] And actually here you can see this is 12 tick chart, which is about the same as 1 second
+[29:53] chart and it's just smoother candles and just easier to see than 1 second.
+[30:00] But it's still going to depend on volatility how these are going to look.
+[30:04] But anyway, we're just going to go to whatever, February 14th, let's go after 10.30, after
+[30:11] retail gets wrecked and maybe we can see some better price action, 10.42, that's fine.
+[30:20] Let's see, let this update and quick, we're going to try to find out where we are.
+[30:28] So currently we are in this swing in here and I guess you can say we bullish, I don't
+[30:38] really hold the bias because I don't care which direction to trade.
+[30:43] If I see my setup, I'm going to execute my setup, which is established swing point.
+[30:49] We have established swing point, but this is a swing point on the high time frame.
+[30:53] There is different trend inside of this, which is downtrend.
+[30:58] You can see after closing about high time frame high here, this is some high time frame
+[31:03] swing point in here.
+[31:06] So after closing about this high, we are bullish, but I'm not going to be just entering any
+[31:12] bullish trades unless there is a flip, right?
+[31:17] So if we're looking for our unmitigated zones, maybe we can bounce.
+[31:25] There's a mitigated zone in here.
+[31:29] Maybe we can bounce from this little zone.
+[31:33] Everything else in here looks like mitigated.
+[31:35] There is unmitigated little thing in here, but I'm not going to be taking bullish trades
+[31:43] until we have a flip, right?
+[31:46] We are in a big swing, so I wouldn't be focusing on a smaller swing.
+[31:51] I don't really care what's to the left in there, right?
+[31:55] I just know maybe we can bounce from these areas in here, but ultimately I'm going to
+[32:00] be focusing on the downtrend until we flip bullish.
+[32:03] So let's mark out some unmitigated zones.
+[32:09] We can pay attention here.
+[32:12] From the top, when we reversed, it provided nice short setups.
+[32:18] So first of all, this is unmitigated zone on top of here.
+[32:24] It also tapped right into that unmitigated candle right at the move origin over there.
+[32:31] As long as we keep breaking lows, it's going to keep giving us these nice setups in here.
+[32:39] That are short, right?
+[32:42] So now the latest swing, we are right now in this short swing, this bearish swing.
+[32:51] And there is this high candle in here that we can target as an unmitigated candle.
+[33:00] And let me see what's here on the one second.
+[33:07] As you can see, we have this move up and a sharp move down, leaving this whole thing
+[33:13] in here, this whole area unmitigated.
+[33:17] So I'll be anticipating a comeback maybe to this area and maybe a short out of this area.
+[33:25] All right?
+[33:27] And you also can see in here, right?
+[33:29] This looks like it's coming back up.
+[33:32] This looks like flipping.
+[33:35] I'm not going to be entering those because that's not part of my rules.
+[33:38] I'm going to be waiting for a mitigated area and waiting for the flip.
+[33:43] So we're just going to wait until this price action unfolds and see what we do when we
+[33:49] touch our area on top.
+[33:52] And you can see this is a bullish area we can bounce from.
+[33:59] This was unmitigated.
+[34:01] So that's an area.
+[34:05] This is probably, look at this, bam, going higher.
+[34:07] So see, ultimately, it's going to that zone.
+[34:09] But I'm not going to take this trade because it's not part of my rules.
+[34:13] I want to show you guys that discipline is the best thing.
+[34:16] Oh, look at this.
+[34:18] Goes up, goes down.
+[34:20] I'm going to short this.
+[34:22] I'm going to short this unmitigated thing in there.
+[34:28] Let's see if it works.
+[34:31] Let's see, we're going to put our stop above here.
+[34:36] Very tight stop.
+[34:37] Oh, immediately goes lower.
+[34:38] Look at this.
+[34:40] From our, oh, there it is.
+[34:42] Bam.
+[34:43] Quick.
+[34:44] I love this.
+[34:46] It just goes quick straight to the five points.
+[34:49] And I get it.
+[34:50] It's probably going to go lower to break this low.
+[34:53] But look at this precision.
+[34:55] This is unbelievable.
+[34:57] Wow.
+[34:59] And it actually rejected from this little thing in here, right?
+[35:03] But what I was waiting for, I was waiting for this to happen.
+[35:08] I was waiting for this to happen.
+[35:12] Right?
+[35:13] Target filled.
+[35:14] This is all you need.
+[35:17] But where you're looking for this, that's what's important.
+[35:23] Where are you going to be looking for this?
+[35:26] You know?
+[35:27] It kind of looks like this in here, but it hasn't reached our identified zone.
+[35:35] Right?
+[35:36] So that's why, see, when we mark out the candle, that last candle, as it tapped into it, immediately
+[35:44] shift lower and a new low.
+[35:46] That's way more than five points, but I don't care.
+[35:49] I just want my five points and I could be done for the day.
+[35:52] Right?
+[35:53] I could be done for the day right now.
+[35:56] But we're going to keep looking for another trade.
+[36:01] Let's see one more trade and then I'll be done for the day.
+[36:03] Let's see, maybe we can find a bullish trade, but we're going to be waiting for the...
+[36:09] Right?
+[36:10] And we have this.
+[36:11] So this on tap.
+[36:14] This fractal tapped into that zone on tap.
+[36:17] So this would be a high probability, maybe short out of this.
+[36:21] Let's see if this happens.
+[36:23] But let it play out.
+[36:26] We have this zone below, but yet again, we are bearish, so I'm not just going to be taking
+[36:31] this random zone because we are bearish.
+[36:37] It could flip in here, but I'm not taking it.
+[36:39] Here again, I'm not going to take it because that's not part of my rules.
+[36:44] I'm waiting for this to come back all the way up here.
+[36:47] And see, I guess you could take it, but there's not a clean setup in here.
+[36:53] And I want a clean setup.
+[36:56] So we keep going.
+[36:59] And breaking down, this is really I need a deeper mitigation of the swing.
+[37:05] Right?
+[37:06] I want to see it trade all the way back up here and then maybe have another opportunity
+[37:11] to short.
+[37:12] If not, if not, I'm not going to argue with price.
+[37:14] I'm going to anticipate what I'm looking for.
+[37:21] Fake flip comes into unmitigated area in here.
+[37:26] I'm not taking it, but it still works.
+[37:30] I'm just trying to filter out lower probability trades and only take the highest probability
+[37:37] that I see.
+[37:41] And how to learn?
+[37:42] By practice, practice, practice, practice and identifying the right zones and the right
+[37:48] zones, the highest probability zones going to be the ones that are unmitigated.
+[37:56] So this looks, I don't like how it looks.
+[38:00] This could be inducement.
+[38:02] So again, we still have that zone above that I'm looking for price to get traded to.
+[38:11] If not, not.
+[38:13] We're going to relax.
+[38:16] But this looks like maybe we could be flipping in here or something.
+[38:20] But yet again, I'm not going to place any bullish trades until we have a clear flip.
+[38:26] We could be coming for these lows in here.
+[38:30] All right.
+[38:31] That's fine.
+[38:32] Let's see if we can reach this zone in here.
+[38:42] Maybe take another short.
+[38:44] Yeah, I'm going to delete this zone now because we did get a bounce from it.
+[38:48] Yeah, we did.
+[38:49] But like I said, I'm not going to be taking because it's against the trend.
+[38:56] Now this looks like a flip in here, right?
+[39:02] This whole thing looks like a big flip.
+[39:07] Right?
+[39:13] Let me see what happens here.
+[39:25] What happens inside the zone?
+[39:38] Looks like we shifted, but I don't really like it that much.
+[39:46] Don't really like it.
+[39:55] All right.
+[39:56] Looks like we actually did flip.
+[39:57] All right.
+[39:59] It came into the zone.
+[40:01] We flipped.
+[40:02] Let's see if we can get a trade in here.
+[40:11] It's probably too late.
+[40:14] It's probably too late.
+[40:15] I'm not going to stress it.
+[40:18] I'm going to remove the trade.
+[40:21] It's not liking what's going on here.
+[40:25] See it's flipping.
+[40:28] Let's see where else it might be skipping this area.
+[40:34] Maybe it's going to flip bullish.
+[40:36] So see again, I'm anticipating flipping bullish because we are inside the bullish swing on
+[40:47] a higher time frame.
+[40:48] So I'm following 15 seconds.
+[40:50] So let's see what happens in here.
+[40:55] This all looks like a range to me.
+[40:58] You see this was swinging.
+[41:00] This wasn't mitigated.
+[41:01] It bounced from there.
+[41:03] Let's see where it's going.
+[41:04] I don't know if it's going actually.
+[41:08] Yeah, this could be.
+[41:10] So we had this.
+[41:12] All of this was inducement.
+[41:15] You know, I couldn't really, I didn't like what I see.
+[41:20] So that's why I didn't short it.
+[41:24] Let's see where we end up.
+[41:25] Are we going to break lows or not?
+[41:28] Let's see.
+[41:29] You know, oh, that's a switch.
+[41:33] That's a flip.
+[41:35] Okay, that's a flip.
+[41:41] So let's take a look.
+[41:43] So first of all, we broke above this, right?
+[41:56] So there is a bullish flip in this.
+[41:58] And look at this.
+[41:59] What's going to happen in here, right?
+[42:01] I'm going to set a buy limit on this S&D responsible, right?
+[42:07] Is that a flip?
+[42:08] That's a flip.
+[42:09] Let's see.
+[42:10] Oh man, come on.
+[42:17] Come on.
+[42:21] Let's see if this works out.
+[42:24] All right, I want to track.
+[42:32] Wait.
+[42:35] There it is.
+[42:41] There it is.
+[42:44] I'm just going to put this to break even.
+[42:47] Oh, and we got a target.
+[42:50] So what did we do in here?
+[42:52] We identified that this was a flip, right?
+[42:56] So if we want to track the candles, the flip happened here.
+[43:01] See this candle broke this low.
+[43:05] And these little candles in here, they are part of this big candle.
+[43:09] See they sweeping this big candle.
+[43:11] So this is not part of structure.
+[43:14] And then after we broke down below and broke back up, this in here is a bullish flip.
+[43:24] This is very early bullish flip.
+[43:26] If you can't see this, stay out and wait for more flips.
+[43:31] But what happened?
+[43:33] We came into here, left this unmitigated, broke out higher and came back where?
+[43:42] To S&D responsible.
+[43:44] So see this is what we see on one second.
+[43:48] On one second, guys.
+[43:50] Okay, this is one second chart.
+[43:52] Look at this.
+[43:54] Comes into S&D responsible, the unmitigated zone and shifts out of it.
+[44:01] So we get stopped below here, target five points, entry at S&D responsible.
+[44:09] Amazing stuff.
+[44:10] This is two trades I took, right?
+[44:13] Patiently waiting for what I want to see and executing on my one thing that I know repeats
+[44:21] every single time.
+[44:26] Okay, so now I'm thinking maybe we're flipping bullish, right?
+[44:29] I had a nice success.
+[44:31] Look at this zoom in.
+[44:32] If we don't reject and in here, this is zooming out.
+[44:36] Amazing.
+[44:37] Look, this is another swing in here could be established.
+[44:41] Let me see if it's closing above.
+[44:46] Close the bow.
+[44:47] We're gonna look below right in here.
+[44:52] This is where I want to see price to come back to.
+[44:56] See this whole thing in here?
+[44:57] This is unmitigated, right?
+[45:00] And even come back down here, this is unmitigated.
+[45:05] So let's see if price gonna come back down.
+[45:07] This is below 50%, right?
+[45:11] And let's see what happens.
+[45:12] Oh, let's see, let's see.
+[45:16] Okay.
+[45:18] Okay.
+[45:21] Can we have a flip?
+[45:24] Hmm.
+[45:25] Nope.
+[45:26] Nope.
+[45:27] Oh, wow.
+[45:28] Okay.
+[45:29] Alrighty.
+[45:31] So this was a small flip in here, right?
+[45:36] This was a small flip, but we couldn't make a bigger flip, right?
+[45:43] So we can see this bullish flip on the lower time frame.
+[45:47] So that's why I was so confident into taking this bullish flip is because we established
+[45:58] and this is a swing on the one second I see, okay?
+[46:04] On the one second we had this swing up, close above it, had an inducement above it, and
+[46:12] then came back into unmitigated area, made a flip and shift higher, but then reversed
+[46:20] completely and there is no flips.
+[46:22] See after it's reversed in here, no flips.
+[46:24] So I was looking for the flips, right?
+[46:27] But no flips, so we go break lower.
+[46:29] So now we back to the bearish because we couldn't break above this one.
+[46:35] You know, in here it's really hard to justify that this is a flip.
+[46:40] It's really hard to see, but there is a small flip.
+[46:43] There is a small bullish flip in here.
+[46:46] If you can't see this, stay out and keep waiting for your high probability areas.
+[46:53] There is another short could be coming out of this.
+[46:57] Let's see.
+[46:59] And really I want to see maybe like go back all the way up here.
+[47:13] Let's see, we closed below, right?
+[47:15] Let me see it.
+[47:17] Closed below, so we are currently in this swing in here.
+[47:21] And, I mean, I don't really know, oh this swing in here, sorry.
+[47:25] There it is.
+[47:27] I don't really know if we are going lower or higher, see.
+[47:31] That's fine.
+[47:33] I don't really care about left.
+[47:35] I want to see what's going on on the right.
+[47:37] I want to follow price instead of think where it's going.
+[47:41] So currently this is just going down, right?
+[47:43] Going down, I don't know what to do in here.
+[47:47] I want to see a comeback at least, you know, at least to this fractal.
+[47:54] You know, I want to come back higher really.
+[47:58] Let's see what's going to happen.
+[48:00] I don't care about anything in here really, not really.
+[48:04] Unless we start maybe closing about these candles, that would be like a smaller flip for me.
+[48:11] But really the highest probability is going to be short from these areas in here.
+[48:24] Just going to let the price play out, see what's going to happen.
+[48:38] We haven't touched the zone above.
+[48:40] I'm not going to be interested in any of this.
+[48:42] I want to see a zone touch.
+[48:46] Yeah, I'm not interested.
+[48:48] Well, this is flipping bullish.
+[48:54] Like I said, there are small bullish flips in there.
+[48:57] And you can see in here, this was a flip, right?
+[49:01] We came back all the way up here and came to test this area in here.
+[49:07] I really missed it, I guess.
+[49:10] But I'm not going to be interested, like I said, unless we come in.
+[49:14] Look at this.
+[49:16] I missed this too already by talking.
+[49:19] Okay, yeah, did I missed it?
+[49:30] But we haven't touched, right?
+[49:32] We haven't touched those areas and I don't really care, guys.
+[49:36] You know, I got clapped so many times by taking stupid trades, not following rules.
+[49:44] But I don't want to be clapped again and again.
+[49:48] I want to high probability trades.
+[49:50] I want to take maybe one to three trades a day and I'm done.
+[49:54] I'm done.
+[49:56] I don't need to sit in front of the screen after taking one or two trades.
+[50:01] Because I'll let the copier do the heavy lifting, right?
+[50:06] I'll let the copier copy the same trade, the same highest probability trade that I can find.
+[50:13] Across all of my accounts that I have.
+[50:16] So it's really about taking the best trades and trying to identify the best trade you can.
+[50:23] And I just don't understand why would you want to try to look for it on higher time frame.
+[50:30] Where here, like I'm showing you here, this is 15 second chart.
+[50:36] I mean, yeah, it's kind of sped up or whatever.
+[50:39] It says it's the same, but it feels sped up to me.
+[50:44] We've been here only for like 10 minutes.
+[50:47] You know, and I took two trades and got 10 points.
+[50:53] So it's not about, you know, trying to find the best setup on high time frame.
+[51:01] It's about trying to find the quickest setup you can.
+[51:05] At least in my opinion.
+[51:08] I'd rather take these two scalps, three scalps, whatever, and I'm done for the day.
+[51:14] Honestly, like if I'm feeling like passing a challenge or whatever,
+[51:18] I'll be trading all day long and try to pass a challenge with just these quick scalps.
+[51:25] Or I might take like a high leverage trade and pass it in one, two scalps.
+[51:30] But it's all about the trading setup.
+[51:33] So we keep trading lower.
+[51:35] We keep trading lower.
+[51:37] There's nothing to see to the left.
+[51:41] Let me see what's one second doing.
+[51:43] Hold up.
+[51:44] Yeah, we're getting some kind of shenanigans here.
+[51:47] Kind of close the bow here.
+[51:51] But no flip on this time frame.
+[51:54] So 15 second.
+[51:55] Let me see what the hell is going on in here.
+[51:58] This might be printing a reversal or something.
+[52:01] But yet again, our short, if we're going to go up, it's going to come from here.
+[52:08] You know, that's where our high probability short is.
+[52:12] Look, comes down lower.
+[52:14] Okay, that's fine.
+[52:19] That's the whole zone.
+[52:21] I'm going to just reduce it to unmitigated area.
+[52:25] It's right there.
+[52:27] Really, I would like to take a trade from here because this on one second, you can see
+[52:34] this is a kind of inducement.
+[52:38] Let's see what we do.
+[52:40] All right, we tap into another area identified to the left, which we really don't care about.
+[52:47] This is a very heavy downtrend.
+[52:49] It just keeps downtrending.
+[52:51] We tried to flip it in here.
+[52:53] We couldn't.
+[52:54] So keep downtrending.
+[52:57] I don't care about that area really.
+[53:00] Because I'm focused on the shorts.
+[53:03] And yeah, we have that wick.
+[53:07] We also, yeah, we also have this, but this is getting tight.
+[53:15] See how it's getting tight?
+[53:16] I think this is going to get ready to flip.
+[53:19] You know, we might be able to do a flip or rune in here.
+[53:24] I'm really watching 15 second chart, you know, because I'm not really interested in this
+[53:30] price action, right?
+[53:31] I'm not interested in this.
+[53:33] I want a clear swing.
+[53:35] I want a clear swings.
+[53:37] I see this is like, don't like that.
+[53:41] This could be a flip in here.
+[53:43] This could be bullish flip if we can close about that candle.
+[53:48] We know closing about that candle.
+[53:49] So let's see what's happening in here.
+[53:51] One second.
+[53:53] And yet again, this is 20 minutes in.
+[53:55] We could be done.
+[53:57] We could be done.
+[53:58] Two trades, I'm done.
+[54:00] Really, again, if we come back out of this, I want to see maybe coming into this area.
+[54:08] And like I said, I want to take trades above 50%.
+[54:12] I don't want to take trades below 50%.
+[54:15] So this is just keep selling off, you know.
+[54:21] We are back at the loss.
+[54:24] And see, that's why I keep trying to tell you, follow the trend.
+[54:29] Trend is your friend.
+[54:31] So if it's dumping and there is no bullish flip, like what are you trying to do?
+[54:36] Maybe long these areas in here.
+[54:39] You know, ain't gonna work, right?
+[54:42] Not gonna work.
+[54:44] Boom.
+[54:45] Ah, this looks like a flip.
+[54:47] I'm not gonna trust this.
+[54:50] This is very...
+[54:51] Okay.
+[54:52] Yeah, don't like it.
+[54:55] Don't like it.
+[55:02] Don't like it.
+[55:03] So, yeah.
+[55:06] Just sold off.
+[55:08] Yeah, see, it's too tight.
+[55:11] It's too tight.
+[55:12] There is no swings in here.
+[55:14] You know, I'm not interested in it.
+[55:17] Give me some bullish swings at least and maybe we can talk about it.
+[55:22] Now, let's speed this up because it's not getting swings.
+[55:27] I wanna see a bullish swing.
+[55:35] Okay.
+[55:37] This looks promising.
+[55:40] Let's see a closure above here.
+[55:47] All right.
+[55:57] Let's assume we have a closure there.
+[55:59] Let me see.
+[56:01] 1x.
+[56:02] So, there is the bullish.
+[56:06] So finally, we're having some signs of bullish price action.
+[56:11] So, what we're gonna do, we're gonna anticipate a retracement down below in here.
+[56:17] This is around 50% or whatnot, right?
+[56:20] So, let's see.
+[56:27] Okay.
+[56:28] Looks like a flip.
+[56:29] Looks like a flip.
+[56:31] And no flip.
+[56:33] Oh, oh.
+[56:36] Okay.
+[56:37] Well, no flip.
+[56:38] All right.
+[56:41] So, messy, messy.
+[56:44] Oh, that's a flip.
+[56:46] That's a flip.
+[56:47] All right.
+[56:49] That's a flip.
+[56:50] Isn't it?
+[56:53] Flipped.
+[56:56] I would like to see it come back to at least here.
+[57:00] I don't know if it will come back all the way there.
+[57:03] There it is.
+[57:04] We're gonna put our stop in here.
+[57:10] Okay.
+[57:14] Stops to break even.
+[57:16] Just gonna trail it a little bit.
+[57:19] Oh, oh, oh.
+[57:22] And there it is.
+[57:23] Bam.
+[57:24] Yeah, so we identified the zone.
+[57:26] Yeah, I get it.
+[57:27] It went down lower.
+[57:29] That's fine.
+[57:31] We still anticipate the flip.
+[57:33] And see, that was the flip.
+[57:35] There is your flip.
+[57:37] We had a high.
+[57:38] We had a low.
+[57:40] Very high.
+[57:41] Comes down into what?
+[57:43] Unmitigated area.
+[57:45] Bam.
+[57:47] And this is our trade.
+[57:50] This is how we roll.
+[57:51] See, we flip bullish.
+[57:53] We look for the bullish stuff.
+[57:56] And we take our profit at five points.
+[57:58] So we take it at this high.
+[58:03] Right?
+[58:08] Right?
+[58:09] But it's up to you how you're going to trade this.
+[58:14] That was it.
+[58:15] Three trades.
+[58:16] You can be done for the day.
+[58:17] You can be done for the week, depending on your strategy.
+[58:20] But it's really all about taking the best setups.
+[58:25] The best setups you can find.
+[58:27] It's all about refining that best setup and taking the same thing over and over and over
+[58:34] and over again.
+[58:36] And you're going to have trades that might look like your setup, but keep in mind, your
+[58:41] rules need to be followed.
+[58:44] Because the only way to lose is to not follow the rules.
+[58:48] I promise you, there is no concept that's going to work 100% of the time.
+[58:55] This is as close as it gets to working 100% of the time.
+[59:00] I promise you.
+[59:01] I learned almost every concept there is.
+[59:06] This is the best that's working for me.
+[59:09] And that's why I'm making these videos so you can take advantage of this information
+[59:14] too.
+[59:15] Alright, guys.
+[59:16] Well, hopefully this video was insightful and helpful.
+[59:20] Answered some questions.
+[59:21] If you have more questions, leave them down in the comments below.
+[59:25] I will try to answer them in my new videos.
+[59:28] Also you can ask me questions on my Twitter, on my ex account, whatever you call it now.
+[59:34] It's at stoicTA.
+[59:37] So you can ask me questions there.
+[59:40] But thanks for watching and I will see you in the next video.
+[59:44] Take care.

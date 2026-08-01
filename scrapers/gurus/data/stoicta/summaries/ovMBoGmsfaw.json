@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "ovMBoGmsfaw",
+    "title": "Market Structure Deep Dive (Full tutorial for Beginner and Advanced)",
+    "url": "https://www.youtube.com/watch?v=ovMBoGmsfaw",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/ovMBoGmsfaw.json"
+  },
+  "stats": {
+    "word_count": 9973,
+    "duration_seconds": 4031.4,
+    "segments": 890,
+    "concepts_detected": 5,
+    "candidate_strategies": 2
+  },
+  "concept_mentions": {
+    "Liquidity": 13,
+    "Fair Value Gap": 14,
+    "Market Structure Shift": 5,
+    "Order Blocks and Breakers": 9,
+    "Premium and Discount": 4
+  },
+  "spoken_time_references": [
+    "Asia session",
+    "London session",
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 2545.3,
+          "end": 2564.9,
+          "text": "ICT, FVG, whatever inverse FVG could be who knows. But then the important part, we want to sweep some kind of internal range liquidity first because that's that's where the retail stop losses are. They keep trailing the stop losses on the trend.",
+          "concepts": [
+            "Liquidity",
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 20
+        },
+        {
+          "start": 2706.8,
+          "end": 2714.6,
+          "text": "FVG in here. Trendline liquidity, right? There is a bearish market structure shift.",
+          "concepts": [
+            "Liquidity",
+            "Fair Value Gap",
+            "Market Structure Shift"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 18
+        },
+        {
+          "start": 3457.22,
+          "end": 3473.58,
+          "text": "And we have that FVG and we have that tap into the previous zone. If we're following our rules, we want to see liquidity sweep, tap into the zone below, reversal pattern, violation of S&D and target high.",
+          "concepts": [
+            "Liquidity",
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 16
+        }
+      ]
+    },
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 488.2,
+          "end": 509.9,
+          "text": "We look for this reversal pattern, the same reversal pattern that we were talking about in the previous video. You wait for this pattern and because you're expecting a bullish continuation, you know, this is an entry here. And we could, this could be a one hour entry with one minute or five minute flip.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 10
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 136.6,
+      "end": 157.2,
+      "text": "And again, market structure is why the price moves. Because as we create highs and lows, about those highs going to be liquidity, about those below those lows going to be liquidity. So market moves from liquidity to liquidity and creating structure and building market structure.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 405.6,
+      "end": 415.5,
+      "text": "Maybe this is a mitigated area or something here that is sweeping the low over here. Maybe there is imbalance there. Maybe there is an order block there.",
+      "concepts": [
+        "Fair Value Gap",
+        "Order Blocks and Breakers"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 488.2,
+      "end": 509.9,
+      "text": "We look for this reversal pattern, the same reversal pattern that we were talking about in the previous video. You wait for this pattern and because you're expecting a bullish continuation, you know, this is an entry here. And we could, this could be a one hour entry with one minute or five minute flip.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 10
+    },
+    {
+      "start": 1995.3,
+      "end": 2011.6,
+      "text": "So 70% of course is the biggest discount here, right? So the biggest discount is where we want to buy our longs. We don't want to buy them in a premium, but we understand that we can still buy them in a premium because this area responsible.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 2072.1,
+      "end": 2091.0,
+      "text": "So now this area becomes an important area. And you can see there's, I marked out there's an order block. So the last down candle that becomes an order block, an institutional order block, whatever you want to call it, ICT or reclaimed order block.",
+      "concepts": [
+        "Order Blocks and Breakers"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 2486.1,
+      "end": 2498.9,
+      "text": "No, there should be a narrative and rules behind you entering a trade. So here's simple list. Number one liquidity sweep, right?",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 11
+    },
+    {
+      "start": 2502.7,
+      "end": 2528.7,
+      "text": "This is all assuming that we are coming back to the important area, assuming that you already identified that this is important area. You already identified this is a move origin and you want to buy you want to be a buyer in here only after we have a a nice pattern, a nice reversal pattern play out. So number one liquidity sweep.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 11
+    },
+    {
+      "start": 2526.7,
+      "end": 2537.6,
+      "text": "So number one liquidity sweep. You want to see when the price coming into your area and starts reversing. You want to see some low getting swept.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 10
+    },
+    {
+      "start": 2545.3,
+      "end": 2564.9,
+      "text": "ICT, FVG, whatever inverse FVG could be who knows. But then the important part, we want to sweep some kind of internal range liquidity first because that's that's where the retail stop losses are. They keep trailing the stop losses on the trend.",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 20
+    },
+    {
+      "start": 2706.8,
+      "end": 2714.6,
+      "text": "FVG in here. Trendline liquidity, right? There is a bearish market structure shift.",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap",
+        "Market Structure Shift"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 18
+    },
+    {
+      "start": 3457.22,
+      "end": 3473.58,
+      "text": "And we have that FVG and we have that tap into the previous zone. If we're following our rules, we want to see liquidity sweep, tap into the zone below, reversal pattern, violation of S&D and target high.",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 16
+    },
+    {
+      "start": 3473.58,
+      "end": 3489.56,
+      "text": "So we're following the same rules. We have the liquidity sweep tapping into the previous area of price action. Also have an imbalance, which is even more confluence.",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 16
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:01.134116+00:00"
+}

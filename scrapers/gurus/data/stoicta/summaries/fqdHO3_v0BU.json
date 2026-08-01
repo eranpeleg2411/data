@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "fqdHO3_v0BU",
+    "title": "The Only Trading Strategy You Will Ever Need (Full Tutorial for Beginners and Advanced)",
+    "url": "https://www.youtube.com/watch?v=fqdHO3_v0BU",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/fqdHO3_v0BU.json"
+  },
+  "stats": {
+    "word_count": 7622,
+    "duration_seconds": 3070.44,
+    "segments": 741,
+    "concepts_detected": 3,
+    "candidate_strategies": 0
+  },
+  "concept_mentions": {
+    "Liquidity": 13,
+    "Fair Value Gap": 11,
+    "Market Structure Shift": 3
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [],
+  "key_passages": [
+    {
+      "start": 191.38,
+      "end": 207.22,
+      "text": "These are the two market profiles that repeat over and over and over again. And as traders we can capitalize these moves. The easiest ones to capitalize is expansion because we can get in at the lows, get out",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 261.18,
+      "end": 275.66,
+      "text": "Sell high, buy low. Sell high and now we have another shift over here. We have another market structure shift that's going back up and we can resume.",
+      "concepts": [
+        "Market Structure Shift"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 324.1,
+      "end": 334.94,
+      "text": "make you profitable if you can stick to the rules. And here in this video I'm going to give you some rules. So a lot of people get tripped up on the wrong market structure shift.",
+      "concepts": [
+        "Market Structure Shift"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 773.16,
+      "end": 785.82,
+      "text": "to the area. And that's where you will find a confluence in PDRAs. Usually there is a volume imbalance, usually there is some kind of price action where the",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 837.64,
+      "end": 857.16,
+      "text": "Then again, we had a buy here and we could have taken outside to external liquidity. So here what's happening is we sell with a target of internal liquidity and then we buy with a target of external liquidity, something to the left here.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 909.54,
+      "end": 924.78,
+      "text": "for internal liquidity and we should not anticipate a break of this because we are in a bullish trend on the high time frame. So now we identify there was an important low here, there was maybe some imbalance here",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 1685.78,
+      "end": 1700.02,
+      "text": "So now that becomes unmitigated area and we can anticipate a pullback, which also could have resulted in the liquidity grab, liquidity purge. Maybe there is an imbalance.",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 1812.8,
+      "end": 1832.0,
+      "text": "So these two provide internal range liquidity purges, right? Same here comes down, purges liquidity, bounces up, comes back down. There's probably a liquidity, some low, some imbalance here that price stops into and finally",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 16
+    },
+    {
+      "start": 1836.72,
+      "end": 1848.04,
+      "text": "It comes down and taps into some kind of liquidity and goes up higher. So based on this, where can we enter? The best entry is here.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 1926.56,
+      "end": 1943.8,
+      "text": "So this swing down, the last swing down that purges liquidity over here, taps into the imbalance and comes back up. This swing over here, this is what you want to measure.",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 2478.76,
+      "end": 2488.36,
+      "text": "Look, the price comes up, doesn't come up all the way up here. There is a bunch of imbalances here, right? Comes up to here, to this imbalance, tap slow, go.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 3001.24,
+      "end": 3019.4,
+      "text": "And as far as market structure goes, if you want to understand more of the market structure and intricacies and nuances of the price action, how it moves on different days, I highly encourage you to go watch Dave teaches effects on YouTube.",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:01.063627+00:00"
+}

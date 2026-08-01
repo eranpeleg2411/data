@@ -1,0 +1,447 @@
+[00:00] Hello everybody welcome back to another video today we are talking about this simple scalping
+[00:05] strategy and how you can stay stress free as a trader trading the price action and only the
+[00:12] price action because really that's all you need no need a bunch of indicators on your chart just
+[00:18] simple trading and that's what i've been pursuing in my trading as well i want to simplify everything
+[00:26] as much as possible so i can just focus on taking few setups every single day and that's it i really
+[00:34] don't care where the market goes on a daily chart i really don't care about fundamentals i just want
+[00:40] to have the scale of looking at the chart and trading the chart taking few setups and moving on
+[00:48] with my day you know a lot of people have this misconception that scalping is overtrading and
+[00:54] you know we as a scalper you're taking a hundred plus trades every single day and you know people
+[01:00] went crazy after i was showing trading on one second chart and yes you can do it but it's not
+[01:06] necessary advice to do it all the time you want to pick the best setups because as mark douglas used
+[01:15] to say there are three levels of trading mastery mechanical subjective and intuitive and a lot of
+[01:23] people have this misconception that mechanical strategy is the holy grail of trading and it's
+[01:30] just not true because if it was true then you can take every single candle and apply your mechanical
+[01:38] entry rules and you will be able to make money and it's really not that easy any mechanical strategy
+[01:46] if you have a trend following strategy that mechanical strategy is going to fail during the
+[01:51] ranging environment and the same for the ranging strategy is going to fail when we start a new
+[01:57] trend so that's why we need to learn how to read price first and then we we can apply our subjective
+[02:06] mind our judgment to what kind of environment we are in what kind of condition we are in right now
+[02:14] and based on that we will take the trade and of course the third level is intuitive where you
+[02:23] intuitively feel that the price will do certain things because you saw it play out many many times
+[02:31] during your back testing during your forward testing during your live trades it becomes to
+[02:36] the point if you can focus on one system and focusing on one trade setup you can develop
+[02:41] this intuitive feeling and you can take the trades based on your intuition so mainly in this video
+[02:48] i'm going to be talking about how to read price so you can move on to that next level of being a
+[02:54] subjective trader because that's where the real growth starts is when you can identify a plus
+[03:02] setup from the b plus setup and only take the a plus setups and before we begin i want to remind
+[03:10] you guys that my whole youtube channel this video and anything i post online is for educational
+[03:16] purposes only this is not to be construed as financial advice and you should be consulting
+[03:22] your own financial advisor before making any financial decisions so with that being said
+[03:27] let's talk about the trading system and how can you put together trading system in a simple way so
+[03:34] number one you need to have an ability to read price so this is where all of the concepts that
+[03:41] you learn okay all everything works like i said in my previous videos but you need to pick something
+[03:47] pick some tool that you can read price with okay it could be ict it could be simple trend lines it
+[03:54] could be supply and demand it could be anything and it's going to be up to you whatever you
+[03:59] resonate with whatever you can see easily it's going to be up to you but you have to follow
+[04:05] certain rules i'm going to give you in this video and that can elevate you to the next level of that
+[04:10] subjective thinking where you can pick and choose the setups in order not to get wrecked or not to
+[04:17] get into the heavy losing streak the number one thing we're going to be focusing today is
+[04:23] ability to read price also i'm going to show you very easy entry model and stress-free trade
+[04:29] management where you can focus on reading price and trading what's in front of you what's happening
+[04:36] right now because as you might know a lot of people trying to predict price trying to anticipate
+[04:43] something trying to build up all of these unrealistic expectations of what price might do
+[04:50] instead of just trying to take a piece of the price action take that trade and don't care where
+[04:58] it goes i don't really care if price gonna shoot up to the moon because i'm gonna come back tomorrow
+[05:05] and it's gonna be the same price movements it's gonna be up and down whatever and i'm focusing on
+[05:10] the extracting a yearly salary from the price i want to come in every day take few setups and
+[05:19] move on with my day i don't want to predict price i want to take advantage of what price is doing
+[05:27] right now right in front of me trade what you see not what you think and it's a well-known
+[05:34] castle in the sky theory where you build up this unrealistic expectation this unrealistic castle
+[05:42] in a sky but you don't really know how to get there so hopefully this video is going to solve
+[05:47] this for you because we're going to be focusing on the simple scalping strategy and just extracting
+[05:53] a small amount from the market every single day so let's keep it simple and let's remind
+[05:59] ourselves that market moves only in two ways it's either going to be trending or it's going to be
+[06:05] ranging so how do you identify a trend very simple if price making higher highs and higher lows
+[06:13] that's a bullish trend so you want to be focusing on buying higher lows in the direction of the
+[06:19] trend now since we're talking about scalping in this video we're going to be focusing on capturing
+[06:26] this little move in here which is we're going to identify the point of reversal it could be a
+[06:33] snd responsible you know this could pull back lower maybe in here right there could be snd
+[06:40] responsible in here there could be a imbalance in there be some kind of a point of interest
+[06:47] where the price came back within the trend making a high low and we're taking advantage of this
+[06:54] reversal so that's scalping in the trend the same in the downtrend if the price making lower highs
+[07:02] and lower lows it's a downtrend so we're focusing on taking trades in the direction of the trend
+[07:09] and we're going to be focusing just scalping this little move because as scalpers we don't really
+[07:14] need this whole move down this is not really our business let the swing traders chase this
+[07:21] hold on to it maybe the price gonna chop in here sweep one more time or whatever but we're focusing
+[07:28] on this little move in here okay just a little scalp and we move on to another trade this is
+[07:36] how you identify a trend pretty straightforward and simple if price is making higher highs and
+[07:42] higher lows if price is closing about previous highs and making new highs that's a bullish trend
+[07:49] if price is closing below previous lows and making new lows that's a bearish trend so how
+[07:56] to identify a range as soon as price starting to sweep the highs and going back down to the range
+[08:04] and sweeping the lows you can start anticipating a ranging environment and usually the price will go
+[08:12] out of boundaries to sweep these people out of the range enticing new people to buy so then it
+[08:21] reverses back in the range you want to stay out of the middle of the range and only focus on
+[08:28] extremes because that's going to be the highest probability trades in the range so we want to buy
+[08:35] sell low buy low sell high do not buy high which is do not buy breakout and do not sell the low
+[08:43] in the range so we never want to sell a breakout of the range because most breakouts will fail
+[08:50] so in a simple terms this is what we are looking for we are looking for the range or a trend
+[08:57] in order for us to engage in the market and this is where the narrative will come in because in
+[09:04] the range we can be looking for continuation setups and in the trend we can't be looking for
+[09:10] the ranging setups so again a lot of people looking for the patterns without realizing what
+[09:15] environment they are in and a lot of people get burned up because they're trying to you know long
+[09:21] you know there's a sweep in here oh that's a juicy sweep we we might be you know sweeping this and
+[09:27] going back up and making a new new trend because this is trending too you know and then they end
+[09:34] up in a drawdown so it is very important to identify the environment that you in if you're
+[09:41] in a range follow the range trading rules if you're in a trend follow the trend trading rules so if
+[09:47] you put it all together this is how it looks we have a trend we have a range and we have a new
+[09:53] trend this could be continuation range we could have a trend range and another trend up but you
+[10:01] want to focus on identifying what you are in right now so if we are trending higher and then
+[10:07] suddenly we can't close above the high and we swept the high that's a start of the range so we
+[10:16] going to be looking for the range trades because we have a failure to close above so one of the
+[10:23] other price action rules is that double tops will run the low that's what i learned something from
+[10:30] uh dtfx from dave teachers effects is that double top will run both lows sometimes it runs one low
+[10:39] sometimes it runs both lows so we want to anticipate that instead of trying to keep
+[10:46] longing this range so if we fail to make a new high we anticipate this low to be broken because
+[10:55] this low is a weak low this low failed to make a new high and then we observe if we closing below
+[11:05] this low and we anticipate a pull back into snd responsible and continuation down and that's how
+[11:12] the trend develops so if we put even more lipstick onto this this becomes very obvious now we have a
+[11:19] channel up which is you can notate just with a trend line you can notate with a channel and we
+[11:25] have a range and trend down and it is very important to understand that that's how price moves
+[11:32] price doesn't move expansion expansion expansion reversal and other expansion price moves from
+[11:39] expansion into the range from the range into expansion and most people get wrecked because
+[11:47] they expect expansion out of the range and they expect expansion after the expansion no wonder
+[11:55] you're going to blame everything else but yourself for losing so it is very important to understand
+[12:00] price moves in a certain way and it's not that it was a bad price action and you lost your account
+[12:08] it's because you don't know how to read it and you're taking setups in the environment that you
+[12:15] shouldn't people get excited people want to go higher and longer and just keep longing the dips
+[12:23] and then what happens we have a swing failure we have a failure to make a new high and suddenly
+[12:31] this double top is responsible for making a new trend down and people are still trying too long
+[12:38] in here trying too long in here and again it's a retracement they might get there long but it's
+[12:44] only retracement so we want to be focusing on the right areas and always staying with the trend so
+[12:52] here's some non-negotiable trading rules that you can use in your trading and it really helped me to
+[12:57] increase my win rate so number one treat trading as a business and focus on extracting a yearly
+[13:05] salary see a lot of people think this is like a game you know it's a video game let's take every
+[13:10] single setup we know we let's take everything let's show everybody how can we take 100 trades per day
+[13:17] it's great when you're practicing it's great when you're learning when you back testing take as
+[13:23] many trades as you can and you know you can go to the seconds charts and there's traders galore
+[13:29] there's a lot of trades could be found but again we want to focusing on extracting a yearly salary
+[13:36] that means that we need to be consistent in our trading and not just take anything we see we need
+[13:43] rules and boundaries for other trading so another rule i follow is a trend is your friend
+[13:49] and only trade with the trend and never counter trade so can you make money counter trading yes
+[13:56] you can make money counter trading but in my experience for my personality what i resonate
+[14:02] with i rather take trades with the trend so another one buy low sell high never buy high never buy low
+[14:10] this is the golden rule because if you can correctly identify between trend and range
+[14:17] you will always buy low and you will always sell high and most of your losses will come when you're
+[14:23] not obeying this rule so why are you buying a breakout that's buying high if you're buying
+[14:29] about previous high that's buying high the same way selling low that's how most retail gets wrecked
+[14:37] they get excited on a breakout and they think that it's gonna continue so again expecting
+[14:44] expansion out of the range and that's where you trip up there's where i used to trip up and now
+[14:51] i have a rule never ever ever buy a breakout so it's not really about the concepts it's about
+[14:59] the rules the boundaries that you set yourself because that's what's going to boost your win
+[15:05] rate that's where you're going to find all of the confidence it's in your ability to read price so
+[15:12] another rule i have exercise patience and only take the best two to five setups per day i might
+[15:19] take two to five setups right on on my live account or the prop account or whatever and then i'm
+[15:26] sim trading for the rest of the day i still keep forward testing after taking my setups and if i
+[15:32] lost on those setups again i close the live account and i go and trade the sim account another
+[15:38] rule i have about news trading you want to trade only after the news and do not form any biases
+[15:47] based on the news it's all bs okay everything you see on tv everything you see on social media
+[15:55] everything has agenda and you don't want to buy into that agenda you want to exercise critical
+[16:01] thinking think for yourself independent thinking and trading is all about independent trading it's
+[16:08] all about your own development i promise you everything will fail until you start focusing
+[16:14] on yourself and your own ability to read price as accurately as possible these are just some
+[16:21] non-negotiable trading rules there's also price action trading rules and i compiled these rules
+[16:27] from mentors some of the rules i've got from dave and dtfx and some of the rules from somewhere else
+[16:33] like from l brooks and mac at price action trading system i used to watch them way before ict and now
+[16:42] it's like all coming back together and it's like everything works and you can use it to stay away
+[16:48] of the stupid trades like what i learned from l brooks and mac is price moves in two if price
+[16:56] tries to make a new extreme and fails twice expect a reversal go look into your charts and see how
+[17:04] much it's true you know there is also measured moves like if you have one leg expect one more
+[17:11] leg just as big if we have an uptrend and price breaks that trend line of the uptrend
+[17:19] expect for price to make one more attempt to make a new extreme so we have an uptrend right and price
+[17:26] breaks an uptrend expect for the price to try to make a new extreme before actually going down
+[17:33] this is how the price moves and people get caught up in all of these complicated concepts and all of
+[17:39] these time vortex things whatever i don't even know anymore what's going on because i'm just
+[17:46] gonna try to focus on the simple stuff because that's what matters all i care about is predicting
+[17:52] the next little piece of price action so i can get my piece out yeah here's what i learned
+[17:58] something from dave first imbalance likely to make a new extreme another thing i forgot here
+[18:04] let me put it in this is another thing i learned from dtfx double top double bottom will run the
+[18:11] lows or highs that created them so double top runs the lows and maybe then continuation higher
+[18:18] or we're going lower but this pattern in itself double top double bottom will run the lows or
+[18:24] highs that created them it's like a rule when you're trading you need to pay attention to these
+[18:30] and then they can save you or you can take a trade based on these rules so another rule most range
+[18:36] breakouts will fail this is where most retail get rekt this is how they get rekt we have a range
+[18:43] tight range back and forth they probably inside of the range here trying to long the expansion
+[18:50] or short the expansion and it's a range okay you you can't be doing that in a range and then once
+[18:57] they have the little spike they they all get excited they all pile in here and then it reverses
+[19:03] and that's a failed breakout so if most range breakouts fail you can develop a whole trading
+[19:11] model based on this where you fade every breakout and then you combine it with all of these other
+[19:18] rules that make your model even more successful because you know what to pick and choose in your
+[19:25] trading and it's only going to come from backtesting okay take these rules and backtest them
+[19:31] look in the price and see how it works see how it plays out see how it prints just because you
+[19:38] think something will print in a certain way doesn't mean it's going to print in that way price is price
+[19:46] and price is always right so learn how price moves learn how to read it and learn how to take
+[19:52] advantage of it and then you can scale beyond anybody's imagination so here's a little summary
+[19:59] if you want to be even more simple we have trend trading and range trading so in the trend we can
+[20:06] buy or sell two-legged pullback this is another price action rule that you can implement into
+[20:12] your system where if you're buying pullbacks in the trend you may be wait for the two-legged pullback
+[20:20] because if it fails to go short twice it's likely to reverse then you look for some point of interest
+[20:28] it is snd responsible here or imbalance something that you see in price and you're watching this
+[20:34] pullback you have one leg goes up and another leg and you always anticipate this first one to fail
+[20:42] because this one is low probability and this is a high probability especially if it's stopping
+[20:48] into some kind of poi to the left so as far as trend trading you want to anticipate two-legged
+[20:54] pullback down and only after then you can look for your a plus setup that coming out of the poi
+[21:02] see this two-legged pullback could be only a sweep so first leg up second leg down sweep and goes
+[21:11] this is one type of the most common pullback that most easily to see is the two-legged pullback
+[21:19] into the poi and then you keep watching price and reading price to to see what is doing then
+[21:25] in range trading we have several rules i already talked about never buy or sell a breakout
+[21:31] that's in one rule right you don't want to buy this you don't want to sell this in the range
+[21:36] the same thing buy or sell breakout pullback so let's say we have a breakout and price close the
+[21:42] bow again we still not buying first one see this two-legged pullback we're buying second one and
+[21:49] you know second pulls down into the range and provides us a setup back up the same way buy low
+[21:55] sell high right in a range sell high buy low sell high and in here with the range rules you will
+[22:03] fade this breakout because if it's a range trading and we have a breakout we fading this breakout
+[22:10] because we know that most breakout will fail but again you need to practice you need to backtest
+[22:16] and practice i'm gonna give you the framework but it's gonna be up to you to implement this to
+[22:23] practice to develop your own system and like i said in the beginning there is three components
+[22:28] to the trading system your ability to read price number one you can use ict you can use supply and
+[22:35] demand you can just use these price action rules you can use anything to read price and once you
+[22:42] have the ability to read price once you're confident in that and you can pinpoint where
+[22:47] the price likely to reverse where the price likely to contain you then you go to your entry model
+[22:53] and you start developing your entry model and once you have your entry model you want to have
+[22:58] some kind of trade management system where you manage your trade until it's stopped out or gets
+[23:04] to profit or whatever so also there is a two versions of the two-legged pullbacks we can have
+[23:10] the two-legged correction where it's a measured move down what i was talking about this leg is
+[23:17] is kind of equal to this leg and then we can have a higher low again in this poi there's got to be
+[23:24] some kind of poi to the left again we have one pullback and a second pullback so price attempts
+[23:31] to make a new extreme but it's not making new extreme so this is a swing failure and this is
+[23:36] you can call it a sweep and see a lot of people focus on all of these concepts they're trying to
+[23:42] learn everything there is out there most of these concepts describing the same principles it's either
+[23:49] going to be trend or range there is nothing else trend or range so develop the rules around
+[23:57] trending and ranging environment and trade accordingly you don't need much again what is
+[24:02] the components of the trading system number one ability to read price so you just need to know
+[24:08] any concept you know it could be just trend lines it could be support resistance it could be anything
+[24:13] everything works it's your ability to read price that doesn't work okay i promise you that market
+[24:20] is not against you price is price and price always moves the same it's either trend or range and you
+[24:26] need to develop that ability to read price correctly and pinpoint the reversals continuations and once
+[24:33] you have that ability to read price you can perfect your entry model and trade management
+[24:38] it's that simple but first ability to read price and you can keep learning about new and new
+[24:45] stuff and trying to implement into your trading system okay and most of them is going to be
+[24:51] rules when not to engage with the price so you don't get wrecked it's going to be rules about
+[24:57] identifying trend and identifying range it's all comes together the ability to read price so here
+[25:06] i have price action from friday let's go through this step by step and see how you could have taken
+[25:12] advantage of friday's price action so here i i know a lot of you might going to lose your mind
+[25:18] how how is that i have an exponential moving average on my chart and it's simply you can use
+[25:25] this to easily identify a trend and this is a 21 exponential moving average and you can use this
+[25:32] EMA to see rejections just like in here and then also i use some trend lines and again these are
+[25:39] used to identify a trend also i marked out some imbalances in here protected lows that's a swing
+[25:45] points right this is from supply and demand swing points and here's a swing point where we
+[25:52] retracing back into unmitigated candle so i'm trying to put all of the things i know about
+[25:58] reading price into this one chart and then pinpoint the best scops right so all of these risks
+[26:06] to reward is a one-to-one scope so this is where i want to talk about entry model and in my previous
+[26:12] videos i talked to you about how you can zoom in into the five second chart see this is a one minute
+[26:18] chart you can zoom in into the five second chart and you can find these reversals in there and
+[26:25] there's going to be some kind of you know pattern where it breaks out and you get on the pullback
+[26:33] but i see a lot of people get tripped up with that they get sucked in into the price action on
+[26:38] a five second chart and me as well i used to get trying to take everything on the five second chart
+[26:45] and again that's why i have this rule about two to five quality trades per day and one minute gives
+[26:53] you a lot of trades and also if you want to even be more patient and restrict yourself you can zoom
+[27:01] out to like five minutes and try to take these types of trades on the five minute but in order
+[27:07] for me to avoid overtrading on the five second chart i am taking trades on the buy stop and sell
+[27:15] stop entry technique so pretty much in here as you can see we have breakdown and then we are pulling
+[27:21] back into the point of interest which is the snd responsible right and also we're pulling into the
+[27:29] ema and we have this doji that closes inside the previous scandals right and then we have a shift
+[27:36] down so we have really three confluences playing out here so we have a breakdown we have snd
+[27:42] responsible getting tapped in and we have a rejection from the ema so in order for me to
+[27:48] take advantage of this trade the easiest thing for me to do is to put a sell stop in here and
+[27:53] then take one to one so sell stop is an entry model and then you have trade management and all
+[28:00] of my trade management is one to one this is the simplest and easiest thing i've ever saw in trading
+[28:08] if you are struggling try this out try back test this and i promise you you will find success with
+[28:14] if you can identify range and trend and follow the rules you will find a lot of success with this
+[28:21] type of trading where you put sell stop and you just take one to one which is the stop loss goes
+[28:28] about the high and you take just one to one on the sell stop and you can see in one minute it delivers
+[28:33] easy we out and we're not gonna try to anticipate maybe it's gonna go back up maybe it's gonna go
+[28:40] no we identify a high probability point of reversal so again we have a breakdown we have a pull back
+[28:49] into the snd responsible and then we go down right so how to take advantage sell stop and we trying
+[28:55] to capture this momentum down and we don't need much we just need one to one and we moved on to
+[29:00] another trade so yeah i get it we missed all of this this is where the trade management comes in
+[29:06] and instead of taking everything out you can leave a partial you can leave a partial and try to
+[29:13] trail it down you can trail it about ema right you can trail it about these candles going down
+[29:20] you'd be out in here if you trail it with ema you would be out in here so that's how you could have
+[29:26] taken advantage of this trade so you watch this going down this was a range trade in here as you
+[29:33] can see we had this trend line going down and we have a break of the trend line and one of the
+[29:39] rules says that after trend line break expect a new extreme so we get a new extreme we have the
+[29:46] also range sweep and the nice doji in here bullish doji so you can put a buy stop in here and go for
+[29:54] the safe and quick one-to-one that delivers in two minutes also we are minding our business in the
+[30:02] trend because we still consider to be in a downtrend so if we are taking a counter trend
+[30:12] trade which is not advisable because it's not a high probability trade but because we had this
+[30:19] trend line break and a sweep of the range you can consider this as a range sweep so we're buying at
+[30:26] the bottom of the range and we're just taking one-to-one to the ema or to these heights because
+[30:32] we don't know if the trend is going to continue or we're going to reverse the highs because this
+[30:38] is a ranging environment in here and just like i was saying we have trend that goes into the range
+[30:47] and then goes another trend so while the retail expects you know expansion expansion expansion
+[30:56] we expect expansion range and the new expansion or down or the new expansion up out of that range
+[31:05] and in here this is a bigger swing point right this high made a new low and now we have a
+[31:14] swing failure we couldn't make a new low so double bottom runs the highs so we have confluences
+[31:23] stuck for this trade to play out we see this trade play out and we're actually starting to see a
+[31:30] closure about ema closure about these highs we have this range now so what is this it's a range
+[31:40] breakout and pullback so we're not buying the breakout we're waiting for the pullback and the
+[31:47] price is holding about ema so this in here is a pullback into the imbalance and another rule
+[31:56] first imbalance makes a new high so you can anticipate this to be a good trade because we
+[32:02] in the bullish trend after the breakout pull back into the imbalance we know that first imbalance
+[32:10] likely to make a new high so we're looking for the reasons to get in now there is not a good
+[32:15] reason here to get in you can place a buy stop about this black candle about this down candle
+[32:22] right or you can place a buy stop about the bullish inside candle which will reduce your risk if you
+[32:29] don't want to take this whole candle of course the best setup would be to sweep this candle and
+[32:36] then go back up but as you can see that that's what you're going to see in the back testing
+[32:41] sometimes it doesn't sweep not every imbalance like this is going to hold it's likely to hold
+[32:47] after the breakout in direction of the trend that's where it's likely to hold so you have
+[32:52] another one in here we have this imbalance if you don't trust them just skip them and just know
+[32:59] that it is likely to put a new high so if you see imbalance and you don't want to trade it just wait
+[33:08] out and wait until it makes a new high before shorting if you want to short and that just
+[33:14] another rules that i use in my trading first imbalance makes a new high so we we start to
+[33:19] make the swings as you can see right we're closing about so this is a clear bullish trend so we want
+[33:25] to take advantage of pullback so there's another pullback into an imbalance right you can place a
+[33:32] buy stop about this green candle because this down candle is very big right or you can place a buy
+[33:39] stop about the down candle but then you have to wait all of this to play out the safer would be
+[33:45] if you want to engage in this trade would be this and trying to get on this momentum upwards
+[33:52] and it's a easy one-to-one there then we have this swing point established we closed about it here
+[33:59] and we pull back and in here we got into the ranging environment and again we don't want to
+[34:05] really short down into EMA and if we do it's only going to be down to EMA right or to the protected
+[34:14] low so because we are in a trending environment if we get into the range we want to take setups
+[34:23] in the direction of the trend so as you can see here a lot of people got tripped up if they were
+[34:30] thinking this is a start of the range but if you waited for the pullback to the EMA we're still in
+[34:38] this range we're still in this swing point in here because we closed about this high here so
+[34:46] this is a new swing point in here and protected low moved closer to here so as you can see we
+[34:56] swept the top of the range break down and never broke this low and we have engulfing candle
+[35:04] up as you can see this green candle first opens up lower and then shoots up higher so what you can
+[35:11] do if you anticipate this because we pulled back to the EMA because we are at the bottom of the
+[35:17] range here you can anticipate this move by placing a buy stop order here and if price gets momentum
+[35:27] especially this is the best setup really the engulfing candle is my favorite setups they
+[35:32] usually work out very quick and with high probability because we are opening out down
+[35:40] sweeping the slow and immediately shoot up higher and while everybody's waiting on a retracement we
+[35:46] are already in the trade and we already out in the trade already out scalped and moved on so we have
+[35:53] this swing point established all right it would be nice if the price moved like that and you know
+[35:59] we broke here and we anticipate lower but it's not that after the trend we anticipate a range
+[36:07] so as you can see here we had the trend up right we broke the trend here we broke the trend we
+[36:14] pulled back into this swing point right and this is like a big range and it makes another leg up
+[36:22] which is this is like two measured legs up one leg pullback second leg and what it did this range
+[36:30] here it was a false breakout and it shifted lower that's why we don't want to buy a breakout we want
+[36:38] to buy a breakout pullback that never happened because we one leg down second leg down here
+[36:45] and we broke this range this is where the trend reversal occurred and you can see we
+[36:52] we have the trend we broke the trend and one more attempt to make a new extreme we made a new extreme
+[37:00] and we collapsed what happened in here after breaking trend we swept the slow which is a
+[37:08] first tap if you follow me on x on twitter i post this daily where i say this is a first stop
+[37:15] in here the first stop is a scalp so this is a range in here this is a swing point and we have
+[37:22] a first stop here first stop of the range that makes a new high and the pullback sweeps the first
+[37:31] up makes a double bottom and continuation higher this is a pattern that plays out over and over
+[37:39] and over again in the markets that's the other type of rules you can follow and anticipate
+[37:46] that's why i like the one-to-one scalping because we don't really know if this is a first stop or
+[37:51] not until it goes down sweeps it and makes a double bottom we don't really know this is
+[37:56] the first step but we can anticipate it and that's why we want to take profit instead of
+[38:02] waiting for this and being in the drawdown and then hoping that it's gonna go back up
+[38:08] you want to anticipate it that's why scalping is gonna be best i don't know it works for me i love
+[38:15] it i love the scalping way more than trying to you know get in here wait all of this and then
+[38:22] hopefully get out here or even worse get to break even so i rather watch what spry is doing
+[38:30] and then take advantage of this small pieces see in here after this trend line right we had double
+[38:38] legged pullback so two legs down swept the slow here you see this swept the slow and immediately
+[38:45] shoot up higher so see in here this is a zone in here this candle right this whole candle is a
+[38:52] range and it's a zone on the lower time frame what happened here we broke the strand line with this
+[38:58] momentum and we tried to make one more extreme to the downside we couldn't make that extreme
+[39:06] it breaks out and goes higher you can try to get in on the buy stop of this candle and this bullish
+[39:12] candle and anticipate that this is a higher low this is a that double bottom that runs the highs
+[39:21] and we also have a range sweep so you're stacking these confluences these simple confluences in
+[39:27] order for you to take this one scalp this high probability scalp and you know if you don't like
+[39:32] how it looks just skip it skip it because there's going to be another trade you don't like how it
+[39:37] looks you skip maybe you don't want to take this trade because it's below the ema it's understandable
+[39:42] so again we take this trade right we ignore the ema which is that's why maybe this is not a
+[39:49] high probability setup as far as ema goes but we we keep stacking those confluences right so you have
+[39:57] range sweep you have trend line break and trying to make a new low couldn't make a new low so look
+[40:03] at this it's it starts making bullish candles and you can get in on the buy stop of this bullish
+[40:09] candle and it goes higher there it is again that first tap we got into the zone about right that
+[40:16] first stop and the second tap which is usually a double top we trade higher into the unmitigated
+[40:24] candle this candle was never tested right it left unmitigated there is a gap there is a little
+[40:29] imbalance in there so it never been tested so if we're rejecting from this area that's a good area
+[40:36] for the scalp at least for me so again we're going above 50 remember from my previous videos
+[40:42] i was saying like you want to take a trade off of unmitigated zone above 50 if it's a short
+[40:49] so there you go we got into the zone we're rejecting from this unmitigated candle and we
+[40:57] also printing engulfing candle again one of my favorite setups as far as these buy stop sell stop
+[41:03] scalping you could put a sell stop order here and it gets triggered after this candle goes up and
+[41:10] goes down immediately that's enough for me to say there is a rejection this is a short momentum and
+[41:17] we take this one to one from here to here easy one to one very quick in in two minutes you are out
+[41:24] again we lined up the confluences we had the first stop the first stop got liquidated on this move up
+[41:30] we're rejecting from the unmitigated zone about 50 percent of the swing and we have engulfing candle
+[41:38] and we take our one to one again if you want to play with partials you can take a partial here
+[41:45] and leave a runner here and try to capture this move down but in my experience the easiest and
+[41:53] the least stress free is just to take one to one and move on and focus on your win rate focus on
+[42:00] avoiding worst rates and only taking the best setups because that's how you're going to increase
+[42:06] your win rate and with one to one you only need the win rate of 50 percent and above and you will
+[42:11] be profitable so the more you learn how to read price the higher win rate is going to be and I
+[42:19] promise you it's not in the concepts I promise you it's not the holy grail pd array you don't need
+[42:28] quantum physics to read this market there are simple rules and principles that you can follow
+[42:35] and take advantage of these little scalps every single day and this is our edge as a scalper we
+[42:42] don't need the whole move up we don't need to be right on multiple swings we don't need to do that
+[42:49] all we need is little one to ones and you adjust your risk according to the candle if you want to
+[42:56] just risk hundred bucks you adjust the risk to the scandal you go to micro so if you need to but
+[43:03] you take the same trade it's your one kick the same kick every time boom one to one one to one
+[43:10] one to one one to one and you train yourself to take these one to ones and it's the least stressful
+[43:17] trading I will guarantee you that it's the least stressful trading you will ever do you don't get
+[43:24] wrapped up in all of these expectations all you're expecting is one to one and of course that
+[43:30] there are going to be trades that fail of course there are going to be trades that fail like in here
+[43:36] we have this trend line right we have a break of the trend line we have a new extreme so in here
+[43:43] buy stop here and it fails that's fine too you can also learn maybe manage and avoid this where you
+[43:51] have entry and it moves up a little bit you immediately place your stop to break even right
+[43:58] and you anticipate the momentum up and if you don't have a momentum up you get stopped out of
+[44:05] break even but that's another element to your trade management that will make it more stressful
+[44:12] that will make it harder for you to manage your trades the easiest way is to set a stop loss
+[44:18] set a target and wait just do not touch the trade that's the easiest stress free and all you have
+[44:27] to focus on is reading the price correctly and getting in in the best spots possible so this
+[44:33] trade failed you know it swept here and it failed and if you were not greedy you maybe got out here
+[44:39] or move to break even and protect it yourself but it's going to be up to you you know you need to
+[44:44] backtest this you need to find out what's resonating with you how you like to trade
+[44:49] you know there are guys that just taking one points scalps you know one point scalp one point
+[44:54] scalp one point and they add up over time let's go back to this price action piece over here and
+[45:00] um i explained that this engulfing candle provided a good trade here and uh as you can see we went
+[45:07] back down so what is this in here this in here is a range this is a breakout of the range and
+[45:15] this is a pullback into the range so by the range trading rules we anticipate breakout pullback
+[45:23] continuation so we didn't really have a pullback this is a first leg down we want at least two legs
+[45:30] right but second leg broke the range so this swing point in here right this low made a new high so
+[45:38] this is a swing point this swing point got broken here and we anticipate what pullback back into the
+[45:45] range and it pulled back into the unmitigated snd responsible this is the structure responsible
+[45:51] for breaking the lows pulled back with this big green candle right but we don't want to take
+[45:58] trades against the trend the trend shifting bearish we broke the enclosed below ema we way
+[46:06] below ema right this trade if you want to counter trade which i'm not really advising you to do so
+[46:13] because this is counter trading is more advanced but if you want to counter trade this you can
+[46:18] by placing a buy stop order on this and this is an engulfing candle we trade lower and we immediately
+[46:26] shoot up so you could have had this trade right you place a buy stop here anticipation back to
+[46:34] ema back into the range back to this unmitigated snd that's trading itself but if you want to follow
+[46:41] the rules we wait for the trend so again we anticipate a double pullback up double legged
+[46:48] pullback so this is the first leg and this is the second leg so as i was saying there are two types
+[46:55] of two legged pullbacks we have this type and we have a lower high type so this is a lower high in
+[47:03] here with engulfing candle so this candle went up and immediately shoots lower and i think it
+[47:11] it should lower below this candle too so you get triggered on this sell stop and you get out for
+[47:18] one-to-one then we have another leg up into this swing point it's internal structure in here leg up
+[47:28] and we have shoot lower with displacement right this is a displacement with imbalance
+[47:35] so the first imbalance makes a new low so we can anticipate this especially with the engulfing
+[47:42] candle this candle went up and immediately shoots lower these engulfing candles are my favorite
+[47:48] setups as i said because they usually play out especially in the direction of the trend or we
+[47:56] have ranging right still in the direction of the trend plays out so even with these types of trades
+[48:02] you can filter down to the best of the best setups so i would argue this is one of the best setup the
+[48:09] engulfing candle in direction of the trend not breaking protected lows still pulling back to
+[48:14] the EMA still holding structure still in the trend another good setup is here after trading into the
+[48:23] higher time frame POI which has happened way before right all the way here to the left
+[48:29] this left unmitigated it's a high probability area of reversal right we're keeping that in mind
+[48:35] we're watching the price trade into this and we're watching this engulfing candle now you gotta
+[48:42] catch these you put the sell stop right here and you watch your trade go right into the profit
+[48:48] immediately this was another great setup and most of these are engulfing candles this is a good setup
+[48:56] too engulfing candle rejection off of the EMA and you don't have to use the EMA you know it could be
+[49:03] a great addition it's just easily to spot a trend if you start seeing the candles overlapping on the
+[49:09] EMA that's a range all right if EMA is going flat that's a range the whole point of this video is
+[49:16] following rules and not taking the every setup that you see it's all about following the rules
+[49:24] because the rules will get you to that next level of subjective trading that's where the work begins
+[49:32] because purely mechanical trading while it could work it could be very stressful too if you have a
+[49:39] 30 win rate on the mechanical strategy imagine how how stressful it's going to be when you
+[49:47] you know seven losing streak draw down you know your confidence is not going to be there
+[49:54] especially you know with 30 win rate or whatever you need to take one to three risks to reward
+[50:00] setups you need to take more than one to one setup so i rather learn how to read price correctly and
+[50:07] then increase my win rate based on subjective thinking taking every candle taking every setup
+[50:13] with mechanical rules is not going to work okay been there done that not going to work so that's
+[50:20] why the subjective trading is what really put me on the next level and the more i learned about
+[50:27] price action the more rules i develop when not to and that's what most ignore they do not set the
+[50:35] rules to when not to engage with price when it doesn't look really good you know when it doesn't
+[50:42] look high probability that's why you can try to filter out some bad trades which ultimately will
+[50:48] lead you to having a higher win rate and lead you to have a nice equity curve especially with these
+[50:55] one-to-one setups so with that being said guys thank you for watching hopefully this video
+[51:01] answered some pressing questions about trade management and about trading rules what not to
+[51:07] do make sure you follow me here on youtube i also post some charts on twitter or x at stoic ta
+[51:15] so thanks for watching and i will see you in the next one stay safe

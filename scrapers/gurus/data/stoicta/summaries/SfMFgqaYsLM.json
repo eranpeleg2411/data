@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "SfMFgqaYsLM",
+    "title": "The Daily Candle Strategy I Will Use For Life (The 2-step Framework for Beginners and Advanced)",
+    "url": "https://www.youtube.com/watch?v=SfMFgqaYsLM",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/SfMFgqaYsLM.json"
+  },
+  "stats": {
+    "word_count": 5339,
+    "duration_seconds": 2276.72,
+    "segments": 309,
+    "concepts_detected": 6,
+    "candidate_strategies": 1
+  },
+  "concept_mentions": {
+    "Liquidity": 1,
+    "Fair Value Gap": 2,
+    "SMT Divergence": 1,
+    "Risk Management": 3,
+    "Fib Geometry": 4,
+    "Swing Failure Pattern": 10
+  },
+  "spoken_time_references": [
+    "Asia session",
+    "London session",
+    "New York open",
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 389.76,
+          "end": 412.56,
+          "text": "break and retest. Price breaks through one of your levels, closes beyond it, then comes back to test it from the other side. You enter on the retest, trade the continuation of the trend. And the setup number two is swing failure pattern. It's a simple reversal pattern. Price pokes about the previous",
+          "concepts": [
+            "Swing Failure Pattern"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 18
+        },
+        {
+          "start": 1404.4,
+          "end": 1424.24,
+          "text": "So there is the third pullback, retracement to 50%, 50% entry, continuation higher and like I said, you don't need to learn another language in order to take a simple break and retest trade. Here's what happened on Wednesday and I actually took this trade on Wednesday.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 10
+        },
+        {
+          "start": 1596.24,
+          "end": 1614.88,
+          "text": "or did it fail? Clean break that retests, that's continuation, enter with the trend, poke through and a quick revert back inside the range, that's the swing failure pattern, enter the reversal and for entry confirmation, for your execution trading model, use whatever",
+          "concepts": [
+            "Swing Failure Pattern"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 13
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 389.76,
+      "end": 412.56,
+      "text": "break and retest. Price breaks through one of your levels, closes beyond it, then comes back to test it from the other side. You enter on the retest, trade the continuation of the trend. And the setup number two is swing failure pattern. It's a simple reversal pattern. Price pokes about the previous",
+      "concepts": [
+        "Swing Failure Pattern"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 18
+    },
+    {
+      "start": 412.56,
+      "end": 433.04,
+      "text": "daily high or below the previous daily low, looks like a breakout, but it doesn't hold. Price closes back inside, failed the breakout, trapped traders, so you enter the reversal. Break and retest for continuation, swing failure pattern for reversal. That's the whole entire playbook.",
+      "concepts": [
+        "Swing Failure Pattern"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 518.32,
+      "end": 539.44,
+      "text": "is an SBS. One, two, three, four, five. So that's one of my entry models, and the same thing is for the swing failure pattern. You want to mark out the three levels, and it's the same thing. You have the daily candle, and in this case this was the swing failure pattern here, sweeping previous daily",
+      "concepts": [
+        "Swing Failure Pattern"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 612.72,
+      "end": 630.24,
+      "text": "much the same thing. There is your unicorn breaker, or whatever you want to call it, FVG tap into the breaker. It doesn't matter. It's all the same thing. It's either going to be a reversal pattern, or it's going to be break and retest pattern. There is nothing else. Everything",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 635.76,
+      "end": 659.6,
+      "text": "You're just simply looking for the three levels, and then you execute two setups, SFP or break and retest. That's all it is. And this is what I call candle swing theory. So, essentially, every candle is a swing point. There is a structure inside of every candle. So,",
+      "concepts": [
+        "Swing Failure Pattern"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 1098.4,
+      "end": 1116.16,
+      "text": "pre-market or at the market open. If you are trading the New York session, the London session has some setups as well. Sometimes you're going to have a setup in Asia session but it's really going to depend on your personal schedule and what hours you trade. Personally, I trade the New York session",
+      "concepts": [],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 1208.08,
+      "end": 1233.44,
+      "text": "futures, I also watch the NASDAQ, S&P 500, crude oil, gold, even Bitcoin futures. This trading strategy works on everything. It doesn't really matter, you can trade crypto with this, you can trade forex, futures, whatever you want, but this was also a break and retest. It just wasn't clean in here,",
+      "concepts": [],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 1404.4,
+      "end": 1424.24,
+      "text": "So there is the third pullback, retracement to 50%, 50% entry, continuation higher and like I said, you don't need to learn another language in order to take a simple break and retest trade. Here's what happened on Wednesday and I actually took this trade on Wednesday.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 10
+    },
+    {
+      "start": 1596.24,
+      "end": 1614.88,
+      "text": "or did it fail? Clean break that retests, that's continuation, enter with the trend, poke through and a quick revert back inside the range, that's the swing failure pattern, enter the reversal and for entry confirmation, for your execution trading model, use whatever",
+      "concepts": [
+        "Swing Failure Pattern"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 1614.88,
+      "end": 1635.2,
+      "text": "you like, whatever you want. It's all going to fall under SFP or break and retest anyway so you can use engulfing candle, lower timeframe structure break, swing breakout sequence, fib geometry, it doesn't really matter, the edge is in the level, the edge is in that previous day",
+      "concepts": [
+        "Fib Geometry",
+        "Swing Failure Pattern"
+      ],
+      "strategies": [],
+      "score": 12
+    },
+    {
+      "start": 1660.48,
+      "end": 1680.64,
+      "text": "when price reaches these levels, something happens. Second, it's what the big players actually watch, banks don't care about your RSI divergence, they don't care about your first presented FVG, they care about key price levels. These three levels are on every institutional",
+      "concepts": [
+        "Fair Value Gap",
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 15
+    },
+    {
+      "start": 1879.76,
+      "end": 1901.68,
+      "text": "Phase two discipline, now you are live but with a constraint, you are only trading the minimum position size possible, so if you are trading nasdaq futures you are trading one micro contract of nasdaq futures, this phase is about proving you can follow rules when real money is on the line,",
+      "concepts": [
+        "Risk Management"
+      ],
+      "strategies": [],
+      "score": 11
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:00.904476+00:00"
+}

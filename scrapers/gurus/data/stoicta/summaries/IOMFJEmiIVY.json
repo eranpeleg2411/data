@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "IOMFJEmiIVY",
+    "title": "Mechanical Trading Masterclass: How to Profit Without Prediction",
+    "url": "https://www.youtube.com/watch?v=IOMFJEmiIVY",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/IOMFJEmiIVY.json"
+  },
+  "stats": {
+    "word_count": 7892,
+    "duration_seconds": 3556.54,
+    "segments": 743,
+    "concepts_detected": 3,
+    "candidate_strategies": 1
+  },
+  "concept_mentions": {
+    "Liquidity": 1,
+    "Fair Value Gap": 1,
+    "Fib Geometry": 20
+  },
+  "spoken_time_references": [
+    "3am",
+    "Asia session",
+    "London open",
+    "London session",
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 2562.42,
+          "end": 2573.06,
+          "text": "the continuations. So this was the trend continuation, right? We broke the range low, we broke the low, we retesting, so the continuation lower.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        },
+        {
+          "start": 2578.42,
+          "end": 2592.48,
+          "text": "So let's say this is a bullish swing point and you're playing a retracement, you expect the retracement to be over 2618. But when you have a continuation setup, like in this case, we break the low, we're retesting",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        },
+        {
+          "start": 2789.4,
+          "end": 2809.5,
+          "text": "have the first pullback over here and then we have a second pullback over here targeting And you can hold it for 423 because this is a continuation setup. Because after the SBS internal structure sweep we expect continuation and the new higher",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 352.58,
+      "end": 364.58,
+      "text": "Prediction is gambling in disguise, measurement is clarity. It's the difference between guessing the weather and having a radar. Fib Geometry removed the guesswork.",
+      "concepts": [
+        "Fib Geometry"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 611.8,
+      "end": 629.6,
+      "text": "Even emotion has recycled itself for thousands of years. And when you measure those emotional cycles, you get what I call fib geometry. Fib geometry levels become high probability targets because they represent the areas where",
+      "concepts": [
+        "Fib Geometry"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 703.24,
+      "end": 712.84,
+      "text": "And that gives you the highest probability outcome. Fib geometry works the same way. It measures the gravity of human behavior.",
+      "concepts": [
+        "Fib Geometry"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 886.68,
+      "end": 904.48,
+      "text": "Once the analyst identifies the correct lag and the correct narrative, the trader just applies the fib geometry rules and enters without hesitation. No guessing, no doubts, no mid-trade bias changes.",
+      "concepts": [
+        "Fib Geometry"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 911.96,
+      "end": 930.5,
+      "text": "If you keep those roles separate, trading becomes 10x clearer instantly. So now let's dive deeper into the fib geometry mechanical rules. And after observing and studying thousands of the breakouts of the swing points, I started",
+      "concepts": [
+        "Fib Geometry"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 1949.22,
+      "end": 1963.98,
+      "text": "Here's another example. I day trade NASDAQ, so a lot of these examples are going to be from the NASDAQ futures, but this was the overnight setup during the Asia session going into the London session.",
+      "concepts": [],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 2562.42,
+      "end": 2573.06,
+      "text": "the continuations. So this was the trend continuation, right? We broke the range low, we broke the low, we retesting, so the continuation lower.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    },
+    {
+      "start": 2578.42,
+      "end": 2592.48,
+      "text": "So let's say this is a bullish swing point and you're playing a retracement, you expect the retracement to be over 2618. But when you have a continuation setup, like in this case, we break the low, we're retesting",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    },
+    {
+      "start": 2789.4,
+      "end": 2809.5,
+      "text": "have the first pullback over here and then we have a second pullback over here targeting And you can hold it for 423 because this is a continuation setup. Because after the SBS internal structure sweep we expect continuation and the new higher",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    },
+    {
+      "start": 2840.0,
+      "end": 2857.62,
+      "text": "This is the SBS model 1 because we are forming the SBS on top of this range. This is also SBS with the sweep into the imbalance. It's a variation of the SBS model 1 but you don't even have to worry about the SBS once",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 2904.62,
+      "end": 2925.46,
+      "text": "So on this one minute chart, this was during the London session after 3am here, you got again the London session sweep and reversal, break of structure here and look, on this break of structure we are breaking below 200SMA and then we're retesting 200SMA and price",
+      "concepts": [],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 3507.7,
+      "end": 3524.04,
+      "text": "So the system becomes better and better, so it also becomes more expensive and the people who joined early will always get the best deal. If the Stoic Edge system resonates with you, if fib geometry clicked for you, if you want",
+      "concepts": [
+        "Fib Geometry"
+      ],
+      "strategies": [],
+      "score": 9
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:00.682417+00:00"
+}

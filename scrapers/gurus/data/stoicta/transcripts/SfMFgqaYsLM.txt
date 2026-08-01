@@ -1,0 +1,309 @@
+[00:00] Let me save us both some time. This is for you if you've been at this more than six months and you
+[00:05] are still not where you want to be. If you've blown an account, maybe two. If you are tired
+[00:11] of jumping between strategies hoping the next one finally clicks. If you want a shortcut or magic
+[00:18] indicator close this video. That's not what this is. But if you are ready to actually solve the
+[00:24] problem, stay a while and listen. Here's what I'm covering in this video. First, why traders stay
+[00:32] stuck for years? Not the surface level stuff but the real reason nobody talks about. Second,
+[00:40] a complete trading strategy for free. No catch. You can use it right away. And third, the 90-day
+[00:47] roadmap that turns knowing into doing because knowing what to do has never been the problem.
+[00:54] 90 days from now you could trade like a different person. Not because you found some holy grail
+[01:01] setup but because you finally have the rules you can trust. A process you can follow and the
+[01:08] discipline to execute when it's uncomfortable. Imagine taking a loss and walking away clean.
+[01:14] No revenge trade. No spiral. Just done for the day. Imagine waking up without checking your phone
+[01:22] in panic. That's where we are going. The trading industry runs on one lie. You need more. More
+[01:30] indicators, more alerts, more courses, more complexity. And it works because it sounds true.
+[01:38] If you are not winning you must be missing something, right? Wrong. The traders who win have less,
+[01:45] less noise, less clatter, less chaos in their heads. They subtracted while everyone else kept
+[01:54] adding. The complexity isn't helping you. It's the product. You are not the customer. You are the
+[02:01] revenue. Here's what nobody tells you in the courses. Trading is a mind game disguised as a
+[02:08] strategy game. You already know what to do. You know you shouldn't revenge trade. You know you
+[02:14] should honor your stoploss. You know over trading kills accounts. But when you are down three trades
+[02:21] and the anger kicks in you do it anyway. That's not a strategy problem. That's an execution problem.
+[02:29] An emotional regulation problem. A discipline problem. Your P&L is a mirror. It reflects your
+[02:37] emotional state more than your technical skill. Fix the mind and the results will follow.
+[02:44] Most traders chase win rate. They think 80%, 90% accuracy is the goal. Let me show you why
+[02:52] that's actually backwards. Trader A wins 90% of the time. Average win $10. Average loss $100.
+[03:02] Nine wins $90. One loss $100. Net negative $10. 90% win rate, losing money.
+[03:12] Trader B wins 40% of the time. Average win $200. Average loss $100. Four wins $800. Six losses
+[03:24] $600. Net positive $200. 40% win rate, making money. This is expectancy. The only math that
+[03:34] actually matters. And most traders have never even heard about it. It gets worse. Your brain
+[03:41] is working against you. Not metaphorically, but chemically. The market operates like a slot machine.
+[03:48] Random wins flood your system with dopamine. It feels incredible and your brain learns. Trading
+[03:56] equals pleasure. And here's the trap. When you ignore your stop loss, hold through the pain,
+[04:02] and the trade comes back, that random win trains your brain to repeat the bad behavior.
+[04:10] You feel like a genius. The market rewarded you for being undisciplined. Now you'll do it again.
+[04:17] And eventually it won't come back. You are not trading for profits anymore. You are trading for
+[04:24] the hit. For that dopamine hit. And I know you bought courses before. Maybe they were good. Maybe
+[04:32] you learned something. But a few weeks later, same patterns repeat. Same mistakes. Same results.
+[04:40] And here's why. Courses give you information. But information doesn't change behavior.
+[04:47] And as I like to say, information without implementation is intellectual masturbation.
+[04:55] You know you should eat better. You know you should exercise. Knowing isn't the problem. Doing is the
+[05:01] problem. Courses leave you alone with your worst habits. No structure. No accountability. No one
+[05:08] to call you out when you are lying to yourself. Lone wolf traders blow account in silence. That's
+[05:14] not a flex. It's a trap. All right. I promised you a strategy. So here it is. No teaser. No join the
+[05:23] course to see the rest. This is the whole thing. This works on Forex, Crypto, Stocks, Futures,
+[05:29] any market, any timeframe, any time. Most people would charge for this, but I'm giving it away
+[05:37] because I want you to see what simple and effective actually looks like. The strategy is
+[05:44] built on three levels. Previous daily high, previous daily low, and previous daily close.
+[05:51] That's it. Three lines on your chart. And you might ask why these specific levels? Well, it's
+[05:57] because every institutional trader, every algorithm, every bank on the planet is watching these levels.
+[06:06] They are not watching your custom indicator. They are watching what price did yesterday.
+[06:12] So when price reaches PTH, PDL, or PDC, something actually happens. Always a reaction, a bounce,
+[06:21] a break. And your job is to be there when it does. And all you need is two setups. Setup one,
+[06:29] break and retest. Price breaks through one of your levels, closes beyond it, then comes back to test
+[06:37] it from the other side. You enter on the retest, trade the continuation of the trend. And the setup
+[06:45] number two is swing failure pattern. It's a simple reversal pattern. Price pokes about the previous
+[06:52] daily high or below the previous daily low, looks like a breakout, but it doesn't hold.
+[06:59] Price closes back inside, failed the breakout, trapped traders, so you enter the reversal. Break
+[07:06] and retest for continuation, swing failure pattern for reversal. That's the whole entire playbook.
+[07:13] Let me walk through it. Start of the day, mark yesterday's high, low, and close on your chart.
+[07:19] Three lines, done. So for the break and retest, you simply wait for the breakout,
+[07:27] and the price needs to hold about the breakout, and you simply enter on the retest. So in this case,
+[07:34] on this schematic, this was a retest of the previous daily high and previous daily close,
+[07:40] and this is the marked out daily candle. So the candles going to represent the daily chart,
+[07:48] and this is going to represent a lower time frame chart. You can execute on one minute, five minute,
+[07:55] fifteen minute, and actually you can use whatever execution model you want. I like to use SBS,
+[08:03] swing breakout sequence, and the Fib geometry setups. I covered that in my previous videos,
+[08:09] so make sure to watch those if you want to learn deeper about my execution models, but you can use
+[08:16] anything you want. So for this break and retest, you can use whatever you want on the lower time
+[08:23] frames. So this is simple market structure. You have bullish trend, higher lows, higher highs,
+[08:31] and in here you have a breakout, higher high, retest, higher low, and actually this in here
+[08:38] is an SBS. One, two, three, four, five. So that's one of my entry models, and the same thing is for
+[08:47] the swing failure pattern. You want to mark out the three levels, and it's the same thing. You have
+[08:53] the daily candle, and in this case this was the swing failure pattern here, sweeping previous daily
+[08:59] low, previous daily close, and what you want to see is you want to see price breaks the low and then
+[09:07] quickly comes back and provides an opportunity to enter. Yet again, you can enter on the
+[09:15] Fib geometry. It's a double pullback, so you have first pullback, and you enter on the second pullback
+[09:21] at 50 percent limit order, completely mechanical execution, and you just hold it into close,
+[09:29] or you can hold it to previous daily high. A lot of these setups are going to run into close,
+[09:35] meaning that you can enter in the morning, set your stop loss, close the chart, and walk away,
+[09:41] come back later at market close and see how it played out. It requires only about one hour every
+[09:48] single day to spot the setup, to enter, and then you can just monitor it on your phone.
+[09:54] You can do whatever you want and just make sure that you are trailing behind the structure,
+[09:58] or just set it and forget it, walk away, and come back at market close. And yet again, you can use
+[10:05] whatever trading model you want. You can even use ICT concepts, the repackaged stuff, which is pretty
+[10:12] much the same thing. There is your unicorn breaker, or whatever you want to call it,
+[10:17] FVG tap into the breaker. It doesn't matter. It's all the same thing. It's either going to be a
+[10:24] reversal pattern, or it's going to be break and retest pattern. There is nothing else. Everything
+[10:30] else fits into these two. Keep it simple. You don't need to learn another language.
+[10:35] You're just simply looking for the three levels, and then you execute two setups,
+[10:42] SFP or break and retest. That's all it is. And this is what I call candle swing theory. So,
+[10:51] essentially, every candle is a swing point. There is a structure inside of every candle. So,
+[11:00] that's why we're marking out the previous daily candle. But you can actually apply this to
+[11:06] any high timeframe candle. You can scalp while using hourly candles. So, you mark out previous
+[11:13] hourly candle, high and low. You can also mark out the close, but the candle close itself is not that
+[11:21] significant. And I know that I'm using the previous daily close, but the previous daily close is
+[11:28] special because that's the end of the cash session for the market. So, it's a bit different than just
+[11:36] a regular candle close. As far as the candle closures, I don't trust them, especially when
+[11:43] I see a range and there's a little close about that range on the one-minute chart. I don't
+[11:50] trust that close. So, I don't really use the candle closure as confirmation. You can, but in my opinion,
+[11:58] they are just not reliable. I only use the previous daily close and the previous weekly close,
+[12:04] which is the same as the Friday close. So, it's still a previous daily close. But you can use the
+[12:11] candle swing theory, candle high, candle low, and look for the two setups, break and retest or
+[12:17] swing failure pattern. So, instead of being a daily chart, this could be hourly chart. So, this could
+[12:25] be an hourly candle. And the same scenario at the bottom here. This was a swing failure pattern
+[12:33] and price reversed. And then on top of this candle, it was the break and retest. And important
+[12:40] information is that I am not waiting for candle two closure because there is a lot of people talking
+[12:47] about candle one, candle two, candle three. I don't care about the closures yet again,
+[12:54] unless it's a daily chart. I don't care about the closures. I just need the previous candle.
+[13:00] As long as I have a previous candle, I can look for the sweep of that candle and then trade back
+[13:08] inside that candle. This candle over here could be still developing and I'm already in the trade.
+[13:15] I don't need to wait for the closure of this candle in here. Just like I don't need to wait
+[13:22] for the hourly retest of this level after this breakout. I don't wait for this candle to close
+[13:30] over here. I enter on the breakout and retest on the lower time frames. And if you are just sitting
+[13:40] and waiting for the candle closure, I'm already in the trade. If you are waiting for the candle
+[13:46] closure, I'm already in the trade. So, it's important to understand what you're really doing
+[13:52] because the more you wait for the confirmation, the higher the chances are that you're going to
+[13:58] miss the entire move. And another mistake people make is that they focus on the lower time frames
+[14:06] instead of waiting for their POIs on the higher time frame. If the price is not reaching previous
+[14:12] daily low, previous daily high, previous daily close, I am not touching the lower time frame.
+[14:19] It doesn't matter how the lower time frame looks. It might look like A++ setup, whatever. I am
+[14:26] waiting for the previous daily levels because they are more important than lower time frame
+[14:34] price action. So, with that being said, let me show you on the chart. All right, so here's the Dow
+[14:40] Jones futures. This is the monthly chart and I want to do a top-down analysis with you so you can
+[14:47] see how easy this trading strategy really is. So, what you do is you come in and you mark out
+[14:53] your monthly candle. So, the previous monthly candle low and the previous monthly candle high.
+[15:00] Like I said, we don't really mark out the closes. We only mark out the daily closes. So, here's the
+[15:07] weekly chart. Same thing, we're going to mark out previous weekly high and previous weekly low.
+[15:14] Then we go to the daily chart. Same thing, we mark out previous daily low and previous daily high.
+[15:23] So, as you can see already for today, today is Monday, we already swept the Friday low
+[15:30] and reached the previous daily high. And I actually took this trade and I will be making a recap for
+[15:37] my private members, for Stoic traders. Now, you go to the hourly chart and here I like to use
+[15:45] some indicators just to show me the hourly chart. So, it's just simple indicators to show the days
+[15:54] and to show the boxes around the days. So, I can easily see where is the previous daily high,
+[16:01] previous daily low and this is also these lines in here. These are the closes. So, previous daily
+[16:08] close is over here and you can see this was a beautiful setup today. I took it after this
+[16:17] market open sweep, the shaded area marking out the New York session. So, this is going to be the
+[16:26] 9 a.m. candle and this is going to be in here a 10 a.m. candle. So, I bought this 9 a.m. candle
+[16:35] while the market was opening up at 9.30 and it went higher. Beautiful trade. You can see it on
+[16:42] my Twitter at StoicTA and that's why I'm also going to be sharing these setups. So, make sure
+[16:48] to follow me on Twitter at StoicTA. Now that we have this previous week highlighted, I want to
+[16:54] show you these setups that happened on the Dow Jones. So, this is what happened last week.
+[17:01] The Monday opens up and has tight consolidation, pre-market sweep and then market opens
+[17:10] and continues higher. So, this was a beautiful long setup right before the market opens and
+[17:18] I always say don't predict where the price is going because the setup is the setup. I don't
+[17:24] care if it goes higher or lower. All I care about is my setup. So, when I see tight consolidation
+[17:31] and a sweep and quick recovery, I already know that this is setting up for the long and a lot
+[17:39] of people believe that Monday is just such a bad day to trade. It's some low probability nonsense
+[17:47] but if you actually pay attention and you actually trade, you will realize that most Mondays have
+[17:53] expansion in them and most Mondays expand and set the range for the week. So, how could be the Monday
+[18:01] the lowest probability day? That logic is absolutely ridiculous. So, Monday had a beautiful setup and
+[18:09] you can hold it into close. Like I said, you can trail or just hold it into close. You can buy it
+[18:18] pre-market or at the market open. If you are trading the New York session, the London session
+[18:24] has some setups as well. Sometimes you're going to have a setup in Asia session but it's really going
+[18:29] to depend on your personal schedule and what hours you trade. Personally, I trade the New York session
+[18:36] that's why I have the shaded area highlighted for the New York session but this over here was a
+[18:41] beautiful break and retest setup. And then on Tuesday you have the same thing and this was a
+[18:47] London sweep, right? You have the tight consolidation, London sweep and then during New York session
+[18:56] you have also a break and retest on top of here. So, you have previous daily close,
+[19:04] this line is the previous daily close, London dip and New York rip. Beautiful. Tuesday the same
+[19:12] thing, you can see the previous daily close, previous daily high and like I said, I don't
+[19:18] care if market continues higher or lower, I'm going to trade the setup. So, when I see tight
+[19:23] consolidation and New York open, you got the big sweep, big candle down, you can just short this
+[19:31] and hold it into close. Pretty cool, right? There it is again, we got the dip and this was the previous
+[19:42] monthly high retest. This is also the SBS, one, two, three, four, five. This is SBS on the higher
+[19:52] time frame. Beautiful setup. Again, during the New York open you have the sweep, dip and rip.
+[20:01] Now, not every day is going to be clean, that's why I like to watch different charts. I like to trade
+[20:08] futures, I also watch the NASDAQ, S&P 500, crude oil, gold, even Bitcoin futures. This trading strategy
+[20:18] works on everything. It doesn't really matter, you can trade crypto with this, you can trade forex,
+[20:25] futures, whatever you want, but this was also a break and retest. It just wasn't clean in here,
+[20:34] it was a bit of a ranging day and then today we have this dip and rip. Same thing again, previous
+[20:43] daily low has been swept and we trade back to the previous daily close and the previous daily high.
+[20:51] This is also was an SBS, one, two, three, and four, five. If you want to learn about the swing breakout
+[20:59] sequence SBS, I talk about it extensively on this YouTube channel. You can easily find it, just look
+[21:06] at my previous videos and you will see the swing breakout sequence. But now I'm gonna pull up the
+[21:13] five-minute chart and we're going to see what kind of setups we had during these days on Dow Jones.
+[21:23] So here's what happened on five minutes on Monday and it was a simple break and retest.
+[21:30] There's nothing complicated, you got a breakout, you buy the retest, I recommend setting your
+[21:36] stop loss below here and you just hold it into close. Beautiful setup. This is what happened on
+[21:44] Tuesday, five minutes chart, you have break and retest. You also have break and retest based on
+[21:52] this structure. I only trade market structure so you have the dip, breakout, retest, continuation
+[22:00] higher and this was a sweep of the previous daily close. This line over here is the previous daily
+[22:08] close. It's the same line as here, previous daily close. You could have actually executed my FIP
+[22:17] geometry on this so we need two pullbacks. You have the first pullback and this is a second pullback
+[22:23] and this is a third pullback. So the second pullback happens right at market open here.
+[22:30] Again, I have a detailed video on this channel titled FIP geometry mechanical framework
+[22:37] and this is a mechanical trading strategy. What you do is you enter simply on the second pullback
+[22:43] and there is also an SBS in there because we have one, two, three, four, five. The limit order
+[22:54] goes at the 50% here, the stop loss goes below here and you're looking at 7R. If you hold it,
+[23:01] it's like 13R, it goes up and up into close. So pretty much you just hold all of this,
+[23:10] you enter, close your laptop, come back when it closed and you captured all of this,
+[23:16] more than 10R trade. Now if you wasn't sure, you can actually enter later on the third pullback.
+[23:24] So there is the third pullback, retracement to 50%, 50% entry, continuation higher and like I said,
+[23:33] you don't need to learn another language in order to take a simple break and retest trade.
+[23:39] Here's what happened on Wednesday and I actually took this trade on Wednesday.
+[23:44] I just self-stopped the 15-minute candle. Here's how it looked on the 15-minute candle.
+[23:51] I self-stopped this candle over here and this was like 6R trade for me. This was beautiful
+[23:58] and again, this was during the 930 open. You have 930 manipulation, whatever you want to call it,
+[24:06] you got the sweep of the range and immediate break down below and even on this candle over
+[24:13] here, this is the 15-minute chart, you enter on a break and retest. Going back to the 5-minute chart,
+[24:20] this was just a simple entry on the first pullback. Sometimes when you have such obvious
+[24:27] setups, you just enter on the first pullback or you wait for the second pullback and you
+[24:33] miss the trade. It's up to you but I want to emphasize that this is more important than this,
+[24:43] meaning that the higher timeframe levels, the previous daily high, previous daily low,
+[24:47] previous daily close, they're going to be more important than the setup on the lower timeframe.
+[24:55] So maybe you were waiting for the two pullbacks but you missed it. It's okay, just go to another
+[25:01] chart, go to another trade. You're going to miss the trades, you're going to lose the trades but
+[25:06] also you're going to catch the home run and that's what this strategy is all about because if you just
+[25:13] hold it into close, you will find that one home run can pay off many, many losses and also today,
+[25:23] this was the setup on the 5-minute chart, 930 open. This happened today and it's still going
+[25:31] right now. This is the market close and here's the trade that I took and all I did is simply
+[25:39] bought this retest. So I saw this dip at market open, you got the dip, the sweep,
+[25:46] whatever you want to call it and you just buy the retest. So it's a break and retest and
+[25:52] continuation higher and this one had a bit of a big stop loss but what I did is I just simply
+[25:58] put the stop loss here, I entered it and it was just one YM contract and I closed it right at the
+[26:07] market close. Absolutely beautiful banger if you would ask me but this is what's possible with this
+[26:15] very simple trading strategy. Putting it all together every day before the session, mark
+[26:22] previous daily high, previous daily low, previous daily close, then wait, you don't force trades,
+[26:28] you let price come to you. When price reaches a level, ask one question, did it break clean
+[26:36] or did it fail? Clean break that retests, that's continuation, enter with the trend,
+[26:43] poke through and a quick revert back inside the range, that's the swing failure pattern,
+[26:48] enter the reversal and for entry confirmation, for your execution trading model, use whatever
+[26:54] you like, whatever you want. It's all going to fall under SFP or break and retest anyway so
+[27:01] you can use engulfing candle, lower timeframe structure break, swing breakout sequence,
+[27:07] fib geometry, it doesn't really matter, the edge is in the level, the edge is in that previous day
+[27:15] POI, the confirmation is just timing the trade, three levels, two setups every single day. But why
+[27:24] does this work? Well, there are three reasons. First, it's based on real liquidity, previous daily
+[27:32] high and previous daily low are where most orders cluster, stops, limits, institutional interests,
+[27:40] when price reaches these levels, something happens. Second, it's what the big players
+[27:46] actually watch, banks don't care about your RSI divergence, they don't care about your first
+[27:52] presented FVG, they care about key price levels. These three levels are on every institutional
+[28:00] screen in the world and third, it's very simple, you are not waiting for five indicators to align,
+[28:08] you're not waiting for the planet alignment, mark three lines, wait, execute, done. Simple doesn't
+[28:17] mean easy but simple is what survives. Now the part nobody wants to hear, I just give you a
+[28:25] strategy that works, traders make money with this every single day but the strategy won't make you
+[28:32] profitable and here's why, you'll still revenge trade after a loss, you'll still move your stop
+[28:39] loss when it gets uncomfortable, you'll still over trade on slow days because you are bored.
+[28:46] Strategy is maybe 20% of this game, the other 80% is execution, risk management, emotional control,
+[28:55] discipline and this is why courses fail, they give you the playbook, they don't give you the ability
+[29:01] to follow it. You don't need more strategies, you have one now, what you need is a system to make
+[29:09] yourself execute. So what's the actual solution? It's not another strategy, not another indicator,
+[29:17] not another guru with a Lambo, it's a system, one that addresses the real problem, I call it the stoic
+[29:25] edge and it's built on three pillars, simplicity, one setup master deeply beats a hundred setups
+[29:34] known superficially, stop adding and start subtracting, discipline, process over outcome,
+[29:42] a losing trade executed with discipline is a win, a winning trade executed with chaos is a loss
+[29:50] and last but not the least mastery, control what you control, your preparation, your entry, your
+[29:58] size, your stop loss, release what you don't, the market's next move isn't up to you. The stoics
+[30:06] figured this out 2000 years ago and profitable traders figure it out eventually, most just take
+[30:13] it too long. The roadmap is simple 90 days, three phases, phase one foundation, days one through 30,
+[30:22] phase two discipline, days 31 through 60 and phase three mastery, days 61 through 90 and beyond,
+[30:33] each phase builds on the last, you don't skip ahead, you trust the process, phase one foundation,
+[30:41] the rule that trips everyone up, no live trading, I know you want to make money now, that impulse
+[30:49] is exactly what got you stuck, this phase isn't about profit, it's about habits, you learn the
+[30:56] system, you implement the daily routine, you pay per trade with full execution, every trade journaled,
+[31:04] every setup evaluated, the milestone 30 consecutive daily journal entries, if you miss a day
+[31:11] counter resets and you repeat the whole phase, sounds strict, it is, that's why it works.
+[31:19] Phase two discipline, now you are live but with a constraint, you are only trading the minimum
+[31:27] position size possible, so if you are trading nasdaq futures you are trading one micro contract
+[31:34] of nasdaq futures, this phase is about proving you can follow rules when real money is on the line,
+[31:42] paper trading is easy, anyone can be disciplined when nothing's at stake, you follow the six risk
+[31:48] rules, no exceptions, the one percent rule, the three strike rule, the stop loss covenant, all of
+[31:54] them, the milestone 30 consecutive days without a single rule violation, if you broke a rule,
+[32:02] counter resets, no phase three until you have 30 clean days, this is where most traders fall apart
+[32:10] and this is where it actually matters. Phase three mastery, full position size, emotions recognized
+[32:19] and managed, the system is a second nature, but here's the part most people miss, you teach
+[32:26] something you learned, you share your story with the community and you might be asking why, well,
+[32:32] it's because teaching locks in mastery, when you explain it to someone else you understand it deeper,
+[32:40] when you help others you reinforce your own discipline, by day 90 you won't recognize your
+[32:46] old trading self, risk rules, absolutely non-negotiable, one, never risk more than one to
+[32:54] two percent per trade, two, three losses in a day you are done, walk away, three, down six percent for
+[33:03] the week you are done until Monday, four, never take a trade below two to one reward to risk, five,
+[33:12] every trade has a hard stop loss in the system before you enter, six, once your stop loss is set
+[33:21] you never move it further away, you can move it closer to lock in profit but never move your stop
+[33:28] loss further to avoid a loss, never, these rules exist to protect you from yourself, four emotions
+[33:37] destroy trading accounts, you felt all of them, fear shows up as hesitation, you see the setup but
+[33:45] can't pull the trigger, the cure to this is reducing size until calm returns and also mechanical
+[33:52] execution, greed shows up as over trading, skipping the checklist because this one's obvious,
+[34:01] the cure for this return to your checklist, read it out loud, revenge shows up after a loss,
+[34:09] you need to get it back and the cure for this stop trading, today is over, done for the day,
+[34:16] euphoria shows up after a win streak, you feel untouchable and the cure for this return to normal
+[34:24] size immediately, you won't completely eliminate these but you'll learn to recognize them before
+[34:31] they take the wheel, why does this work when everything else didn't? Well, it's all because
+[34:38] the system, checklists, templates, you don't figure out what to do, you follow the process,
+[34:45] the challenge which is the structural daily routines, milestones that have to be hit,
+[34:51] you can't hide from your own progress and the community, trade alone and your worst habits
+[34:58] have no accountability, trade in a group of disciplined operators and their standards
+[35:04] become your floor, information plus implementation plus accountability, all three that's what makes it
+[35:13] stick, let's recap, you got a complete strategy, previous daily high, previous daily low, previous
+[35:19] daily close, break and retest, swing failure pattern, back test it and use it right away,
+[35:26] you got the 90-day roadmap, foundation, discipline, mastery, you got the six risk rules that keep you
+[35:33] in the game, you got the four enemies that blow accounts and how to beat them, most courses don't
+[35:40] give you this much and this is was all for free but here's the thing, you can take everything I
+[35:47] just give you and try to implement it alone, some people do, it takes two to three years if they
+[35:53] stick with it but you can do it faster, you don't have to go through it again, I already went through
+[35:59] it and I built the Stoic Edge system, a complete course with advanced setups, in-depth explanations,
+[36:07] the full market structure plus fib geometry framework, everything step by step and starting
+[36:14] with the 2026 I have introduced the 90-day challenge for the daily structure, weekly reviews,
+[36:22] milestones that force progress and of course the Stoic Traders community, a tribe of traders who
+[36:28] hold you accountable, who call out your excuses, whose standards pull you up, system plus
+[36:36] implementation plus community, this is for you if you've been stuck six months or more, blown at
+[36:43] least one account, done with this cycle, this is for you if you will follow rules without negotiation,
+[36:51] this is for you if you'll do the work, 30 days without live trading, 60 days at minimum size,
+[36:59] it's not easy but it works, this is not for you if you want a shortcut, want a secret indicator,
+[37:07] if you already go to stoicedge.com and join the Stoic Traders community, you will get access to
+[37:14] the full Stoic Edge system with the 90-day challenge, link in the description down below
+[37:20] and also in the description of this video I have left you a free PDF of this trading strategy,
+[37:27] you can print it out and read it every morning so you can stay on track but before I go remember
+[37:33] that trading is a mind game disguised as a strategy game, you have a strategy now, the question is
+[37:41] whether you have the discipline to follow it, most people don't, not alone, so master your mind,
+[37:48] the profits will follow and always no matter what happens in life remember the only way is up.

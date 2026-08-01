@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "Af-qS5j-MGo",
+    "title": "Trading Psychology | How To Become Consistently Profitable Trader",
+    "url": "https://www.youtube.com/watch?v=Af-qS5j-MGo",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/Af-qS5j-MGo.json"
+  },
+  "stats": {
+    "word_count": 9499,
+    "duration_seconds": 3669.76,
+    "segments": 611,
+    "concepts_detected": 5,
+    "candidate_strategies": 2
+  },
+  "concept_mentions": {
+    "Liquidity": 3,
+    "Fair Value Gap": 3,
+    "Power of Three": 5,
+    "Premium and Discount": 1,
+    "Risk Management": 1
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 3280.06,
+          "end": 3289.26,
+          "text": "You have a liquidity sweep, you have a sweep of the previous candle and then you can start targeting these candles.",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 13
+        }
+      ]
+    },
+    {
+      "name": "Power of Three / AMD",
+      "evidence": [
+        {
+          "start": 2494.48,
+          "end": 2516.48,
+          "text": "the pullback you know i'm looking for the pullback especially after this reversal right you know ict talks about the three candle one two three right and you know we had a sweep so this candle swept and then we had a final candle this is also a power of three accumulation manipulation distribution",
+          "concepts": [
+            "Power of Three"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 16
+        },
+        {
+          "start": 2615.84,
+          "end": 2641.84,
+          "text": "about here on top I was saying it on a weekly but this pattern in here also showing us a top three candle structure that's also a power of three as ICT says it I know most concepts out there but it works right and this is also accumulation manipulation and distribution in the third candle",
+          "concepts": [
+            "Power of Three"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 13
+        },
+        {
+          "start": 3362.06,
+          "end": 3371.66,
+          "text": "which is also AMD as ICT puts it, accumulation, manipulation, distribution. Accumulation, manipulation, distribution.",
+          "concepts": [
+            "Power of Three"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 15
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 739.2,
+      "end": 759.44,
+      "text": "So if you're going to the gym and try to you know lift 500 pounds you get what you deserve cause and effect. We need to start small just like we need to start with maybe 20 pounds we need to start with five points on enqueue. What are you trying to catch 100 points when you can't catch five points",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1063.52,
+      "end": 1086.48,
+      "text": "yourself up for unrealistic expectations and five points on NQ might not seem enough but five points on one NQ is hundred bucks. Okay so you have five NQs it's 500 bucks. So it's really adds up. All you really need to quit your nine to five is couple of trades on NQ and you're",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1080.32,
+      "end": 1101.68,
+      "text": "really adds up. All you really need to quit your nine to five is couple of trades on NQ and you're done for that day. And to put it in perspective 10 points on NQ is 200 bucks. So you could be taking one trade with five NQs and banging 1000 bucks in one trade. These trades could",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1193.2,
+      "end": 1211.84,
+      "text": "so you will be able to add more and more size onto your trades. You can't just come in into the market and expect 100 point banger every single day. They don't happen every single day. Sometimes it goes up, sometimes it goes down and guess what? There is no guarantee that you're",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1380.8,
+      "end": 1400.64,
+      "text": "range. You can discover these rules that in back testing you notice that you repeatedly get into this entry and you get stopped out. So you can set rules around that so you get less stopped out and by the process of elimination you're refining your trading and you're refining your process.",
+      "concepts": [],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 1616.96,
+      "end": 1639.04,
+      "text": "gamblers and are considered at low risk for the addiction. So professional gambler they're not addicts but casual gamblers they are addicted to winning. They addicted to that dopamine hit of winning trade and that's what messes them up because you cannot be seeking the dopamine hits",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 2494.48,
+      "end": 2516.48,
+      "text": "the pullback you know i'm looking for the pullback especially after this reversal right you know ict talks about the three candle one two three right and you know we had a sweep so this candle swept and then we had a final candle this is also a power of three accumulation manipulation distribution",
+      "concepts": [
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 16
+    },
+    {
+      "start": 2615.84,
+      "end": 2641.84,
+      "text": "about here on top I was saying it on a weekly but this pattern in here also showing us a top three candle structure that's also a power of three as ICT says it I know most concepts out there but it works right and this is also accumulation manipulation and distribution in the third candle",
+      "concepts": [
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 13
+    },
+    {
+      "start": 2634.32,
+      "end": 2654.4,
+      "text": "it works right and this is also accumulation manipulation and distribution in the third candle after we get this second candle right this is a sign that we might be going back for a retracement so now we could be looking for another top in here maybe higher so our daily",
+      "concepts": [
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 11
+    },
+    {
+      "start": 2662.48,
+      "end": 2683.44,
+      "text": "retracement last week closed friday was this candle so that's an indication that we might have that the third candle pump the third candle distribution so let's see the four hour and as you can see this one there is a gap in here so this is imbalance fvg whatever you want to call it but the presence",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 3280.06,
+      "end": 3289.26,
+      "text": "You have a liquidity sweep, you have a sweep of the previous candle and then you can start targeting these candles.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 13
+    },
+    {
+      "start": 3362.06,
+      "end": 3371.66,
+      "text": "which is also AMD as ICT puts it, accumulation, manipulation, distribution. Accumulation, manipulation, distribution.",
+      "concepts": [
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 15
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:00.614711+00:00"
+}

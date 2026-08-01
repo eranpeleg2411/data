@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "PgoZxIzY7YM",
+    "title": "The Only Mechanical Trading Strategy You Will Ever Need (Tutorial from Beginner to Advanced)",
+    "url": "https://www.youtube.com/watch?v=PgoZxIzY7YM",
+    "upload_date": "2024-08-25",
+    "channel": "Stoic Trader"
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/PgoZxIzY7YM.json"
+  },
+  "stats": {
+    "word_count": 4818,
+    "duration_seconds": 1920.02,
+    "segments": 618,
+    "concepts_detected": 3,
+    "candidate_strategies": 0
+  },
+  "concept_mentions": {
+    "Liquidity": 1,
+    "Fair Value Gap": 2,
+    "Risk Management": 1
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [],
+  "key_passages": [
+    {
+      "start": 56.68,
+      "end": 65.56,
+      "text": "at a low risk for addiction. I don't know about you, but ICT doesn't strike me as a professional gambler.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 319.92,
+      "end": 326.88,
+      "text": "it draws other people into the market, that will help, will it not, because it creates more of an imbalance?",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 558.64,
+      "end": 564.48,
+      "text": "with the actual reason why the market went up or the market went down, other than the fact that there was an imbalance in conviction",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 1277.66,
+      "end": 1288.02,
+      "text": "You can go to the low time frames like 15 second, one minute, and you can find many, many trades like these. And all you have to do is just execute from entry",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 1329.14,
+      "end": 1341.98,
+      "text": "So as price going up and not retracing down into the 618, we keep on waiting, waiting, and this becomes liquidity. This becomes people that are longing here.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 1495.8,
+      "end": 1504.16,
+      "text": "And while most people are waiting for the draw, we already done with our trade. And it's all about risk management.",
+      "concepts": [
+        "Risk Management"
+      ],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 1835.46,
+      "end": 1845.14,
+      "text": "without stressing about it. And I wanna exit quickly, right? So we have a reversal here and it goes right into the 236",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:00.868948+00:00"
+}

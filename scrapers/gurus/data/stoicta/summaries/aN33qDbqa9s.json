@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "aN33qDbqa9s",
+    "title": "The Only Trading Model You Will Ever Need - Swing Breakout Sequence | SBS",
+    "url": "https://www.youtube.com/watch?v=aN33qDbqa9s",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/aN33qDbqa9s.json"
+  },
+  "stats": {
+    "word_count": 9216,
+    "duration_seconds": 3385.84,
+    "segments": 857,
+    "concepts_detected": 3,
+    "candidate_strategies": 0
+  },
+  "concept_mentions": {
+    "Market Structure Shift": 2,
+    "SMT Divergence": 1,
+    "Risk Management": 1
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [],
+  "key_passages": [
+    {
+      "start": 51.52,
+      "end": 85.2,
+      "text": "Or maybe your desk looks like this after trading NFP or CPI news. But this is the reality for most traders. Don't you feel frustrated and misled by trading gurus who promise the world but leave you more confused and unprofitable? These so-called experts lure you in with flashy cars, luxury lifestyles, instant riches or maybe some shiny brand new strategy that they just discovered but you know come to find out...",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 66.88,
+      "end": 105.44,
+      "text": "These so-called experts lure you in with flashy cars, luxury lifestyles, instant riches or maybe some shiny brand new strategy that they just discovered but you know come to find out they've got a paywall in order to reveal that strategy. The harsh reality is that you end up spending your hard-earned money and time on their courses, signals, systems only to realize they offer nothing but empty promises. You are...",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 85.2,
+      "end": 116.4,
+      "text": "The harsh reality is that you end up spending your hard-earned money and time on their courses, signals, systems only to realize they offer nothing but empty promises. You are left stuck more lost than ever and the cycle of dependency continues. The more you believe into some guru and their system, the more you dependent on them explaining you all the nuances, all of the intricacies of that system.",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 105.44,
+      "end": 136.48,
+      "text": "The more you believe into some guru and their system, the more you dependent on them explaining you all the nuances, all of the intricacies of that system. So the more you learn about somebody's concepts, the more you getting indoctrinated and brainwashed into their philosophy, into how they trade, into everything else. But if the trader themselves is not profitable, they cannot teach other traders how to be...",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 126.88,
+      "end": 148.96,
+      "text": "But if the trader themselves is not profitable, they cannot teach other traders how to be profitable so they result to selling courses. But imagine a world where you don't need to rely on anyone else. Picture yourself mastering the market, reading price action with confidence and executing flawless trades.",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 172.08,
+      "end": 208.96,
+      "text": "How would it feel to finally take control of your trading journey and achieve the success you always dreamed of? But most traders remain trapped, continuously chasing the next trend, signal or secret formula from these trading gurus. And really traders today are not that different from 9 to 5 workers that just trapped in a system, cogging a wheel, just slaving away, lining up pockets of other people like these...",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 188.16,
+      "end": 221.84,
+      "text": "And really traders today are not that different from 9 to 5 workers that just trapped in a system, cogging a wheel, just slaving away, lining up pockets of other people like these trading gurus with the hopes of get out, with the hopes of escape that rat race that they are in, that everybody is in really. Traders are left more confused than ever, facing losses and their confidence shattered. You end up wasting...",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 1253.04,
+      "end": 1269.84,
+      "text": "So based on this schematic, where do you think the best trade is? If this is a sequence, this is a logical progression of this pattern of this breakout. If we have a swing high and swing low, and if you don't understand what is swing high or swing low,",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1269.84,
+      "end": 1282.0,
+      "text": "go back on my channel and watch previous videos. I dive deep into the market structure and how the prices move. So this is a swing point, swing high and swing low.",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 1293.76,
+      "end": 1308.0,
+      "text": "And see, they might be correct initially where it bounces, but because they were greedy and didn't take profit here, they get stopped out and get lured in into the shorts, thinking that this is now a bearish market structure shift.",
+      "concepts": [
+        "Market Structure Shift"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1310.4,
+      "end": 1321.36,
+      "text": "And maybe they'll try to short it here and try to short down, down, down, because this is a bearish market structure shift. And this is how the smart money manipulates retail all the time.",
+      "concepts": [
+        "Market Structure Shift"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 1489.92,
+      "end": 1503.28,
+      "text": "So this is where the fixed risk with stop loss and take profit comes in. Looking at this schematic, the best trade is this one. The best trade is to take it from here to here.",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:01.009848+00:00"
+}

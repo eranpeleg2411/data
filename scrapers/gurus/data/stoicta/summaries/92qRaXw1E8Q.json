@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "92qRaXw1E8Q",
+    "title": "Trading Psychology: How to Beat Overtrading and Impulsive Clicks | Paradigm Shift",
+    "url": "https://www.youtube.com/watch?v=92qRaXw1E8Q",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/92qRaXw1E8Q.json"
+  },
+  "stats": {
+    "word_count": 2348,
+    "duration_seconds": 1273.52,
+    "segments": 331,
+    "concepts_detected": 1,
+    "candidate_strategies": 0
+  },
+  "concept_mentions": {
+    "Risk Management": 1
+  },
+  "spoken_time_references": [
+    "00pm",
+    "11am",
+    "15am",
+    "30am",
+    "9am"
+  ],
+  "candidate_strategies": [],
+  "key_passages": [
+    {
+      "start": 418.24,
+      "end": 435.6,
+      "text": "In 48 BC Julius Caesar faced Pompey at the Battle of Phacilis. Pompey had more troops, more resources. Everyone expected Caesar to attack impulsively to force the fight.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 702.64,
+      "end": 717.2,
+      "text": "Be ultra-specific. For position sizing, I never risk more than 1% of my account per trade. Write these rules down, print them out on the single piece of paper,",
+      "concepts": [
+        "Risk Management"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 913.52,
+      "end": 924.24,
+      "text": "A clean setup appears on gold futures. It checks all the boxes. So Alex risks 1% of his account per his rules.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 1001.28,
+      "end": 1006.8,
+      "text": "Number two. Ignoring rules under pressure. Stress amplifies FOMO.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:00.554301+00:00"
+}

@@ -1,0 +1,133 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "vVPrEWA1QuU",
+    "title": "The Only Trading System That You Will Ever Need",
+    "url": "https://www.youtube.com/watch?v=vVPrEWA1QuU",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/vVPrEWA1QuU.json"
+  },
+  "stats": {
+    "word_count": 4438,
+    "duration_seconds": 2012.64,
+    "segments": 258,
+    "concepts_detected": 2,
+    "candidate_strategies": 0
+  },
+  "concept_mentions": {
+    "Liquidity": 3,
+    "Risk Management": 1
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [],
+  "key_passages": [
+    {
+      "start": 230.24,
+      "end": 253.2,
+      "text": "When you strip away the noise, you are left with stillness. And in that stillness, you find the confidence to act without hesitation. That's what we are building today. Picture an archer in a silent forest. He doesn't carry a quiver of half-hearted options. He draws one arrow, aligns one",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 367.92,
+      "end": 392.0,
+      "text": "you snap at your partner, skip the gym, lose the sleep. The market doesn't just take your money, it takes your peace. Complexity isn't neutral, it's a tax on your future and the bill comes due faster than you think. Meet the market's favorite donor, the degen gambler. He chases dopamine spikes,",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 383.44,
+      "end": 409.52,
+      "text": "faster than you think. Meet the market's favorite donor, the degen gambler. He chases dopamine spikes, screenshot his wins, hides his losses and funds influencer lambos with every impulsive trade. He's addicted to the rush, to the result. Every tilt trade, every I'll double down to recover moment",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 422.48,
+      "end": 444.96,
+      "text": "Spoiler alert, the market doesn't care about your grit or gut feelings. It doesn't care about your intuition. It doesn't care about you at all. Let me ask you this question, how many more tuition payments will you donate to the market before your dream of financial autonomy goes bankrupt?",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 497.12,
+      "end": 518.72,
+      "text": "Losses sting less because they are planned. Wins feel earned because they are systematic. And finally, if you follow just one system and stick to it, you will gain scalability. Once the system is muscle memory, scaling up is just a matter of increasing your position size. No guesswork,",
+      "concepts": [
+        "Risk Management"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 661.04,
+      "end": 684.08,
+      "text": "together. The only indicator that we're going to be using is the 20 and 200 simple moving average. I use the NA ribbon indicator at pulling up different moving averages and as you can see, I only have two moving averages selected. These are simple moving averages so I'm not using EMA,",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1075.44,
+      "end": 1096.8,
+      "text": "first pullback, it might do that on the second pullback where we extend the fib. And you can see how now it aligns right about this high, which is a lot of people might say that there's liquidity there, but liquidity is everywhere. You've got liquidity about each high, right? So,",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 1090.64,
+      "end": 1116.16,
+      "text": "liquidity there, but liquidity is everywhere. You've got liquidity about each high, right? So, the price went down and went up into the 6.18% and yet again, I'm not measuring from this because this pullback was shallow and didn't get to the 6.18%, I extend this fib over here to the",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 1266.48,
+      "end": 1289.44,
+      "text": "continuation lower. So, once you entered at 618, the stop loss goes about the swing high. So, this is your stop loss distance and based on the stop loss distance, you calculate how many RRs you're aiming for. You can also trail this price. As the trade goes into your favor, you",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1498.96,
+      "end": 1525.92,
+      "text": "not a big deal. You can go down more. This was a perfect trade. And there is even a smaller SBS on the lower time frames there, right? This would be a great swing trade. Got a short, stop about here, and it goes into like 4RR. This would be a beautiful swing trade on the daily",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 1591.36,
+      "end": 1610.88,
+      "text": "after the flip. You can wait for the first pullback to play out and make sure that these resistance points become support and then you can start looking for the bullish moves. These are going to be harder to catch on the daily chart, but on the lower timeframes,",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1625.52,
+      "end": 1647.44,
+      "text": "and it continues higher. Sometimes you're going to have more difficult setups. Sometimes they're going to be very obvious like over here. This was an obvious setup. One, two, three, four, five. There is an SBS. You can learn about SBS on my YouTube channel and also I dive deeper into the SBS setups",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:01.278081+00:00"
+}

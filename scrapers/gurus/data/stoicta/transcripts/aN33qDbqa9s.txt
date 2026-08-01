@@ -1,0 +1,857 @@
+[00:00] Hello hello, welcome back to another very enlightening trading video. Today we are talking about my model SBS, Swing Breakout System.
+[00:10] We're gonna dive deep into the logic behind the sequence, how it plays out, I'm gonna show you some examples.
+[00:16] And also we're gonna talk a little bit about trading psychology because I need to realign your focus to what truly matters in trading.
+[00:23] Of course before we begin I want to remind you that this video should not be construed as financial advice.
+[00:29] This is not a financial advice, this is not a recommendation to buy or sell any stock security, cryptos or meme coins.
+[00:38] This is none of that. This is for educational purposes only.
+[00:43] Let me ask you something. Is this you? I know that the example might be a little bit extreme but do you feel like this inside?
+[00:51] Or maybe your desk looks like this after trading NFP or CPI news. But this is the reality for most traders.
+[00:59] Don't you feel frustrated and misled by trading gurus who promise the world but leave you more confused and unprofitable?
+[01:06] These so-called experts lure you in with flashy cars, luxury lifestyles, instant riches or maybe some shiny brand new strategy that they just discovered but you know come to find out they've got a paywall in order to reveal that strategy.
+[01:25] The harsh reality is that you end up spending your hard-earned money and time on their courses, signals, systems only to realize they offer nothing but empty promises.
+[01:39] You are left stuck more lost than ever and the cycle of dependency continues.
+[01:45] The more you believe into some guru and their system, the more you dependent on them explaining you all the nuances, all of the intricacies of that system.
+[01:56] So the more you learn about somebody's concepts, the more you getting indoctrinated and brainwashed into their philosophy, into how they trade, into everything else.
+[02:06] But if the trader themselves is not profitable, they cannot teach other traders how to be profitable so they result to selling courses.
+[02:16] But imagine a world where you don't need to rely on anyone else.
+[02:21] Picture yourself mastering the market, reading price action with confidence and executing flawless trades.
+[02:28] Knowledge is abundant and should be free.
+[02:31] What if you could harness that knowledge, focus on your abilities and truly perfect your execution?
+[02:37] Your trading potential is truly limitless.
+[02:40] What if you had the keys to unlocking consistent profitability?
+[02:45] What if you could develop a daily trading plan that you understand deeply and execute with precision?
+[02:52] How would it feel to finally take control of your trading journey and achieve the success you always dreamed of?
+[02:59] But most traders remain trapped, continuously chasing the next trend, signal or secret formula from these trading gurus.
+[03:08] And really traders today are not that different from 9 to 5 workers that just trapped in a system, cogging a wheel, just slaving away, lining up pockets of other people like these trading gurus with the hopes of get out, with the hopes of escape that rat race that they are in, that everybody is in really.
+[03:28] Traders are left more confused than ever, facing losses and their confidence shattered.
+[03:34] You end up wasting time and money, feeling like you'll never break free from this cycle of dependency and failure.
+[03:41] The cycle of the trading guru cock riding carousel.
+[03:46] Yes, that's what most traders doing today.
+[03:50] There is ICT in there, there is Romeo, there is other shiny object in here, shiny strategy over there.
+[03:58] And everybody is hopping on one shiny object to another and there is a unicorn and they jumping on another unicorn and it's a never ending cycle of traders just keep riding that trading guru cock carousel and they praising one guru and then we get frustrated and the guru can't answer their answers.
+[04:21] And they go back to another trading guru and the other trading guru is very complicated and they just telling you to go back test and never providing you any answers and you keep jumping from one unicorn to another from one unicorn to another and everybody's got the holy grail.
+[04:41] And everybody says that their strategy is superior and you just end up being confused.
+[04:48] You go around in circles looking for that way out and there is no way out because it's a circle.
+[04:55] However, what if today you decided to take action and change your approach?
+[05:00] You could develop a personal daily trading plan, focus on mastering one trading model and gaining confidence through consistent execution.
+[05:12] Imagine the freedom and empowerment of knowing you have the skills to succeed on your own terms.
+[05:20] You know, I was once in the same position, misled by trading gurus and feeling stuck.
+[05:26] I invested in countless courses, systems and signals only to find myself more confused and unprofitable.
+[05:34] That's what the reality of today traders are.
+[05:38] Like I said, they are riding the cock carousel.
+[05:42] I have started trading in 2020 and I went through countless gurus trying to tell me they've got the holy grail or their signals would work.
+[05:52] That was my retail concepts introduction to trading and it took me a while to go through the garbage.
+[06:00] I wasted a lot of time and I wasted a lot of money.
+[06:04] And in the beginning of 2023, I found an ICT, Inner Circle Trader.
+[06:11] I found his YouTube channel and you know, as an INTJ, I am very fascinated about systems.
+[06:17] I'm very fascinated about anything that works, you know, and anything that somebody put together.
+[06:23] And if it's a good system, I'll try to learn it and execute it.
+[06:28] And the thing is with ICT is that there is just so much, there is so much stuff.
+[06:34] And really, his content is designed in a way for you to keep watching, to keep just being brainwashed by his terminology and stuff.
+[06:44] I'm not saying his concepts don't work, but you got to realize that if anybody who made ICT worked, it's because their own ability of reading price, their own experience with the charts.
+[06:58] And the concept is just there of the way to read the price.
+[07:03] But the problem is the confusion.
+[07:05] It's really just over complicated basics at this point.
+[07:09] And why not just focus on basics?
+[07:12] So we don't have to constantly watch and rewatch endless four-hour runs with the hopes of finding a few enigma gems.
+[07:22] You know, that's my problem with ICT, didn't really make me profitable and left me more confused than ever.
+[07:29] So because ICT has built such a strong cult, pretty much, you have all of these jokers like Romeo,
+[07:38] that's literally repackaging his content using his clout, using ICT's clout and the following in order to sell his own version of a turtle soup.
+[07:51] And you know, ICT haven't invented turtle soup.
+[07:54] If you want to go down deep into the rabbit hole, you can find the origins of turtle soup.
+[08:00] But that's not really the point.
+[08:02] The point that these jokers like Romeo repackage in somebody else's concepts, using their clout, selling this repackaged course and leaving traders even more confused.
+[08:13] Well, not only that, Romeo is now breeding other Romeos just like him, as racist as him, using the n-word all over Twitter, insulting everybody, totally disrespecting everybody.
+[08:28] And for what? To sell some hundred dollar course that's gonna leave traders even more confused?
+[08:35] Like I said, it's a trading guru, cock riding carousel.
+[08:39] And if traders were not confused and had the answers and actually focused on their own ability to trade,
+[08:48] instead of looking up to these clowns that literally repackaging forever.
+[08:54] This is, I think, like fifth course from Romeo.
+[08:58] And now we have his disciples making the same thing.
+[09:02] Like, if you have the answers, why do you make more courses?
+[09:08] Why is this a thing?
+[09:11] Why are we making more and more courses of repackaged stuff that's literally the same thing?
+[09:17] You know, I wasted a lot of time with ICT.
+[09:20] Then I looked into Romeo stuff and it took me about a month to realize that all of his posts, literally a cherry picked MT4 screenshots,
+[09:31] that nobody knows how many losses he took before or how many trades he took before.
+[09:37] It's just literally cherry picked hindsight stuff.
+[09:41] And I am done wasting my time.
+[09:43] That's why I ditched ICT in the August of 2023 and doubled down on basics, on what actually works, which is the market structure.
+[09:55] I realized that the real secret lies in understanding the market, reading price action and perfecting your execution.
+[10:03] I developed my own daily trading plan focused on one model and executed it multiple times to gain confidence.
+[10:11] Now I am consistently profitable and no longer relying on anyone else.
+[10:15] I don't need any guru.
+[10:17] And my goal here is to inspire you to do the same, is to believe in yourself.
+[10:22] And if you actually want to truly become a trader, you need to practice.
+[10:27] But you need to practice your own ability to trade, your own execution, not somebody else's that told you this and that.
+[10:36] Don't trust.
+[10:37] Verify.
+[10:38] So if I'm presenting you the model today, don't just trust me.
+[10:43] Go back this and verify it and see if it works for you because I can't trade for you.
+[10:49] I can only show you what works, what worked for me, how I did it, how I achieved it.
+[10:55] The rest is on you guys.
+[10:57] My ultimate goal is to empower traders like you to take control of your trading journey and achieve consistent profitability
+[11:06] by developing your personal daily trading plan, focusing on one model and executing it with precision.
+[11:14] You can break free from the cycle of dependency and failure.
+[11:18] Remember, the ultimate goal is to take control of your trading journey and achieve consistent profitability.
+[11:25] Develop your personal daily trading plan.
+[11:28] That's all you need to become a trader, to become a consistently profitable trader.
+[11:35] That's all you really need and everything else is going to be the extra destruction.
+[11:41] The more complicated your setup is, the more distracted and confused you're going to be.
+[11:47] So you want to identify something that repeats over and over and over and over and over and over on any time frame, at any time, without any complications.
+[11:58] So before you do anything, you need to sit down and write your daily plan.
+[12:03] This is what you're going to do every single day if you're a trader.
+[12:07] So if your goal is $1,000 per day, which is for a lot of people, this is a hefty goal.
+[12:15] You don't have to go for this.
+[12:16] I just put it as an example.
+[12:17] Wherever you are in your trading journey, you're probably starting with zero because you've been misled by all the trading gurus and you're running in circles.
+[12:28] Decide what goal you're going to have.
+[12:31] It could be 100 bucks.
+[12:32] It could be 10 bucks.
+[12:34] Depends on your budget, depends on everything else in your life.
+[12:38] This is the goal.
+[12:39] And remember that trading is a skill.
+[12:42] So our goal is not to sit in front of the chart all day long and playing the analyst and trying to pretend that we know the future and trying to predict all of it at once.
+[12:55] It's not our goal.
+[12:57] And see, that's another problem with the trading gurus is that a lot of them breeding unprofitable analysts that want to be right and don't want to make money.
+[13:06] And you can really easily spot them if you see a bunch of hindsight charts, especially on high time frame, where they're calling price and then reposting the ones that work.
+[13:18] So again, our goal is to make money.
+[13:21] Our goal is not to be an oracle analyst because oracle analyst getting hired by somebody else and you end up working for somebody else.
+[13:31] And there's nothing wrong with working for somebody else.
+[13:34] But I'm all about independence and I'm all about working for myself.
+[13:39] So understand that this is the goal.
+[13:42] The goal is money.
+[13:43] The goal is not to become super accurate analyst like ICT wants you to believe he is.
+[13:51] It's not the goal that helps nobody.
+[13:53] Our goal is to control ourselves and to manage our emotions in order to get to these levels of income.
+[14:02] Simply put, trading is only a skill and the only profitable trading is discretionary trading because everything depends on you as a trader and your ability to trade and your ability to read the price action.
+[14:16] And I reduced everything.
+[14:18] I took out all the fluff.
+[14:20] I took out all the complications and I came up with one trading setup and trading model.
+[14:26] So that's why we're going to focus on trading only one setup.
+[14:30] And you don't have to trade my setup.
+[14:32] If you are successful with something else, that's fine.
+[14:36] But understand that the more complications you have, the more confused you're going to be.
+[14:42] And it's harder for you to keep taking that three trades per day because if you're not consistently winning and getting every day.
+[14:50] Consistent wins and I get it.
+[14:52] Some days you might lose and some trades you might lose.
+[14:55] But if you're not consistently executing your daily plan, you're not following your goal.
+[15:02] You won't be able to achieve this goal if you're not following your daily plan.
+[15:07] The plan that you said you're going to follow.
+[15:10] This is very, very important.
+[15:12] I was talking about this in my previous videos.
+[15:15] This is cognitive dissonance.
+[15:18] If you're telling yourself, I'm going to go for this goal and in order to achieve this goal,
+[15:23] I got to take three trades and be done for the day.
+[15:26] I got to trade only one setup and only that setup and I got to have a fixed risk with stop loss and take profit.
+[15:34] And I'm done after three trades.
+[15:36] And if I achieved the goal or not, I'm done after three trades.
+[15:41] This is the system.
+[15:42] If you deviate from this system, the plan that you said before, your brain eventually is not going to trust you.
+[15:50] And you can't trust yourself.
+[15:53] So you end up looking for the next shiny object for the next Holy Grail.
+[15:58] They will make you profitable somehow just by learning this one Holy Grail and its backwards approach.
+[16:05] That's what trading gurus are trying to sell you.
+[16:08] They will sell you the dream that, oh, well, with this system, you can do it.
+[16:12] But it all comes back down to your personal plan, to your goals and how you get there.
+[16:20] So with that being said, I present to you my own trading model swing breakout sequence, SBS.
+[16:28] This is my personal trading model that I have been developing for the past year.
+[16:34] And now I'm literally giving you the Holy Grail.
+[16:38] But this is my Holy Grail.
+[16:40] Again, I want to emphasize that I'm going to teach you this trading model, how to see it, how to look at it, how to execute it.
+[16:48] But you yourself still need to focus on your plan.
+[16:52] The main thing is over here.
+[16:54] And we take in three trades per day, trading only one setup, which is I'm presenting you this setup.
+[17:02] Like I said, you are welcome to follow your plan and try to use whatever knowledge you have,
+[17:08] whatever you learn in trading and put together your own trading system.
+[17:13] In this video, I'm going to give you my trading system, how I see the market, what I have developed,
+[17:19] what I see every day repeat, what's working for me.
+[17:22] And this is why I say that the knowledge is abundant, the knowledge is free.
+[17:27] But the application of this knowledge is what matters.
+[17:31] The application of the knowledge.
+[17:34] You can learn this today, be excited for a while, maybe see some progress.
+[17:39] But if you deviate from your plan, if you deviate from this, you're going to fail.
+[17:45] Your daily plan is how you achieve the goal of $1,000 per day.
+[17:50] So let's dive in into this system.
+[17:53] Again, we're going to focus on just taking three trades per day.
+[17:56] This is where you want to pick a timeframe and trying to like focus on one timeframe at the time
+[18:04] and just trade a swings inside of that timeframe.
+[18:09] You know, there is a big misconception that scalping doesn't work.
+[18:13] That scalping is noise, that lower timeframe scalping is really not profitable.
+[18:20] It's low probability and swing trading is the best way to do it.
+[18:25] And it's fine.
+[18:26] They both really work.
+[18:27] But where people are wrong is that scalping doesn't work.
+[18:31] Scalping works.
+[18:32] And I proved it on my timeline over and over again.
+[18:36] You can go back on my Twitter and where I posted a bunch of executions using this exact model.
+[18:43] I was trading on a 15 second chart.
+[18:46] If my plan is three trades per day, I want to be done as soon as possible.
+[18:52] I can literally open 15 second chart, find my sequence, execute it and be done in like 30 minutes to 60 minutes.
+[19:01] It depends on the price action.
+[19:03] I can be done just like that and move on with my day.
+[19:07] And my daily goal of taking three trades per day is done.
+[19:11] I can go back on Twitter, dunking on Romeo or something.
+[19:14] But I'm done with my trading plan.
+[19:16] That's what trading is all about.
+[19:18] So again, there is nothing wrong with swing trading.
+[19:22] It's all really about the plan.
+[19:25] Maybe you don't want to take three trades per day.
+[19:27] I don't know.
+[19:28] Maybe you want to take one trade per month.
+[19:30] Go trade the higher time frame.
+[19:32] That's fine too.
+[19:33] You can do that on the daily time frame.
+[19:35] But if you're a day trader, I'm talking about day trading.
+[19:38] Your goal is to take three trades per day.
+[19:40] Then why not go on the lowest time frame you can and just execute those trades with appropriate risk.
+[19:48] So why not just risk more money on the lower time frames?
+[19:52] Instead of trying to pinpoint exact move that's going to be the final move out of the lower time
+[19:59] frame consolidation and going for the higher time frame targets and using the planet alignment
+[20:06] to predict the future and then this and that and mumbo jumbo, blah, blah, blah.
+[20:12] And watch my content endlessly so you understand full puzzle.
+[20:16] We don't need to understand how price delivers and moves every day and what all the nuances
+[20:22] are in there and this and that and trying to solve this big, big puzzle of the stock market
+[20:29] and futures market and how they correlate and this.
+[20:32] It's confusing.
+[20:34] It's complications.
+[20:36] You want to focus on basics.
+[20:37] So again, you can trade whatever you want.
+[20:40] But this is what I'm trading and this is what I'm successful with.
+[20:44] You are welcome to learn this and try it for yourself and backtest it.
+[20:48] Most important part is following this plan and trading one setup.
+[20:53] So based on this schematic, where do you think the best trade is?
+[20:57] If this is a sequence, this is a logical progression of this pattern of this breakout.
+[21:04] If we have a swing high and swing low, and if you don't understand what is swing high or swing low,
+[21:09] go back on my channel and watch previous videos.
+[21:13] I dive deep into the market structure and how the prices move.
+[21:17] So this is a swing point, swing high and swing low.
+[21:22] Now, do not pay attention to this box.
+[21:24] Instead of focusing on the box, which most people do, most traders going to focus like,
+[21:31] well, where, where, where is the price going to bounce?
+[21:33] And see, they might be correct initially where it bounces, but because they were greedy and
+[21:39] didn't take profit here, they get stopped out and get lured in into the shorts,
+[21:44] thinking that this is now a bearish market structure shift.
+[21:48] Boom, and then they get stopped out again.
+[21:50] And maybe they'll try to short it here and try to short down, down, down,
+[21:54] because this is a bearish market structure shift.
+[21:56] And this is how the smart money manipulates retail all the time.
+[22:01] While everyone focusing on the box and trying to get in in the box,
+[22:08] putting the stop loss right below the right thing to do.
+[22:11] If you want to trade off of the box, you got to put the stop loss below the swing low.
+[22:16] So that's a pretty big stop loss.
+[22:18] But if you want to know when the price is actually going to go higher,
+[22:23] but if you focus on the sequence, which we have a breakout number one,
+[22:28] this is the trigger for the sequence.
+[22:31] You have to have a swing high and swing low and you have a breakout.
+[22:34] Doesn't have to be a candle closure.
+[22:36] It could be just a wig and I'll show you some examples later on.
+[22:40] Important part number one is a breakout.
+[22:43] Number two is the first pullback into the swing high and swing low.
+[22:49] This first pullback is a trade in itself.
+[22:52] But I would argue that this is more risky a trade than this,
+[22:56] because you have to be quick.
+[22:58] This is more like an impulse trade.
+[23:00] It usually doesn't spend long time here.
+[23:03] It just bounces and makes a new high.
+[23:06] Number three condition for this sequence is that three needs to make a new high.
+[23:12] Or it could be equal highs.
+[23:13] But the best is when it makes a new high, trapping all the buyers in here,
+[23:19] because you got breakout traders trying to take this higher.
+[23:24] He might even start going high, high and then eventually dumps.
+[23:28] But after the three, you have the big move down,
+[23:31] which could be a trade in itself from three to four.
+[23:35] And the four is liquidation of the number two.
+[23:39] So you have these buyers that got lucky and then they want to see prices to go higher.
+[23:46] And they think, oh, wow, well, we're definitely going higher.
+[23:49] Look, we broke, made a new high, higher high.
+[23:52] And what happens is that they get greedy.
+[23:55] They don't take profits here and they take them all the way back down, liquidate them.
+[24:00] And the same traders now might switch the bias and try to short.
+[24:05] Now they are trying to short here.
+[24:06] They try to short here, here, here, because they're thinking that this is what's the move.
+[24:11] This is what's the breakdown to the downside.
+[24:14] And this is just a part of the sequence.
+[24:16] This happens all the time on all the timeframes.
+[24:19] And I challenge you to go and backtest this, because if the holy grail exists, this is it.
+[24:25] So after the four, we don't want to just enter on the sweep.
+[24:29] We want to see some kind of a flip, some kind of reversal.
+[24:34] Usually they look like double bottom, double tops, reversals.
+[24:38] We don't just enter at the four.
+[24:40] We wait for the five.
+[24:42] So what I like to do is when I see this double bottom playing out,
+[24:46] I like to set a stop order about here.
+[24:49] So this is where the fixed risk with stop loss and take profit comes in.
+[24:56] Looking at this schematic, the best trade is this one.
+[24:59] The best trade is to take it from here to here.
+[25:03] This is what I like to trade.
+[25:04] You can play around, backtest it, and see if you can maybe spot these shorts from three to four.
+[25:12] Again, this is a great trade.
+[25:14] But understand, the longer you wait for the sequence, the better it gets.
+[25:20] The setups become, in a way, higher and higher probability because the sequence is playing out.
+[25:27] So if you think about it, right after the breakout,
+[25:30] this is a bad trade to just buy the breakout because you don't know how long is it going to go,
+[25:35] where it's going to go.
+[25:36] Return to the area again.
+[25:39] We don't know when it's going to return.
+[25:41] We don't know when it's going to stop going.
+[25:44] It could be just keep climbing higher.
+[25:46] We don't know.
+[25:47] We don't force the sequence.
+[25:49] We just follow it.
+[25:50] So when we see that it comes back to the number two, this is a better trade now
+[25:55] because we have like a set stop loss and target.
+[25:58] This is a better trade.
+[26:01] But then after you see the three, you can anticipate the reversal to liquidate the first stop,
+[26:07] which is the number two, the first stop of this range of the swing high and swing low.
+[26:12] So this is a short in itself from three to four.
+[26:15] And then, in my opinion, the highest probability trade is going,
+[26:19] the best setup that I see is number five because we have all of this happening
+[26:26] and we understand why it's happening.
+[26:28] It's pretty much liquidating both sides, but in the particular sequence.
+[26:33] So after we see the four liquidates too, we wait for this.
+[26:38] And like I said, I like to set a buy stop order right here
+[26:42] because I understand that a lot of these double bottoms are the actual move.
+[26:48] And after they trap the traders, this can go straight up without opportunity to get in.
+[26:56] So that's why I just set a buy order.
+[26:59] My stop loss goes below here and my target is over here.
+[27:04] I actually don't even set it towards the high
+[27:07] because sometimes we have a big pullback right before the high gets taken.
+[27:12] See, that's part of my experience as a trader and what I see price do all the time.
+[27:18] And the only way to get to this level of understanding is if you executing
+[27:24] and focusing on the one trading setup only with fixed risk and stop loss.
+[27:30] Now, should you move a stop loss to breakeven?
+[27:32] I would not do it.
+[27:34] Just set it, accept the risk and wait for your target to get hit.
+[27:38] Based on these parameters, based on the chart,
+[27:42] you want to calculate how much you need to risk and what is your take profit.
+[27:48] So your take profit is going to be $333 because of the goal, right?
+[27:54] And we want to take three trades per day.
+[27:56] So the easiest way is just $333.
+[28:01] That's the take profit and you risk $100.
+[28:04] I think there is a lot of times there is one to three or one to two risk to reward.
+[28:09] Again, this fixed risk with stop loss and take profit
+[28:13] is going to be fixed based on this schematic.
+[28:17] How I do it is that I always put it by stop order.
+[28:20] The stop loss always goes below here and target is always there.
+[28:24] This is the fixed logic to taking a trade.
+[28:28] I'm not talking about one to two, one to three, one to five, one to six or R
+[28:33] because it's irrelevant.
+[28:34] You should set your stop loss and take profit based on the chart
+[28:40] and based on what you see on that chart.
+[28:43] Now, if you're not comfortable of setting by stop order,
+[28:46] I am pretty confident in this sequence because I've been trading it for like almost a year now
+[28:52] and I can see it play out over and over and over and over again.
+[28:56] So the more I execute it, the more confidence I gain.
+[28:59] So I have no problems putting by stop in here.
+[29:02] Some traders like to wait for extra confirmation.
+[29:05] Understand this pattern is confirmation in itself.
+[29:10] So sometimes what can happen is that this double bottom also has a pullback
+[29:15] and we have the same sequence but on a lower time frame.
+[29:18] So you can use the same sequence to confirm this double bottom.
+[29:23] Back test it and see what works for you because what works for me might not work for you.
+[29:28] You might have different personality.
+[29:30] You might not like by stop orders.
+[29:32] You might like limit orders.
+[29:33] Some of you might just market order right here.
+[29:36] I don't know, maybe you like to live on the edge.
+[29:38] But anyhow, my main point here is to follow the sequence and don't try to force it.
+[29:44] We're not trying to be analysts.
+[29:46] We're not trying to predict the price action.
+[29:49] We're not trying to predict the next five days or the next month.
+[29:53] So how year is gonna close after my take profit hits.
+[29:58] I don't care.
+[29:59] The price can go up down in circles sideways go to the moon.
+[30:04] I don't care because what I care about is my daily plan.
+[30:08] I don't care about being right.
+[30:10] I care about making this money.
+[30:12] Give me the money.
+[30:14] Enough of the BS.
+[30:16] Enough of the BS artist selling the dream of oh you can make so much money with my system
+[30:25] but sign up for my mentorship because if you don't understand my system,
+[30:29] I can explain it to you.
+[30:31] I can explain whatever I want because I made the system
+[30:34] and you know the system is total BS.
+[30:37] Absolute garbage.
+[30:39] But I digress.
+[30:40] Focus on following the sequence instead of forcing the sequence.
+[30:46] You see the one print.
+[30:47] You see the two print.
+[30:49] You see the three print and it takes out the high of the one.
+[30:53] You're like maybe sequence gonna play out.
+[30:56] Let's see.
+[30:56] We're not taking trades.
+[30:58] Let's see.
+[30:59] Oh wow.
+[31:00] Look at this.
+[31:01] They went back for the two and we are not dumping lower.
+[31:05] Right?
+[31:05] We're not dumping lower.
+[31:06] We're starting to accumulate here.
+[31:09] We're starting to make like double bottom.
+[31:12] Some kind of accumulation and this is where traders fighting, you know?
+[31:17] And eventually they might have one more move down like you see in here schematic
+[31:22] making this double bottom and shift higher.
+[31:26] We follow the sequence.
+[31:27] We're like one, two, three, four and we're like okay we're getting excited at the four
+[31:33] and we're looking for these signs where again you're going to notice more and more nuances
+[31:38] and your experience gonna get better with backtesting.
+[31:41] We find our entry at number five which is this double bottom reversal and we take it
+[31:47] to number three high and like I said I like to set target right before those highs because
+[31:52] there's gonna be a zone in here which price is likely to react here, you know?
+[31:57] And then go back up.
+[31:59] I mean you can sit in that drawdown and wait for this high.
+[32:02] A lot of times this is another entry here.
+[32:04] Rejects and there is another entry here.
+[32:06] It's up to you but this is the logic.
+[32:09] This is the sequence.
+[32:10] This is the pattern.
+[32:11] You know whatever you want to call it.
+[32:13] This is the holy grail but again this is my holy grail.
+[32:16] All you can do is learn this, try to apply it and see if it works for you
+[32:22] and don't forget about the daily plan.
+[32:24] Okay so I'm gonna go through some chart examples and this is a 15 second chart that I traded.
+[32:32] You can go back on my Twitter profile.
+[32:34] There is execution on this chart.
+[32:36] There is a bunch of stuff I put out that shows you that this sequence is actually happening
+[32:42] on all timeframes at any time on all charts and you know the news might provide higher volatility.
+[32:49] You might don't like that.
+[32:51] You know you might be done before the market open when all the volatility unleashes.
+[32:56] You can do that with this sequence because again our priority is just taking
+[33:01] few trades a day.
+[33:03] 15 seconds look at this 1048 and we could be done by 1130.
+[33:08] So it's literally less than an hour of work if you can read the basic price section.
+[33:13] Okay so let's start all the way from the left.
+[33:16] This line is indicates a breakdown.
+[33:19] There was a swing to the left there and it broke down so overall the trend is bearish.
+[33:24] Okay you can do also top-down analysis to understand what kind of higher time frame
+[33:30] trend you are in.
+[33:31] It's gonna help you probably but I wouldn't force that bias onto the sequence.
+[33:37] I would follow the sequence and if I see the five I will try to take a trade.
+[33:42] So after breaking down we have our first tap of this range of this swing point to the left.
+[33:50] The price goes lower.
+[33:52] A lot of people getting excited.
+[33:54] It's dumping and the price just decides to shoot up because that's what happens.
+[34:00] Price doesn't just move like this.
+[34:03] Price moves like this.
+[34:04] So that's what's happening.
+[34:06] After the breakdown we have a pullback into the range into the swing.
+[34:11] So that pullback into the swing the purpose of it is to liquidate this first tap.
+[34:19] Early sellers that were in profit and they got greedy and didn't take profit so we went back up.
+[34:25] Look at this.
+[34:26] We have this first tap.
+[34:27] We know it's likely to be liquidated.
+[34:30] When we see a reversal we have a breakout here.
+[34:34] And again if you don't understand the swing points go watch my previous videos.
+[34:38] So we have a breakout.
+[34:40] Technically this is a first tap but the price didn't come back here.
+[34:45] So we keep following.
+[34:47] There is another breakout in here.
+[34:48] You want to keep in mind that this is still might get liquidated.
+[34:53] Do not force anything.
+[34:55] Just follow the price.
+[34:57] Just read it.
+[34:58] Just try to understand what it wants to do.
+[35:01] So there is a breakout here and there is the first tap in here.
+[35:06] First tap on this swing point in here.
+[35:10] This first tap puts a new high which is number three.
+[35:13] Comes back and liquidates the first tap sweeping.
+[35:18] It doesn't go lower to liquidate this which is okay.
+[35:22] We don't have to be right.
+[35:24] We have to follow and react.
+[35:27] This is the tap of this swing.
+[35:30] So the sequence present in here.
+[35:33] Especially after you see a reversal.
+[35:36] So where is reversal in here?
+[35:38] Reversal is here.
+[35:39] Candlestick structure.
+[35:40] We go down and then we shift higher and pull back and keep going.
+[35:44] So you can try to set your stop order about here and then this is your trade.
+[35:51] This little portion is your trade in here.
+[35:54] You can try to maybe anticipate this and you see the sweep.
+[35:59] It's not willing to go lower.
+[36:01] You try to get like in here on the pullback.
+[36:03] And if you zoom in into even lower time frames.
+[36:06] And I mean we already at 15 seconds but if you zoom in into one second you will see the flip in here.
+[36:13] And it shoots up higher with this big momentum liquidating this and shoots back down lower.
+[36:19] And this is a flip.
+[36:20] This candle in here.
+[36:22] This is a flip.
+[36:23] Because we could be shorting this.
+[36:24] This is a number five in this sequence.
+[36:28] Which is we have one, two, three, four and five.
+[36:34] When we break down here it's a five.
+[36:36] You can have a cell stop order here and take it all the way down here.
+[36:41] As we going and making our way down there, right?
+[36:44] For this target it starts to print the same sequence.
+[36:49] That's why the sequence itself is fractal.
+[36:53] And you can see it play out on every time frame, everywhere.
+[36:58] That's the whole point of this.
+[36:59] That's why this is so good.
+[37:01] Because you don't need anything but the sequence to understand and read price.
+[37:07] And of course the market structure understanding which is the basics.
+[37:11] Which is how the price moves.
+[37:13] Is that it pulls back into the previous swings and how it reverses and all.
+[37:18] I talk about it in my previous videos.
+[37:21] So let's follow it again.
+[37:22] Comes down, right?
+[37:23] This double bottom that worked.
+[37:26] That we took a trade.
+[37:27] This is important double bottom.
+[37:29] Because this is going to be the first indication that price might be keep going lower.
+[37:33] Because this double bottom was successful and now we liquidated it.
+[37:38] So it's to me, again, you should back test this.
+[37:41] But to me it's an indication and sign that we might start going back down.
+[37:46] You have this breakdown.
+[37:48] That's number one.
+[37:49] See that little wick?
+[37:51] Doesn't matter if it's a wick, if it's a candle closure.
+[37:54] It's still a breakdown.
+[37:56] So number one, number two, first stop.
+[38:00] So it topped back into this range.
+[38:03] Traded lower.
+[38:04] Dropping the sellers.
+[38:06] Coming back up.
+[38:07] Liquidating the sellers.
+[38:09] So that's number four.
+[38:11] Liquidating the first stop.
+[38:13] Printing a reversal.
+[38:14] So look at this.
+[38:16] This is an obvious reversal.
+[38:18] So it's swept here, broke here.
+[38:21] So this is what it did in here.
+[38:24] Your entry could be sell stop here or on this pullback.
+[38:28] And it trades lower to the target which is over here.
+[38:32] Same thing happening again.
+[38:33] Swing breakout.
+[38:35] Coming back.
+[38:36] Number two.
+[38:36] Number three.
+[38:37] And coming back again.
+[38:38] Number four.
+[38:40] This is harder to see but still you can get in.
+[38:45] And get to the number six.
+[38:47] And again, it's all about taking trades that you saw in your back testing,
+[38:51] that you saw in your forward testing.
+[38:54] Do not take the trade if it doesn't look like a sequence
+[38:58] or if you're not sure about it.
+[39:00] Do not do that because all you have is three trades, right?
+[39:04] And you want to pick the best trades.
+[39:06] So to me, the best trade is number five.
+[39:08] But in order for me to take a number five, I need to see one, two, three, four play out.
+[39:13] So here you might ask why didn't I mark out this like one, two, three,
+[39:18] you know, four, five and try to take it lower?
+[39:22] Well, because we broke a higher time frame swing.
+[39:25] See, this is a lower time frame and this is a higher time frame.
+[39:30] So every time we break a higher time frame swing low,
+[39:35] we anticipate a trade back into this range, right?
+[39:41] So that's why after breaking a high time frame low,
+[39:46] we might need to wait and anticipate actually a reversal and trade back into the range.
+[39:51] But if we don't see it, we just skip the trade.
+[39:54] If we don't see the sequence, we skip the trade.
+[39:56] Or you just take a loss in here and you switch your bias
+[40:00] and you start taking the bullish trades.
+[40:03] But the reason why I didn't mark out is because we broke this
+[40:07] and we anticipate coming back into this range.
+[40:11] So that's what you have.
+[40:12] We have a breakout.
+[40:13] This is a swing in itself.
+[40:15] This is a high, low, and we make a higher high.
+[40:19] Number one, number two, number three, four.
+[40:22] And see how the four sweeping barely the top.
+[40:26] That's enough.
+[40:27] That's enough for me to take this trade and see, I see this impulse up
+[40:32] and this looks like double bottom.
+[40:34] This is all the boxes are taken in and I might be taking trade from here to here.
+[40:39] The same thing keeps happening, right?
+[40:41] We have now this swing.
+[40:43] We break out.
+[40:44] This is number one.
+[40:45] We come back first stop, number two.
+[40:48] We go make a new high, number three.
+[40:50] Come back to liquidate, number two.
+[40:53] Printing a double bottom and look in here.
+[40:56] If you focus on the candlestick structure, it's this thing, right?
+[41:01] That's what's playing out in here.
+[41:02] And you can get in on here.
+[41:04] You can try to get in on the buy stop, whatever you're comfortable with,
+[41:09] whatever you're successful in back testing.
+[41:11] That's what you do.
+[41:12] And you try to get out at the high or right before the high.
+[41:17] Like I said, a lot of times the price will pull back because there is a zone in here.
+[41:22] There is a short zone.
+[41:23] So see, this zone is designed to trap sellers.
+[41:26] So everybody's like, oh, oh my God, we're going down.
+[41:30] This is a reversal, blah, blah, blah.
+[41:32] And they go up here and they start, oh, look, look, it's going down.
+[41:37] It's a reversal.
+[41:38] Look, and they're just getting their face ripped off in here.
+[41:41] And the price doing this over and over and over and over again.
+[41:46] This is how order flow happens.
+[41:48] I'm not talking about the order flow that the numbers in a dome and that crap,
+[41:55] those are manipulated.
+[41:56] There is ghost orders.
+[41:58] There's levels to those orders, institutional orders.
+[42:01] I don't know how people think that they can make a decision based on the tape like that.
+[42:06] This is the tape that price action is the actual tape.
+[42:10] And this is how the price moves.
+[42:12] This is how the price goes from one swing point to another liquidating everything and anything on its path.
+[42:19] Everybody trying to make sense out of it and trying to, you know, add everything to it.
+[42:25] Like what?
+[42:26] Add this confluence, add this.
+[42:28] Let's add SMT.
+[42:29] Let's add time of day.
+[42:31] Like I don't have a clock at the house that I need to know what time it is.
+[42:35] Maybe you need to know when the news going to release because the price is going to,
+[42:40] you know, shoot up and shoot down and there is a lot of volatility during news releases.
+[42:46] Maybe you don't want to trade that.
+[42:47] That's the only time I care about.
+[42:49] But everything else outside of just a chart, you don't need it.
+[42:54] You can literally just trade market structure because that's the basic thing.
+[42:58] That's what it is.
+[43:00] The prices move and based on people trading, based on how they trade,
+[43:04] their psychology, it's a collective consciousness, you know.
+[43:08] It's like there is sellers getting trapped here.
+[43:11] So what does the price do?
+[43:13] Well, they're going to go liquidate them because they get greedy and see the market moves based on greed and fear.
+[43:21] And see, that's why I don't appreciate ICT telling everyone, well, it's based on the algo.
+[43:27] And I coded the algo.
+[43:30] You encoded shit, bro.
+[43:32] OK.
+[43:32] Markets moves on the buying and selling pressure and it's been like this forever.
+[43:39] And it's still like this.
+[43:40] There is a big players, there's a small players.
+[43:43] The big players are going to liquidate the small players.
+[43:47] And I'm not talking about your $10, $100 stop loss.
+[43:51] I'm talking about sharks eating other sharks and the central banks literally like manipulating
+[43:59] because you got all kinds of traders in here.
+[44:01] You got high frequency traders, you got swing traders, you got everybody.
+[44:05] Maybe there is a swing trader that's trying to buy this up because he's hitting his POI.
+[44:10] But the price, if there is an algo, right, the algos are controlled by central banks, by big players.
+[44:18] There is not a single algo that's controlling the market.
+[44:22] It's just how the prices move.
+[44:24] And this is how the logic is.
+[44:26] You trapping the sellers, you trapping the buyers, you liquidating the sellers and you
+[44:31] go in making a real move.
+[44:33] And this is just one of the sequences that I've discovered.
+[44:38] There's probably other sequences that, you know, maybe it makes two highs and maybe then
+[44:43] it goes down.
+[44:44] Who knows?
+[44:45] This is what works for me.
+[44:46] And again, I'm not here trying to solve the puzzle, but understand there could be one
+[44:53] trader in the world dumping on the market and all of your setups gonna fail because
+[44:59] of this one trader.
+[45:01] There is no way of knowing for sure with 100% certainty that you're gonna be right because
+[45:08] there is one trader somewhere in the world sitting and they can decide I'm gonna dump.
+[45:14] Unless you know what are they thinking and when are they gonna do it, you're never going
+[45:19] to predict with 100% certainty.
+[45:21] So that's why we study the charts and the people's psychology on how they make decisions.
+[45:28] And all of it is driven by fear and greed.
+[45:32] And the central banks and bigger players literally bidding markets up to lure other players in
+[45:40] to take these out matching these stop losses to their orders because they have to unload
+[45:49] with a big size, right?
+[45:50] They have to trade big size and if they just unloaded the market would dump.
+[45:55] They using this pattern or whatever, this sequence as a way to load up on their side
+[46:02] and trying to take this lower and make money.
+[46:05] But anyway, like I said, it doesn't really matter.
+[46:07] We don't try to solve the market.
+[46:09] We try to follow the sequence.
+[46:11] So I'm gonna go show you some charts from other traders.
+[46:15] I just put out the sequence a day ago and people already sending me charts where they
+[46:20] can see the same thing playing out over and over again.
+[46:24] It doesn't really matter what I see.
+[46:26] It's how you see it and how you execute it is what matters.
+[46:30] I'm just here showing you what works for me and if you can see it, you will never unsee it.
+[46:36] Very simple.
+[46:37] It's easy.
+[46:37] There is no complications.
+[46:39] There is no SMTs.
+[46:40] There is no planet alignment.
+[46:42] There is no time concepts.
+[46:44] This is it.
+[46:45] I've been trading this for about a year now.
+[46:47] It's up to you to believe me or not.
+[46:49] But how do you verify it?
+[46:51] Is you go into your chart and you look for this and then you try to execute it and you
+[46:57] build up your confidence by executing and then eventually you can become consistently
+[47:02] profitable by following your plan, your daily plan, right?
+[47:06] Taking three trades per day.
+[47:08] So here's a chart from risky trader.
+[47:11] You can find him on Twitter and I'm gonna put handles with these charts, but just to
+[47:17] show you that other people see it too.
+[47:19] It's not just me.
+[47:20] I'm not crazy.
+[47:21] There you go.
+[47:21] The swing point.
+[47:23] We have a breakdown.
+[47:24] We have a one.
+[47:26] You can argue this is the one, but and I think price comes and liquidates this one here.
+[47:31] But here's the one, the pullback number two, number three, return.
+[47:36] And have you noticed?
+[47:37] Look at this sweep comes down.
+[47:40] Even prints a fake flip in here.
+[47:42] There's probably another pattern like this inside of that provides you with a nice opportunity
+[47:48] to get in.
+[47:49] It's not always going to happen like this, but that's a nice opportunity to get in and
+[47:55] you just take it lower to the number six.
+[47:57] Here's another one.
+[47:58] Rome.
+[47:59] He says some will say choppy.
+[48:01] Some will see it clear as water.
+[48:03] Exactly.
+[48:05] Because it's like I am opening your eyes that this is exists.
+[48:09] And you can see in here, this is how he spotted this reversal, right?
+[48:14] We have this swing in here.
+[48:17] The swing gets broken.
+[48:18] Number one in here.
+[48:20] First stop, number two, number three, number four comes back for the first stop, makes
+[48:27] that final reversal and goes down lower.
+[48:30] And if you didn't catch this reversal, there was this opportunity to get in.
+[48:34] So, good rule of thumb would be if you catch this reversal, get out before the final low
+[48:42] because likely or not, it might pull back to your breakeven or to your stop loss if
+[48:48] you move the stop loss.
+[48:49] I don't really move the stop loss, but that's how they come back for the breakeven and finally
+[48:55] going for the target.
+[48:56] On lower time frame, see this is a swing too, right?
+[48:59] This in here is a swing.
+[49:01] So, the price breaks that swing, puts a first stop in here and then comes back to liquidate
+[49:07] this first stop, printing a double top.
+[49:10] So, there's the same sequence in here.
+[49:12] One, two, three, four, five and six.
+[49:16] Here's a chart from Eced over and over and over again.
+[49:20] Exactly.
+[49:21] Over and over and over.
+[49:22] The same thing, the same setup.
+[49:24] Over and over again.
+[49:26] He didn't mark this out, but I'm gonna start from here.
+[49:29] Look at this, right?
+[49:30] This is a reversal in here.
+[49:31] Swing, right?
+[49:32] This is a swing.
+[49:34] First stop in here, double bottom in here.
+[49:37] So, what we have?
+[49:38] One, two, three, four, five, six.
+[49:42] The price flip bullish and now we continue the same thing.
+[49:46] One, two, three, comes back for the two, four, five.
+[49:50] And look, I'm not really talking about the box because I want to focus on the sequence.
+[49:55] I like to focus on the sequence and I'm not gonna try to stock extra confluences.
+[50:00] This sequence that works for me and I like to trade this sequence.
+[50:04] All right?
+[50:05] The box could be lower in here.
+[50:07] I don't really know if it's gonna tap in here.
+[50:09] I'm just gonna focus on sequence and I'm not gonna try to predict price.
+[50:13] And this is a perfect example.
+[50:15] Look at this.
+[50:16] He saw it coming out.
+[50:17] It's market order, wherever, it's a buy stop.
+[50:20] But he took this little trade and that's all you need.
+[50:23] With a proper risk management, you can take three trades
+[50:28] and achieve your money goal for that day.
+[50:31] And as you can see, he didn't take it all the way up here
+[50:35] because, like I said, it's gonna come back one more time.
+[50:38] This is another entry could be to get back for that target.
+[50:43] This could be another confirmation in itself where you see this pull back down
+[50:48] but this pull back down is a flip, right?
+[50:52] It's the same flip in here.
+[50:54] All right, so here's the chart for Muhammad.
+[50:56] It's the same thing.
+[50:57] The reversal starts with it, right?
+[51:00] He marks out this little reversal in here where we have one, two, three, four, five, six.
+[51:05] And it keeps going.
+[51:06] Look, and then you have the bigger swing playing out.
+[51:10] So see, look at this.
+[51:11] Number one, right?
+[51:13] It's number one.
+[51:14] You have number two.
+[51:16] Number three comes back for five.
+[51:20] See, not only it comes back and liquidates this low, which is number two.
+[51:24] He didn't mark out but it is number two after breaking out here.
+[51:27] It also came down to this number two because you have this swing breakout in here.
+[51:35] Number one, number two, and this is number three.
+[51:38] The price not only came back to liquidate this number two.
+[51:42] It also came back to liquidate this number two.
+[51:44] Killing two rabbits with one shot, right?
+[51:47] And then here you can look for the entry again, like whatever you're comfortable with.
+[51:52] Back tested, executed, practice, practice, practice, practice, practice makes it perfect.
+[51:58] Here's a chart from the crypto trader, KTrader.
+[52:01] I don't even know what this is.
+[52:03] Look, I don't know what the time frame is.
+[52:05] I don't care, frankly speaking, because the price action is the same.
+[52:09] The price is fractal.
+[52:10] Time frame doesn't matter.
+[52:11] The same thing is going to be on the one second, I promise.
+[52:14] I don't even see the candles, right?
+[52:16] This is just like a squiggly line.
+[52:17] So look at this swing.
+[52:19] One, two, three, four, makes a reversal, six.
+[52:24] Same thing.
+[52:24] One, two, three, four, five.
+[52:27] See how price luring in everybody in here and everybody's trying to take it higher.
+[52:34] And even here, look, it's like a fake out here and it takes it lower
+[52:39] because they need to liquidate these people.
+[52:42] And see, in here, there is a swing in here.
+[52:44] So see, it went all the way down to this unmitigated swing, you know,
+[52:48] but it's not really what's important.
+[52:49] Like I said, that's predicting that, oh, it's going to bounce from this swing.
+[52:54] I want to see it play out.
+[52:55] And the sequence is forcing you to stay patient for this number five.
+[53:00] And really, the number five is happening here because it's a flip, right?
+[53:04] So we're not trying to pick bottoms.
+[53:07] We're trying to get after the flip.
+[53:08] Either it's going to be with the buy stop or it's going to come back down
+[53:12] and give us an opportunity.
+[53:14] But eventually with experience and the more you execute, you will anticipate these
+[53:19] and you might start to get in here, you know.
+[53:22] Again, the safest stop loss is going to be below the swing.
+[53:26] And if you want to reduce your risk, it's going to be over here, below the double bottom.
+[53:30] So the price goes up and it keeps doing the same thing.
+[53:33] Even in this, whatever this is in here, this chop, you know, people are going to call it chop,
+[53:39] but this chop has a purpose.
+[53:41] We break out, right?
+[53:42] It's a one.
+[53:43] There is the first step.
+[53:44] We come back up, make a new high and come back down liquidating the first step,
+[53:50] making this double bottom.
+[53:52] I mean, it's harder to read, of course, and I probably wouldn't be trading this,
+[53:56] but there it is.
+[53:58] There is the sequence, the same thing in there.
+[54:00] Here's a crude oil chart from Sky High Trading and it's the same thing, you know.
+[54:05] Again, don't pay attention to the box because really the box is lower here.
+[54:09] But the sequence is the same thing.
+[54:11] We have a breakout here.
+[54:13] One, two, three, four, five and six.
+[54:17] We have a breakout, first stop, new high, liquidate, reversal, target.
+[54:22] Over and over and over and over and over and over again.
+[54:26] And see, I'm showing you these charts that people send me.
+[54:28] Like I literally posted this pattern, this sequence, whatever you want to call it,
+[54:32] it doesn't matter.
+[54:33] I posted it a day ago and people are already sending me charts and showing me that it works.
+[54:38] Of course, it works because I've been trading it.
+[54:41] I'm not just here trying to sell you some course.
+[54:44] Again, all I can sell you is my time.
+[54:46] If I decide to sell my time, that's what it's gonna be.
+[54:50] I'm gonna give you the holy grail, the secrets, what made me profitable,
+[54:55] every time for free, every time.
+[54:58] You have my YouTube channel, you have everything you need.
+[55:02] And now you have my daily plan, the only one setup that I trade.
+[55:07] And it's up to you to take advantage of this, backtest and use it.
+[55:13] And remember, the ultimate goal is to take control of your trading journey and achieve
+[55:18] consistent profitability.
+[55:20] Develop your personal daily trading plan, focus on one model and execute it with precision.
+[55:26] Take that next step today.
+[55:29] Develop your plan, master your model and execute, execute, execute, execute and build that confidence
+[55:37] so you can become profitable trader and consistently profitable trader.
+[55:42] And then the sky is the limit.
+[55:45] There is no more time to wait.
+[55:48] Empower yourself, master the market and become the trader you want to be.
+[55:54] Backtest, forward test, practice.
+[55:58] Practice makes it perfect.
+[55:59] So with that being said, guys, I appreciate you watching this video all the way to the end
+[56:05] because it's truly empowering knowledge.
+[56:07] And you're really not going to find this anywhere else because the trading gurus want you to
+[56:12] stay unprofitable and keep buying their courses.
+[56:15] That's how it's designed.
+[56:16] That's how it's been for a long time.
+[56:19] And I am here to stop it.
+[56:21] Enough is enough.
+[56:22] It's time for the trading purge.

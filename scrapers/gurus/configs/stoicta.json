@@ -1,0 +1,9 @@
+{
+  "keywords": ["fib geometry", "2200 sma", "daily levels", "sfp", "sbs"],
+  "concept_patterns": {
+    "Fib Geometry": "\\bfib geometry\\b",
+    "2200 SMA": "\\b2200\\s+sma\\b",
+    "Swing Failure Pattern": "\\bsfp\\b|\\bswing failure pattern\\b"
+  },
+  "strategy_patterns": {}
+}

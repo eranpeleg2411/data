@@ -1,0 +1,741 @@
+[00:00] Hello everybody, welcome back to my YouTube channel.
+[00:02] This is Stoic Trader and today in this video we are going to talk about the only trading
+[00:08] strategy that you will ever need.
+[00:11] And of course this video is not a financial advice, this is not a recommendation to buy
+[00:15] or sell any stocks, securities, this is all done for the information and education purposes
+[00:22] only.
+[00:23] Please consult your own financial advisor before making any investing or trading decisions.
+[00:29] So in this video we are going to talk about the only trading strategy that you will ever
+[00:34] need.
+[00:35] This is some basic price action principles, some basic price action rules that you can
+[00:41] follow and trade on any time frame, any chart, crypto, futures, stocks, whatever you want.
+[00:49] You can trade it with only this trading strategy.
+[00:54] You don't need anything else.
+[00:55] Of course you can build on it, you can build up on this trading strategy and that's what
+[01:01] I really want you guys to do is to learn the basics and then build up on the concepts,
+[01:07] build up on the strategy and develop your own trading model that you can rely on, that
+[01:14] you can believe in and be confident in.
+[01:17] And the true confidence really will come in after you back tested this strategy, after
+[01:23] your model and then you will have enough confidence to go within the live funds.
+[01:29] But I truly believe that this is the only trading strategy that you will ever need.
+[01:34] So without further ado, let's dive right in into the strategy and the first thing I want
+[01:38] to point out is the nature of the market, how the market moves.
+[01:44] And really there is only two ways that market moves.
+[01:47] There's consolidation which is stuck in a range up and down chop that a lot of people
+[01:52] don't like but in fact in that consolidation we can find clues for the new expansion because
+[02:00] each expansion starts with consolidation.
+[02:04] So really there is only two ways that market moves, consolidation and expansion.
+[02:11] And before all of the ICT guys, all of the fanboys getting triggered, I know this is
+[02:17] the price delivery algorithm that ICT has put out on his YouTube channel and he talks
+[02:23] about it, consolidation, expansion.
+[02:26] So it always starts with consolidation and goes into the expansion and then after the
+[02:34] expansion we can anticipate retracement or reversal.
+[02:39] So if retracement fails, it becomes a reversal.
+[02:43] But I want to point out that retracement and reversal, it's an expansion.
+[02:50] It's the same thing as an expansion.
+[02:52] So if we have expansion up, retracement would be expansion down or reversal would be expansion
+[02:59] down.
+[03:00] So it is again, reversal and retracement is the same as an expansion.
+[03:04] So that's why I'm just going to refer to the market as consolidation or expansion.
+[03:11] These are the two market profiles that repeat over and over and over again.
+[03:17] And as traders we can capitalize these moves.
+[03:20] The easiest ones to capitalize is expansion because we can get in at the lows, get out
+[03:27] at the highs.
+[03:28] It's easy to see and it's easy to fold.
+[03:31] So this brings me to the best strategy there is.
+[03:35] Simple way to put it, we want to buy low and we want to sell high.
+[03:40] And I know, I know, it's such a cliche, but like with most cliches they end up being true.
+[03:46] So if you think about it in a simple way, if we can just buy low and sell high, we will
+[03:53] be profitable.
+[03:54] So in a bullish trend, we want to buy low and we want to sell high.
+[03:58] We want to buy low and we want to sell high.
+[04:02] We want to buy low and we want to sell high.
+[04:04] Now since this low that created the new high has been broken, this trend becomes bearish.
+[04:15] And now we can do the same thing on the bearish trend.
+[04:19] Sell high, buy low.
+[04:21] Sell high, buy low.
+[04:23] Sell high and now we have another shift over here.
+[04:29] We have another market structure shift that's going back up and we can resume.
+[04:35] Buy low, sell high.
+[04:37] Buy low, sell high.
+[04:39] And it's very easy way to understand the market, but yet everybody makes it so complicated.
+[04:47] Everybody has all these strategies.
+[04:50] Well you buy low, then you buy lower or you hold on until it bounces, blah, blah, blah.
+[04:58] It doesn't matter.
+[04:59] If you can just buy low and sell high, you will be profitable.
+[05:04] And of course you have to risk less than you make or at least one to one risk to reward.
+[05:09] But this is the first principle and concept I want you to understand is that if you can
+[05:16] just buy low and sell high or do not buy high, right, and do not sell low, this alone will
+[05:24] make you profitable if you can stick to the rules.
+[05:27] And here in this video I'm going to give you some rules.
+[05:30] So a lot of people get tripped up on the wrong market structure shift.
+[05:34] Let's say we see this trend going up and down and a lot of people would start placing their
+[05:40] stop losses below the last lows, right, below the last lows.
+[05:44] Let's see they get stopped out over here.
+[05:47] You know, they then will place stops below here.
+[05:51] Starts going up, started going up and they got stopped out again.
+[05:56] The last low that created the high is the most important low.
+[06:03] This low is going to be protected.
+[06:05] This low is going to have the strongest support.
+[06:10] This low is going to be a deciding factor if we are switching bullish or bearish.
+[06:17] So if we can find a support here, right, and bounce out and make a new high, then this
+[06:25] low will become an important low because this low made a new high.
+[06:30] So what happened here in this scenario that I drew out, we tried to make a new high but
+[06:37] we couldn't.
+[06:39] We failed.
+[06:41] So this becomes a swing failure and now we can anticipate a break of the structure.
+[06:49] But we don't anticipate a break of the structure below this low.
+[06:52] We want to see a sell-off all the way below this low and the candle closure below this
+[06:58] low will confirm that we have a change of character, that we have a break of structure.
+[07:05] So now after this low is established as the new low, we want to anticipate a retracement
+[07:13] for the short down.
+[07:15] So if you can just do this, if you can wait until the last low that created the high is
+[07:22] broken, you wait for that break, candle closure below the level and then you anticipate a
+[07:29] run-up up and then here you look for the reversal pattern on the lower timeframes to get in
+[07:36] for the short.
+[07:38] This is the simplest way of explaining this whole strategy which is market structure.
+[07:44] If you can just follow market structure, you can trade this on any time frame.
+[07:50] 1 minute, 5 minute, 3 minute, 15 minute, 1 hour, 4 hour, daily, monthly, weekly, 5
+[07:56] seconds.
+[07:58] You can find opportunity every single day on any time frame.
+[08:03] You can find multiple opportunities on a given time frame.
+[08:07] The lower the time frame is, the more opportunities you will have.
+[08:11] So this is the first rule for this strategy is we want to identify a higher time frame
+[08:18] order flow.
+[08:19] And how can we get in sync with the order flow?
+[08:22] We want to track the last low that created the high and the last high that created the
+[08:28] low because just like in this case, the last high over here that created this low has been
+[08:37] broken.
+[08:39] And now we want to anticipate a retracement back in the area.
+[08:44] Maybe there are some PD arrays here that we can get in confluence with.
+[08:50] And then we want to see a reversal pattern on the lower timeframes right in this zone.
+[08:56] It's going to be looking like this.
+[09:02] The same pattern on the lower time frame which we see on a higher time frame.
+[09:08] And we want to anticipate it in this area on a pullback after the manipulation happened.
+[09:15] This is the manipulation.
+[09:17] Up down up.
+[09:19] Boom.
+[09:21] And then here we want to enter up.
+[09:24] So this is what I want you to keep in mind.
+[09:27] And this is where all the framework will be coming from.
+[09:31] So now that we understand this concept, where is the best area to get in?
+[09:36] Well of course the best area to get in is after the break of structure on this pullback
+[09:41] over here.
+[09:42] So every time we have break of structure, we look for the PD arrays, we look for some
+[09:48] kind of confluence.
+[09:49] It could be only 50% of this area here of this range.
+[09:54] Most of the time price will come up to the 50% of this whole range over here and then
+[10:01] align itself with some PD array that will give you a short.
+[10:05] And again we want to anticipate this pattern playing out on the lower time frame.
+[10:11] And we're only going to enter on this pullback over here on the lower time frame because
+[10:16] that will give us the highest probability trade.
+[10:19] And we're going to place our stop loss above here.
+[10:22] So we enter here stop loss and look at this RR.
+[10:26] This is a 1 to 5, 1 to 10.
+[10:29] This is a very low risk trade, stop loss above, because we are anticipating a lower time frame
+[10:36] entry.
+[10:37] We're anticipating a lower time frame entry all the time.
+[10:42] So we identify a break of structure, wait for the pullback into at least 50% of the
+[10:48] area and on the lower time frame we look for the same setup as here in higher time frame
+[10:56] because time is fractal and the same pattern you see on the higher time frame repeats in
+[11:02] the lower time frame.
+[11:04] So the pattern that I'm talking about is this.
+[11:06] It's a basic reversal pattern that everybody's looking at every single day and it's in front
+[11:12] of your eyes every single day and it happens on every single time frame.
+[11:18] Every time there is a reversal it's this pattern right here.
+[11:22] And if you don't believe me, go back in the charts and I will show you example too.
+[11:27] The same pattern plays out on every single time frame and if you can't find it on one
+[11:31] minute time frame and you say, oh look at this, this pattern is different.
+[11:37] If you look closer in the lower time frame below one minute, maybe on 10 second chart,
+[11:43] it will be the same pattern.
+[11:44] But the point here is that we want to anticipate, we want to see this pattern and we enter on
+[11:52] the pullback after the manipulation.
+[11:55] So we have a low, we have a high, the low gets rand and then the high gets rand.
+[12:03] That's manipulation.
+[12:05] And after this manipulation we can have a pullback back to the 50% of this area.
+[12:14] Right?
+[12:15] This high, this manipulation back to the 50% of this manipulation.
+[12:21] This is the highest odds entry and we can take TP1 here, very conservative, but most
+[12:28] likely it will keep going higher because it's a reversal and depends where we are on the
+[12:33] high time frame trend, we can look for the targets there.
+[12:37] The same way for this reversal.
+[12:39] The same way we have a high, we have a low, high gets rand and then low gets rand.
+[12:46] This is a manipulation and we want to enter on the retracement on the at least 50% back
+[12:53] to the area.
+[12:55] And that's where you will find a confluence in PDRAs.
+[13:00] Usually there is a volume imbalance, usually there is some kind of price action where the
+[13:05] equal highs are and you will be able to see this happening in real time on every single
+[13:12] time frame.
+[13:13] And like I said, you're not going to believe me until you see it.
+[13:17] So you need to go into your charts and back test this and look for this pattern on a high
+[13:22] time frame and on a lower time frame.
+[13:25] So back to the nature of the market, this is how market moves.
+[13:30] So let's say we identify a trend on the 60 minute time frame, an hourly time frame.
+[13:36] So the best trades gonna be of course on these retracements and if we can just buy here and
+[13:43] sell here, we would be making a lot of money.
+[13:47] And of course we can trade every move too.
+[13:50] So let's say there was a sell here, we took it back into the 50% of that previous area
+[13:56] there.
+[13:57] Then again, we had a buy here and we could have taken outside to external liquidity.
+[14:05] So here what's happening is we sell with a target of internal liquidity and then we buy
+[14:12] with a target of external liquidity, something to the left here.
+[14:17] Also I will show you Dexter's standard deviations and you will be able to project the manipulation
+[14:23] that happened here and target the expansion.
+[14:27] So this is what we see on 60 minute, not a lot of information, right?
+[14:31] It's hard to say if this is going to reverse or not.
+[14:34] But then if we zoom in into the one minute and again, this could be five minute, you
+[14:40] know, this could be 10 minute, 60 minute and 10 minute, this could be five minute and one
+[14:44] minute.
+[14:45] But the point is that we want to identify high time frame trend and get on the right
+[14:52] side of the market.
+[14:53] So of course we can short this just like I was seeing here after this pattern played
+[14:57] out, right?
+[14:58] High, low, high gets ran, low gets ran, enter on pullback.
+[15:04] This is a small pullback here, but we got to keep in mind that this trade is only going
+[15:09] for internal liquidity and we should not anticipate a break of this because we are
+[15:15] in a bullish trend on the high time frame.
+[15:19] So now we identify there was an important low here, there was maybe some imbalance here
+[15:24] that we came and tap in on the one minute and we don't enter based of this imbalance,
+[15:31] right?
+[15:32] You don't want to enter because you don't know this could just keep easily going lower.
+[15:36] We don't know.
+[15:37] So that's why we want to wait for the pattern to emerge.
+[15:41] So we got a low, we got a high, we got a lower low, we got a break of the high that made
+[15:49] lower low and we want to enter where?
+[15:52] On the pullback.
+[15:53] And then we have the same thing here, continuation and enter on the pullback.
+[15:58] So we don't just buy blindly this low.
+[16:02] We zoom in into the one minute and we want to see a pattern play out.
+[16:08] And like I said, you can short this, but you want to keep in mind that we going to internal
+[16:15] liquidity because of the higher time frame trend.
+[16:20] And also in the bullish trend, the short setups are not going to be yielding as much profits
+[16:28] as bullish setups.
+[16:32] So if you want to have even better odds of having a winning trade, you want to align
+[16:39] yourself with the high time frame order flow and only buy in a bullish trend and only sell
+[16:45] in a bearish trend.
+[16:47] That strategy will give you the biggest RR and you can scalp these moves down if you
+[16:53] can read the market that well.
+[16:55] If you in sync, if you in the zone, you can scalp these moves.
+[16:59] You can scalp it down and then see prices bouncing around your PDA raise, close the
+[17:05] short and anticipate this pattern.
+[17:08] And when this emerges, then we go in higher.
+[17:11] And again, we take an outside external.
+[17:15] This could be take profit one, but if it's a bullish trend, you know it's going higher.
+[17:19] So you anticipate it's going higher.
+[17:21] So you have confidence in holding this.
+[17:24] And then maybe you can get out when you see this pattern on top.
+[17:29] Maybe you don't even get out until you see this pattern.
+[17:32] Maybe there's some PDA raise.
+[17:33] You can take profit and wait for another pullback and another pattern down here.
+[17:40] Or you can scalp this move down.
+[17:45] And then wait for this pattern.
+[17:47] And the same thing.
+[17:48] We don't enter just because price traded here.
+[17:51] We want to see this pattern play out low, high, lower low, higher high, pullback.
+[17:59] This is the pattern we want to see.
+[18:02] And that's where we enter.
+[18:03] So here's another visualization of the trend.
+[18:07] As you can see, this is a higher timeframe trend.
+[18:11] This gray line, we got higher timeframe trend.
+[18:15] point, you will be able to see this type of pattern.
+[18:21] And this is all what you need to focus on.
+[18:25] At least in my opinion, it helped me tremendously in my trading.
+[18:29] I like the idea of less is more.
+[18:32] There is a lot of trading tactics.
+[18:34] There's a lot of trading strategies, models, blah, blah, blah.
+[18:39] This is it.
+[18:41] Okay, you don't need anything else.
+[18:44] You can build up on this.
+[18:46] But really, you don't need anything else besides this.
+[18:51] Because logic is always going to be superior to any pattern, to any trading model.
+[18:59] If logically it makes sense to buy here because it's a pullback on a high timeframe trend,
+[19:05] doesn't matter what pattern you have, doesn't matter what's on the chart, doesn't matter
+[19:10] what trading model you have.
+[19:13] If it's pulling back and printing this pattern over here, you can have a high probability
+[19:19] trade that is going higher.
+[19:22] And there's traders all the way here that still trying to short, right?
+[19:27] And they shorting here and see maybe price comes back into this area again and rejects
+[19:31] it a little bit and they shorting here, not realizing that the high timeframe trend is
+[19:38] bullish.
+[19:39] We can be buyer over here, buyer over here, buyer over here.
+[19:43] And look what happens now.
+[19:44] Boom.
+[19:45] Our stop loss is right here.
+[19:49] If you want a purely mechanical system and you just want to trail the stop loss and capture
+[19:54] the most meat of the trend, you want to trail your stop loss right below the last low that
+[20:01] created the high.
+[20:03] Why I didn't trail the stop loss below here?
+[20:06] Because this low didn't create the new high.
+[20:10] So if this low couldn't break a high, this becomes a weak low and we target this low.
+[20:18] And if we go in below and closing below this low that created the actual high, it's game
+[20:25] over.
+[20:26] It's market structure break.
+[20:29] We assuming the trend is bearish now and we wait for retracement and we can enter on this
+[20:35] retracement.
+[20:36] We can be seller here, seller here and wait a second.
+[20:41] Whoop.
+[20:42] We have another break of structure because this high created this low and now it's broken
+[20:50] and now we can anticipate pullback and enter bullish trend.
+[20:57] This is how I see the market now.
+[20:59] I can see this on every single timeframe.
+[21:03] Once you see it, you can't unsee it.
+[21:06] And of course there are going to be nuances within the price action.
+[21:11] There's going to be ranges, there's going to be big push up and then chop in the range
+[21:17] and we go up, we go down, we go up, we go down.
+[21:22] But these ranges, consolidations will tell you the story and also those ranges you can
+[21:30] trade.
+[21:31] You can trade the range by low sell high.
+[21:34] It's all you need.
+[21:36] You can trade this on the lower timeframes.
+[21:39] And if it's a range on the five minute, it's probably going to be some tradeable things
+[21:45] on one minute or even lower.
+[21:47] You know, if it's a range on one minute, the 10 second will have these moves up and down.
+[21:54] So there's opportunities every single day.
+[21:57] Do not let anybody to tell you that you can't trade Monday or you can't trade the news
+[22:03] day.
+[22:04] You can't trade this and you can't trade that.
+[22:06] You can trade it.
+[22:08] But there are different environments in the market.
+[22:12] Sometimes there's a lot of volume.
+[22:14] There is a lot of big participation from the retail crowd.
+[22:18] There is a lot of people watch the news and the new bull market and all and they start
+[22:22] buying and buying and buying.
+[22:25] There is a lot of volatility in the market.
+[22:28] You know, volume and volatility is not really the same thing.
+[22:32] You know, and each of them are bringing different characteristics and different nuances to the
+[22:40] price action.
+[22:41] It's still going to reverse like this.
+[22:45] But you know, before it reverses, it much up a little bit, might go up a little bit,
+[22:50] they don't close about the high, goes back down.
+[22:54] Sometimes we have some really choppy price action.
+[22:59] There is no such a thing as bad price action.
+[23:03] Sometimes it's more challenging and sometimes you get a clean day.
+[23:07] Sometimes you get a clean trend day and you just buy low and you hold it and you keep
+[23:12] trailing your stop loss below the last low that created the high and you ended up catching
+[23:19] the whole move, the whole move up.
+[23:21] There is easy days like that.
+[23:23] There are different environments to the market.
+[23:26] But the main point is you can trade it.
+[23:28] You can trade anything.
+[23:29] And you know, if ICT says do not trade FOMC day, he is only saying it because you are
+[23:36] not experienced, because you haven't gone through trading 50 FOMC days that you know
+[23:44] what can you actually expect.
+[23:48] You know that you shouldn't maybe trade it right before it because there's going to be
+[23:52] a big spike because there's volatility going.
+[23:55] You can still trade it, but it's going to be more difficult for you as inexperienced
+[24:01] trader who haven't seen this play out all the time over and over and over.
+[24:07] And I personally haven't.
+[24:09] I have started trading from 2020.
+[24:12] I never paid attention to this stuff until recently, until maybe like a month ago.
+[24:18] And I knew, always knew about it.
+[24:19] I always knew, yeah, blah, blah, blah, market structure break, blah, blah, blah, this and that.
+[24:24] I've been trading since 2020, the retail concepts.
+[24:27] And then I got introduced to ICT in 2022 in September.
+[24:33] And now I have been getting into standard deviations with Dexter and also watching Dave
+[24:41] on YouTube and his master class about market structure.
+[24:46] And this video, I'm putting it all together.
+[24:48] Once you understand this, I believe truly that there is nothing else you need and you
+[24:53] can be trading this forever.
+[24:55] So here's an example what might happen in the market.
+[24:58] And as you can see, we have higher highs, higher lows, bullish trend.
+[25:05] Now we want to know when to buy this bullish trend.
+[25:09] So as I was saying in the trend, the price usually comes back at least to the 50%, right?
+[25:16] It comes to the 50% of the previous area.
+[25:20] So what is the previous area?
+[25:22] The previous area is this price action over here, this box over here.
+[25:27] So we made this high and then we had a pullback.
+[25:31] So after the pullback is finished, we had the reversal, the same pattern that we like
+[25:36] to see all over the market.
+[25:40] After this move up happened, market printed a high, higher high, closed about the previous
+[25:47] high.
+[25:48] So now this low becomes protected.
+[25:50] So we want to anticipate price coming back to the previous area of price action, previous
+[25:58] zone, whatever you want to call it.
+[26:01] And it's right here.
+[26:02] It's the previous area where it's not mitigated, meaning the price broke out, right?
+[26:11] Made a new high and before it's going to make a new high, it's going to have a retracement
+[26:18] because market doesn't move in a straight line up or down.
+[26:23] It has retracement.
+[26:24] So where is going to retrace?
+[26:27] It's going to retrace back to the previous area of price action.
+[26:32] That's where the most volume is.
+[26:35] That's where the most trading is.
+[26:37] So if we let's say miss this move, no problem.
+[26:41] We can anticipate the retracement.
+[26:44] And if we don't get this retracement, right, then we just bounce maybe here, still tapping
+[26:51] into the area.
+[26:54] If we don't get retracement to 50%, that area becomes unmitigated.
+[27:00] So if the area is unmitigated, we can expect in the future a comeback to that area.
+[27:08] A price action will be mitigating that area.
+[27:11] And you know, in a lot of cases, there's going to be some volume imbalances.
+[27:16] This is a sweep of the low.
+[27:19] So the turtle soup here.
+[27:21] But we don't want to enter blindly on this 50% because we don't know if price going to
+[27:28] reverse here.
+[27:29] We don't know because we truly don't know if this is going to hold.
+[27:34] This could easily go and all the way up to here, still holding the low and then reverse.
+[27:41] We don't know.
+[27:42] So we want to wait for our reversal pattern.
+[27:46] And what is the reversal pattern?
+[27:48] Is this.
+[27:49] And that's what we see happening here.
+[27:52] So price broke out.
+[27:53] And now there is this unmitigated area, right?
+[27:57] Price broke out of this box over here and never came back to test 50%.
+[28:05] So now that becomes unmitigated area and we can anticipate a pullback, which also could
+[28:13] have resulted in the liquidity grab, liquidity purge.
+[28:18] Maybe there is an imbalance.
+[28:20] Most likely there is.
+[28:21] Taps in and goes.
+[28:23] And probably on the seconds chart or whatever on lower timeframe, you will see the same
+[28:27] pattern that's played out here right at this low because time is fractal and what you see
+[28:34] on the high timeframe, that's what you can expect on the lower timeframe.
+[28:38] So now I'm going to give you a trading checklist.
+[28:41] How can we actually capitalize on these moves?
+[28:44] This is where I'm going to introduce Dexter's standard deviations.
+[28:48] And as you can see over here, this is what it is.
+[28:52] It's right here.
+[28:54] And all it is what we're doing here is we're measuring manipulation swing.
+[28:59] Okay?
+[29:00] That's what you want to do.
+[29:01] So you see this manipulation, right?
+[29:03] The pattern, the reversal pattern we like to see.
+[29:07] We want to measure this swing over here and project targets.
+[29:12] So if we do that, we can anticipate a retracement at minus 1.5 and minus 1.
+[29:20] This would be an opportunity to get in and it might not retrace all the way back down.
+[29:26] It might retrace all maybe over here.
+[29:29] I don't know.
+[29:31] You don't know.
+[29:32] That's what the rules are.
+[29:33] We want to anticipate a retracement inside this zone.
+[29:39] Once we get it, get in and we want to take profit.
+[29:43] The first take profit is going to be at minus 2.5, minus 2, which as you can see aligns
+[29:48] with this high over here.
+[29:50] So we can take the profits near the high in this zone.
+[29:54] And then this zone in itself should give another retracement and should give another retracement
+[30:00] here and then we go for the final target of minus 4, minus 3.5 that usually takes us out
+[30:08] external range liquidity and beyond.
+[30:12] So these two provide internal range liquidity purges, right?
+[30:20] Same here comes down, purges liquidity, bounces up, comes back down.
+[30:25] There's probably a liquidity, some low, some imbalance here that price stops into and finally
+[30:32] breaks up.
+[30:33] Right?
+[30:34] The same here, 2.5.
+[30:35] The same thing.
+[30:36] It comes down and taps into some kind of liquidity and goes up higher.
+[30:42] So based on this, where can we enter?
+[30:46] The best entry is here.
+[30:48] Here over here.
+[30:50] This low and this low.
+[30:51] These are two of the best entries on this chart.
+[30:54] So again, we don't just blindly buy on the touch of this 50% zone.
+[31:01] We wait for this pattern to form and then we buy on this retracement.
+[31:08] And as you can see, the price retraced from here down back to unmitigated area.
+[31:15] So that's the logic that you want to follow when you're trading this.
+[31:20] So the simple trading checklist, identify high time frame trend.
+[31:25] So if the 60 minute looks like this, it's bullish and we want to buy the pullbacks.
+[31:31] Wait for retracement to 50%.
+[31:33] There it is.
+[31:34] We waited for a retracement to 50%.
+[31:39] On lower time frame, anticipate a reversal pattern at 50%.
+[31:45] Once the price reached 50%, we zoom in into lower time frame and we anticipate this pattern.
+[31:52] Enter on the lower time frame, stop loss below the manipulation.
+[31:57] This is the manipulation.
+[31:58] So there is the manipulation.
+[32:01] We have a low, we have a high, we broke the low, we broke the high.
+[32:06] So this swing down, the last swing down that purges liquidity over here,
+[32:15] taps into the imbalance and comes back up.
+[32:20] This swing over here, this is what you want to measure.
+[32:23] For these projections, for the Dexter's projections, Dexter's standard deviations,
+[32:29] you want to measure this swing over here.
+[32:31] And sometimes you can measure wicks, sometimes you can measure bodies.
+[32:35] The bodies will give you more conservative targets, but you can do both.
+[32:40] And there is no right or wrong way, you can do both.
+[32:44] We have this stop loss over here, we have target one, which is minus 2, minus 2.5.
+[32:50] Target two, minus 3.5, minus 4.
+[32:53] Simple strategy.
+[32:54] So again, I want to point out this thing over here is that we want to identify a high time
+[33:00] frame trend and zoom in into lower time frame to anticipate a reversal pattern and enter
+[33:06] a trade on the retest of that area.
+[33:10] So now I'm going to show you some examples from the Nasdaq.
+[33:13] And since we've been in the new bull market, a lot of people now expecting, including me,
+[33:21] expecting a bearish reversal, you know, and we've been going, you know, up, up, up.
+[33:28] A lot of people would say right now that we are bearish and on the 4 hour we still not bearish
+[33:34] because we haven't broke the low that made a new high.
+[33:41] This low is responsible for making this high.
+[33:44] So until we break this low, we're not going to flip bearish.
+[33:49] We could be bouncing from this unmitigated area that I drew out here.
+[33:54] See, this area is unmitigated.
+[33:56] We have the pattern, right?
+[33:57] We have a low, we have a lower low, we'll have a high high pull back into this area.
+[34:04] It pulled back into this area.
+[34:08] 50%.
+[34:09] But it didn't pull back into this area.
+[34:13] Right?
+[34:13] It didn't pull back into this 50% into this unmitigated area.
+[34:19] We have the same thing here.
+[34:21] High, low, higher high.
+[34:25] Right?
+[34:25] The high that closed the bow and we didn't reach 50%.
+[34:30] So now this area becomes unmitigated and most likely we're going to see a comeback to this area.
+[34:36] So that's what we're seeing right now.
+[34:40] We almost got back into this area.
+[34:43] But also we are hitting this 50% which is this bigger area, right?
+[34:48] This is the area that price is coming back to.
+[34:54] We had our swing high, swing low and we broke.
+[34:59] So now this is the range we are trading in.
+[35:04] We are trading in this range and price can do whatever it wants in this range.
+[35:10] And it's still going to be bullish until it breaks this low as far as for our concerns.
+[35:18] So if you were buying all of this in here, that was wrong.
+[35:22] The order flow shifted bearish here.
+[35:27] Right?
+[35:27] So what can we, where is it going?
+[35:29] Well, it's going to 50% to mitigate this area number one.
+[35:33] And also there is unmitigated area below right inside this bigger area.
+[35:40] So what is price going to do?
+[35:42] Price is going to go and grab this imbalance here.
+[35:45] That's sitting right below these equal lows and right at 50% of unmitigated area.
+[35:52] Hmm.
+[35:54] This is what enigma is.
+[35:57] This is what they don't teach you in school.
+[36:01] Don't teach you in those private FX groups.
+[36:05] So anyway, Nasdaq on 4 hour is still bullish until we break below this low.
+[36:10] And see, look at this.
+[36:12] This area over here is unmitigated.
+[36:15] Right?
+[36:15] We had a high, we had a low, we had a high high.
+[36:20] This area has never been mitigated.
+[36:25] So what could happen here?
+[36:27] We could break close below the previous low and trade back higher for a retracement.
+[36:36] And then trade back lower and starting a bearish trend.
+[36:44] If we can just bounce here, never break this low, that's bullish.
+[36:49] If we can break this high, we're still gonna go up.
+[36:53] But what we can do, we can just bounce here, come back up, go back down.
+[36:59] The price can do anything in this range and it's still gonna be bullish until it breaks this low.
+[37:09] Burn this into your brain that this low that created a high,
+[37:15] this low didn't create the high.
+[37:18] Created the high on the lower timeframes in this range.
+[37:22] So this low is gonna be the one that created a new high.
+[37:27] Right?
+[37:28] This is intermediate highs and lows.
+[37:32] Intermediate high, intermediate low, intermediate high, intermediate low,
+[37:39] intermediate high, break of intermediate low.
+[37:44] What do we expect now?
+[37:47] We expect price to go back and test at least 50% of this previous area it broke out from.
+[37:56] So now we can enter short.
+[38:00] We can enter short here and take it all the way down to 50%.
+[38:05] This could be a target.
+[38:09] We see these equal lows.
+[38:10] All of this is equal lows here.
+[38:12] And then there is an imbalance here.
+[38:15] There is an imbalance, an FVG that's sitting right on 50% of the unmitigated area.
+[38:23] And we take this short from here to here.
+[38:25] So now we need to watch.
+[38:27] Is it gonna bounce here or not?
+[38:28] But the trade is done.
+[38:30] Short.
+[38:31] So let's zoom in into this high over here.
+[38:34] There is a 15-minute high.
+[38:35] So we were trading higher.
+[38:37] We broke the previous high.
+[38:39] We closed above it.
+[38:40] So now the trend is bullish.
+[38:42] So what we want to see?
+[38:44] We want to see a reversal for a retracement into the 50% of the previous area.
+[38:50] There is a high established.
+[38:51] Then there is a low established.
+[38:55] We this low broke the high, made a new higher high.
+[38:59] So this low is protected low.
+[39:01] And if we break this low, we want to anticipate retracement to the 50% of this whole area here.
+[39:12] And you can see we get a top over here and it goes lower.
+[39:19] So but you might say, well, why didn't you count these weeks?
+[39:24] Well, the weeks are manipulation.
+[39:26] This is was really manipulation.
+[39:28] So we don't count weeks.
+[39:30] And I'm sure if you can draw this up to the week, it's still maybe going to hit here.
+[39:35] But I like more conservative approach.
+[39:39] And what I like to draw is like avoid this week weeks.
+[39:44] And you can still incorporate these weeks because this is not really manipulation.
+[39:48] This is like a push higher.
+[39:50] And this was a real manipulation for the downside.
+[39:54] So for the for the downside, we want to ignore the up weeks.
+[39:58] And for the upside, we want to ignore the down weeks.
+[40:01] Price comes back into the 50% trades lower.
+[40:05] Amazing short, right?
+[40:07] Short to where?
+[40:07] Well, somewhere here in this structure.
+[40:10] I don't know, you can keep holding it until you see the reversal, right?
+[40:15] See, there is the reversal down, up, down, up, down and to trade long.
+[40:23] But look how shallow it is.
+[40:26] This is why I don't like to trade in the opposite direction of the trend
+[40:31] because it just reversed, right?
+[40:34] Put in high, put in low, higher, higher, boom.
+[40:38] Reversed.
+[40:38] So we really want to trade with the trend only.
+[40:41] So after we see the bearish reversal, we get our trade over here
+[40:47] and we keep holding it until some objective,
+[40:50] until the target on the deviations or until you just made a lot of money.
+[40:56] I don't know.
+[40:57] You can keep holding it and keep trailing your stops
+[41:00] above the last high that created the low.
+[41:03] See, just like here, look, low established,
+[41:07] intermediate high, intermediate low, intermediate high, low broken.
+[41:12] So this high broke this low.
+[41:15] So this high becomes protected.
+[41:18] Look, the price comes up, doesn't come up all the way up here.
+[41:22] There is a bunch of imbalances here, right?
+[41:24] Comes up to here, to this imbalance, tap slow, go.
+[41:28] Game over.
+[41:29] Keep in mind this area here.
+[41:30] See how we drop?
+[41:31] This is unmitigated area.
+[41:34] This thing here is unmitigated area and the price,
+[41:38] we want to anticipate a price coming back into this area.
+[41:41] So that was 15 minutes short.
+[41:43] Here's the one hour short.
+[41:45] Here's that high, right?
+[41:48] There is that 50% tap price comes all the way down here.
+[41:55] We have that unmitigated area that I point out.
+[41:58] We ignore the wicks and even if you get the wicks,
+[42:01] you're still going to get a tap.
+[42:02] We want to ignore the wicks.
+[42:04] We get from this high to this low.
+[42:07] This is unmitigated.
+[42:09] We broke that and now we want to anticipate a retracement back into this area.
+[42:15] So keep in mind we still haven't reached, right?
+[42:20] We still haven't reached the unmitigated area below the 50%.
+[42:26] Because in a bullish trend, we want to see a retracement at least to that 50%.
+[42:31] So we bounced here.
+[42:34] So now because of the order flow is bearish on the higher time frame,
+[42:39] after we break all of these lows here, right?
+[42:41] This intermediate is bearish.
+[42:44] We want to anticipate retracement back where?
+[42:48] To unmitigated area or the previous area, right?
+[42:51] I mean, there's a big previous area here, you know,
+[42:56] but most often it will come back all the way to unmitigated area.
+[43:01] And if this wasn't mitigated here, see how it got mitigated, right?
+[43:06] Get 50% tap and down.
+[43:10] This is mitigated area and this is unmitigated area here.
+[43:16] So what happens?
+[43:18] Price comes up, taps here, all the way down.
+[43:23] Look at this.
+[43:24] All the way down, comes back all the way up.
+[43:27] And now gives us a nice pattern here, right?
+[43:31] Here's what it looks like on the three minute, right?
+[43:34] We zoomed in all the way to three minute.
+[43:37] So this area over here, I'm going to zoom in.
+[43:40] Boom, there is that 50% that we are tapping.
+[43:43] There is this whatever distribution chop that's happening here.
+[43:49] But we want to see which low established the new high.
+[43:52] So as you can see here, there is a low.
+[43:55] Didn't close about the high, no?
+[43:58] Chop, chop, chop.
+[44:00] This low broke the high, closed about the high.
+[44:05] This hasn't closed, nothing closed about this high.
+[44:09] So this low is not important.
+[44:10] So this low is important because it broke the high.
+[44:13] So if we come down below this low and you can see, look,
+[44:17] it didn't close so you don't have to take trade there.
+[44:21] Didn't close, it came back.
+[44:23] This would be amazing short, but again, we don't want to short
+[44:26] until we see a close below the last low that made a high.
+[44:33] So now that we see this close right over here, right?
+[44:35] It came down all the way here, breaking this.
+[44:39] We see that close, we anticipate retracement.
+[44:43] But because this area is already mitigated, you see with this,
+[44:47] we want to anticipate a 50% retracement to this area,
+[44:52] the last one that sent price lower, breaking the structure.
+[44:56] So we go get a tap into the area and I'm sure there is on lower time frame,
+[45:03] even one minute or 10 seconds, whatever.
+[45:06] You can see the same pattern, right?
+[45:08] Pros down, comes back, goes low.
+[45:11] It's the same pattern over and over and over again.
+[45:15] See unmitigated area, taps into it, lower, opens up.
+[45:20] This was at the end of the day, there's a six o'clock.
+[45:24] Four o'clock opens up at six, way lower, look at that.
+[45:27] So really I want to focus your attention back to this
+[45:31] and this is what you want to be looking for in your charts.
+[45:35] You want to identify high time trend, then anticipate these reversals
+[45:41] at key points, at key PD arrays and most importantly,
+[45:46] at least at 50% of the previous area.
+[45:50] So now I encourage you to go back test this strategy,
+[45:53] to go look at your charts, to go tape read
+[45:57] because once you see it, you can't unsee it.
+[46:00] And you will never gain confidence in your trading model,
+[46:04] in your trading style, in your trading strategy.
+[46:07] You will never gain confidence until you do it yourself,
+[46:11] until you see it over and over and over in front of you, live on the charts.
+[46:17] There is the only way to learn this.
+[46:20] There is no guru out there that you can pay your money to,
+[46:24] to shortcut the learning experience.
+[46:27] You have to see it with your own eyes and it looks easy, it looks simple.
+[46:32] But once you get into those nuances and different days in the market,
+[46:38] different market profiles and you know, when there's a lot of volatility,
+[46:42] there's a lot of volume, this all gonna look slightly different.
+[46:45] There's gonna be different tricks that price action will pull out.
+[46:50] But your job is to go in a chart and observe the price action every single day
+[46:56] and understand that you can trade anything.
+[46:59] It works all the time like clockwork everywhere, any time frame, any asset, anything.
+[47:05] If it's trading, it moves this way.
+[47:09] And your job as a trader is to get on the right side of the market,
+[47:14] capture a portion of the move and get out.
+[47:17] And on to the next set.
+[47:19] And in this video, I gave you some rules for the mechanical strategy.
+[47:23] But really, there is three levels of trading.
+[47:26] First, you have mechanical rules.
+[47:28] You just enter on this when the checklist happens.
+[47:33] Then you have subjective rules.
+[47:35] Where you can, you know, have more stuff and more built up on that strategy.
+[47:41] And you know, sometimes, you know, you can objectively identify the trend.
+[47:46] And when your trading model says buy, maybe you don't buy because it's against the trend.
+[47:51] So that's like subjective trading.
+[47:53] And then the pinnacle, the mastery of trading is trading with intuition.
+[48:00] That's where you just get in the zone, you open the charts,
+[48:04] you just totally zoned in and in sync with order flow.
+[48:08] You can buy, sell, buy, sell, buy, sell.
+[48:12] And you pick the tops, you pick the bottoms and you look like a genius.
+[48:17] So that's the pinnacle.
+[48:19] That's the mastery.
+[48:20] Start with the mechanical trading.
+[48:22] Start with this simple strategy.
+[48:24] Okay.
+[48:26] And then once you see a lot of the price action happening over and over and over again,
+[48:33] you will learn to adapt to the market flow.
+[48:37] You will learn to adapt to the structure, to the certain characteristics of the price action.
+[48:44] And the rabbit hole goes deep, but you don't need to know all the intricacies of the market.
+[48:52] Start with this, go back, test this and you know, one to two trades a day.
+[48:57] You don't have to be scalping every single move.
+[49:01] Try it out.
+[49:02] Okay.
+[49:03] Try it out and see if it works because you're only going to know if you backtest.
+[49:08] So with that being said, I hope this video helped you.
+[49:11] Make sure if you have any questions, just comment below, reach out to me on Twitter.
+[49:17] Don't try to send me DMs because they flooded, but you can leave comments under my post and
+[49:23] I usually reply to those if you have any questions.
+[49:26] But the most of the questions you're going to get answered by watching the charts.
+[49:32] By trying to trade with this psychology and with this logic.
+[49:37] That's the only really way to learn this is to keep trading it and keep seeing it over and over
+[49:42] and over again.
+[49:43] That's number one.
+[49:44] And number two, I would highly encourage you to also check out Dexter on Twitter and his YouTube
+[49:51] channel.
+[49:51] His YouTube channel is on Spanish, but I watched it with subtitles and it was totally worth it.
+[49:57] If you want to dive in deeper into the standard deviations.
+[50:01] And as far as market structure goes, if you want to understand more of the market structure
+[50:07] and intricacies and nuances of the price action, how it moves on different days,
+[50:14] I highly encourage you to go watch Dave teaches effects on YouTube.
+[50:19] His masterclass playlist.
+[50:22] Really, I think that one of the best things that ever happened to the trading community,
+[50:26] he puts it out all out there and you know, you don't have to pay him.
+[50:31] You don't have to join his discord community.
+[50:33] And that's how it's supposed to be.
+[50:35] It's all free out there.
+[50:37] Go get it and use it.
+[50:38] If you want further help, you can join his community, but he doesn't really care.
+[50:43] Very genuine guy, really impressed by his thinking and logical skills.
+[50:50] It's just the logic is undeniable.
+[50:52] I'm truly blown away.
+[50:54] And like I said, if you want to learn more, check out his YouTube channel.
+[50:57] But with that being said, guys, thank you so much for watching.
+[51:01] If you found this video helpful, consider sharing it with fellow traders,
+[51:05] investors, I don't know, your mom and until the next one, stay safe.

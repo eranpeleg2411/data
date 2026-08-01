@@ -1,0 +1,156 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "N6JYctYy7gg",
+    "title": "Only Technical Analysis Video You Will Ever Need",
+    "url": "https://www.youtube.com/watch?v=N6JYctYy7gg",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/N6JYctYy7gg.json"
+  },
+  "stats": {
+    "word_count": 6276,
+    "duration_seconds": 2973.98,
+    "segments": 499,
+    "concepts_detected": 3,
+    "candidate_strategies": 1
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 3,
+    "SMT Divergence": 5,
+    "Risk Management": 1
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 2747.98,
+          "end": 2782.98,
+          "text": "It's a breakout, number one, first pullback, number two, a new high, number three, and then we come back to liquidate number two, which is four, and the five is a reversal. Usually looks like a double bottom, as you can see over here, double bottom, and continuation and actual expansion higher. So yet again, we can draw the trend line from here to here, and we would be out of the trade on the trend line break.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 7
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 59.16,
+      "end": 76.54,
+      "text": "There are different algos that big money, the smart money, the actual smart money uses but that's beyond this video today. The whole point is that I went back to basics from where I started.",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 216.26,
+      "end": 232.72,
+      "text": "sellers it's not supply and demand then what is it? Do you really think that there is a button that you can push and suddenly the market goes to the exact point and then reverses and then goes to the next point?",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 737.42,
+      "end": 759.12,
+      "text": "How price moves from support to resistance and how can we position ourselves within the market structure because these zones are battle lines and roadmaps for future price. We anticipate the price following from support to resistance back and forth and sometimes",
+      "concepts": [],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 868.1,
+      "end": 887.7,
+      "text": "side buyers or sellers won the battle. They won the battle and now this is creates a huge imbalance because now that everybody sees on their chart that the price is breaking out it creates FOMO.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1001.92,
+      "end": 1023.38,
+      "text": "So the price goes from consolidation to expansion and back to consolidation. Price goes from balance to imbalance and back to the balance. So if price moves from consolidation to consolidation that means that your target should be within",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1865.44,
+      "end": 1882.44,
+      "text": "And by creating these trend lines and by drawing them from higher timeframe to the lower timeframe, you will create a map for the price. And I encourage you to backtest these trend lines.",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1904.88,
+      "end": 1922.98,
+      "text": "So these trend lines are no joke and the more you study them, the more you're going to understand how the price actually moves around these trend lines. Because if we understand how the market moves and why it moves, which is supply and demand,",
+      "concepts": [],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 2111.8,
+      "end": 2133.14,
+      "text": "This is regular RSI with default settings and you can see that there is a bullish divergence meaning that the RSI is going higher while the price is going lower. So the lower volume with the divergence is the signal of the reversal but we need to",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 2141.96,
+      "end": 2164.36,
+      "text": "So we have this expansion and then price got into another range and look at it again. We have higher high with the bearish divergence and a lower volume. I'm going to highlight that there is the volume of this high and there is the volume of this",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 2433.98,
+      "end": 2450.98,
+      "text": "And all of these trend lines are coming from the higher timeframe. Hopefully this makes sense, but the more we zoom in into the lower timeframes, the more we can anticipate what we might get, but also we will have the boundaries for the trade.",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 2532.98,
+      "end": 2555.98,
+      "text": "We're going to adjust the trend line here. The same thing, we have lower volume. We don't really see the divergence on this low, but it's still a divergence on the higher timeframe. We can use that as a confluence. So yet again, we can mark out a high and a low over here.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 2747.98,
+      "end": 2782.98,
+      "text": "It's a breakout, number one, first pullback, number two, a new high, number three, and then we come back to liquidate number two, which is four, and the five is a reversal. Usually looks like a double bottom, as you can see over here, double bottom, and continuation and actual expansion higher. So yet again, we can draw the trend line from here to here, and we would be out of the trade on the trend line break.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 7
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:00.744210+00:00"
+}

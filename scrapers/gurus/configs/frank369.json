@@ -1,0 +1,22 @@
+{
+  "keywords": [
+    "369",
+    "zeussy",
+    "change in the state of delivery",
+    "csd",
+    "time of interest",
+    "toi",
+    "five second"
+  ],
+  "concept_patterns": {
+    "369 Timing": "\\b3[-\\s]?6[-\\s]?9\\b|\\bthree six nine\\b|\\b369 timing\\b",
+    "Change in the State of Delivery": "\\bchange in (?:the )?state of delivery\\b|\\bcsd\\b",
+    "Zeussy Market Structure Shift": "\\bzeussy\\b.{0,100}\\bmarket structure shift\\b|\\bzeussy mss\\b",
+    "Five-Second Execution": "\\b5[-\\s]?second\\b|\\bfive[-\\s]?second\\b"
+  },
+  "strategy_patterns": {
+    "Timed Liquidity Reversal": "\\b(?:time of interest|toi|time cycle|369)\\b.{0,220}\\b(?:liquidity|sweep|reversal|point of interest)\\b|\\b(?:liquidity|sweep|reversal|point of interest)\\b.{0,220}\\b(?:time of interest|toi|time cycle|369)\\b",
+    "Zeussy-Confirmed Reversal": "\\bzeussy\\b.{0,180}\\b(?:reversal|shift|liquidity|displacement)\\b",
+    "Five-Second Precision Entry": "\\b(?:5[-\\s]?second|five[-\\s]?second)\\b.{0,180}\\b(?:entry|fvg|ifvg|shift|displacement)\\b"
+  }
+}

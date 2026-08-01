@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "JF8Q1n8-7d0",
+    "title": "Trading Psychology: How You Do One Thing Is How You Do Everything | Paradigm Shift",
+    "url": "https://www.youtube.com/watch?v=JF8Q1n8-7d0",
+    "upload_date": "unknown",
+    "channel": ""
+  },
+  "transcript": {
+    "model": "medium",
+    "language": "en",
+    "file": "../transcripts/JF8Q1n8-7d0.json"
+  },
+  "stats": {
+    "word_count": 2174,
+    "duration_seconds": 1165.42,
+    "segments": 267,
+    "concepts_detected": 0,
+    "candidate_strategies": 0
+  },
+  "concept_mentions": {},
+  "spoken_time_references": [
+    "2am",
+    "6am"
+  ],
+  "candidate_strategies": [],
+  "key_passages": [
+    {
+      "start": 81.8,
+      "end": 102.46,
+      "text": "My trades were a mess because I was a mess. My mornings scattered, my diet junk food, my mind a piñata of fear and greed. Then I found stoicism, Marcus Aurelius, Seneca, Epictetus, I applied their principles to my",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 396.06,
+      "end": 412.8,
+      "text": "You see patterns where none exist. Double down on losing trades or skip your stop loss because this time is different. Epictetus said, there is only one way to happiness.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 482.02,
+      "end": 497.46,
+      "text": "And here's another story. I once coached a trader who missed 70% of her stop losses. Well, turns out that she was late to every trading session, skipped her journal and winged",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 775.74,
+      "end": 793.94,
+      "text": "What's my hypothesis for the next week? Adjust one variable at a time, like tightening your stop loss or waking up 30 minutes earlier. For example, one of my students reviewed his trades and found he chased breakouts on",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 809.58,
+      "end": 826.42,
+      "text": "Like a blacksmith forging steel. You hammer chaos into order one swing at a time. This simple step by step process, awareness, reframing, rules, scaffolding and review turns",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 925.42,
+      "end": 943.46,
+      "text": "Jake pauses, sticks to his system and avoids a blow up. Eight p.m. Jake journals the day's trades, rates his discipline. Nine out of ten and notes skipped former trade equals progress.",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 1062.7,
+      "end": 1075.5,
+      "text": "Here's the greatest lesson for today. Small disciplines in your trades shape your entire life. Master the small and you master it all.",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    }
+  ],
+  "generated_at": "2026-07-27T09:26:00.700401+00:00"
+}
