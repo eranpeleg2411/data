@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "eywpZT3z6GQ",
+    "title": "TTrades Scalping Model - Simple Day Trading Strategy",
+    "url": "https://www.youtube.com/watch?v=eywpZT3z6GQ",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/eywpZT3z6GQ.json"
+  },
+  "stats": {
+    "word_count": 2914,
+    "duration_seconds": 873.48,
+    "segments": 272,
+    "concepts_detected": 6,
+    "candidate_strategies": 2
+  },
+  "concept_mentions": {
+    "Liquidity": 2,
+    "Fair Value Gap": 5,
+    "TTrades Fractal Model": 5,
+    "Candle 3 Setup": 12,
+    "Candle 4 Setup": 1,
+    "Protected Swing": 6
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 253.72,
+          "end": 265.28,
+          "text": "Let's see how we could get on side. You can see we open up, we have the confirmation and we reach into a fair value gap here. So I'd be looking for what a continuation entry.",
+          "concepts": [
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 11
+        },
+        {
+          "start": 689.28,
+          "end": 698.68,
+          "text": "Here we have a candle for continuation, right? And we have a protected swing right at the end of candle three. So either of these entries would work and you can trade that higher.",
+          "concepts": [
+            "Candle 3 Setup",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 16
+        },
+        {
+          "start": 787.84,
+          "end": 798.32,
+          "text": "And then you can see we have another fair value gap and a new continuation right here. So we're opening up candle three with a protected swing right there. So we could be looking for an entry on the open.",
+          "concepts": [
+            "Fair Value Gap",
+            "Candle 3 Setup",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "Protected Swing Invalidation"
+          ],
+          "score": 24
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 787.84,
+          "end": 798.32,
+          "text": "And then you can see we have another fair value gap and a new continuation right here. So we're opening up candle three with a protected swing right there. So we could be looking for an entry on the open.",
+          "concepts": [
+            "Fair Value Gap",
+            "Candle 3 Setup",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "Protected Swing Invalidation"
+          ],
+          "score": 24
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 40.92,
+      "end": 54.28,
+      "text": "The easiest way to do that is to have a candle to closure on the hourly or a candle three closure and be able to anticipate an expansion candle that follows. So here you can see we have a fair value gap, internal liquidity to external liquidity,",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap",
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 160.36,
+      "end": 173.96,
+      "text": "But let's take a look and see if we have a 15 minute swing point. So taking a look here, we do not have a 15 minute swing point that I am willing to trade. I could trade this technically in candle for, but I'm going to wait for a valid swing point",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 214.12,
+      "end": 227.6,
+      "text": "And if we go back to the hourly timeframe, yes, we did not close the greatest here, but we identified that this is not a reversal off the high, the lower timeframes or the 15 minute swing point is forming the wick of this hourly candle.",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 253.72,
+      "end": 265.28,
+      "text": "Let's see how we could get on side. You can see we open up, we have the confirmation and we reach into a fair value gap here. So I'd be looking for what a continuation entry.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 11
+    },
+    {
+      "start": 315.0,
+      "end": 325.2,
+      "text": "And then you're looking to align a 15 minute and one minute fractal model with that. And that's how you're scalping with context. Then we're just going to use protected swings, which I've taught about in multiple other",
+      "concepts": [
+        "TTrades Fractal Model",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 430.44,
+      "end": 438.6,
+      "text": "But is a option. If I wanted to, I could trade this continuation into these lows here. But this is generally the entry I want to see.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 8
+    },
+    {
+      "start": 447.36,
+      "end": 455.28,
+      "text": "And you can see it takes its sweet time. But we do finally get that move lower on the continuation. Now this would have been the A plus entry.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 8
+    },
+    {
+      "start": 483.2,
+      "end": 495.72,
+      "text": "for this trade as it had already traded below the short term lows. But just to review, we have an hourly swing point and then I'm looking to trade the continuation inside that candle three or inside that candle four.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Candle 4 Setup"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 499.84,
+      "end": 507.44,
+      "text": "So you can see getting entry into that candle three. And this one could have even provided another entry. As you can see, we have another swing point in there.",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 689.28,
+      "end": 698.68,
+      "text": "Here we have a candle for continuation, right? And we have a protected swing right at the end of candle three. So either of these entries would work and you can trade that higher.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 16
+    },
+    {
+      "start": 787.84,
+      "end": 798.32,
+      "text": "And then you can see we have another fair value gap and a new continuation right here. So we're opening up candle three with a protected swing right there. So we could be looking for an entry on the open.",
+      "concepts": [
+        "Fair Value Gap",
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Trend Continuation",
+        "Protected Swing Invalidation"
+      ],
+      "score": 24
+    },
+    {
+      "start": 822.28,
+      "end": 831.28,
+      "text": "Right. It has a small opposing run creates this protected swing and trades away. So when you get this 15 minute closure, right, this is the reversal candle on the",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 9
+    }
+  ],
+  "generated_at": "2026-09-01T19:46:17.860590+00:00"
+}

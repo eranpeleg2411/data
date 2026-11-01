@@ -1,0 +1,165 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "VD4xb9VfMHA",
+    "title": "How To Trade Reversal - Phases Of Price",
+    "url": "https://www.youtube.com/watch?v=VD4xb9VfMHA",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/VD4xb9VfMHA.json"
+  },
+  "stats": {
+    "word_count": 3318,
+    "duration_seconds": 1069.7,
+    "segments": 429,
+    "concepts_detected": 5,
+    "candidate_strategies": 1
+  },
+  "concept_mentions": {
+    "Liquidity": 1,
+    "Fair Value Gap": 4,
+    "Premium and Discount": 1,
+    "Candle 3 Setup": 1,
+    "Protected Swing": 2
+  },
+  "spoken_time_references": [
+    "10 AM"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Premium Discount Expansion",
+      "evidence": [
+        {
+          "start": 921.98,
+          "end": 926.86,
+          "text": "It's met with expansion lower. So what does that tell me? We're not respecting the EQ of this wick.",
+          "concepts": [],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 7
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 0.0,
+      "end": 23.12,
+      "text": "How's it going everyone, and welcome into my reversal video. This is going to be part 4 in my 5 part series on the phases of price, and the last individual concept before we blend all of these together.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 65.92,
+      "end": 76.08,
+      "text": "continuations higher, following a reversal. So when or where do we expect a reversal to form? We want to see a reversal form at a point of interest.",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 127.18,
+      "end": 137.7,
+      "text": "on the lower timeframe. So when price trades or expands into a old high or a swing high, I'm going to want to watch price on the lower timeframes to look for reversals.",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 148.86,
+      "end": 158.22,
+      "text": "How do I interact with it? I don't have to catch the high to trade a reversal. I can still look for the continuation following by finding a protected swing, which if you",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 342.38,
+      "end": 348.34,
+      "text": "Well, let's see. Does that candle tell me much? Nope, it just makes a fair value gap.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 561.62,
+      "end": 569.66,
+      "text": "This is retracement. But then when we form a protected swing, as we close through the series of downclothes candles here, we can",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 634.86,
+      "end": 639.66,
+      "text": "Right. So a V shaped reversal. We get a continuation higher in candle three.",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 701.38,
+      "end": 709.98,
+      "text": "into the range right back through its daily open and I can find internal liquidity. So an easy target would be this fair value gap right here.",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 846.5,
+      "end": 853.74,
+      "text": "You can use either of these, but I would use this as the series of downclothes candles. Now the reason for that is that is the swing high",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 921.98,
+      "end": 926.86,
+      "text": "It's met with expansion lower. So what does that tell me? We're not respecting the EQ of this wick.",
+      "concepts": [],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 7
+    },
+    {
+      "start": 1015.5,
+      "end": 1021.78,
+      "text": "Yes, we have a fair value gap here. But look at it. It takes three candles to get all of this range here.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1059.5,
+      "end": 1065.58,
+      "text": "as well as using daily closures, changing the state of delivery, and probably touch on the equilibrium a little.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 5
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:37.077574+00:00"
+}

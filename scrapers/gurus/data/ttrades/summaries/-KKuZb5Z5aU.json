@@ -1,0 +1,278 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "-KKuZb5Z5aU",
+    "title": "Easy Daily Bias - Mechanical Framework",
+    "url": "https://www.youtube.com/watch?v=-KKuZb5Z5aU",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/-KKuZb5Z5aU.json"
+  },
+  "stats": {
+    "word_count": 3608,
+    "duration_seconds": 1040.52,
+    "segments": 296,
+    "concepts_detected": 6,
+    "candidate_strategies": 3
+  },
+  "concept_mentions": {
+    "Liquidity": 3,
+    "Fair Value Gap": 12,
+    "SMT Divergence": 6,
+    "Premium and Discount": 2,
+    "Candle 3 Setup": 7,
+    "Protected Swing": 7
+  },
+  "spoken_time_references": [
+    "Asia session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 502.32,
+          "end": 514.52,
+          "text": "This swing is only protected until it hits liquidity. Once it hits liquidity, this is a pattern I see often of taking out liquidity, then it will sweep out a protected swing and then it will have its true move.",
+          "concepts": [
+            "Liquidity",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 18
+        }
+      ]
+    },
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 377.68,
+          "end": 393.64,
+          "text": "There you can see we have the EQ marked up and our previous day low is right here. So if we're going to be looking for a continuation, what would we want to see price open trade higher first respecting this fair value gap and the EQ to then trade lower into previous",
+          "concepts": [
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 11
+        },
+        {
+          "start": 947.92,
+          "end": 960.56,
+          "text": "With a bearish candle to closure, we'd be looking for a continuation in candle three out of where the T spot or the EQ. I want to see price open trade higher first to then trade lower.",
+          "concepts": [
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        },
+        {
+          "start": 1011.12,
+          "end": 1024.6,
+          "text": "I want to see price open, reach into a point of interest, have a formation that confirms the wick of this higher timeframe candle, and I can look to trade that continuation. In a reversal, I want to see price open trade higher into that previous days high or that",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 10
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 362.96,
+          "end": 376.16,
+          "text": "have that SMT with dollar at the reversal that change in the state of delivery. And then we have the T spot marked up, which in this case is just the equilibrium in which case we will search for that point of interest and look for it to trade lower.",
+          "concepts": [
+            "SMT Divergence",
+            "Premium and Discount"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 16
+        },
+        {
+          "start": 872.4,
+          "end": 886.16,
+          "text": "And there you can see this does work out as we have a nice reversal off the previous candles high, paired with a change in the state of delivery and SMT. If I'm going to be trading a candle to I do prefer to have SMT paired with it.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 13
+        },
+        {
+          "start": 938.16,
+          "end": 952.88,
+          "text": "We have a nice V shape reversal with a change in the state of delivery alongside SMT and then we just place lower throughout the day with a nice bearish closure. With a bearish candle to closure, we'd be looking for a continuation in candle three",
+          "concepts": [
+            "SMT Divergence",
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 14
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 15.44,
+      "end": 28.88,
+      "text": "This is going to use candle closures as well as wick size, but if you haven't already seen my equilibrium video, my candle 2 and candle 3 closure video, I would watch those first. This is based off the fact that I am either going to be looking for a reversal, or for",
+      "concepts": [
+        "Premium and Discount",
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 152.4,
+      "end": 160.32,
+      "text": "are creating new protected swings. You can see we reach into a fair value gap. We close over the down close candle into that fair value gap.",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 307.32,
+      "end": 318.88,
+      "text": "So marking that out, we have a fair value gap here and a fair value gap here. Instead of trying to guess which one will have a reaction, I'm going to wait for a swing to form in that area or a new protected swing.",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 12
+    },
+    {
+      "start": 331.92,
+      "end": 342.4,
+      "text": "No, but we have a candle three closure, which is ideal as we form a new protected swing. Here. So now I can anticipate that this higher timeframe wick has formed, right?",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 362.96,
+      "end": 376.16,
+      "text": "have that SMT with dollar at the reversal that change in the state of delivery. And then we have the T spot marked up, which in this case is just the equilibrium in which case we will search for that point of interest and look for it to trade lower.",
+      "concepts": [
+        "SMT Divergence",
+        "Premium and Discount"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 16
+    },
+    {
+      "start": 382.92,
+      "end": 395.8,
+      "text": "So if we're going to be looking for a continuation, what would we want to see price open trade higher first respecting this fair value gap and the EQ to then trade lower into previous day low and beyond.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 11
+    },
+    {
+      "start": 429.88,
+      "end": 443.52,
+      "text": "So let's see what happens. You can see we have an SMT at the previous day low with a change in the state of delivery. Now we have everything set up with a small wick to see a reversal trade back into the",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 11
+    },
+    {
+      "start": 502.32,
+      "end": 514.52,
+      "text": "This swing is only protected until it hits liquidity. Once it hits liquidity, this is a pattern I see often of taking out liquidity, then it will sweep out a protected swing and then it will have its true move.",
+      "concepts": [
+        "Liquidity",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 18
+    },
+    {
+      "start": 542.68,
+      "end": 552.52,
+      "text": "I'm not just going to pattern trade this. I want to actually align it with a bias. So here you can see we have an ideal candle three closure and a new protected swing, which",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 872.4,
+      "end": 886.16,
+      "text": "And there you can see this does work out as we have a nice reversal off the previous candles high, paired with a change in the state of delivery and SMT. If I'm going to be trading a candle to I do prefer to have SMT paired with it.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 13
+    },
+    {
+      "start": 938.16,
+      "end": 952.88,
+      "text": "We have a nice V shape reversal with a change in the state of delivery alongside SMT and then we just place lower throughout the day with a nice bearish closure. With a bearish candle to closure, we'd be looking for a continuation in candle three",
+      "concepts": [
+        "SMT Divergence",
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 14
+    },
+    {
+      "start": 1011.12,
+      "end": 1024.6,
+      "text": "I want to see price open, reach into a point of interest, have a formation that confirms the wick of this higher timeframe candle, and I can look to trade that continuation. In a reversal, I want to see price open trade higher into that previous days high or that",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 10
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:36.224275+00:00"
+}

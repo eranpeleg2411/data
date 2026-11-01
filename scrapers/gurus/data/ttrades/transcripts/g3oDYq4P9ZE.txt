@@ -1,0 +1,297 @@
+[00:00] How's it going everyone?
+[00:11] This video is going to be over daily bias and draw on liquidity.
+[00:14] We'll go through the PDF and then a bunch of examples.
+[00:18] And before we get into it, I'd like to give you a big thank you to the MMXM trader for
+[00:22] teaching me many of these concepts as well as his next day model.
+[00:26] The easiest way to frame a draw on liquidity or have daily bias is using previous day high
+[00:31] and low.
+[00:32] So for example, up here, unless price is going to consolidate and not take out the low or
+[00:38] the high of the previous day, we are going to have it either take previous day high,
+[00:42] previous day low, or both of these.
+[00:45] So the way I look at it is price more likely to take previous day high or previous day
+[00:50] low.
+[00:51] In this case, I would expect price to be reaching for previous day high as we are trending
+[00:55] upwards.
+[00:57] So that would be my draw on liquidity.
+[01:00] Similarly over here, we are trending down.
+[01:02] So I'd expect price to reach for previous day low.
+[01:06] Previous day high and low can also be used as liquidity pools to frame a reversal.
+[01:11] So for example, here we reach into this previous day high, we can't displace above it and price
+[01:16] reverses.
+[01:18] Similarly over here, we reach below this previous day low, can't displace and we come
+[01:23] back in the range.
+[01:24] So for example, here, just using previous day highs and lows, we have our previous day
+[01:28] high.
+[01:29] A reversal is framed off a previous day high from here.
+[01:33] Since we close back in, I'm expecting price to reach for previous day low.
+[01:38] As shown here, we reach for this previous day low.
+[01:41] The next day, a reversal is framed off of this previous day low as it cannot displace below.
+[01:47] Now from here, I'd expect the next day to reach for this previous day high and continue
+[01:51] to reach for previous day high until a drawn liquidity is met.
+[01:56] So let's hop into the charts and look at a few examples of this.
+[01:58] So in this example, we're just going to take a look at using previous day highs and lows
+[02:03] to frame bias or a drawn liquidity.
+[02:07] So for example, here, we have our previous day high and we closed above it.
+[02:12] So I would like to see price move higher.
+[02:15] An easy draw would be this previous day high.
+[02:20] Price move forward.
+[02:21] We close over it again.
+[02:23] So another easy draw on liquidity would be this previous high.
+[02:29] Right here, we take our previous high, but we can't close over it.
+[02:32] We fall back in.
+[02:34] So now I'd want to see if previous day low gets taken in my draw on liquidity or my bias
+[02:40] would be short.
+[02:42] So now we reach and close below.
+[02:43] And now I want to see do we close or reach below previous day low.
+[02:49] Right there, we reach below previous day low and close.
+[02:52] So now I want to see do we reach below previous day low again.
+[02:58] Reach below previous day low and close.
+[03:00] So I want to see if we take previous day low again.
+[03:04] Right here, you can see we take previous day low.
+[03:08] Don't close outside the range.
+[03:09] So now I would want to see a move higher or a reach for previous day high.
+[03:16] Close outside the range.
+[03:17] So bullish or reach for this previous day high.
+[03:22] Right there, we actually gap above it, come back in the range.
+[03:26] So this would be bearish for me.
+[03:28] So I'd want to see do we reach for this previous day low.
+[03:33] Right here, we do, but we can't close outside this range.
+[03:36] So now I want to see previous day high or be bullish.
+[03:43] Right here, you can see we actually took the low and the high.
+[03:48] And so what I look for here is we swept this low, couldn't close below it.
+[03:53] And we actually take previous day high and close outside of it.
+[03:56] So from here, I will be looking for previous day high.
+[04:02] And then we get a very large candle up, expecting some sort of consolidation.
+[04:06] But if we don't stay inside, I'd want to see previous day high.
+[04:11] Right here, you can see we took previous day high.
+[04:14] So now I'd want to look towards previous day low.
+[04:19] Can't close below there.
+[04:20] So where would I want to see previous day high or be bullish?
+[04:25] And there we go.
+[04:26] Close out.
+[04:28] So then once again, can look for previous day high.
+[04:34] Close over that.
+[04:35] And look for previous day high.
+[04:38] And you guys get the point by now.
+[04:40] Now, it won't be like this every day, but I hope you can see how just using
+[04:44] previous day highs and lows, I can frame an easy drawn liquidity, bias,
+[04:48] or an area for a reversal.
+[04:51] So let's get back to the PDF and look at some other examples.
+[04:55] Another thing I look for is the previous weeks, high and low.
+[04:59] So for example, here, you have a weekly range, and I will mark out the high and the low.
+[05:05] And this can be used to frame a reversal, such as so, and then ideally looking for
+[05:11] the other side of the weekly range, or can also be used to frame a drawn liquidity.
+[05:17] For example, here we return to a premium, reach an order block, and then the previous
+[05:23] week's low is the draw on liquidity.
+[05:25] So let's hop into the charts and look at a few examples.
+[05:28] So in this example, we're going to go through the daily chart looking at previous
+[05:32] week's highs and lows and how price reacts around them.
+[05:35] So right here, we have our previous week's low and previous week's high marked out and
+[05:41] extended into the next week.
+[05:44] So as we continue forward here, what happens?
+[05:47] We don't reach for previous week's high or low and we end up being range bound.
+[05:51] So marking out this next week, it is a short week, so there's only four candles,
+[05:55] but let's see how price reacts around those areas.
+[05:57] You can see right here, we take previous week's low.
+[06:00] So let's see what the next candle does.
+[06:02] There is a fair value gap over here.
+[06:05] And then we come back into the rain.
+[06:07] Where would I expect price to go from here?
+[06:10] I would expect it to reach for previous week's high.
+[06:15] And there we go.
+[06:16] We hit previous week's high on a Friday.
+[06:19] So here we have the next week marked out.
+[06:21] Let's see if anything happens.
+[06:23] So you can see right here on Monday, we reach into previous week's high and close below.
+[06:29] That makes me think I want to see the previous day low.
+[06:33] You can see we reach over previous week's high again.
+[06:35] We also take the low.
+[06:37] So here I'm a little undecided, but we still are closing below previous week's low, which
+[06:41] leads me to a downside bias.
+[06:44] And there we go.
+[06:46] We start to make a move down.
+[06:47] So going into the next week and moving the lines over, you can see that Monday we swept
+[06:53] previous week's low and formed a nice bullish reversal candle.
+[06:56] This leads me to believe that we're heading for previous week's high.
+[07:00] So letting this play out, we retest that previous week's low.
+[07:06] And there we go over previous week's high.
+[07:10] And we get our expansion to the upside.
+[07:13] You can see using previous week's high and low, I can not only frame a reversal, but
+[07:18] can also use it as a draw on liquidity.
+[07:21] In this next section, I'm going to be talking about swing points, failure to displace as
+[07:26] well as the next day model.
+[07:28] If you don't know what swing points are, please check out my liquidity video.
+[07:31] It will be linked in the top right corner.
+[07:34] So using swing points, I can frame a draw on liquidity off of that.
+[07:37] For example, here price is trending up.
+[07:40] Where is it likely to go?
+[07:42] We have an old high resting over here.
+[07:44] I can also use that to frame a reversal.
+[07:46] So for example, here using this liquidity pool resting above here as a point for a reversal,
+[07:54] that leads me into the failure to displace or the lack of displacement over swing points.
+[07:59] So for example, here, if we have a swing low and price fails to displace under it, my bias
+[08:05] can then be up.
+[08:08] Similarly up here, when price fails to displace over a high, my bias can be down.
+[08:14] This then leads me into the next day model.
+[08:16] So with the next day model using PD arrays or old highs or old lows, and when price
+[08:22] fails to displace below a low, my next day, I can expect price to move higher.
+[08:28] So right here, I would anticipate a open low high close candle or a bullish candle.
+[08:33] And you can see how that would work out.
+[08:35] And then similarly up here, when price takes this swing high closes back in the range,
+[08:42] I can anticipate an open high low close or a bearish candle.
+[08:47] So looking at a set of price action using that, you can see we sweep this high right
+[08:51] here close back in the range.
+[08:54] I can anticipate this next candle being open high low close.
+[08:59] Similarly, over here, we respect this PD array here.
+[09:03] Next day, I would want to see open high low close.
+[09:06] This candle stays inside.
+[09:07] I can use that bias and continue to use it until we reach our drawn liquidity, which
+[09:13] in this case is sell side liquidity resting at the swing low below.
+[09:18] Let's get into some charts and look at a few more examples.
+[09:22] For this next example, we are just going to be walking through DXY on the daily chart
+[09:26] and using what we have just learned and applying it.
+[09:30] So if you notice right here, we do have a pair of value gap resting below here and price
+[09:35] is drawing towards it.
+[09:37] So let's see what happens.
+[09:39] If you notice right here, what do we get?
+[09:41] Let's just take a look at our previous day low.
+[09:44] We cannot displace below previous day low, which leads me to believe.
+[09:48] That we should reach for previous day high.
+[09:52] Marking out previous day high.
+[09:53] Let's see what happens.
+[09:55] We reach up and we close out.
+[09:57] So I'd want to see price reach once again higher.
+[10:03] What happens here?
+[10:04] We reach up, build this fair value gap, but even more simple, we can't close outside
+[10:09] our previous day's range, which leads me to believe that we should be reaching lower
+[10:14] or in this case sell side liquidity resting right above a fair value gap.
+[10:20] Right here, we reached lower.
+[10:22] We have not reached our drawn liquidity.
+[10:24] So I'd want another candle down.
+[10:27] Here we get a candle down into our drawn liquidity or that fair value gap.
+[10:33] If you notice, we can't close outside the range and we close back in.
+[10:37] So I can see us reaching for our previous day high or in this case, if we look at a
+[10:43] swing point, we want to be reaching for this high.
+[10:48] Here we get a closure outside that high.
+[10:51] And so what should we expect?
+[10:53] Price to move higher or consolidate with a large range.
+[10:58] From here, close back in the range would want another day down.
+[11:03] So we'd want to see below this previous day low.
+[11:07] And if you've already seen this example, this order block resting right here.
+[11:12] Here is where the next day model could be applied as we are respecting a PD array.
+[11:17] So reaching into this PD array, closing outside.
+[11:21] Next day model would say look for an open, low, high close or a bullish candle,
+[11:27] where with that bullish candle want to be reaching for.
+[11:29] Well, we could look for previous day high or we could look for swing points in the market.
+[11:35] So looking at our next day, we get a reach.
+[11:38] We have not hit our drawn liquidity.
+[11:40] So we would want to see the next day do what reach for that drawn liquidity.
+[11:45] We get a closure outside of that.
+[11:47] So I'd want to see price reach for another daily high.
+[11:52] Here you can see price takes this high, closes back in.
+[11:56] So I'd want to see price reach for this previous day low.
+[12:00] We are in an uptrend here.
+[12:02] So I wouldn't want to see it shift too much or we are likely to go lower.
+[12:05] Here you can see we may have swept that can't tell on this time frame.
+[12:10] But from here, I don't really have a lot of bias.
+[12:13] So what I can do is mark out our high and our low and see which one gets taken.
+[12:23] So inside bar, just having an uptrend, I think it's more likely to reach for this high.
+[12:30] Here we get a closure outside that high.
+[12:32] Now what can we use?
+[12:33] We can use this swing point in the market.
+[12:37] Here you can see we reach above this swing high, can't close outside of it and close back in.
+[12:43] From here, we can look for previous day low or a swing point in the market,
+[12:48] which we already have marked out.
+[12:51] Here we get this placement down.
+[12:53] Very aggressive.
+[12:54] So we already took this low.
+[12:56] So we can look for either previous day low or previous day low.
+[13:01] Either previous day low or a swing point in the market.
+[13:07] We haven't yet reached this low, still closing out.
+[13:10] So either previous day low or this swing point.
+[13:15] Still closing outside.
+[13:16] This is when I would need to look left.
+[13:18] What do we have?
+[13:19] We have a bunch of lows resting under here or swing points.
+[13:27] You can also mark out our previous day low.
+[13:31] And then we get a large move through that.
+[13:33] But you can see how you can use just swing points, previous day highs and lows,
+[13:38] and displacement and closures over or below structure to frame a narrative.
+[13:43] Not every day, but a lot of the days of the week.
+[13:46] So let's go through a few examples of going through bias all the way down to an entry time frame.
+[13:52] This first example is going to be a London session trade.
+[13:55] And then for our next examples, we'll do some New York session trades.
+[13:59] So for example, here, we're either consolidating in this little range here.
+[14:03] So we could use this range high and low, or we can just use previous day high and low.
+[14:08] So let's see what happens.
+[14:10] No real bias going into this next day.
+[14:13] So you can see we fail to close over this previous day high here.
+[14:18] So what can I expect?
+[14:20] We're already in a bearish trend.
+[14:22] I'd want to see price reach where lower so I can either look for previous day low.
+[14:29] Or I can look for a swing point in the market right here.
+[14:33] So let's drop down to the hourly time frame and see what happens.
+[14:37] So here we are on the hourly time frame.
+[14:39] I'm going to go ahead and mark out midnight opening price.
+[14:43] And let's see what happens.
+[14:46] So right here, we notice what happens is we get a stop hunt, right?
+[14:52] Into a fair value gap.
+[14:54] So I can go down and look to a lower time frame.
+[14:56] If you notice the time this is occurring is London.
+[15:00] So I want to see a high of the day put in London.
+[15:04] Here you can see this sweep on the hourly and the aggressive displacement off.
+[15:09] I can either look for an entry here or see what happens after this price action.
+[15:14] Because this isn't a very big sweep.
+[15:16] So I'd be a little concerned that I wanted to go up again.
+[15:19] So looking at this fair value gap here.
+[15:23] Let's see what happens.
+[15:25] There we get an aggressive move down off of that.
+[15:28] And we have a fair value gap right here.
+[15:31] So the way I can frame a trade here is look to enter the fair value gap.
+[15:36] My stop on that high.
+[15:38] And then I can either look for a fixed to R or looking towards that previous day
+[15:43] low we talked about.
+[15:46] Furthermore, we could also go down to that swing point.
+[15:50] So we'll just leave it right here and extend it if it gets there.
+[15:53] So we let this play out.
+[15:55] We get an aggressive move down towards our previous day low.
+[16:00] Now let's see what happens if we reach for that swing point.
+[16:08] And there we go.
+[16:09] Price reaches for that swing point and ends up continuing a lot lower.
+[16:15] For this next example, you can see right here we have a previous day low.
+[16:20] It's swept close back over.
+[16:22] Where would we be looking either this high or previous day high?
+[16:26] So marking out this swing point here.
+[16:28] See what the next day does next day sweeps this high comes back into the range
+[16:34] from here using the next day model.
+[16:37] I can expect price to go where lower.
+[16:41] So with that idea in mind, going to drop down to the hourly chart here
+[16:45] marking out midnight price.
+[16:46] Here marking out midnight price.
+[16:48] Let's see what happens as we near New York session.
+[16:53] Right here, we're starting to get into the New York kill zone.
+[16:55] What do we have up here?
+[16:57] We have an hourly fair value gap.
+[17:00] So marking that out, we have our point of interest.
+[17:03] We can go to a lower time frame in this case, the five minute.
+[17:07] And what do we have right here?
+[17:08] We have a five minute fair value gap.
+[17:12] So looking to enter here.
+[17:15] I would have my stop right here on this high.
+[17:18] And then I can either look for two R or we can zoom back out and find a target there.
+[17:24] So going back out to the hourly, let's see what we have.
+[17:28] We have some nice lows resting over here.
+[17:30] One of those lows right around two R or we can look for these lows down here.
+[17:36] Going back to the five minute chart, if we're going to go reach for that lower one.
+[17:39] So we're over two R there.
+[17:43] 2.55 R.
+[17:44] Let's see how it works out.
+[17:47] So getting a move up consolidation.
+[17:51] And there we go.
+[17:52] We hit RTP.
+[17:54] So that is an example of a New York session trade and a London session trade using the next day model.
+[18:01] Thank you to MMXM trader for showing us that.
+[18:04] If you haven't seen my video on that, I'll also link that in the top right.
+[18:07] I hope this video was helpful and showed you how I find my daily bias.
+[18:12] If you did find it helpful, please hit that like button, the subscribe button and leave a comment below.
+[18:17] If you have a great rest of your day and I'll see you guys later.

@@ -1,0 +1,875 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "ZAEgtvsD-qQ",
+    "title": "Using PSP to Confirm Swing Points (TTFM)",
+    "url": "https://www.youtube.com/watch?v=ZAEgtvsD-qQ",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "model": "small",
+  "device": "cpu",
+  "language": "en",
+  "text": "I was going to everyone and welcome back to another video. In this video we are going to talk about PSP. I have received a lot of requests for this video following the update of my indicator, so let's get into the video. As we've talked about before in my SMT video, correlated markets should have the same structure. So you can see here with some higher time from candles, this candle took out the previous candles high and closed back inside forming a candle to closure. This candle took out the previous high and closed back inside also forming a candle to closure. We know that SMT is when there is a divergence between these assets, so one asset would not take out the high while the other would. So what is a PSP? A PSP is when we still have that same structure, but one candle is closing a different color. This is just like a little SMT clue or a little divergence between the closures of these candles. So when you see correlated assets with different candle closures, that is what a PSP is. Now where do I actually look for a PSP? I'm only going to look for a PSP within a valid fractal model, so either with a candle 2 or a candle 3 closure, I will be looking for one. I'm simply going to use the PSP as a confirmation, adding more confluence to an existing model, not trying to use it to form a model. So there are two types of PSP that I look for. That will be a candle one PSP and a candle two PSP. A candle one PSP is within an existing model. So here you can see we have a candle to closure candle one closes a different color than its correlated asset. Right here. A down close candle, the correlated market or correlated asset has a bullish green candle. Those are different. So that would be a candle one PSP. A candle to PSP is when the correlated market closes a different color on candle to. So here in candle one, you can see they are both up close candles. But in candle to here, we have a bearish candle paired with a bullish candle. So that is what a PSP is. Now you can also combine this with SMT. So here you can see we have that same structure of a candle to PSP. And then we have the SMT. Once again, these are all just confluences to be used within an existing model. I'm not trying to use these concepts alone to frame a trade. I'm only using it within an existing fractal model as extra confluence between correlated assets. So now that you understand what it looks like, let's go hop into Trading View and go over a few examples of this. So here we are in our first example, and we have ES and NQ here. Now with correlated assets, I can use for Aztec, the S&P or the Dow Jones. I use all three personally. But what do we notice here? We have a candle to closure, right on either asset here. And then we are forming another candle to closure here. So we have in a model forming a valid fractal model. What do we notice about candle one here? This is a green candle and this is a black candle, right? So there is a difference in the closures between these. So this is a candle one PSP because within this fractal model, this candle to closure, there is a difference in candle closures here. This is bearish. This is bullish. Now, if we check YM here, we can also notice that we have a candle to PSP as this is a bullish candle. This is a bearish candle. So let's go into NQ here. We'll go ahead and put on my indicator and go down to the aligned timeframe. And after we let this print, what do we get? We have a candle to closure. And you can see we have a PSP on candle one and on candle two. So it gets displayed that way. I can hover over it, see that this with ESN, YM here and just with YM here. And what would we then look for? Or how do I actually use that? It's just an additional confluence to a model. It can help give me confidence in trading away from these levels. What would we look for? Just like in my previous video or the intra candle change in the state delivery price opens, forms a high, now forms a new protected swing. So that is our intra candle change in the state delivery that gives us a stop loss. And then we could look to get on side with this move lower for the expansion candle and candle three, right? And as we continue lower, let's let this candle finish. And there we go. We get a nice expansion lower with new protected swings. A PSP is very simple. It is just a difference in closures between assets. So here on Nasdaq, if this is a bearish candle and it has a PSP, that means YM here closed bullish, right? And so we take a look at this candle. It is bullish there. And if we go back to NQ, if this is bullish here, it shows PSP. That means these assets here closed bearish, but it's just a difference in the closures between assets. So here we are in another example of what PSP is. You can see we are on the daily and hourly chart. We have Nasdaq here on the left and the Dow on the right. Now we're always going to focus on these higher timeframe candles, right? We're not trying to really look for PSP. Just in all these random little candles, we want it to be aligned with a fractal model using these higher timeframe candles. So what do we notice? We have a candle to closure. We have a change in the state of delivery. Everything is valid for a fractal model here. That is when we can then look for a PSP. So what do I have on this candle to let me look at the same candle to on this correlated asset, it is closing bullish while this one is closing bearish. So that is a PSP. Now you notice I also have a PSP here on candle one. What does that mean? It means here on YM, there will be a bullish closure. You can see on that candle one, that same timeframe candle. We have a bullish closure while this one is bearish. So what could that give us? We don't have SMT up here at the reversal, but that can give us an extra confluence of a reversal using PSP. So as we let this continue ahead, you can see we form a new protected swing. And you can see why I'm is now taking out this previous high on candle to, so we get that continuation SMT that is printing. We have a new protected swing and we trend lower. So you can see this fractal model. We need everything to be valid. That's CISD. Everything has to form. Then we look for PSP. I'm not going to randomly look for PSP unless it is in an existing model. So here we are in our final example. I know this is a short video, but there isn't really too much to talk about. It's a fairly simple concept once you learn it. And so we don't need a super long video explaining this. So it is fractal though. So here we are on the daily and monthly model. And you can see we have a PSP here on candle to why is that? Well, by taking a look at this same time frame candle, what do I mean? The June candle right here closed bearish. If we look at the June candle on why I'm here, it closed bullish. Right. And you can see that by hovering over in it. So we have a candle to closure, right? It's not very great price action in here. So this SMT and the PSP really help with the confluence and then a new protected swing where we get this breakout lower into the previous monthly lows. So this is a very simple example, but I wanted to show you that it is fractal and you can use it on any time frames as long as there is a valid existing fractal model with that. I hope you enjoyed this video. I'll see you guys in the next one. Have a good one.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 13.6,
+      "text": "I was going to everyone and welcome back to another video."
+    },
+    {
+      "id": 1,
+      "start": 13.6,
+      "end": 16.6,
+      "text": "In this video we are going to talk about PSP."
+    },
+    {
+      "id": 2,
+      "start": 16.6,
+      "end": 20.72,
+      "text": "I have received a lot of requests for this video following the update of my indicator,"
+    },
+    {
+      "id": 3,
+      "start": 20.72,
+      "end": 21.96,
+      "text": "so let's get into the video."
+    },
+    {
+      "id": 4,
+      "start": 21.96,
+      "end": 27.16,
+      "text": "As we've talked about before in my SMT video, correlated markets should have the same structure."
+    },
+    {
+      "id": 5,
+      "start": 27.16,
+      "end": 31.2,
+      "text": "So you can see here with some higher time from candles, this candle took out the previous"
+    },
+    {
+      "id": 6,
+      "start": 31.2,
+      "end": 35.24,
+      "text": "candles high and closed back inside forming a candle to closure."
+    },
+    {
+      "id": 7,
+      "start": 35.24,
+      "end": 39.52,
+      "text": "This candle took out the previous high and closed back inside also forming a candle to"
+    },
+    {
+      "id": 8,
+      "start": 39.52,
+      "end": 40.52,
+      "text": "closure."
+    },
+    {
+      "id": 9,
+      "start": 40.52,
+      "end": 45.08,
+      "text": "We know that SMT is when there is a divergence between these assets, so one asset would"
+    },
+    {
+      "id": 10,
+      "start": 45.08,
+      "end": 47.72,
+      "text": "not take out the high while the other would."
+    },
+    {
+      "id": 11,
+      "start": 47.72,
+      "end": 49.6,
+      "text": "So what is a PSP?"
+    },
+    {
+      "id": 12,
+      "start": 49.6,
+      "end": 56.08,
+      "text": "A PSP is when we still have that same structure, but one candle is closing a different color."
+    },
+    {
+      "id": 13,
+      "start": 56.56,
+      "end": 63.24,
+      "text": "This is just like a little SMT clue or a little divergence between the closures of these candles."
+    },
+    {
+      "id": 14,
+      "start": 63.24,
+      "end": 69.4,
+      "text": "So when you see correlated assets with different candle closures, that is what a PSP is."
+    },
+    {
+      "id": 15,
+      "start": 69.4,
+      "end": 72.0,
+      "text": "Now where do I actually look for a PSP?"
+    },
+    {
+      "id": 16,
+      "start": 72.0,
+      "end": 77.76,
+      "text": "I'm only going to look for a PSP within a valid fractal model, so either with a candle"
+    },
+    {
+      "id": 17,
+      "start": 77.76,
+      "end": 81.44,
+      "text": "2 or a candle 3 closure, I will be looking for one."
+    },
+    {
+      "id": 18,
+      "start": 81.48,
+      "end": 87.96,
+      "text": "I'm simply going to use the PSP as a confirmation, adding more confluence to an existing model,"
+    },
+    {
+      "id": 19,
+      "start": 87.96,
+      "end": 90.68,
+      "text": "not trying to use it to form a model."
+    },
+    {
+      "id": 20,
+      "start": 90.68,
+      "end": 93.6,
+      "text": "So there are two types of PSP that I look for."
+    },
+    {
+      "id": 21,
+      "start": 93.6,
+      "end": 97.56,
+      "text": "That will be a candle one PSP and a candle two PSP."
+    },
+    {
+      "id": 22,
+      "start": 97.56,
+      "end": 100.72,
+      "text": "A candle one PSP is within an existing model."
+    },
+    {
+      "id": 23,
+      "start": 100.72,
+      "end": 106.04,
+      "text": "So here you can see we have a candle to closure candle one closes a different color than its"
+    },
+    {
+      "id": 24,
+      "start": 106.04,
+      "end": 107.6,
+      "text": "correlated asset."
+    },
+    {
+      "id": 25,
+      "start": 107.6,
+      "end": 108.6,
+      "text": "Right here."
+    },
+    {
+      "id": 26,
+      "start": 108.76,
+      "end": 114.72,
+      "text": "A down close candle, the correlated market or correlated asset has a bullish green candle."
+    },
+    {
+      "id": 27,
+      "start": 114.72,
+      "end": 115.72,
+      "text": "Those are different."
+    },
+    {
+      "id": 28,
+      "start": 115.72,
+      "end": 118.6,
+      "text": "So that would be a candle one PSP."
+    },
+    {
+      "id": 29,
+      "start": 118.6,
+      "end": 124.96,
+      "text": "A candle to PSP is when the correlated market closes a different color on candle to."
+    },
+    {
+      "id": 30,
+      "start": 124.96,
+      "end": 128.8,
+      "text": "So here in candle one, you can see they are both up close candles."
+    },
+    {
+      "id": 31,
+      "start": 128.8,
+      "end": 133.76,
+      "text": "But in candle to here, we have a bearish candle paired with a bullish candle."
+    },
+    {
+      "id": 32,
+      "start": 133.76,
+      "end": 136.2,
+      "text": "So that is what a PSP is."
+    },
+    {
+      "id": 33,
+      "start": 136.2,
+      "end": 139.04,
+      "text": "Now you can also combine this with SMT."
+    },
+    {
+      "id": 34,
+      "start": 139.04,
+      "end": 143.24,
+      "text": "So here you can see we have that same structure of a candle to PSP."
+    },
+    {
+      "id": 35,
+      "start": 143.24,
+      "end": 145.16,
+      "text": "And then we have the SMT."
+    },
+    {
+      "id": 36,
+      "start": 145.16,
+      "end": 149.84,
+      "text": "Once again, these are all just confluences to be used within an existing model."
+    },
+    {
+      "id": 37,
+      "start": 149.84,
+      "end": 153.48,
+      "text": "I'm not trying to use these concepts alone to frame a trade."
+    },
+    {
+      "id": 38,
+      "start": 153.48,
+      "end": 159.84,
+      "text": "I'm only using it within an existing fractal model as extra confluence between correlated"
+    },
+    {
+      "id": 39,
+      "start": 159.84,
+      "end": 161.08,
+      "text": "assets."
+    },
+    {
+      "id": 40,
+      "start": 161.08,
+      "end": 164.72,
+      "text": "So now that you understand what it looks like, let's go hop into Trading View and go over"
+    },
+    {
+      "id": 41,
+      "start": 164.76,
+      "end": 166.28,
+      "text": "a few examples of this."
+    },
+    {
+      "id": 42,
+      "start": 166.28,
+      "end": 171.6,
+      "text": "So here we are in our first example, and we have ES and NQ here."
+    },
+    {
+      "id": 43,
+      "start": 171.6,
+      "end": 177.6,
+      "text": "Now with correlated assets, I can use for Aztec, the S&P or the Dow Jones."
+    },
+    {
+      "id": 44,
+      "start": 177.6,
+      "end": 178.84,
+      "text": "I use all three personally."
+    },
+    {
+      "id": 45,
+      "start": 178.84,
+      "end": 180.72,
+      "text": "But what do we notice here?"
+    },
+    {
+      "id": 46,
+      "start": 180.72,
+      "end": 184.52,
+      "text": "We have a candle to closure, right on either asset here."
+    },
+    {
+      "id": 47,
+      "start": 184.52,
+      "end": 187.64,
+      "text": "And then we are forming another candle to closure here."
+    },
+    {
+      "id": 48,
+      "start": 187.64,
+      "end": 191.28,
+      "text": "So we have in a model forming a valid fractal model."
+    },
+    {
+      "id": 49,
+      "start": 191.28,
+      "end": 193.84,
+      "text": "What do we notice about candle one here?"
+    },
+    {
+      "id": 50,
+      "start": 193.88,
+      "end": 197.92,
+      "text": "This is a green candle and this is a black candle, right?"
+    },
+    {
+      "id": 51,
+      "start": 197.92,
+      "end": 200.72,
+      "text": "So there is a difference in the closures between these."
+    },
+    {
+      "id": 52,
+      "start": 200.72,
+      "end": 206.8,
+      "text": "So this is a candle one PSP because within this fractal model, this candle to closure,"
+    },
+    {
+      "id": 53,
+      "start": 206.8,
+      "end": 209.56,
+      "text": "there is a difference in candle closures here."
+    },
+    {
+      "id": 54,
+      "start": 209.56,
+      "end": 210.76,
+      "text": "This is bearish."
+    },
+    {
+      "id": 55,
+      "start": 210.76,
+      "end": 211.76,
+      "text": "This is bullish."
+    },
+    {
+      "id": 56,
+      "start": 211.76,
+      "end": 218.16,
+      "text": "Now, if we check YM here, we can also notice that we have a candle to PSP as this is a"
+    },
+    {
+      "id": 57,
+      "start": 218.16,
+      "end": 219.44,
+      "text": "bullish candle."
+    },
+    {
+      "id": 58,
+      "start": 219.44,
+      "end": 221.12,
+      "text": "This is a bearish candle."
+    },
+    {
+      "id": 59,
+      "start": 221.12,
+      "end": 223.16,
+      "text": "So let's go into NQ here."
+    },
+    {
+      "id": 60,
+      "start": 223.48,
+      "end": 227.0,
+      "text": "We'll go ahead and put on my indicator and go down to the aligned timeframe."
+    },
+    {
+      "id": 61,
+      "start": 227.32,
+      "end": 229.28,
+      "text": "And after we let this print, what do we get?"
+    },
+    {
+      "id": 62,
+      "start": 229.72,
+      "end": 231.52,
+      "text": "We have a candle to closure."
+    },
+    {
+      "id": 63,
+      "start": 231.64,
+      "end": 235.72,
+      "text": "And you can see we have a PSP on candle one and on candle two."
+    },
+    {
+      "id": 64,
+      "start": 236.08,
+      "end": 237.64,
+      "text": "So it gets displayed that way."
+    },
+    {
+      "id": 65,
+      "start": 237.64,
+      "end": 242.44,
+      "text": "I can hover over it, see that this with ESN, YM here and just with YM here."
+    },
+    {
+      "id": 66,
+      "start": 242.96,
+      "end": 244.76,
+      "text": "And what would we then look for?"
+    },
+    {
+      "id": 67,
+      "start": 244.76,
+      "end": 246.52,
+      "text": "Or how do I actually use that?"
+    },
+    {
+      "id": 68,
+      "start": 246.52,
+      "end": 249.08,
+      "text": "It's just an additional confluence to a model."
+    },
+    {
+      "id": 69,
+      "start": 249.32,
+      "end": 252.44,
+      "text": "It can help give me confidence in trading away from these levels."
+    },
+    {
+      "id": 70,
+      "start": 252.76,
+      "end": 253.96,
+      "text": "What would we look for?"
+    },
+    {
+      "id": 71,
+      "start": 254.12,
+      "end": 258.4,
+      "text": "Just like in my previous video or the intra candle change in the state delivery price"
+    },
+    {
+      "id": 72,
+      "start": 258.4,
+      "end": 262.56,
+      "text": "opens, forms a high, now forms a new protected swing."
+    },
+    {
+      "id": 73,
+      "start": 262.56,
+      "end": 266.44,
+      "text": "So that is our intra candle change in the state delivery that gives us a stop loss."
+    },
+    {
+      "id": 74,
+      "start": 266.72,
+      "end": 270.4,
+      "text": "And then we could look to get on side with this move lower for the expansion"
+    },
+    {
+      "id": 75,
+      "start": 270.4,
+      "end": 272.28,
+      "text": "candle and candle three, right?"
+    },
+    {
+      "id": 76,
+      "start": 273.24,
+      "end": 276.2,
+      "text": "And as we continue lower, let's let this candle finish."
+    },
+    {
+      "id": 77,
+      "start": 277.76,
+      "end": 278.36,
+      "text": "And there we go."
+    },
+    {
+      "id": 78,
+      "start": 278.36,
+      "end": 281.96,
+      "text": "We get a nice expansion lower with new protected swings."
+    },
+    {
+      "id": 79,
+      "start": 282.44,
+      "end": 284.48,
+      "text": "A PSP is very simple."
+    },
+    {
+      "id": 80,
+      "start": 284.84,
+      "end": 287.56,
+      "text": "It is just a difference in closures between assets."
+    },
+    {
+      "id": 81,
+      "start": 287.84,
+      "end": 293.32,
+      "text": "So here on Nasdaq, if this is a bearish candle and it has a PSP, that means YM"
+    },
+    {
+      "id": 82,
+      "start": 293.32,
+      "end": 295.4,
+      "text": "here closed bullish, right?"
+    },
+    {
+      "id": 83,
+      "start": 295.4,
+      "end": 296.72,
+      "text": "And so we take a look at this candle."
+    },
+    {
+      "id": 84,
+      "start": 296.8,
+      "end": 297.8,
+      "text": "It is bullish there."
+    },
+    {
+      "id": 85,
+      "start": 298.32,
+      "end": 302.68,
+      "text": "And if we go back to NQ, if this is bullish here, it shows PSP."
+    },
+    {
+      "id": 86,
+      "start": 303.0,
+      "end": 307.88,
+      "text": "That means these assets here closed bearish, but it's just a difference in the"
+    },
+    {
+      "id": 87,
+      "start": 307.88,
+      "end": 310.16,
+      "text": "closures between assets."
+    },
+    {
+      "id": 88,
+      "start": 310.52,
+      "end": 313.68,
+      "text": "So here we are in another example of what PSP is."
+    },
+    {
+      "id": 89,
+      "start": 314.0,
+      "end": 316.28,
+      "text": "You can see we are on the daily and hourly chart."
+    },
+    {
+      "id": 90,
+      "start": 316.4,
+      "end": 319.64,
+      "text": "We have Nasdaq here on the left and the Dow on the right."
+    },
+    {
+      "id": 91,
+      "start": 320.04,
+      "end": 323.12,
+      "text": "Now we're always going to focus on these higher timeframe candles, right?"
+    },
+    {
+      "id": 92,
+      "start": 323.4,
+      "end": 325.0,
+      "text": "We're not trying to really look for PSP."
+    },
+    {
+      "id": 93,
+      "start": 325.2,
+      "end": 328.96,
+      "text": "Just in all these random little candles, we want it to be aligned with a fractal"
+    },
+    {
+      "id": 94,
+      "start": 328.96,
+      "end": 331.16,
+      "text": "model using these higher timeframe candles."
+    },
+    {
+      "id": 95,
+      "start": 331.48,
+      "end": 332.2,
+      "text": "So what do we notice?"
+    },
+    {
+      "id": 96,
+      "start": 332.2,
+      "end": 333.68,
+      "text": "We have a candle to closure."
+    },
+    {
+      "id": 97,
+      "start": 333.92,
+      "end": 335.52,
+      "text": "We have a change in the state of delivery."
+    },
+    {
+      "id": 98,
+      "start": 335.88,
+      "end": 338.0,
+      "text": "Everything is valid for a fractal model here."
+    },
+    {
+      "id": 99,
+      "start": 338.4,
+      "end": 340.88,
+      "text": "That is when we can then look for a PSP."
+    },
+    {
+      "id": 100,
+      "start": 341.2,
+      "end": 345.36,
+      "text": "So what do I have on this candle to let me look at the same candle to on this"
+    },
+    {
+      "id": 101,
+      "start": 345.36,
+      "end": 350.16,
+      "text": "correlated asset, it is closing bullish while this one is closing bearish."
+    },
+    {
+      "id": 102,
+      "start": 350.48,
+      "end": 352.04,
+      "text": "So that is a PSP."
+    },
+    {
+      "id": 103,
+      "start": 352.56,
+      "end": 355.4,
+      "text": "Now you notice I also have a PSP here on candle one."
+    },
+    {
+      "id": 104,
+      "start": 355.72,
+      "end": 356.44,
+      "text": "What does that mean?"
+    },
+    {
+      "id": 105,
+      "start": 356.68,
+      "end": 359.92,
+      "text": "It means here on YM, there will be a bullish closure."
+    },
+    {
+      "id": 106,
+      "start": 360.08,
+      "end": 363.44,
+      "text": "You can see on that candle one, that same timeframe candle."
+    },
+    {
+      "id": 107,
+      "start": 363.76,
+      "end": 367.04,
+      "text": "We have a bullish closure while this one is bearish."
+    },
+    {
+      "id": 108,
+      "start": 367.36,
+      "end": 368.92,
+      "text": "So what could that give us?"
+    },
+    {
+      "id": 109,
+      "start": 369.48,
+      "end": 373.16,
+      "text": "We don't have SMT up here at the reversal, but that can give us an extra"
+    },
+    {
+      "id": 110,
+      "start": 373.16,
+      "end": 375.92,
+      "text": "confluence of a reversal using PSP."
+    },
+    {
+      "id": 111,
+      "start": 376.04,
+      "end": 380.04,
+      "text": "So as we let this continue ahead, you can see we form a new protected swing."
+    },
+    {
+      "id": 112,
+      "start": 384.88,
+      "end": 389.12,
+      "text": "And you can see why I'm is now taking out this previous high on candle to, so we"
+    },
+    {
+      "id": 113,
+      "start": 389.12,
+      "end": 391.4,
+      "text": "get that continuation SMT that is printing."
+    },
+    {
+      "id": 114,
+      "start": 391.68,
+      "end": 394.44,
+      "text": "We have a new protected swing and we trend lower."
+    },
+    {
+      "id": 115,
+      "start": 394.84,
+      "end": 397.0,
+      "text": "So you can see this fractal model."
+    },
+    {
+      "id": 116,
+      "start": 397.44,
+      "end": 399.4,
+      "text": "We need everything to be valid."
+    },
+    {
+      "id": 117,
+      "start": 399.64,
+      "end": 400.68,
+      "text": "That's CISD."
+    },
+    {
+      "id": 118,
+      "start": 400.92,
+      "end": 401.92,
+      "text": "Everything has to form."
+    },
+    {
+      "id": 119,
+      "start": 402.12,
+      "end": 403.48,
+      "text": "Then we look for PSP."
+    },
+    {
+      "id": 120,
+      "start": 403.8,
+      "end": 408.36,
+      "text": "I'm not going to randomly look for PSP unless it is in an existing model."
+    },
+    {
+      "id": 121,
+      "start": 408.52,
+      "end": 410.36,
+      "text": "So here we are in our final example."
+    },
+    {
+      "id": 122,
+      "start": 410.44,
+      "end": 413.88,
+      "text": "I know this is a short video, but there isn't really too much to talk about."
+    },
+    {
+      "id": 123,
+      "start": 413.88,
+      "end": 416.16,
+      "text": "It's a fairly simple concept once you learn it."
+    },
+    {
+      "id": 124,
+      "start": 416.56,
+      "end": 419.04,
+      "text": "And so we don't need a super long video explaining this."
+    },
+    {
+      "id": 125,
+      "start": 419.44,
+      "end": 421.04,
+      "text": "So it is fractal though."
+    },
+    {
+      "id": 126,
+      "start": 421.08,
+      "end": 423.44,
+      "text": "So here we are on the daily and monthly model."
+    },
+    {
+      "id": 127,
+      "start": 423.92,
+      "end": 428.28,
+      "text": "And you can see we have a PSP here on candle to why is that?"
+    },
+    {
+      "id": 128,
+      "start": 428.52,
+      "end": 431.84,
+      "text": "Well, by taking a look at this same time frame candle, what do I mean?"
+    },
+    {
+      "id": 129,
+      "start": 432.12,
+      "end": 435.16,
+      "text": "The June candle right here closed bearish."
+    },
+    {
+      "id": 130,
+      "start": 435.4,
+      "end": 438.76,
+      "text": "If we look at the June candle on why I'm here, it closed bullish."
+    },
+    {
+      "id": 131,
+      "start": 439.0,
+      "end": 439.2,
+      "text": "Right."
+    },
+    {
+      "id": 132,
+      "start": 439.2,
+      "end": 440.88,
+      "text": "And you can see that by hovering over in it."
+    },
+    {
+      "id": 133,
+      "start": 441.28,
+      "end": 444.12,
+      "text": "So we have a candle to closure, right?"
+    },
+    {
+      "id": 134,
+      "start": 444.44,
+      "end": 446.24,
+      "text": "It's not very great price action in here."
+    },
+    {
+      "id": 135,
+      "start": 446.24,
+      "end": 451.4,
+      "text": "So this SMT and the PSP really help with the confluence and then a new"
+    },
+    {
+      "id": 136,
+      "start": 451.4,
+      "end": 455.96,
+      "text": "protected swing where we get this breakout lower into the previous monthly lows."
+    },
+    {
+      "id": 137,
+      "start": 456.16,
+      "end": 460.16,
+      "text": "So this is a very simple example, but I wanted to show you that it is fractal"
+    },
+    {
+      "id": 138,
+      "start": 460.28,
+      "end": 464.04,
+      "text": "and you can use it on any time frames as long as there is a valid existing"
+    },
+    {
+      "id": 139,
+      "start": 464.04,
+      "end": 465.92,
+      "text": "fractal model with that."
+    },
+    {
+      "id": 140,
+      "start": 465.92,
+      "end": 467.32,
+      "text": "I hope you enjoyed this video."
+    },
+    {
+      "id": 141,
+      "start": 467.52,
+      "end": 468.88,
+      "text": "I'll see you guys in the next one."
+    },
+    {
+      "id": 142,
+      "start": 469.0,
+      "end": 469.6,
+      "text": "Have a good one."
+    }
+  ],
+  "created_at": "2026-09-01T17:25:07.101916+00:00"
+}

@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "IPZjNI1B5a0",
+    "title": "You Are Using Discount and Premium Wrong! - EQ For Expansions",
+    "url": "https://www.youtube.com/watch?v=IPZjNI1B5a0",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/IPZjNI1B5a0.json"
+  },
+  "stats": {
+    "word_count": 3766,
+    "duration_seconds": 1162.96,
+    "segments": 320,
+    "concepts_detected": 8,
+    "candidate_strategies": 3
+  },
+  "concept_mentions": {
+    "Liquidity": 1,
+    "Fair Value Gap": 12,
+    "Order Blocks and Breakers": 9,
+    "SMT Divergence": 1,
+    "Power of Three": 1,
+    "Premium and Discount": 21,
+    "TTrades Fractal Model": 1,
+    "Protected Swing": 5
+  },
+  "spoken_time_references": [
+    "New York open",
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 1048.96,
+          "end": 1062.96,
+          "text": "So if we are going to get a new phase of price delivery, this is where I would expect it as it has taken out liquidity. Reversals occur at highs and lows. So as we let this print here, we sweep out this high, we have a nice closure.",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 11
+        }
+      ]
+    },
+    {
+      "name": "Power of Three / AMD",
+      "evidence": [
+        {
+          "start": 173.2,
+          "end": 180.2,
+          "text": "So we have an accumulation. This could be a manipulation. And then we could see a distribution or a move back higher.",
+          "concepts": [
+            "Power of Three"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 11
+        }
+      ]
+    },
+    {
+      "name": "Premium Discount Expansion",
+      "evidence": [
+        {
+          "start": 58.08,
+          "end": 72.44,
+          "text": "And this is the main reason why I use it opposite of how most people use discount and premium. If price is in an expansion phase, which is the phase that I trade, price rarely goes in retraces to a discount or to a premium.",
+          "concepts": [
+            "Premium and Discount"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 14
+        },
+        {
+          "start": 671.96,
+          "end": 680.96,
+          "text": "But once it does, we do get that expansion to the failure swings on these highs over here. But hopefully that makes sense how I paired daily closures with the daily equilibrium",
+          "concepts": [
+            "Premium and Discount"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 14
+        },
+        {
+          "start": 830.96,
+          "end": 844.96,
+          "text": "And we continue lower. So you can see in that example how during expansion, up close candles are going to be respected and the EQ is also going to be respected. We're not going to get those deep retracement into premium to look to sell.",
+          "concepts": [
+            "Premium and Discount"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 12
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 12.16,
+      "end": 22.8,
+      "text": "This video is going to be about how I use equilibrium in continuations. So you have seen my discount and premium video, you know that is how ICT uses discount and premium.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 58.08,
+      "end": 72.44,
+      "text": "And this is the main reason why I use it opposite of how most people use discount and premium. If price is in an expansion phase, which is the phase that I trade, price rarely goes in retraces to a discount or to a premium.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 14
+    },
+    {
+      "start": 173.2,
+      "end": 180.2,
+      "text": "So we have an accumulation. This could be a manipulation. And then we could see a distribution or a move back higher.",
+      "concepts": [
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 11
+    },
+    {
+      "start": 219.12,
+      "end": 230.16,
+      "text": "So we have a tiny little fair value gap right here. And we also have our protected low right here, as this has wretched into a fair value gap closed through the down close candles.",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 364.48,
+      "end": 373.52,
+      "text": "to use the equilibrium. You can see here on the daily chart, we have taken out this low and we have closed back inside the range, but we have a nice bearish expansion candle.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 9
+    },
+    {
+      "start": 408.72,
+      "end": 424.8,
+      "text": "And you can see we do have a very aggressive sell off here, but since we are respecting the equilibrium of this daily candle, I can then expect these lows to get taken instead of if we go and close through over this equilibrium, looking for the failure swings on the high.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 671.96,
+      "end": 680.96,
+      "text": "But once it does, we do get that expansion to the failure swings on these highs over here. But hopefully that makes sense how I paired daily closures with the daily equilibrium",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 14
+    },
+    {
+      "start": 748.96,
+      "end": 759.96,
+      "text": "I'm going to reach up an opposing candle or an order block. And that also gives me that protected high going into the day. So if I was wanting to take a positional entry, that is where I could take a short with my",
+      "concepts": [
+        "Order Blocks and Breakers",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 806.96,
+      "end": 824.96,
+      "text": "And to just highlight it, this whole area here, I look left. I don't trust this as an order block because it is just in a consolidation. So I will use the high of the range as a point of interest and either look for a sweep or an SMT on that high.",
+      "concepts": [
+        "Order Blocks and Breakers",
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 830.96,
+      "end": 844.96,
+      "text": "And we continue lower. So you can see in that example how during expansion, up close candles are going to be respected and the EQ is also going to be respected. We're not going to get those deep retracement into premium to look to sell.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 12
+    },
+    {
+      "start": 996.96,
+      "end": 1008.96,
+      "text": "You can see I've adjusted my indicator to use the four hour chart is the higher time frame for this equilibrium. And if we go ahead and replay this price action here, what do we notice? We have this expansion lower.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 10
+    },
+    {
+      "start": 1048.96,
+      "end": 1062.96,
+      "text": "So if we are going to get a new phase of price delivery, this is where I would expect it as it has taken out liquidity. Reversals occur at highs and lows. So as we let this print here, we sweep out this high, we have a nice closure.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 11
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.157850+00:00"
+}

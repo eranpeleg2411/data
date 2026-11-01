@@ -1,0 +1,1559 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "DMUiDBnTYc8",
+    "title": "Order Blocks Simplified - ICT Concepts",
+    "url": "https://www.youtube.com/watch?v=DMUiDBnTYc8",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "model": "small",
+  "device": "cpu",
+  "language": "en",
+  "text": "How's it going everyone? This video is going to be over order blocks. We are first going to cover order blocks at the smart money reversal before talking about order blocks on the buy side and sell side of the curve. I'll also be talking about the mean threshold of order blocks, what it looks like when price is respecting an order block versus invalidating the order block. And then finally, I'll be taking a look at stop losses for order blocks. So let's hop into the PDF and get started. So here we are on the order block slide. And if you notice, we reach into an important level. We create a high or buy side liquidity. We sweep that high and then displace and close below the opening price of the single or series of up close candles into this important level. This candle here displaces and closes below the opening price here, validating it as an order block. When price retraces back into the order block, it is used as resistance to continue lower. Similarly down here, price reaches towards an important level, creates sell side liquidity. It then sweeps that sell side liquidity before displacing and closing over the opening price of the single or series of down close candles. Once this occurs, price then uses this level as support to continue higher. Now order blocks don't necessarily need a sweep before this closure below, creating a high, low, higher, high, lower, low. I do prefer that. And so I always wait for a sweep. Now the most important part on this slide is waiting for an important level. If we get this pattern at a random spot in a chart, it doesn't mean anything. That's not an order block. It needs to be off a higher timeframe, he did array or important level. So here we are with our first example. If you notice, we have buy side liquidity resting here or buy stops. Here you can see we sweep those buy stops right here. Now if we get a close and displacement below the series of up close candles here, this opening price, we now have an order block. Let's see if that forms. Right here, we get displacement and closure below that. So looking to enter on a retest of the order block, my stop on this high and looking for two are, let's see how this works out. So here we get tagged in. And there we get stopped out. So now why did we get stopped out? Now, if you remember back to the slides, I'm looking for the series of up close candles into what an important level. Do we have an important level here? Well, if we're on the five minute, let's zoom out to the hour. Here we have our buy side liquidity resting right here. So zooming back into the five minute. Now you can see in the absence of a higher timeframe level, these up close candles just created equal highs and this is a retracement to move higher. Now let's go back to the hourly chart and see how we could frame this in the other direction. So back out here on the hourly chart, knowing we have buy side liquidity resting above us. What do we have right here? We have a fair value gap. So with an hourly fair value gap dropping down to the five minute chart. Now, now we are waiting for a price to reach into the fair value gap. Here we get a reach into the fair value gap. So now what do we have checked off? We have an important level. So now I'm waiting for a sweep. Here we get a sweep. Now, if we're going to validate this down close candle into an important level and sweeping liquidity, where do we need to close? I want to see a closure over the opening price of this down close candle. And here we get that closure. But once again, looking to take an entry on the retest of this opening price, my stop on the low and then looking for buy side liquidity or to our. Let's see how this works out. And you can see we hit our TP. So you can see this is not a valid order block because it is lacking a higher time frame level while this order block reaches into a higher time frame level or an hourly fair value gap and is going with the trend. Now let's hop back into the PDF to learn about the mean threshold of an order block as well as the order blocks on the buy side and sell side of the curve. So what is the mean threshold of an order block? Well, you just learned what an order block was in the previous section. So taking a look at the order block, this single or serious candles, I'm going to take my point five fib from the body low to body high and mark out 50% of that order block. That is our mean threshold. Ideally, if price is going to respect this order block, I don't want to see any closes below the mean threshold or 50% of this order block. So you can see here once we validate this order block, the 50% level of the order block is respected to move higher. Now, lots of times I will focus on using the mean threshold of an order block when we have a larger series of candles in which the opening price does not make sense for an entry. Let's hop into an example of that. So here we are on oil five minute chart and you can see we're reaching into an hourly fair value gap here. Although we do have a little sweep here, I prefer a nice swing low to be swept. But let's see if we can close over this down close candle. You can see we do not get a close below. And then now what are we getting? Lower time frame sweep. Here we get an extra little sweep. And now what I would be looking for is where is the series of down close candles? Right here. I want to see price close over these candles here. And there we get a close over those candles. This is our order block here or the series of down close candles before the change in the state of delivery. My eyes are drawn to these failure swings up here. So if I was looking to take an entry off of this order block, I'd need my stop on this low where that is how I do it and then targeting the failure swings at the high. However, that gives a risk to reward ratio of 1.3. So this is when I would go from body high to body low and mark out 50% of that order block. So you can look for the mean threshold to be an entry point and you can see how my risk to reward goes from 1.3 to 2.6 almost. Let's see how this plays out. You can see it takes a good while, but we do reach those failure swings up there. You can see from this example, it's not always going to be super clean and picture perfect. But when I have a larger order block or larger series of down close candles, or it doesn't make sense to enter off the opening price, that is when I will look to enter off the mean threshold and zoom in out quickly to look at the hourly chart. You can see how the bodies respect the fair value gap here and the wicks do the damage. So now taking a look at order blocks on the buy side or sell side of the curve. In this case, we'll be focusing on the buy side of the curve for the PDF. Now when we switch from bearish to bullish and we have our smart money reversal, I will still be looking for entries after the smart money reversal. And the way I do that is I look for an order block on the buy side of the curve. Now what am I looking for? I'm looking for a down close candle into an important level. Now those important levels are a previous order block, a fair value gap or a sweep. Let's go over those. So you can see here, this would be our smart money reversal. We have an order block. We get a down close candle into that order block. We close over this down close candle, validating it as an order block and then the price continues higher. The next one I look for the down close candle into the fair value gap when the opening price of that or the series of those candles gets closed over, validating it as an order block. I'll look for an entry higher from there. And the last one I look for is similar to the smart money reversal, but in a continuation of a trend, we have a swing low, which is swept. And then the down close candle that swept this low gets closed over, validating it as an order block to continue higher. Let's hop into the chart and go over a few examples of these. So in this next example, you can see that price has mostly consolidated through Asia and London. So let's see what happens as we near New York open. You can see here, we sweep these lows over here or the cell stops resting below the Asia lows. Now, if these down close candles are going to become an order block, what do we have to do? We have to close over the series of down close candles right here. So let's see if that occurs. So we do get that close. Now, if I'm looking for an order block entry, I would look to enter here. My stop on the low. However, with this current range, if I was just targeting these highs here, that's one point four risk to reward. Now, there's a few ways I can go about this. I can look for a fair value gap entry, which would give me just about two are, which I'd be looking to do. Let's see if price confirms the smart money reversal and then we can find another order block. So here price reaches into an important level or a fair value gap. But if it's going to close over the bodies of these series of up close candles, this is now an order block. We cannot close over those bodies yet. And what do we get? We get a sweep of a low. Now, if we're looking for the lowest bodied down close candle, it would be this candle here. I'm waiting for price to close over that candle. We do not get a close yet. And there we get a close. But now if I'm looking to take an entry, I can enter on the opening price of this down close candle, my stop on that low, and then targeting the highs are just about two are. So you can see it's about the same as that fair value gap entry. And there it goes. Now, if we're going to look a little bit deeper at this price action and use what we learned in the last section, we can mark out the mean threshold of this order block right here. You can see that the candles respect this mean threshold. Now, what I can do is look to take an entry on this mean threshold with my stop in the same spot, and you can see how the risk to reward significantly increases. However, with this technique, I also risk the chance of not getting filled on this trade. Now, you're probably wondering, can we do the same thing with this order block down here at the smart money reversal? And of course we can. So marking out from the high to the low of the bodies and dragging it over. Let's see how this risk to reward would be entering at the mean threshold, my stop on the low and targeting the same highs. It would be just about 2.6 when compared to the fair value gap entry at 1.95. Let's go over one more example of using order blocks as a continuation of trend. We have previous months high sitting here. You can see we create equal highs and then we have a series of up close candles into the equal highs, which then get displaced and closed below, validating it as an order block. Price then retraces back up into the order block as well as into this small inefficiency here or fair value gap. Now we have a series of up close candles into an order block and fair value gap or important levels. So now if price is going to displace and close below these up close candles, we now have another order block. Here we displace and get a close below. Now let's see if we reach back up into that important level. Here we reach up into this important level. So now I can look for this to displace and close below. We do validate this as an order block. Now I can look at this as another point of interest for a continuation of trend. And there you reach into this. So now what do we have the up close candles into an important level? And let's see if we get a move lower here. And we do. So you can see how these order blocks are formed when they reach into an important level and then displace and close below them. Now you're wondering why didn't I choose this candles and order block? Well, it never reached up into an important level for me. I wanted price to reach back into this order block, which it did here. So although we close below the opening price here, it doesn't validate it as an order block for me because it's missing that important level. Now the last thing I'm going to talk about prior to our final example are stop losses with order blocks. Generally I'm looking to place my stop loss on a swing high or low or the other end of the order block. Now obviously a stop loss on the other end of the order block will provide a higher risk to reward than the swing low, but there is the chance that price will wick the stop loss even when the trade is not invalidated. Let's hop into our final example. Let's take a look at this example and work through it. If we are looking for a continuation of trend, what is our draw on liquidity? Well, it would be this high up here or buy side liquidity. Now, if I'm looking for a continuation trend, I'm looking for either a return to an order block, a fair value gap or a sweep of the low. Well, if you notice over here, we have these down close candles that swept all these lows down here. So this also creates an order block and it has displacement following it with a fair value gap with that idea in mind to run lower to go higher. What else do we see? Well, we have lows resting here or sell stops. So let's see what happens after open. Now I don't need to catch this first entry and I'll show you this. So here you see that first entry. We never violate this low over here. But what do you notice? We have down close candles into order block, fair value gap and sweeping lows before displacement and a close over these down close candles. So what is this? That is an order block. So now I can look to take an entry here. I stop on the low and we created equal highs up here and that is only 1.5 hour. Now, although that is great, what can we do? Well, we could mark out the mean threshold of this order block. And if you notice that also lines up with this little inversion here. But if we're going to take an entry here, that is 2.5 hour. Let's see how that works out. And there you go. We get a move higher and hit our take profit. So you can see, even if I don't catch this first initial buy, this order block is a secondary entry to move higher. Now, this isn't the best example, but if I was to have my stop on the order block low here and this moved just one point lower, it would have stopped me out. Even if the trade was still valid and didn't violate this low. That's why I personally prefer to have my stop on the swing low and adjust my entry to get closer to my invalidation point rather than just my invalidation to get closer to my entry. I hope you found this video helpful. If you did, please consider liking and subscribing and let me know in the comments below which video you prefer between mitigation, breaker and propulsion blocks. As those are the videos I will be looking to do next in this series. I hope you guys had a great holiday and I'll see you guys in the new year.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 11.58,
+      "text": "How's it going everyone?"
+    },
+    {
+      "id": 1,
+      "start": 11.58,
+      "end": 13.44,
+      "text": "This video is going to be over order blocks."
+    },
+    {
+      "id": 2,
+      "start": 13.44,
+      "end": 17.52,
+      "text": "We are first going to cover order blocks at the smart money reversal before talking about"
+    },
+    {
+      "id": 3,
+      "start": 17.52,
+      "end": 20.08,
+      "text": "order blocks on the buy side and sell side of the curve."
+    },
+    {
+      "id": 4,
+      "start": 20.08,
+      "end": 24.0,
+      "text": "I'll also be talking about the mean threshold of order blocks, what it looks like when price"
+    },
+    {
+      "id": 5,
+      "start": 24.0,
+      "end": 27.52,
+      "text": "is respecting an order block versus invalidating the order block."
+    },
+    {
+      "id": 6,
+      "start": 27.52,
+      "end": 31.0,
+      "text": "And then finally, I'll be taking a look at stop losses for order blocks."
+    },
+    {
+      "id": 7,
+      "start": 31.0,
+      "end": 33.36,
+      "text": "So let's hop into the PDF and get started."
+    },
+    {
+      "id": 8,
+      "start": 33.36,
+      "end": 35.68,
+      "text": "So here we are on the order block slide."
+    },
+    {
+      "id": 9,
+      "start": 35.68,
+      "end": 38.16,
+      "text": "And if you notice, we reach into an important level."
+    },
+    {
+      "id": 10,
+      "start": 38.16,
+      "end": 41.0,
+      "text": "We create a high or buy side liquidity."
+    },
+    {
+      "id": 11,
+      "start": 41.0,
+      "end": 46.88,
+      "text": "We sweep that high and then displace and close below the opening price of the single or series"
+    },
+    {
+      "id": 12,
+      "start": 46.88,
+      "end": 49.64,
+      "text": "of up close candles into this important level."
+    },
+    {
+      "id": 13,
+      "start": 49.64,
+      "end": 54.28,
+      "text": "This candle here displaces and closes below the opening price here, validating it as an"
+    },
+    {
+      "id": 14,
+      "start": 54.28,
+      "end": 55.28,
+      "text": "order block."
+    },
+    {
+      "id": 15,
+      "start": 55.28,
+      "end": 60.64,
+      "text": "When price retraces back into the order block, it is used as resistance to continue lower."
+    },
+    {
+      "id": 16,
+      "start": 60.64,
+      "end": 65.68,
+      "text": "Similarly down here, price reaches towards an important level, creates sell side liquidity."
+    },
+    {
+      "id": 17,
+      "start": 65.68,
+      "end": 70.44,
+      "text": "It then sweeps that sell side liquidity before displacing and closing over the opening price"
+    },
+    {
+      "id": 18,
+      "start": 70.44,
+      "end": 73.48,
+      "text": "of the single or series of down close candles."
+    },
+    {
+      "id": 19,
+      "start": 73.48,
+      "end": 77.96,
+      "text": "Once this occurs, price then uses this level as support to continue higher."
+    },
+    {
+      "id": 20,
+      "start": 77.96,
+      "end": 82.16,
+      "text": "Now order blocks don't necessarily need a sweep before this closure below, creating"
+    },
+    {
+      "id": 21,
+      "start": 82.16,
+      "end": 84.96,
+      "text": "a high, low, higher, high, lower, low."
+    },
+    {
+      "id": 22,
+      "start": 85.04,
+      "end": 86.2,
+      "text": "I do prefer that."
+    },
+    {
+      "id": 23,
+      "start": 86.2,
+      "end": 88.0,
+      "text": "And so I always wait for a sweep."
+    },
+    {
+      "id": 24,
+      "start": 88.0,
+      "end": 91.72,
+      "text": "Now the most important part on this slide is waiting for an important level."
+    },
+    {
+      "id": 25,
+      "start": 91.72,
+      "end": 95.56,
+      "text": "If we get this pattern at a random spot in a chart, it doesn't mean anything."
+    },
+    {
+      "id": 26,
+      "start": 95.56,
+      "end": 96.56,
+      "text": "That's not an order block."
+    },
+    {
+      "id": 27,
+      "start": 96.56,
+      "end": 100.76,
+      "text": "It needs to be off a higher timeframe, he did array or important level."
+    },
+    {
+      "id": 28,
+      "start": 100.76,
+      "end": 102.76,
+      "text": "So here we are with our first example."
+    },
+    {
+      "id": 29,
+      "start": 102.76,
+      "end": 107.12,
+      "text": "If you notice, we have buy side liquidity resting here or buy stops."
+    },
+    {
+      "id": 30,
+      "start": 109.64,
+      "end": 112.36,
+      "text": "Here you can see we sweep those buy stops right here."
+    },
+    {
+      "id": 31,
+      "start": 112.36,
+      "end": 117.16,
+      "text": "Now if we get a close and displacement below the series of up close candles here, this"
+    },
+    {
+      "id": 32,
+      "start": 117.16,
+      "end": 120.56,
+      "text": "opening price, we now have an order block."
+    },
+    {
+      "id": 33,
+      "start": 120.56,
+      "end": 121.56,
+      "text": "Let's see if that forms."
+    },
+    {
+      "id": 34,
+      "start": 123.24,
+      "end": 126.28,
+      "text": "Right here, we get displacement and closure below that."
+    },
+    {
+      "id": 35,
+      "start": 126.28,
+      "end": 131.12,
+      "text": "So looking to enter on a retest of the order block, my stop on this high and looking for"
+    },
+    {
+      "id": 36,
+      "start": 131.12,
+      "end": 133.16,
+      "text": "two are, let's see how this works out."
+    },
+    {
+      "id": 37,
+      "start": 134.36,
+      "end": 135.52,
+      "text": "So here we get tagged in."
+    },
+    {
+      "id": 38,
+      "start": 139.96,
+      "end": 141.36,
+      "text": "And there we get stopped out."
+    },
+    {
+      "id": 39,
+      "start": 141.36,
+      "end": 143.52,
+      "text": "So now why did we get stopped out?"
+    },
+    {
+      "id": 40,
+      "start": 143.52,
+      "end": 147.68,
+      "text": "Now, if you remember back to the slides, I'm looking for the series of up close candles"
+    },
+    {
+      "id": 41,
+      "start": 147.68,
+      "end": 150.32,
+      "text": "into what an important level."
+    },
+    {
+      "id": 42,
+      "start": 150.32,
+      "end": 152.16,
+      "text": "Do we have an important level here?"
+    },
+    {
+      "id": 43,
+      "start": 152.16,
+      "end": 154.56,
+      "text": "Well, if we're on the five minute, let's zoom out to the hour."
+    },
+    {
+      "id": 44,
+      "start": 156.8,
+      "end": 160.52,
+      "text": "Here we have our buy side liquidity resting right here."
+    },
+    {
+      "id": 45,
+      "start": 160.52,
+      "end": 162.6,
+      "text": "So zooming back into the five minute."
+    },
+    {
+      "id": 46,
+      "start": 162.6,
+      "end": 167.4,
+      "text": "Now you can see in the absence of a higher timeframe level, these up close candles just"
+    },
+    {
+      "id": 47,
+      "start": 167.4,
+      "end": 170.88,
+      "text": "created equal highs and this is a retracement to move higher."
+    },
+    {
+      "id": 48,
+      "start": 170.92,
+      "end": 173.92,
+      "text": "Now let's go back to the hourly chart and see how we could frame this in the other"
+    },
+    {
+      "id": 49,
+      "start": 173.92,
+      "end": 174.68,
+      "text": "direction."
+    },
+    {
+      "id": 50,
+      "start": 174.68,
+      "end": 179.0,
+      "text": "So back out here on the hourly chart, knowing we have buy side liquidity resting above us."
+    },
+    {
+      "id": 51,
+      "start": 179.0,
+      "end": 180.16,
+      "text": "What do we have right here?"
+    },
+    {
+      "id": 52,
+      "start": 180.16,
+      "end": 181.64,
+      "text": "We have a fair value gap."
+    },
+    {
+      "id": 53,
+      "start": 181.64,
+      "end": 184.76,
+      "text": "So with an hourly fair value gap dropping down to the five minute chart."
+    },
+    {
+      "id": 54,
+      "start": 184.76,
+      "end": 188.48,
+      "text": "Now, now we are waiting for a price to reach into the fair value gap."
+    },
+    {
+      "id": 55,
+      "start": 190.8,
+      "end": 192.68,
+      "text": "Here we get a reach into the fair value gap."
+    },
+    {
+      "id": 56,
+      "start": 192.68,
+      "end": 194.12,
+      "text": "So now what do we have checked off?"
+    },
+    {
+      "id": 57,
+      "start": 194.12,
+      "end": 195.52,
+      "text": "We have an important level."
+    },
+    {
+      "id": 58,
+      "start": 195.52,
+      "end": 197.0,
+      "text": "So now I'm waiting for a sweep."
+    },
+    {
+      "id": 59,
+      "start": 198.6,
+      "end": 199.64,
+      "text": "Here we get a sweep."
+    },
+    {
+      "id": 60,
+      "start": 199.64,
+      "end": 204.72,
+      "text": "Now, if we're going to validate this down close candle into an important level and sweeping"
+    },
+    {
+      "id": 61,
+      "start": 204.72,
+      "end": 206.76,
+      "text": "liquidity, where do we need to close?"
+    },
+    {
+      "id": 62,
+      "start": 206.76,
+      "end": 210.56,
+      "text": "I want to see a closure over the opening price of this down close candle."
+    },
+    {
+      "id": 63,
+      "start": 214.88,
+      "end": 216.08,
+      "text": "And here we get that closure."
+    },
+    {
+      "id": 64,
+      "start": 216.12,
+      "end": 220.92,
+      "text": "But once again, looking to take an entry on the retest of this opening price, my stop"
+    },
+    {
+      "id": 65,
+      "start": 220.92,
+      "end": 224.76,
+      "text": "on the low and then looking for buy side liquidity or to our."
+    },
+    {
+      "id": 66,
+      "start": 225.56,
+      "end": 226.68,
+      "text": "Let's see how this works out."
+    },
+    {
+      "id": 67,
+      "start": 230.64,
+      "end": 232.52,
+      "text": "And you can see we hit our TP."
+    },
+    {
+      "id": 68,
+      "start": 232.52,
+      "end": 236.44,
+      "text": "So you can see this is not a valid order block because it is lacking a higher time frame"
+    },
+    {
+      "id": 69,
+      "start": 236.44,
+      "end": 240.92,
+      "text": "level while this order block reaches into a higher time frame level or an hourly fair"
+    },
+    {
+      "id": 70,
+      "start": 240.92,
+      "end": 243.64,
+      "text": "value gap and is going with the trend."
+    },
+    {
+      "id": 71,
+      "start": 243.64,
+      "end": 247.64,
+      "text": "Now let's hop back into the PDF to learn about the mean threshold of an order block as well"
+    },
+    {
+      "id": 72,
+      "start": 247.64,
+      "end": 251.04,
+      "text": "as the order blocks on the buy side and sell side of the curve."
+    },
+    {
+      "id": 73,
+      "start": 251.04,
+      "end": 253.0,
+      "text": "So what is the mean threshold of an order block?"
+    },
+    {
+      "id": 74,
+      "start": 253.0,
+      "end": 255.96,
+      "text": "Well, you just learned what an order block was in the previous section."
+    },
+    {
+      "id": 75,
+      "start": 256.08,
+      "end": 259.96,
+      "text": "So taking a look at the order block, this single or serious candles, I'm going to take"
+    },
+    {
+      "id": 76,
+      "start": 259.96,
+      "end": 265.64,
+      "text": "my point five fib from the body low to body high and mark out 50% of that order block."
+    },
+    {
+      "id": 77,
+      "start": 265.64,
+      "end": 267.2,
+      "text": "That is our mean threshold."
+    },
+    {
+      "id": 78,
+      "start": 267.2,
+      "end": 271.2,
+      "text": "Ideally, if price is going to respect this order block, I don't want to see any closes"
+    },
+    {
+      "id": 79,
+      "start": 271.2,
+      "end": 274.48,
+      "text": "below the mean threshold or 50% of this order block."
+    },
+    {
+      "id": 80,
+      "start": 274.48,
+      "end": 278.92,
+      "text": "So you can see here once we validate this order block, the 50% level of the order block"
+    },
+    {
+      "id": 81,
+      "start": 278.92,
+      "end": 281.0,
+      "text": "is respected to move higher."
+    },
+    {
+      "id": 82,
+      "start": 281.0,
+      "end": 285.08,
+      "text": "Now, lots of times I will focus on using the mean threshold of an order block when we have"
+    },
+    {
+      "id": 83,
+      "start": 285.08,
+      "end": 289.88,
+      "text": "a larger series of candles in which the opening price does not make sense for an entry."
+    },
+    {
+      "id": 84,
+      "start": 289.88,
+      "end": 291.56,
+      "text": "Let's hop into an example of that."
+    },
+    {
+      "id": 85,
+      "start": 291.56,
+      "end": 295.6,
+      "text": "So here we are on oil five minute chart and you can see we're reaching into an hourly"
+    },
+    {
+      "id": 86,
+      "start": 295.6,
+      "end": 297.0,
+      "text": "fair value gap here."
+    },
+    {
+      "id": 87,
+      "start": 297.0,
+      "end": 301.0,
+      "text": "Although we do have a little sweep here, I prefer a nice swing low to be swept."
+    },
+    {
+      "id": 88,
+      "start": 301.0,
+      "end": 307.76,
+      "text": "But let's see if we can close over this down close candle."
+    },
+    {
+      "id": 89,
+      "start": 307.76,
+      "end": 310.8,
+      "text": "You can see we do not get a close below."
+    },
+    {
+      "id": 90,
+      "start": 310.8,
+      "end": 312.96,
+      "text": "And then now what are we getting?"
+    },
+    {
+      "id": 91,
+      "start": 313.0,
+      "end": 315.0,
+      "text": "Lower time frame sweep."
+    },
+    {
+      "id": 92,
+      "start": 318.76,
+      "end": 321.48,
+      "text": "Here we get an extra little sweep."
+    },
+    {
+      "id": 93,
+      "start": 321.48,
+      "end": 327.0,
+      "text": "And now what I would be looking for is where is the series of down close candles?"
+    },
+    {
+      "id": 94,
+      "start": 327.0,
+      "end": 328.0,
+      "text": "Right here."
+    },
+    {
+      "id": 95,
+      "start": 328.0,
+      "end": 337.44,
+      "text": "I want to see price close over these candles here."
+    },
+    {
+      "id": 96,
+      "start": 337.44,
+      "end": 339.44,
+      "text": "And there we get a close over those candles."
+    },
+    {
+      "id": 97,
+      "start": 339.44,
+      "end": 344.68,
+      "text": "This is our order block here or the series of down close candles before the change in"
+    },
+    {
+      "id": 98,
+      "start": 344.68,
+      "end": 346.32,
+      "text": "the state of delivery."
+    },
+    {
+      "id": 99,
+      "start": 346.32,
+      "end": 348.64,
+      "text": "My eyes are drawn to these failure swings up here."
+    },
+    {
+      "id": 100,
+      "start": 348.64,
+      "end": 352.76,
+      "text": "So if I was looking to take an entry off of this order block, I'd need my stop on this"
+    },
+    {
+      "id": 101,
+      "start": 352.76,
+      "end": 357.72,
+      "text": "low where that is how I do it and then targeting the failure swings at the high."
+    },
+    {
+      "id": 102,
+      "start": 357.72,
+      "end": 361.16,
+      "text": "However, that gives a risk to reward ratio of 1.3."
+    },
+    {
+      "id": 103,
+      "start": 361.16,
+      "end": 367.6,
+      "text": "So this is when I would go from body high to body low and mark out 50% of that order"
+    },
+    {
+      "id": 104,
+      "start": 367.6,
+      "end": 368.6,
+      "text": "block."
+    },
+    {
+      "id": 105,
+      "start": 368.6,
+      "end": 371.96,
+      "text": "So you can look for the mean threshold to be an entry point and you can see how my risk"
+    },
+    {
+      "id": 106,
+      "start": 371.96,
+      "end": 375.84,
+      "text": "to reward goes from 1.3 to 2.6 almost."
+    },
+    {
+      "id": 107,
+      "start": 375.84,
+      "end": 377.16,
+      "text": "Let's see how this plays out."
+    },
+    {
+      "id": 108,
+      "start": 381.2,
+      "end": 385.56,
+      "text": "You can see it takes a good while, but we do reach those failure swings up there."
+    },
+    {
+      "id": 109,
+      "start": 385.56,
+      "end": 389.28,
+      "text": "You can see from this example, it's not always going to be super clean and picture perfect."
+    },
+    {
+      "id": 110,
+      "start": 389.28,
+      "end": 393.56,
+      "text": "But when I have a larger order block or larger series of down close candles, or it doesn't"
+    },
+    {
+      "id": 111,
+      "start": 393.56,
+      "end": 397.44,
+      "text": "make sense to enter off the opening price, that is when I will look to enter off the"
+    },
+    {
+      "id": 112,
+      "start": 397.44,
+      "end": 401.16,
+      "text": "mean threshold and zoom in out quickly to look at the hourly chart."
+    },
+    {
+      "id": 113,
+      "start": 401.16,
+      "end": 405.24,
+      "text": "You can see how the bodies respect the fair value gap here and the wicks do the damage."
+    },
+    {
+      "id": 114,
+      "start": 405.24,
+      "end": 409.48,
+      "text": "So now taking a look at order blocks on the buy side or sell side of the curve."
+    },
+    {
+      "id": 115,
+      "start": 409.48,
+      "end": 412.64,
+      "text": "In this case, we'll be focusing on the buy side of the curve for the PDF."
+    },
+    {
+      "id": 116,
+      "start": 412.64,
+      "end": 417.4,
+      "text": "Now when we switch from bearish to bullish and we have our smart money reversal, I will"
+    },
+    {
+      "id": 117,
+      "start": 417.4,
+      "end": 420.64,
+      "text": "still be looking for entries after the smart money reversal."
+    },
+    {
+      "id": 118,
+      "start": 420.64,
+      "end": 424.32,
+      "text": "And the way I do that is I look for an order block on the buy side of the curve."
+    },
+    {
+      "id": 119,
+      "start": 424.32,
+      "end": 425.48,
+      "text": "Now what am I looking for?"
+    },
+    {
+      "id": 120,
+      "start": 425.52,
+      "end": 428.72,
+      "text": "I'm looking for a down close candle into an important level."
+    },
+    {
+      "id": 121,
+      "start": 428.72,
+      "end": 433.52,
+      "text": "Now those important levels are a previous order block, a fair value gap or a sweep."
+    },
+    {
+      "id": 122,
+      "start": 433.52,
+      "end": 434.68,
+      "text": "Let's go over those."
+    },
+    {
+      "id": 123,
+      "start": 434.68,
+      "end": 437.72,
+      "text": "So you can see here, this would be our smart money reversal."
+    },
+    {
+      "id": 124,
+      "start": 437.72,
+      "end": 438.96,
+      "text": "We have an order block."
+    },
+    {
+      "id": 125,
+      "start": 438.96,
+      "end": 441.96,
+      "text": "We get a down close candle into that order block."
+    },
+    {
+      "id": 126,
+      "start": 441.96,
+      "end": 448.16,
+      "text": "We close over this down close candle, validating it as an order block and then the price continues higher."
+    },
+    {
+      "id": 127,
+      "start": 448.16,
+      "end": 453.04,
+      "text": "The next one I look for the down close candle into the fair value gap when the opening price"
+    },
+    {
+      "id": 128,
+      "start": 453.12,
+      "end": 457.88,
+      "text": "of that or the series of those candles gets closed over, validating it as an order block."
+    },
+    {
+      "id": 129,
+      "start": 457.88,
+      "end": 459.92,
+      "text": "I'll look for an entry higher from there."
+    },
+    {
+      "id": 130,
+      "start": 459.92,
+      "end": 464.4,
+      "text": "And the last one I look for is similar to the smart money reversal, but in a continuation"
+    },
+    {
+      "id": 131,
+      "start": 464.4,
+      "end": 467.68,
+      "text": "of a trend, we have a swing low, which is swept."
+    },
+    {
+      "id": 132,
+      "start": 467.68,
+      "end": 472.68,
+      "text": "And then the down close candle that swept this low gets closed over, validating it as"
+    },
+    {
+      "id": 133,
+      "start": 472.68,
+      "end": 474.88,
+      "text": "an order block to continue higher."
+    },
+    {
+      "id": 134,
+      "start": 474.88,
+      "end": 477.56,
+      "text": "Let's hop into the chart and go over a few examples of these."
+    },
+    {
+      "id": 135,
+      "start": 477.56,
+      "end": 481.48,
+      "text": "So in this next example, you can see that price has mostly consolidated through Asia"
+    },
+    {
+      "id": 136,
+      "start": 481.48,
+      "end": 482.48,
+      "text": "and London."
+    },
+    {
+      "id": 137,
+      "start": 482.52,
+      "end": 484.72,
+      "text": "So let's see what happens as we near New York open."
+    },
+    {
+      "id": 138,
+      "start": 487.36,
+      "end": 493.76,
+      "text": "You can see here, we sweep these lows over here or the cell stops resting below the Asia lows."
+    },
+    {
+      "id": 139,
+      "start": 493.76,
+      "end": 497.72,
+      "text": "Now, if these down close candles are going to become an order block, what do we have to do?"
+    },
+    {
+      "id": 140,
+      "start": 498.28,
+      "end": 501.96,
+      "text": "We have to close over the series of down close candles right here."
+    },
+    {
+      "id": 141,
+      "start": 503.04,
+      "end": 504.24,
+      "text": "So let's see if that occurs."
+    },
+    {
+      "id": 142,
+      "start": 506.64,
+      "end": 508.2,
+      "text": "So we do get that close."
+    },
+    {
+      "id": 143,
+      "start": 508.2,
+      "end": 511.64,
+      "text": "Now, if I'm looking for an order block entry, I would look to enter here."
+    },
+    {
+      "id": 144,
+      "start": 511.84,
+      "end": 512.96,
+      "text": "My stop on the low."
+    },
+    {
+      "id": 145,
+      "start": 513.2,
+      "end": 517.36,
+      "text": "However, with this current range, if I was just targeting these highs here, that's one"
+    },
+    {
+      "id": 146,
+      "start": 517.36,
+      "end": 518.72,
+      "text": "point four risk to reward."
+    },
+    {
+      "id": 147,
+      "start": 518.84,
+      "end": 520.72,
+      "text": "Now, there's a few ways I can go about this."
+    },
+    {
+      "id": 148,
+      "start": 520.76,
+      "end": 525.44,
+      "text": "I can look for a fair value gap entry, which would give me just about two are, which I'd"
+    },
+    {
+      "id": 149,
+      "start": 525.44,
+      "end": 526.24,
+      "text": "be looking to do."
+    },
+    {
+      "id": 150,
+      "start": 526.44,
+      "end": 530.8,
+      "text": "Let's see if price confirms the smart money reversal and then we can find another order block."
+    },
+    {
+      "id": 151,
+      "start": 533.0,
+      "end": 536.48,
+      "text": "So here price reaches into an important level or a fair value gap."
+    },
+    {
+      "id": 152,
+      "start": 536.68,
+      "end": 540.56,
+      "text": "But if it's going to close over the bodies of these series of up close candles, this is"
+    },
+    {
+      "id": 153,
+      "start": 540.56,
+      "end": 541.72,
+      "text": "now an order block."
+    },
+    {
+      "id": 154,
+      "start": 544.24,
+      "end": 546.28,
+      "text": "We cannot close over those bodies yet."
+    },
+    {
+      "id": 155,
+      "start": 546.84,
+      "end": 547.76,
+      "text": "And what do we get?"
+    },
+    {
+      "id": 156,
+      "start": 548.12,
+      "end": 549.52,
+      "text": "We get a sweep of a low."
+    },
+    {
+      "id": 157,
+      "start": 549.6,
+      "end": 554.08,
+      "text": "Now, if we're looking for the lowest bodied down close candle, it would be this candle"
+    },
+    {
+      "id": 158,
+      "start": 554.08,
+      "end": 554.56,
+      "text": "here."
+    },
+    {
+      "id": 159,
+      "start": 555.0,
+      "end": 557.24,
+      "text": "I'm waiting for price to close over that candle."
+    },
+    {
+      "id": 160,
+      "start": 559.32,
+      "end": 560.56,
+      "text": "We do not get a close yet."
+    },
+    {
+      "id": 161,
+      "start": 562.36,
+      "end": 563.72,
+      "text": "And there we get a close."
+    },
+    {
+      "id": 162,
+      "start": 564.2,
+      "end": 568.32,
+      "text": "But now if I'm looking to take an entry, I can enter on the opening price of this down"
+    },
+    {
+      "id": 163,
+      "start": 568.36,
+      "end": 573.6,
+      "text": "close candle, my stop on that low, and then targeting the highs are just about two are."
+    },
+    {
+      "id": 164,
+      "start": 573.64,
+      "end": 576.56,
+      "text": "So you can see it's about the same as that fair value gap entry."
+    },
+    {
+      "id": 165,
+      "start": 580.52,
+      "end": 581.68,
+      "text": "And there it goes."
+    },
+    {
+      "id": 166,
+      "start": 581.92,
+      "end": 585.2,
+      "text": "Now, if we're going to look a little bit deeper at this price action and use what we"
+    },
+    {
+      "id": 167,
+      "start": 585.2,
+      "end": 588.84,
+      "text": "learned in the last section, we can mark out the mean threshold of this order block"
+    },
+    {
+      "id": 168,
+      "start": 588.88,
+      "end": 589.52,
+      "text": "right here."
+    },
+    {
+      "id": 169,
+      "start": 589.64,
+      "end": 592.24,
+      "text": "You can see that the candles respect this mean threshold."
+    },
+    {
+      "id": 170,
+      "start": 592.28,
+      "end": 596.44,
+      "text": "Now, what I can do is look to take an entry on this mean threshold with my stop in the"
+    },
+    {
+      "id": 171,
+      "start": 596.48,
+      "end": 600.64,
+      "text": "same spot, and you can see how the risk to reward significantly increases."
+    },
+    {
+      "id": 172,
+      "start": 600.92,
+      "end": 605.0,
+      "text": "However, with this technique, I also risk the chance of not getting filled on this trade."
+    },
+    {
+      "id": 173,
+      "start": 605.2,
+      "end": 608.88,
+      "text": "Now, you're probably wondering, can we do the same thing with this order block down"
+    },
+    {
+      "id": 174,
+      "start": 608.88,
+      "end": 610.72,
+      "text": "here at the smart money reversal?"
+    },
+    {
+      "id": 175,
+      "start": 610.76,
+      "end": 611.68,
+      "text": "And of course we can."
+    },
+    {
+      "id": 176,
+      "start": 612.0,
+      "end": 616.28,
+      "text": "So marking out from the high to the low of the bodies and dragging it over."
+    },
+    {
+      "id": 177,
+      "start": 616.56,
+      "end": 621.0,
+      "text": "Let's see how this risk to reward would be entering at the mean threshold, my stop on"
+    },
+    {
+      "id": 178,
+      "start": 621.0,
+      "end": 623.6,
+      "text": "the low and targeting the same highs."
+    },
+    {
+      "id": 179,
+      "start": 624.08,
+      "end": 629.96,
+      "text": "It would be just about 2.6 when compared to the fair value gap entry at 1.95."
+    },
+    {
+      "id": 180,
+      "start": 630.28,
+      "end": 634.08,
+      "text": "Let's go over one more example of using order blocks as a continuation of trend."
+    },
+    {
+      "id": 181,
+      "start": 634.52,
+      "end": 636.24,
+      "text": "We have previous months high sitting here."
+    },
+    {
+      "id": 182,
+      "start": 636.32,
+      "end": 640.6,
+      "text": "You can see we create equal highs and then we have a series of up close candles into"
+    },
+    {
+      "id": 183,
+      "start": 640.6,
+      "end": 645.96,
+      "text": "the equal highs, which then get displaced and closed below, validating it as an order block."
+    },
+    {
+      "id": 184,
+      "start": 646.2,
+      "end": 651.56,
+      "text": "Price then retraces back up into the order block as well as into this small inefficiency"
+    },
+    {
+      "id": 185,
+      "start": 651.56,
+      "end": 653.16,
+      "text": "here or fair value gap."
+    },
+    {
+      "id": 186,
+      "start": 653.2,
+      "end": 658.0,
+      "text": "Now we have a series of up close candles into an order block and fair value gap or"
+    },
+    {
+      "id": 187,
+      "start": 658.04,
+      "end": 659.08,
+      "text": "important levels."
+    },
+    {
+      "id": 188,
+      "start": 660.04,
+      "end": 664.6,
+      "text": "So now if price is going to displace and close below these up close candles, we now"
+    },
+    {
+      "id": 189,
+      "start": 664.6,
+      "end": 665.84,
+      "text": "have another order block."
+    },
+    {
+      "id": 190,
+      "start": 668.28,
+      "end": 670.52,
+      "text": "Here we displace and get a close below."
+    },
+    {
+      "id": 191,
+      "start": 672.64,
+      "end": 675.4,
+      "text": "Now let's see if we reach back up into that important level."
+    },
+    {
+      "id": 192,
+      "start": 677.84,
+      "end": 680.04,
+      "text": "Here we reach up into this important level."
+    },
+    {
+      "id": 193,
+      "start": 680.12,
+      "end": 683.72,
+      "text": "So now I can look for this to displace and close below."
+    },
+    {
+      "id": 194,
+      "start": 686.12,
+      "end": 687.92,
+      "text": "We do validate this as an order block."
+    },
+    {
+      "id": 195,
+      "start": 688.08,
+      "end": 691.68,
+      "text": "Now I can look at this as another point of interest for a continuation of trend."
+    },
+    {
+      "id": 196,
+      "start": 694.76,
+      "end": 696.4,
+      "text": "And there you reach into this."
+    },
+    {
+      "id": 197,
+      "start": 696.44,
+      "end": 700.0,
+      "text": "So now what do we have the up close candles into an important level?"
+    },
+    {
+      "id": 198,
+      "start": 700.2,
+      "end": 702.48,
+      "text": "And let's see if we get a move lower here."
+    },
+    {
+      "id": 199,
+      "start": 704.6,
+      "end": 705.4,
+      "text": "And we do."
+    },
+    {
+      "id": 200,
+      "start": 705.52,
+      "end": 709.16,
+      "text": "So you can see how these order blocks are formed when they reach into an important"
+    },
+    {
+      "id": 201,
+      "start": 709.2,
+      "end": 711.68,
+      "text": "level and then displace and close below them."
+    },
+    {
+      "id": 202,
+      "start": 712.24,
+      "end": 715.4,
+      "text": "Now you're wondering why didn't I choose this candles and order block?"
+    },
+    {
+      "id": 203,
+      "start": 715.8,
+      "end": 718.32,
+      "text": "Well, it never reached up into an important level for me."
+    },
+    {
+      "id": 204,
+      "start": 718.68,
+      "end": 722.24,
+      "text": "I wanted price to reach back into this order block, which it did here."
+    },
+    {
+      "id": 205,
+      "start": 722.84,
+      "end": 726.52,
+      "text": "So although we close below the opening price here, it doesn't validate it as"
+    },
+    {
+      "id": 206,
+      "start": 726.52,
+      "end": 729.36,
+      "text": "an order block for me because it's missing that important level."
+    },
+    {
+      "id": 207,
+      "start": 729.6,
+      "end": 732.96,
+      "text": "Now the last thing I'm going to talk about prior to our final example are"
+    },
+    {
+      "id": 208,
+      "start": 732.96,
+      "end": 734.44,
+      "text": "stop losses with order blocks."
+    },
+    {
+      "id": 209,
+      "start": 734.6,
+      "end": 739.04,
+      "text": "Generally I'm looking to place my stop loss on a swing high or low or the"
+    },
+    {
+      "id": 210,
+      "start": 739.04,
+      "end": 740.28,
+      "text": "other end of the order block."
+    },
+    {
+      "id": 211,
+      "start": 740.68,
+      "end": 744.2,
+      "text": "Now obviously a stop loss on the other end of the order block will provide"
+    },
+    {
+      "id": 212,
+      "start": 744.2,
+      "end": 748.24,
+      "text": "a higher risk to reward than the swing low, but there is the chance that price"
+    },
+    {
+      "id": 213,
+      "start": 748.24,
+      "end": 751.44,
+      "text": "will wick the stop loss even when the trade is not invalidated."
+    },
+    {
+      "id": 214,
+      "start": 751.6,
+      "end": 753.44,
+      "text": "Let's hop into our final example."
+    },
+    {
+      "id": 215,
+      "start": 753.96,
+      "end": 756.12,
+      "text": "Let's take a look at this example and work through it."
+    },
+    {
+      "id": 216,
+      "start": 756.56,
+      "end": 760.48,
+      "text": "If we are looking for a continuation of trend, what is our draw on liquidity?"
+    },
+    {
+      "id": 217,
+      "start": 760.6,
+      "end": 763.92,
+      "text": "Well, it would be this high up here or buy side liquidity."
+    },
+    {
+      "id": 218,
+      "start": 764.2,
+      "end": 768.04,
+      "text": "Now, if I'm looking for a continuation trend, I'm looking for either a return"
+    },
+    {
+      "id": 219,
+      "start": 768.04,
+      "end": 771.16,
+      "text": "to an order block, a fair value gap or a sweep of the low."
+    },
+    {
+      "id": 220,
+      "start": 771.4,
+      "end": 775.12,
+      "text": "Well, if you notice over here, we have these down close candles that swept"
+    },
+    {
+      "id": 221,
+      "start": 775.12,
+      "end": 776.4,
+      "text": "all these lows down here."
+    },
+    {
+      "id": 222,
+      "start": 776.6,
+      "end": 780.6,
+      "text": "So this also creates an order block and it has displacement following it"
+    },
+    {
+      "id": 223,
+      "start": 780.6,
+      "end": 784.96,
+      "text": "with a fair value gap with that idea in mind to run lower to go higher."
+    },
+    {
+      "id": 224,
+      "start": 785.08,
+      "end": 786.12,
+      "text": "What else do we see?"
+    },
+    {
+      "id": 225,
+      "start": 786.24,
+      "end": 789.68,
+      "text": "Well, we have lows resting here or sell stops."
+    },
+    {
+      "id": 226,
+      "start": 789.72,
+      "end": 791.36,
+      "text": "So let's see what happens after open."
+    },
+    {
+      "id": 227,
+      "start": 791.76,
+      "end": 794.56,
+      "text": "Now I don't need to catch this first entry and I'll show you this."
+    },
+    {
+      "id": 228,
+      "start": 798.64,
+      "end": 800.4,
+      "text": "So here you see that first entry."
+    },
+    {
+      "id": 229,
+      "start": 800.44,
+      "end": 802.4,
+      "text": "We never violate this low over here."
+    },
+    {
+      "id": 230,
+      "start": 802.52,
+      "end": 803.48,
+      "text": "But what do you notice?"
+    },
+    {
+      "id": 231,
+      "start": 803.56,
+      "end": 808.52,
+      "text": "We have down close candles into order block, fair value gap and sweeping"
+    },
+    {
+      "id": 232,
+      "start": 808.52,
+      "end": 812.92,
+      "text": "lows before displacement and a close over these down close candles."
+    },
+    {
+      "id": 233,
+      "start": 814.04,
+      "end": 814.84,
+      "text": "So what is this?"
+    },
+    {
+      "id": 234,
+      "start": 814.88,
+      "end": 815.92,
+      "text": "That is an order block."
+    },
+    {
+      "id": 235,
+      "start": 816.16,
+      "end": 818.4,
+      "text": "So now I can look to take an entry here."
+    },
+    {
+      "id": 236,
+      "start": 818.88,
+      "end": 824.28,
+      "text": "I stop on the low and we created equal highs up here and that is only 1.5 hour."
+    },
+    {
+      "id": 237,
+      "start": 824.36,
+      "end": 826.56,
+      "text": "Now, although that is great, what can we do?"
+    },
+    {
+      "id": 238,
+      "start": 826.88,
+      "end": 829.8,
+      "text": "Well, we could mark out the mean threshold of this order block."
+    },
+    {
+      "id": 239,
+      "start": 830.0,
+      "end": 832.92,
+      "text": "And if you notice that also lines up with this little inversion here."
+    },
+    {
+      "id": 240,
+      "start": 833.04,
+      "end": 836.56,
+      "text": "But if we're going to take an entry here, that is 2.5 hour."
+    },
+    {
+      "id": 241,
+      "start": 836.72,
+      "end": 837.72,
+      "text": "Let's see how that works out."
+    },
+    {
+      "id": 242,
+      "start": 840.04,
+      "end": 840.88,
+      "text": "And there you go."
+    },
+    {
+      "id": 243,
+      "start": 840.92,
+      "end": 843.68,
+      "text": "We get a move higher and hit our take profit."
+    },
+    {
+      "id": 244,
+      "start": 843.84,
+      "end": 847.6,
+      "text": "So you can see, even if I don't catch this first initial buy, this order block"
+    },
+    {
+      "id": 245,
+      "start": 847.6,
+      "end": 849.84,
+      "text": "is a secondary entry to move higher."
+    },
+    {
+      "id": 246,
+      "start": 850.52,
+      "end": 854.2,
+      "text": "Now, this isn't the best example, but if I was to have my stop on the order"
+    },
+    {
+      "id": 247,
+      "start": 854.2,
+      "end": 858.56,
+      "text": "block low here and this moved just one point lower, it would have stopped me out."
+    },
+    {
+      "id": 248,
+      "start": 858.76,
+      "end": 862.2,
+      "text": "Even if the trade was still valid and didn't violate this low."
+    },
+    {
+      "id": 249,
+      "start": 862.24,
+      "end": 866.2,
+      "text": "That's why I personally prefer to have my stop on the swing low and adjust my"
+    },
+    {
+      "id": 250,
+      "start": 866.2,
+      "end": 870.56,
+      "text": "entry to get closer to my invalidation point rather than just my invalidation"
+    },
+    {
+      "id": 251,
+      "start": 870.56,
+      "end": 872.04,
+      "text": "to get closer to my entry."
+    },
+    {
+      "id": 252,
+      "start": 872.48,
+      "end": 873.92,
+      "text": "I hope you found this video helpful."
+    },
+    {
+      "id": 253,
+      "start": 873.96,
+      "end": 877.48,
+      "text": "If you did, please consider liking and subscribing and let me know in the"
+    },
+    {
+      "id": 254,
+      "start": 877.48,
+      "end": 882.6,
+      "text": "comments below which video you prefer between mitigation, breaker and propulsion blocks."
+    },
+    {
+      "id": 255,
+      "start": 882.64,
+      "end": 885.8,
+      "text": "As those are the videos I will be looking to do next in this series."
+    },
+    {
+      "id": 256,
+      "start": 885.92,
+      "end": 888.56,
+      "text": "I hope you guys had a great holiday and I'll see you guys in the new year."
+    }
+  ],
+  "created_at": "2026-09-01T17:13:55.783217+00:00"
+}

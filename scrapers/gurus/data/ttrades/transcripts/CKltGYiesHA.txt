@@ -1,0 +1,193 @@
+[00:00] How's it going everyone and welcome back to another video.
+[00:14] In this video we are going to talk about trailing our stop losses.
+[00:17] We're going to talk about when it makes sense to trail a stop loss and how to go about that
+[00:22] within my fractal model.
+[00:24] Let's get into the PDF.
+[00:25] The first thing you have to understand is what is a protected swing.
+[00:29] I have an entire video and blog on this on my website if you want to check that out.
+[00:33] But simply put a protected swing is when price reaches into a swing high or a low.
+[00:39] You can see here we take out a swing low and then price closes over the series of candles
+[00:44] that went into that point of interest.
+[00:47] So with this closure over, I can anticipate this protected swing to hold into trade higher.
+[00:52] Another point of interest that I use is a fair value gap.
+[00:55] So you can see price makes a move up.
+[00:57] We have a fair value gap price reaches into that fair value gap, which is a point of interest.
+[01:02] When price closes over the series of down close candles that made that low right here.
+[01:07] This is now a protected swing and I can expect it to hold.
+[01:11] So now that you understand a protected swing and if you don't, I really recommend watching
+[01:15] that video.
+[01:16] We are going to talk about where to trail our stop losses.
+[01:19] Our stop losses can only be trailed to new protected swings.
+[01:23] So when we have a move up here, am I going to trail my stop loss to this down close candle here?
+[01:28] No, because under my model, I don't consider that a protected swing.
+[01:32] But here you can see price reaches into a fair value gap, closes over the down close
+[01:37] candles into that point of interest.
+[01:39] So now we have a new protected swing.
+[01:41] We can move our stop loss, which was down here to this new protected swing.
+[01:46] If we are expecting this trend to continue higher to our draw on liquidity above.
+[01:51] So we get a new move higher.
+[01:53] Here we have an opposing run into this point of interest.
+[01:56] Then we close over.
+[01:57] We can expect this low to hold as it trades higher into that draw on liquidity.
+[02:02] Now, how do I really combine this with my fractal model?
+[02:05] Now, ideally, as I've gone over in previous videos, and I'll probably make another one on it,
+[02:10] is we want to let the wick form and then trade the body.
+[02:13] So when we're thinking about trailing our stop losses, how does that make sense?
+[02:17] If we are, let's say, on side this reversal in candle to here, and then we open up candle three.
+[02:23] Ideally, we're letting that wick form and then going to trade the body that inter candle change
+[02:28] in the state of delivery.
+[02:30] So looking here, when we open up that new candle, we make an opposing run and then continue higher.
+[02:35] Ideally, our stop loss is going to be trailed to the higher timeframe wick.
+[02:39] Now, yes, we can trail within these higher timeframe candles.
+[02:42] But what are we looking for in candle for here?
+[02:45] If it's going to continue, we want to see it respect 50% of this higher timeframe candle.
+[02:50] So ideally, I don't want to trail my stop if I'm expecting it to go higher too high up in this candle,
+[02:55] or I will get swept out in the next higher timeframe candle.
+[02:58] Now, the last thing we're going to talk about is should I trail or should I take profit?
+[03:02] And a lot of this depends on where you are entering, how close are you to your draw on liquidity,
+[03:08] and how much range do we have left?
+[03:10] How much of the daily range has been created if we're trading intraday?
+[03:13] Here, for example, this is marking where we have taken our entry, we have traded this reversal
+[03:18] right here, we have our stop on this low, our entry right here, you can see if we are expecting
+[03:23] the daily range to expand and we have a draw liquidity up here, we have quite a bit of room
+[03:28] for this trade to move, right, it can really go and expand.
+[03:31] This makes sense where I can go ahead and trail my position, right, because I have
+[03:35] a lot of movement or a lot of range that price could go and expand.
+[03:40] So how am I going to do that?
+[03:41] I'm going to trail to new protected swings.
+[03:44] So going into these next candles, wait for new protected swings, then I could trail up to them
+[03:49] as well. Now, when does it make sense to not really trail? Here you can see on that same
+[03:53] daily candle, where we entering, we're entering almost halfway through the daily range.
+[03:58] And our two are is at that daily range, right, that average daily range or ADR.
+[04:04] It doesn't really make sense to try to keep trailing here, because a lot of times what's
+[04:08] you're going to get is it's going to hit some sort of drawn liquidity or it's daily range,
+[04:12] and then come back and reverse you out, and you're going to be left with one R or sometimes even less.
+[04:17] So in this case, it doesn't really make sense to trail up to these highs, right?
+[04:21] I just want to take my profit at these objectives. Now, the one thing you could do in a lot of
+[04:26] questions I get are, when do you move to break even? Can you move to break even?
+[04:30] Well, right here, you can see if we form a new protected swing that is at our break even point,
+[04:36] I could then move my stop loss to that break even point, right? But I don't want to get too
+[04:40] aggressive with my trailing when I'm just expecting it to hit this drawn liquidity right around to R.
+[04:45] I want to get more aggressive with my trailing when I'm reaching those really high RRs, and I'm
+[04:50] reaching those targets after I already have such a large move. So now that you understand when and
+[04:55] where I look to trail, let's get into trading view and go over a few examples of this. So here we are
+[05:00] on the daily chart on NASDAQ. What do we have? We've taken out this swing low or this range low,
+[05:06] and we've had a nice reaction. And you can see that reaction, because if we go down here to the
+[05:09] hourly chart, you can see we've had a nice change in the stated delivery here. So going back to the
+[05:14] daily chart, what is our whole idea here? Well, if we have a reversal, we want to see form, and then
+[05:20] an inside bar, what is an inside bar, it's a consolidation. So you can see we have what these
+[05:28] equal highs up here, and a range low here, going to the next day, if we are having an inside bar,
+[05:34] I'd want to see a sweep of a low, right to then trade back up into this gap right here.
+[05:39] Now going down to the four hour chart, what would I want to see here in terms of intraday profile
+[05:45] is I'd want to see, you know, a sweep of this low here, a four hour swing point put in, and then we
+[05:50] can look to trade up into those highs. So let's see what happens here. So here you can see we do
+[05:56] sweep out that low, what do we form a four hour candle to closure. So if you watch my intraday
+[06:03] profile video in Asia, if we have a four hour closure, we can use this to confirm the low of
+[06:08] the day. With this, we could go to the four hour and 15 minute model and look to trade this higher
+[06:14] up into the previous day as high in the daily high before that. So down here on the 15 minute
+[06:19] timeframe, you can see we have that SMT, we have that change in the state of delivery. Let's let
+[06:24] another 15 minute candle print, and we can take a look at this. So what do we have? Let's clean it
+[06:29] up a little. We have that candle to closure. We have a change in the state of delivery. And that's
+[06:35] also paired with this SMT, as you can see on the higher timeframe candles as well. We also have a
+[06:39] PSP there on this candle to so taking a look, what do we want to look for protected swings? You can
+[06:46] see my indicator marks that out. We have went into a fair value gap here closed over. So we have a
+[06:51] protected swing there. We have went into a fair value gap here, and then also closed over. So we
+[06:57] have a protected swing here. So going into this next candle, we already have our entry or a protected
+[07:03] swing here. So we could either look to enter this positionally, or wait for a new protected swing.
+[07:09] If I'm going to enter this positionally, I can put my stop on that protected swing. You can see
+[07:13] that gives me to are there. Or if I'm looking to trade into our drawn liquidity, I can look for
+[07:18] price to trade up to there. So let's see what happens here. And when could we trail our stop loss?
+[07:24] So you can see we get nice push away. Now this is what we have that daily range that we can expect
+[07:30] to trade higher, we have a nice displacement away, I can look to trail my stop loss here,
+[07:34] because it makes sense, I can expect more range. So let's see if we can get something to form here.
+[07:41] And there we go, we get a new protected swing. So now I could move my stop loss, which was right
+[07:46] here, all the way up to this new protected swing. Let's see what happens here.
+[07:55] You can see this is not a protected swing, never hit any sort of point of interest.
+[08:00] And here we have a new protected swing. So then I could trail my stop loss to there.
+[08:04] And so you can see, I'm trailing to essentially where I'm already getting,
+[08:09] you know, four to five are, and I'm looking for this six to seven are here on this trade. And this
+[08:14] is a high risk to reward trade. But I'm it's a good example of trailing a stop loss. You can see,
+[08:21] you know, it takes a long time to go finally hit our final TP. But you can see how we can
+[08:26] trail our stop loss here. So just to review, if I get entry around the opening price of candle
+[08:33] three, you know, early into this range where I'm expecting to go higher, I have the daily aligned,
+[08:38] I haven't used all that ADR, I can look to trail my stop loss to new protected swings.
+[08:44] You can see my indicator makes it easy as I have these protected swings that just mark out for me,
+[08:49] right? So this one forms out of a fair value gap, forms out of a fair value gap, fair value gap,
+[08:54] fair value gap. In this case here, it was just forming from reacting out of fair value gaps,
+[08:59] but it's also valid if it sweeps a low. So let's get into another example. So here we are in our
+[09:04] next example, we are on NASDAQ on the one minute and 15 minute model at 930 this morning. What do
+[09:11] we have? We have 930 making this opposing run higher as a nice V shape back lower, having a
+[09:17] change in the state of delivery with this SMT also has a PSP on candle two. But what do we see
+[09:23] with this closure? We also form a new protected swing here. Why is that a protected swing?
+[09:28] After the change in the state of delivery, we reach into a fair value gap and then close below
+[09:33] this up close candle here, giving a protected swing. So going into this next candle, what are we
+[09:39] expecting in candle three? We want to see candle three form some sort of wick, right? Could be small,
+[09:45] but a wick respecting this EQ here, right? And then trading lower open, high, low, close. So
+[09:53] what could we do? There's lots of different entries we could take. We could enter the open of candle
+[09:58] three, put our stop on a protected swing, like we did in the previous example, and look for two R there,
+[10:05] or we could say we have failure swings right here. We want to see those taken out and look to take an
+[10:12] entry right at that. Right. And that gets us to our a lot quicker. Or we could wait for a new
+[10:18] continuation to form. But let's see what happens here. So as we let this continue,
+[10:25] you can see we form that new continuation, we get a new protected swing also paired with an SMT
+[10:30] from ES and YM, we're getting this continuation lower. We go ahead and hit that TP from the first
+[10:37] trade. So let's see what happens if we form a new continuation. What are we seeing here? We reach up,
+[10:44] sweep out a high, and then we get a closure through these series of up close candles here. So we have
+[10:50] a new continuation that forms. What do we notice about this continuation? It instantly gets invalidated.
+[10:57] So it's valid to trail my stop loss to this, right? But once it gets invalidated, it shows us that
+[11:02] this trend from this candle to is either consolidating or reversing, or it can get a bit choppy. So
+[11:10] it's not that if I'm already in a trade, it's completely invalid. It just means that I may
+[11:14] experience some consolidation. Let's see what happens. So you can see we do form a protected
+[11:19] swing here. But this is kind of giving us a clue that it's a bit choppy. So I may not enjoy that
+[11:23] one. And see, it also gets invalidated turns gray. And what do we have? Now we have a new higher time
+[11:30] from candle, we aren't really looking for shorts anymore, because this doesn't support expansion
+[11:36] lower anymore. But the main point of this example is, this is a valid spot to trail your stop loss to.
+[11:42] So let's say you took this trade here, you had your stop on that protected swing,
+[11:46] and you were looking for two are, you know, whether or not you got it right here, it's quite close,
+[11:50] it is valid to trail your stop loss to there, and you would get taken out, you know, around
+[11:55] one R there. But this is just an example of showing what protected swings look like, how to
+[12:00] trail your stop loss. Let's get into another example. So here we are in our next example,
+[12:04] we have a higher time frame fair value gap right here. And we have this early change in the state
+[12:09] of delivery forming. Let's go ahead and get it into the next candle and let this candle close.
+[12:14] Here you can see, we do have a candle to closure that change in the state of delivery. And here
+[12:19] we have that T spot. So we are looking for a continuation in this area. Now once again,
+[12:25] we have multiple fair value gaps here, we have one right here, we also have one right here,
+[12:31] I don't try to predict where this continuation is going to form. I'm just going to see if we
+[12:36] form a continuation in this one right here, if we do great, if we don't, then I can look
+[12:41] towards this upper fair value gap. See what happens there we do form that continuation. So
+[12:47] I'm not looking for this upper fair value gap anymore. And I could look to take a short on this
+[12:52] open of the new higher time frame candle, as we have now formed a protected swing, and go ahead
+[12:57] and look for two are, and let's see what this looks like. And let's see what happens. Right.
+[13:04] So here we come back into our entry into this fair value gap right here. And what happens,
+[13:10] we form a new continuation. So with this new continuation, this is where I was talking about
+[13:15] where you could go break even or pretty close to break even, I could move my stop loss to this
+[13:20] new protected swing. We'll go ahead and mark that out. This is where my stop loss would be.
+[13:25] Let's see what happens. We have a new candle open, right candle for what do we have, we have a fair
+[13:32] value gap right here. So are we looking for an open high to form the wick? And what are we getting,
+[13:38] we're getting a new continuation here as well. So we could take an entry there, or we can trail
+[13:44] our stop loss to this high. You can see now we are trailing our stop loss, we are in profit here,
+[13:50] let's see if this goes to to are it does, and we get that continuation. Now the nice thing is
+[13:55] when you are tracking protected swings here, let's go ahead and remove all these drawings,
+[14:00] I can take further entries once I get a new continuation. So if I miss this whole candle
+[14:05] three, I could wait for candle four, and I could still take this continuation right here. And if
+[14:10] you notice, I can still get to our from where I entered on the first trade. So this is a great
+[14:16] example of one, taking new continuations, but to how to trail your stop loss. And this is a great
+[14:23] swing where you have a reversal candle, and you get those continuations, they all have a small
+[14:27] wick, they are all expansions. Let's get into one final example. So here we are in our last example,
+[14:33] we have a candle to closure here, we have a change in the state of delivery, we have a PSP and SMT,
+[14:40] those confluences to a reversal. Now what are we looking for in this next candle? Well, as we talked
+[14:45] about in my intraday reversal video, we want to let this wick form. So ideally, we want to see a
+[14:51] protected swing form. So what do we have, we have that protected swing form. So ideally, this high
+[14:57] a day will hold as we can trade slower. So what could I do, I could look for an entry there on
+[15:03] the reversal, or I could wait for a new protected swing. And here you can see, we hit our fair value
+[15:09] gap here, we are closing through the series of up close candles, in this case, it is just one.
+[15:14] So what would that be a new protected swing, we could look to take an entry here,
+[15:19] put our stop loss on the protected swing, and then look for two are which lines up also with
+[15:23] these lows here, and I can show you this will print on the open of a new candle, and you could do it
+[15:29] there. But we can also just go one hour at a time, and let this continue. So what do we have,
+[15:35] we have that nice continuation lower from a protected swing. Now, would I be able to trail
+[15:40] my stop loss in the scenario, it doesn't make sense to trail my stop loss because I have no
+[15:45] protected swings before my target, we've already had quite a daily range, as you can see 500 600
+[15:51] points. So this is one of those scenarios where it doesn't make sense to trail my stop loss before
+[15:56] my objective, I'd rather just take my profit at the objective. With that, I hope you enjoyed the
+[16:01] video. If you did, give it a like, give it a subscribe, and I'll see you guys in the next video.
+[16:05] Have a good one.

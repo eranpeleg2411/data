@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "SF61vCsBl1A",
+    "title": "TTrades Ideal Formation - High Probability Swing Points",
+    "url": "https://www.youtube.com/watch?v=SF61vCsBl1A",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/SF61vCsBl1A.json"
+  },
+  "stats": {
+    "word_count": 2833,
+    "duration_seconds": 856.72,
+    "segments": 266,
+    "concepts_detected": 6,
+    "candidate_strategies": 1
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 8,
+    "TTrades Fractal Model": 3,
+    "Candle 2 Closure": 2,
+    "Candle 3 Setup": 35,
+    "Candle 4 Setup": 8,
+    "Protected Swing": 34
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 842.16,
+          "end": 852.88,
+          "text": "It is a candle closure paired with a protected swing. When those occur simultaneously, it is ideal within my model and my framework to look to the lower timeframes for entry.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 13
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 34.76,
+      "end": 43.88,
+      "text": "creates a protected swing. So what does that mean? It means upon that candle 2 or candle 3 closure, we also have the swing point being a protected",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 58.28,
+      "end": 70.92,
+      "text": "in this case singular up close candle, which creates a protected swing right here. So that means we have a protected swing on the candle 2 high as well as a candle 2 closure, which makes it ideal for candle 3 to expand.",
+      "concepts": [
+        "Candle 2 Closure",
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 17
+    },
+    {
+      "start": 84.4,
+      "end": 95.04,
+      "text": "So it is not a candle 2 closure candle 3 engulfs that and since it is the series, in this case a singular up close candle that it closes below. This is now a protected swing.",
+      "concepts": [
+        "Candle 2 Closure",
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 15
+    },
+    {
+      "start": 107.84,
+      "end": 118.72,
+      "text": "You can see we have a candle to closure. We close through the series of up close candles, creating a protected swing on candle 2's high and then we can look for candle 3 to trade lower from there.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 127.52,
+      "end": 136.2,
+      "text": "candle 3 does create that protected swing. So within this candle formation, we can still look to trade candle 4 and we have candle 2 creating a protected swing.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Candle 4 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 16
+    },
+    {
+      "start": 143.36,
+      "end": 156.36,
+      "text": "We have a candle to or a candle 3 closure, which creates also a protected swing simultaneously. Now with these ideal formations, it doesn't mean we can just pattern trade them. We still need a point of interest.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 14
+    },
+    {
+      "start": 215.48,
+      "end": 226.52,
+      "text": "interest taking out this old high closes below the series of up close candles that creates a protected swing. Also a candle to closure so we can look to trade candle 3 lower.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 14
+    },
+    {
+      "start": 248.48,
+      "end": 259.76,
+      "text": "Then candle 3 doesn't expand completely, but it closes over that level creating a protected swing. Now in candle 4, we have a valid swing point candle to closure candle 3 closes strong, we",
+      "concepts": [
+        "Candle 3 Setup",
+        "Candle 4 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 19
+    },
+    {
+      "start": 275.0,
+      "end": 285.52,
+      "text": "We don't reach for the opposing candle level right to create a protected swing. The next candle or candle 3 does close below candle 2 is low also creating a protected swing.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 12
+    },
+    {
+      "start": 588.2,
+      "end": 600.84,
+      "text": "So that means it's ideal for trading in candle four, because we have a valid swing framework or fractal model. Candle three closes forming a protected swing and we can look to trade candle four higher.",
+      "concepts": [
+        "TTrades Fractal Model",
+        "Candle 3 Setup",
+        "Candle 4 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 16
+    },
+    {
+      "start": 708.56,
+      "end": 718.8,
+      "text": "is does what creates a protected swing. So now going into candle for for a continuation, we have a protected swing, a candle to closure, candle three closing strong.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 842.16,
+      "end": 852.88,
+      "text": "It is a candle closure paired with a protected swing. When those occur simultaneously, it is ideal within my model and my framework to look to the lower timeframes for entry.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 13
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.732214+00:00"
+}

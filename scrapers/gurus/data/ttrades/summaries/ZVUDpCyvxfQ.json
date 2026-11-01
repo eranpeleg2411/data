@@ -1,0 +1,160 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "ZVUDpCyvxfQ",
+    "title": "Understanding Fair Value Gaps (FVG) - ICT Concepts",
+    "url": "https://www.youtube.com/watch?v=ZVUDpCyvxfQ",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/ZVUDpCyvxfQ.json"
+  },
+  "stats": {
+    "word_count": 1554,
+    "duration_seconds": 585.94,
+    "segments": 87,
+    "concepts_detected": 4,
+    "candidate_strategies": 0
+  },
+  "concept_mentions": {
+    "Liquidity": 2,
+    "Fair Value Gap": 41,
+    "Premium and Discount": 3,
+    "Buyside and Sellside Liquidity": 12
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [],
+  "key_passages": [
+    {
+      "start": 20.54,
+      "end": 37.2,
+      "text": "inversion. We will also touch on the difference between a Fair Value Gap, a Volume and Balance, and a Gap. The first thing we are going to go over is what is a Fair Value Gap? A Fair Value Gap is a three candlestick pattern where the first candle low does not overlap",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 54.04,
+      "end": 73.64,
+      "text": "this high does not overlap with this low, this is now a Fair Value Gap. Going over to this example, this candlestick high does not overlap with this candlestick's low, so this is also a Fair Value Gap. Now that you understand what a Fair Value Gap looks like, what doesn't",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 111.48,
+      "end": 129.84,
+      "text": "is no Fair Value Gap here. So just to clarify, a gap between the first candle's low and the third candle's high, or the first candle's high and the third candle's low is what creates a Fair Value Gap. Let's go over a few examples of finding Fair Value Gaps. So if you look",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 152.28,
+      "end": 172.96,
+      "text": "opposite direction, and looking at this candle right here, one, two, three, this candle's high does not overlap with this candle's low, which creates another Fair Value Gap. The next thing we are going to go over are Sibbys and Bisis. A Sibbys is a sellside imbalance",
+      "concepts": [
+        "Fair Value Gap",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 173.0,
+      "end": 191.64,
+      "text": "buyside inefficiency. What does that mean? It means that sellside was offered, but buyside wasn't. So it is inefficient. We're simply put a bearish Fair Value Gap. A Bisis is a buyside imbalance, sellside inefficiency. This means that buyside was offered, but sellside wasn't. So",
+      "concepts": [
+        "Fair Value Gap",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [],
+      "score": 16
+    },
+    {
+      "start": 197.88,
+      "end": 219.68,
+      "text": "we have a bearish Fair Value Gap where sellside is offered, but buyside is inefficient. So this creates a Sibbys. Now if we move over here and let this play out, you can see price made a bullish Fair Value Gap here or a Bisis, because it offered buyside, but not sellside.",
+      "concepts": [
+        "Fair Value Gap",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 213.4,
+      "end": 233.24,
+      "text": "bullish Fair Value Gap here or a Bisis, because it offered buyside, but not sellside. And there we go. There is an example of a Sibbys and a Bisis, and I hope that clarifies some things for you guys. There are three things that I look for within a Fair Value Gap. The first",
+      "concepts": [
+        "Fair Value Gap",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 321.54,
+      "end": 341.84,
+      "text": "Gap because price is not respecting it. Now, if we take a look at this busy right here and mark out the consequent encroachment, let's see what happens. Price reaches into the Fair Value Gap, closes out, so it is currently respecting. However, if we take a discount and premium of this range,",
+      "concepts": [
+        "Fair Value Gap",
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 341.84,
+      "end": 360.74,
+      "text": "I would like to have it reach a little bit lower to reach a discount of the range. There price, you can see we touch the consequent encroachment, close outside of here and get a continuation higher. The next thing we're going to look at is Fair Value Gap inversion. And what that is,",
+      "concepts": [
+        "Fair Value Gap",
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 360.74,
+      "end": 382.24,
+      "text": "is when a Fair Value Gap fails or price closes through it, this Fair Value Gap can then be used as support or resistance. But then I would expect price to, if it does return to this old Siby, use it as support and move away. And over here, if it returns to this old busy, use it as resistance",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 460.94,
+      "end": 487.64,
+      "text": "here. So let's see how price reacts to it. And you can see we filled this Fair Value Gap and price closes out of it. So it's currently respecting it. It takes cell side liquidity, comes back up, still respecting the Siby as it closes out of it. Takes cell side liquidity again, comes back up,",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 16
+    },
+    {
+      "start": 523.14,
+      "end": 540.84,
+      "text": "the difference between a Fair Value Gap, Volume Invalence, and a Gap. We already discussed what defines a Fair Value Gap. So let's look into a Volume Invalence and Gap. A Volume Invalence is a gap between the closing and opening price of two candles. And the difference between a Volume Invalence",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 11
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:34.957307+00:00"
+}

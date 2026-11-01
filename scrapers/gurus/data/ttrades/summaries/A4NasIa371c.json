@@ -1,0 +1,221 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "A4NasIa371c",
+    "title": "How to Set Price Targets Using the Fractal Model",
+    "url": "https://www.youtube.com/watch?v=A4NasIa371c",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/A4NasIa371c.json"
+  },
+  "stats": {
+    "word_count": 2611,
+    "duration_seconds": 792.6,
+    "segments": 141,
+    "concepts_detected": 7,
+    "candidate_strategies": 2
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 2,
+    "SMT Divergence": 3,
+    "TTrades Fractal Model": 3,
+    "Candle 2 Closure": 1,
+    "Candle 3 Setup": 10,
+    "Candle 4 Setup": 1,
+    "Protected Swing": 2
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 85.4,
+          "end": 98.32,
+          "text": "of delivery inside this wick and looking to trade this candle three continuation higher, we get our intro candle change in the state of delivery. And we can be looking for price to trade higher here, where to? Well, we can look on this timeframe and see the targets.",
+          "concepts": [
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        },
+        {
+          "start": 189.48,
+          "end": 208.88,
+          "text": "remove the drawings and let this play out. You can see, price makes a high, expands lower, it hits its first target, do we get a retracement or a reversal? No, we get a consolidation, which is a continuation signature, and we trade lower. So just review, make your targets super simple. If",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 8
+        },
+        {
+          "start": 631.16,
+          "end": 648.2,
+          "text": "these drawings because the indicator will mark it out. And we're a bit late to this. But what do we have? We have a protected swing or a continuation that forms right here in candle three, which could have been our entry, right? Now on this entry here, we'd be wanting to get to R to this short term",
+          "concepts": [
+            "Candle 3 Setup",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "Protected Swing Invalidation"
+          ],
+          "score": 23
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 631.16,
+          "end": 648.2,
+          "text": "these drawings because the indicator will mark it out. And we're a bit late to this. But what do we have? We have a protected swing or a continuation that forms right here in candle three, which could have been our entry, right? Now on this entry here, we'd be wanting to get to R to this short term",
+          "concepts": [
+            "Candle 3 Setup",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "Protected Swing Invalidation"
+          ],
+          "score": 23
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 33.84,
+      "end": 49.56,
+      "text": "candles, that is how you are going to get relevant levels for targets. So you can see here we have a candle to closure candle three looking to expand. What is our target? Well, it's just going to be these previous candles lows. So what does that actually look like?",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 49.56,
+      "end": 64.56,
+      "text": "Here you can see with a candle to closure or a candle three closure. What are our targets? Well, here you can see candle ones high as well as the previous candles high as well as previous candles highs that are not shown on this diagram. Similar here on the bearer",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 85.4,
+      "end": 98.32,
+      "text": "of delivery inside this wick and looking to trade this candle three continuation higher, we get our intro candle change in the state of delivery. And we can be looking for price to trade higher here, where to? Well, we can look on this timeframe and see the targets.",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    },
+    {
+      "start": 103.0,
+      "end": 119.32,
+      "text": "what can we do if we align these targets together or look up to a higher timeframe? Here you can see with the daily candle shown here on the left, we're actually in a candle three expansion on the daily. So we can use that candle one target or the previous candles targets to",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 189.48,
+      "end": 208.88,
+      "text": "remove the drawings and let this play out. You can see, price makes a high, expands lower, it hits its first target, do we get a retracement or a reversal? No, we get a consolidation, which is a continuation signature, and we trade lower. So just review, make your targets super simple. If",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 8
+    },
+    {
+      "start": 318.28,
+      "end": 333.08,
+      "text": "trade on multiple different time frames. We're going out to the weekly, you can see the swing point here on the weekly, and then when it reverses, where is the targets that swing high, right? So we're always focused on swing highs and swing lows in the market. So we can go for",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 366.84,
+      "end": 381.96,
+      "text": "can see we go and hit our target. Let's get into another example. So here we are on a daily, and let's go over a few examples of just finding swing points and their targets. So what do we notice here, we have a candle three closure, because candle two didn't close back above this",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 499.8,
+      "end": 517.48,
+      "text": "We have price reaching into a fair value gap over here, the candle to closure. So where would be the targets in this move lower, our previous lows, right, and those are equal lows, which form a fair value gap. So that's a nice target. Here, we form a new swing, what becomes the target there,",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 529.24,
+      "end": 548.2,
+      "text": "it closes, it closes really weak right here, forming a new candle to so then what becomes our target for this move, we would expect to reach for this low. Now, what is the one point in which case, we don't need to see price reach for this target, when there's SMT, or a correlated asset takes out",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 593.64,
+      "end": 610.6,
+      "text": "into this gap. This protected swing right here is holding that level. And then we have a little consolidation and sweep with a candle to closure. So zooming in here, what would be our target on our lower timeframe fractal here. And this is what I'm talking about when I'm combining or",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 631.16,
+      "end": 648.2,
+      "text": "these drawings because the indicator will mark it out. And we're a bit late to this. But what do we have? We have a protected swing or a continuation that forms right here in candle three, which could have been our entry, right? Now on this entry here, we'd be wanting to get to R to this short term",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Trend Continuation",
+        "Protected Swing Invalidation"
+      ],
+      "score": 23
+    },
+    {
+      "start": 719.72,
+      "end": 737.08,
+      "text": "expand. If I align that with a candle three on the lower timeframe, looking for that to expand, I can catch that move intraday and then hold to see if this move goes to the higher timeframe targets. And here you can see it did. So if we go back to the lower timeframe here and rewind, you can see",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 7
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:36.092178+00:00"
+}

@@ -1,0 +1,439 @@
+[00:00] How's it going everyone, and welcome back to another video.
+[00:13] In this video, we are going to talk about points of interest.
+[00:16] I see so many people trying to use way too many points of interest, or they don't use
+[00:21] them properly and end up getting stopped out before the trade goes, reaching into the real
+[00:26] point of interest.
+[00:27] Let's get into the video where I'm going to talk about the only three points of interest
+[00:30] that I use.
+[00:32] So what are the three points of interest that I use?
+[00:34] I use fair value gaps.
+[00:36] I use swing highs and lows.
+[00:39] And then I also use a change in the state of delivery level or an order block.
+[00:43] Now let's talk about when to use each of these, because I really only use highs and lows.
+[00:49] And when I do use a retest of a CISD level, that is in a specific case, which we will
+[00:54] get into.
+[00:55] So let's first talk about swing highs and lows.
+[00:59] When I have a protected swing, so you can see we have a protected swing in area we are trading
+[01:04] away from within this range, I want to look for a point of interest.
+[01:08] What do I have as a point of interest?
+[01:10] Do I have a high or a low or a fair value gap?
+[01:13] That's the question I'm going to ask myself.
+[01:15] Here you can see, we do have a low, and in the bearish case, we do have a high.
+[01:20] So that is my point of interest in the range from the protected swing or the reversal point.
+[01:26] So from the reversal, do I have a point of interest here?
+[01:29] I have a swing high or a swing low.
+[01:31] I'm going to wait for price to reach into that point of interest or make candle closure
+[01:36] or a reversal can confirm it with a change in the state of delivery and look forward to expand.
+[01:41] Now the next one is a fair value gap.
+[01:44] So once again, from that point of reversal, do I have any points of interest?
+[01:49] You can see I don't have a high or a low, but what do I have a fair value gap?
+[01:54] So marking that out, that gives us our point of interest where we want to see price reverse
+[01:59] from or continue.
+[02:00] So we want to see price reach into this point of interest and then trade higher or reach
+[02:04] into this point of interest and trade lower, which you can see there we do.
+[02:08] We get a very strong candle to closure and we continue higher.
+[02:12] Now a CISD level is a point of interest that I rarely use and I only use it in the case
+[02:18] when there is no fair value gap or high or low to be taken out from the point of reversal.
+[02:23] But here you can see we have that same point of reversal, right?
+[02:27] Price closes over the change in the state of delivery.
+[02:30] So it confirms that we want to be trading away from this low.
+[02:33] I look in here, do I have a fair value gap?
+[02:36] No.
+[02:37] Do I have a swing low to be taken out?
+[02:39] No.
+[02:40] So in the case that from the point of reversal to the range that we are currently trading
+[02:45] and we don't have a point of interest, that is when I can use the retest of the CISD level.
+[02:51] So in the bearish sense here, we take out the high, we close through, change in the
+[02:56] state of delivery.
+[02:57] That is our point of reversal from this high, that point of reversal to the range we have
+[03:01] created.
+[03:02] If we have no point of interest in here, no fair value gap, no high to be taken out,
+[03:07] that's when I can use this level.
+[03:08] I can go ahead and extend that out a little.
+[03:11] This is where I'm going to be wanting to look for a swing to form.
+[03:14] What do we have?
+[03:15] We have a candle to closure that forms off that level, taking out the lows, and then
+[03:20] we can see this trade higher.
+[03:23] So just in review, the goal is to find a reversal because this is what we are doing.
+[03:28] We're trading continuations.
+[03:30] So we have a point of reversal.
+[03:32] So from that point of the reversal to the range we have created, do we have a point of interest?
+[03:37] I'm first going to look for a fair value gap.
+[03:39] If we have a fair value gap, I can look to trade that.
+[03:42] If we don't, I can look for a swing low.
+[03:44] If we don't, then I can use the CISD level.
+[03:47] I'm only going to use the CISD level, either a fair value gap or a swing high or low is
+[03:53] present.
+[03:54] Now, one thing I want to mention before we get into examples, there are going to be
+[03:58] cases where there is a fair value gap and a low.
+[04:01] I want to make sure that price hits those points of interest, ideally both of them before
+[04:05] trading away, because I don't really want to trade a sweep of a low right here.
+[04:10] If we have a fair value gap resting just under it, that's when price comes back, takes
+[04:14] out my stop loss and then goes higher.
+[04:16] So let's get into some examples in trading view.
+[04:19] So first, let's talk about finding that point of reversal and then points of interest with
+[04:24] an example of each, then we'll go over how to use it within my fractal model.
+[04:28] So you can see here at a point of reversal, we've taken out this low, we need a change
+[04:33] in the state of delivery.
+[04:35] And now we have a point of reversal.
+[04:37] So when looking for a continuation, what do we want to see?
+[04:41] We want to see from this low to the range that we have created.
+[04:45] So as far as price goes up here, do we have a point of interest?
+[04:49] So let's let this continue.
+[04:52] And what do we have?
+[04:53] We have a very small fair value gap here for the gap between this candle and this one.
+[04:59] So very small fair value gap, but we do have a fair value gap.
+[05:03] So that is our point of interest.
+[05:05] If we want to see price form a higher low and then trade higher.
+[05:09] So if price reaches into that point of interest, what do we want to see some sort of reversal?
+[05:14] You can see we have a candle to closure there.
+[05:18] And then we'd want to see this continue higher.
+[05:20] And you can see, we do get that continuation higher from the point of reversal to the range
+[05:26] that we have created is their point of interest.
+[05:29] In this case, it's a fair value gap.
+[05:31] That's where we want to see a higher low form for a continuation.
+[05:35] Now let's go find one where is a high or low that is swept out.
+[05:39] So here we are in another example.
+[05:41] What do we have?
+[05:42] We have this point of reversal, right?
+[05:44] I sweeps out this low, right?
+[05:46] We find a series of downclose candles that made this low.
+[05:49] We have closed over it.
+[05:51] So assuming that we want to see this low hold, we find the range that we have created, right?
+[05:57] And we're looking for points of interest.
+[05:59] Currently, what do we have?
+[06:01] We look for fair value gaps and lows because we are bullish.
+[06:03] We have a fair value gap right there.
+[06:06] And we also have a fair value gap right here.
+[06:09] So let's see what happens.
+[06:10] We're not trying to guess which one will work.
+[06:12] We're just going to let price tell us what it wants to do.
+[06:16] What do we have?
+[06:18] Is price respecting this one right here?
+[06:20] Well, it has a little dojo candle.
+[06:21] Is it going to form a new continuation?
+[06:24] Let's see.
+[06:25] Right?
+[06:26] And it could if it goes and closes over this.
+[06:30] But this is kind of where I talked about it, right?
+[06:32] I don't really want to trade away from this just leaving a point of interest because now
+[06:37] we have equal lows right here.
+[06:39] We have this low and this low, which are now equal lows, right?
+[06:43] We have a swing low lined up with a fair value gap.
+[06:47] Not only do we not go and close over this, but what do we have?
+[06:50] We have a swing low lined up with a fair value gap.
+[06:54] So you can see in this case, it is both points of interest.
+[06:57] But what do we have?
+[06:58] We have price sweeping out a low as a point of interest to trade higher.
+[07:02] Let's see what happens.
+[07:04] We do end up trading higher there.
+[07:06] So here we are in another example.
+[07:08] You can see we are reacting on the previous candles low.
+[07:11] But do we have, we have a reversal.
+[07:14] Right?
+[07:15] So my indicator marks that out.
+[07:16] Where is our point of reversal?
+[07:17] Where are we trading away from this low?
+[07:20] Do we have a point of interest from that low?
+[07:22] We have a fair value gap right here.
+[07:25] So let's see what happens.
+[07:27] Price reaches into this.
+[07:28] We have a candle closure.
+[07:29] Do we form a continuation?
+[07:32] No, we do not.
+[07:34] Generally, a lot of the times where I use a swing low as a point of interest is when
+[07:39] we have a fair value gap, we don't have that immediate reaction.
+[07:42] And then I can use that as the point of interest, right?
+[07:45] We have this swing low.
+[07:47] That is now a new point of interest because we are lacking that V shape reversal or a strong
+[07:52] continuation, which I talked about in my continuations failing video.
+[07:57] Here you can see we have a much better reaction at that low.
+[08:01] We get the closure through this level now.
+[08:03] And you can see how those points of interest work.
+[08:05] Right?
+[08:06] My main focus is always going to be fair value gaps and then swinging points.
+[08:10] Right?
+[08:11] So looking for a fair value gap, we don't have one of those looking for a swing point.
+[08:16] If we don't have one of those, then we go into this next scenario where if we have neither
+[08:20] of those, then we can use the CISD level.
+[08:22] So let's look at one of those.
+[08:24] So here we are.
+[08:25] And you can see in this case here, we have that CISD or that point of reversal.
+[08:30] But what do we have?
+[08:32] So going this high, we are trading away from do we have any points of interest in this
+[08:36] range?
+[08:37] No, from this high to this low, there are no fair value gaps and there are no highs to
+[08:42] be swept up.
+[08:43] So in the case here where we have no fair value up or no high, then we can use that
+[08:47] CISD level as the point of interest.
+[08:50] Now what do I want to see hold when I'm marking that out?
+[08:54] Right?
+[08:55] I obviously want to see the actual CISD level, but I want to see 50% of the bodies hold as
+[09:00] well.
+[09:01] So I can mark out from the body, I to the body low, mark out 50%.
+[09:07] I don't want to see closures over that level.
+[09:09] I want to see that hold if we're going to trade and get a continuation.
+[09:12] What do we see?
+[09:14] We have a candle to respecting that area.
+[09:17] Let's see if it trades away.
+[09:19] It does.
+[09:20] And then it confirms it by closing through.
+[09:23] Now we have a new protected swing from that range high to this range low.
+[09:28] Is there a fair value gap or a high in this area?
+[09:31] No.
+[09:32] So then we generally want to see this area be respected.
+[09:34] You can see how that can continue.
+[09:36] Right?
+[09:38] And that is what I'm going to look for when I'm looking for points of interest.
+[09:41] It's always the same order.
+[09:43] I'm looking for a point of reversal in line with my model.
+[09:47] And then I'm looking for a fair value gap or a swing high or low.
+[09:51] If neither of those are present, then I will look to use that CISD level and 50% of it.
+[09:57] So let's look at a few examples of using this with my model.
+[10:01] So here we are in this first example.
+[10:02] You can see we have a candle to closure here.
+[10:05] We have that change in the state of delivery confirming this high.
+[10:09] So taking a look at the point of reversal, which is the candle to high to the range that
+[10:14] we have created.
+[10:15] What do we notice?
+[10:17] We have a point of interest in here.
+[10:19] Right?
+[10:20] And ideally we want this to overlap or align with the T spot.
+[10:23] So we can mark out the fair value gap.
+[10:26] So now taking a look, many people would consider this a propulsion block, even if it went up
+[10:32] into this level a little or in the wick, and they would use this as a protected swing, expecting
+[10:38] it to trade away.
+[10:39] I would not consider that because it doesn't have a point of interest, right?
+[10:44] Because we have a fair value gap here, I will not consider it unless it reaches into this
+[10:48] point of interest.
+[10:49] So here we have a fair value gap.
+[10:51] We need it to hit that point of interest.
+[10:53] There it reaches up into the point of interest.
+[10:56] Now we'd be looking for a continuation or a closure through this series of up close
+[11:00] candles into that level.
+[11:02] Let's see what that looks like.
+[11:04] There you can see we get the closure through.
+[11:08] So now we have a new protected swing.
+[11:10] So now we have a new reversal point, right?
+[11:13] We don't want to see this high taken out or really this high inside this range.
+[11:18] What do we have?
+[11:19] We have a fair value gap here and a fair value up here.
+[11:24] Now which one are we going to be looking for?
+[11:26] Well, let's think about this.
+[11:27] In expansions, we want to have shallower tracements.
+[11:30] We don't want to see deeper tracements.
+[11:32] We also want to see 50% of these bodies be respected.
+[11:36] But we don't really want to see price trade up into that upper fair value gap.
+[11:40] We want to see it hold this lower fair value up.
+[11:43] So this would be our point of interest.
+[11:46] I'm not going to use this level.
+[11:48] You could if it overlaps, right?
+[11:50] Cool.
+[11:51] Nice confluence.
+[11:52] But I'm not going to use that because we have a fair value gap in this range.
+[11:59] Right.
+[11:59] And see, it almost reaches up to there, not as ideal, but we get that closure through here.
+[12:05] Now I'd expect this high to hold.
+[12:07] Let's see if this gets a continuation.
+[12:10] We do.
+[12:11] Once again, from this point of reversal, do we have a point of interest?
+[12:14] No fair value up there.
+[12:16] There's a fair value up.
+[12:17] That is our point of interest.
+[12:19] We want to see once it closes through.
+[12:23] Now this trade away.
+[12:26] Right.
+[12:27] And you can see how that continues.
+[12:29] So we can do this on multiple different time frames.
+[12:32] It's all fractal.
+[12:33] Go to the 15 minute.
+[12:35] Let's see what it looks like on here.
+[12:37] All right.
+[12:38] 15 minute.
+[12:39] We have a candle to closure.
+[12:41] What do we have?
+[12:41] Let's go replay this.
+[12:43] Right.
+[12:44] Right here on the formation of it.
+[12:46] What do we have as a point of interest?
+[12:48] We have a fair value gap.
+[12:49] I'm not going to use this level.
+[12:51] I'm going to use the fair value up.
+[12:53] That is my point of interest.
+[12:55] We have that.
+[12:56] Do we form a continuation out of this level?
+[12:59] We do once we close below this.
+[13:01] Then now I'd be looking for this to continue lower.
+[13:06] And there we go.
+[13:07] Right.
+[13:08] Why would I not consider this a protected swing?
+[13:11] It never hits a point of interest.
+[13:12] It has a fair value gap right above it.
+[13:15] So unless this candle reaches up into this level,
+[13:19] into the point of interest, I can't use this.
+[13:22] Right.
+[13:22] I need it to hit a point of interest.
+[13:25] Let's get into another example.
+[13:27] So here we are in another example.
+[13:29] You can see we have a candle to closure here on the daily.
+[13:32] That's confirmed with this change in the state of delivery.
+[13:34] Am I going to use this change in the state of delivery
+[13:36] as my point of interest?
+[13:38] No.
+[13:39] Why?
+[13:39] Because there are fair value gaps or highs in this range.
+[13:42] I'm only going to use this if I have neither a fair value
+[13:46] gap or a swing point.
+[13:49] So what do we notice?
+[13:50] We open up.
+[13:51] Ideally, we want to see a shallow run, right?
+[13:53] Forming this upper wick to trade lower.
+[13:55] What do we have?
+[13:56] Well, we have this fair value gap, right?
+[13:58] What do we notice?
+[13:59] Price has went into it.
+[14:01] Did it form a continuation?
+[14:02] No.
+[14:03] Right.
+[14:03] It's more of a consolidation.
+[14:05] That is when we are then looking at this as our point of interest.
+[14:09] So looking at this as our point of interest,
+[14:12] what do we want to see?
+[14:13] We want to see that continuation form.
+[14:16] Let's see if we form that continuation.
+[14:20] Right.
+[14:21] And no, we don't form it until we do what?
+[14:23] Sweep another high.
+[14:25] Let's see if we form that continuation.
+[14:28] Nope, we do not.
+[14:29] Right.
+[14:30] So now what do I want to see?
+[14:32] Another swing high, right?
+[14:34] I'm just repeating this process in a consolidation
+[14:37] because with a consolidation, we want to look at the edges of the range.
+[14:42] Do we take out the high?
+[14:43] There we take out the high.
+[14:45] Same thing.
+[14:46] Find the series of candles that made the high.
+[14:48] Do we get that confirmation?
+[14:50] Let's see.
+[14:51] We do.
+[14:52] Now we could look for this to trade lower.
+[14:55] And you can see how we can adjust those points of interest
+[14:58] based off of what the chart is telling us.
+[15:01] I'm not going in here and just saying this is where the high of day is going to form.
+[15:05] I'm letting the chart tell me.
+[15:07] Does it sweep it?
+[15:08] Does it confirm it with a change in the state of delivery?
+[15:11] And then do we get a move lower?
+[15:13] Now let's take a look at this continuation.
+[15:14] I skipped a little bit ahead, but after we have that point of reversal, right?
+[15:19] This is repeatable.
+[15:20] This was the point of reversal we were trading away from looking for a point of interest.
+[15:23] Now we have this intro day point of reversal, which I talked about in my previous video.
+[15:28] Once we have that and it trades lower, we'll go ahead and replay it.
+[15:32] I'm just looking in this range.
+[15:34] Do I have a point of interest?
+[15:36] Need to let another candle form.
+[15:38] Now I have a fair value gap, right?
+[15:41] I'm not going to use this level here
+[15:43] because I have a fair value gap.
+[15:45] But looking at the fair value gap, that's where I want to have the continuation form.
+[15:49] We have an ideal candle to closure.
+[15:52] And then now we'd want to see that trade lower, right?
+[15:55] The same thing from this one.
+[15:58] We trade lower.
+[15:59] What do we have as a point of interest from this protected swing?
+[16:02] A fair value gap right here.
+[16:04] Rice reaches into it.
+[16:06] Right. And so it's just a repeatable process.
+[16:09] In the main goal of this video is not to really go over entries or bias or anything
+[16:13] like that. I just want to show you how I choose my points of interest.
+[16:17] I'm always finding a point of reversal or protected swing.
+[16:20] Then looking for a fair value gap.
+[16:22] Or if that is not there, then a swing point.
+[16:25] Only if neither of those are present, will I use a change in the state of delivery as a retest level.
+[16:31] And exiting out of a replay, the store price is at currently.
+[16:35] You can see what does it do?
+[16:36] It respects this level.
+[16:39] If it closes below this, then we have a new invalidation point.
+[16:43] But if you notice, what are we at?
+[16:45] We have already hit our target that we were looking for.
+[16:48] But you can just see how this works.
+[16:50] And if you put together the framework and within my model,
+[16:53] it's a lot easier to find where you want to see continuations form.
+[16:57] So here we are in one final example.
+[16:59] We are trading within candle to here.
+[17:02] But what do we have?
+[17:03] We have a small wick supported by SMT and a change in the state of delivery.
+[17:08] Now let's take a look at that point of reversal to the range we have created.
+[17:12] Right. So that's all of this range here.
+[17:16] Do we have any points of interest?
+[17:18] Nope, we've formed a new swing right here.
+[17:20] Right. No fair value gap.
+[17:23] Right.
+[17:24] So you could say we have a high up here.
+[17:25] But let's be real.
+[17:27] Do we want to see price go all the way back up to sweep out this high?
+[17:31] No, because now we're not respecting 50% of this change in the state of delivery.
+[17:36] And it's just so close to the high that that's not bearish anymore.
+[17:39] So if we don't want to see that high taken, do we have a fair value up?
+[17:43] Do we have a high in here?
+[17:44] No, this is a case where we can use the change in the state of delivery because
+[17:48] we don't have a fair value up or a high in the area we want to see respected.
+[17:54] Because we want to see 50% of these bodies be respected.
+[17:58] So we want to see this area be respected.
+[18:00] So this is where we can look for a retest.
+[18:03] Right.
+[18:04] And then we want to see do we form some sort of confirmation?
+[18:07] There we do.
+[18:07] Right.
+[18:08] We retest that level.
+[18:10] We then get the closure through the series of up close candles into that level retesting it.
+[18:15] And then we could look for a continuation lower.
+[18:19] Right.
+[18:20] And then you could say this is a protected swing.
+[18:22] What area do we want to see?
+[18:24] We have a fair value gap right in here.
+[18:27] We'd want to see if we're going to form a continuation price reach into that.
+[18:32] So this goes through this level right here.
+[18:34] Has it?
+[18:34] Yes.
+[18:35] And then we could look for a continuation lower.
+[18:38] So hopefully that makes sense of when to use a change in the state of delivery level is
+[18:42] when we have no other ones form.
+[18:45] Now let's do Mount see what this looks like.
+[18:47] You can see it's fairly similar in here.
+[18:49] Let's go over this because this is maybe a bit more of a specific case.
+[18:53] We have a candle to that we were trading in.
+[18:55] We still have that same SMT.
+[18:57] And we have a change in the state of delivery here.
+[19:00] We notice we have no fair value gap.
+[19:02] We have no high to be swept out.
+[19:04] So we want to look for a retest of that level.
+[19:07] Now if you notice what happens here, do we retest exactly that level?
+[19:12] No.
+[19:13] Could I still consider it?
+[19:14] Yes.
+[19:15] And that is because the logic of what we are talking about.
+[19:17] Right.
+[19:18] We don't want to see price go back up here.
+[19:21] Right.
+[19:22] We don't want to see a super deep retracement.
+[19:23] But if we don't, what is our point of interest in here?
+[19:26] We just want to see it reverse off the previous candles high.
+[19:30] Could it be nice to see price, reach up and retest this level?
+[19:33] Yes.
+[19:34] Do I require it?
+[19:35] No.
+[19:36] When I have the context, right?
+[19:37] So I would still consider this a continuation because we have no fair value up, no high
+[19:44] above it that could be swept out.
+[19:46] That makes sense in this continuation.
+[19:47] I would also consider that as a continuation there.
+[19:52] So hopefully you found this video helpful.
+[19:54] Hopefully it refines down your entries within the fractal model.
+[19:57] If you have any questions or if you want any new videos made on things you are specifically
+[20:02] struggling with, please leave them in the comment section below and I will get to those.
+[20:05] But with that, have a great rest of your day and I'll see you guys next time.
+[20:09] Have a good one.

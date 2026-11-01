@@ -1,0 +1,301 @@
+[00:00] How's it going everyone and welcome back to another video.
+[00:13] In this video we are going to talk about relative strength and weakness.
+[00:17] This is a highly requested video and generally I want to be longing the stronger asset and
+[00:22] shorting the weaker asset.
+[00:23] So let's get into the PDF on how I do this.
+[00:26] So now there are three things that I look for when determining relative strength or
+[00:29] weakness between correlated assets.
+[00:32] The first will be SMT.
+[00:34] The second will be structure and the third will be candle closures.
+[00:37] So let's go over all three of those.
+[00:39] The first one and the easiest is SMT and that is between correlated assets a difference
+[00:44] in structure.
+[00:45] So here you can see this is a low and this is the same low.
+[00:49] We take a look at the same low here and the same low here.
+[00:53] They are making differences in structure.
+[00:55] You can see this low is a higher low relative to this low.
+[00:59] Well this is a lower low relative to this low.
+[01:02] This is showing that this is a weaker asset.
+[01:05] It is making a new low while this is the stronger asset as it is making a higher low.
+[01:10] So simply put the one that makes the higher low is the stronger asset and the one that
+[01:15] makes the lower low is the weaker asset.
+[01:17] And this will be the same in the bearer scenario but just flipped around.
+[01:22] So if I'm looking to take a long I want to focus on the stronger asset or the one making
+[01:25] the higher low and the weaker asset if I'm shorting or I want to avoid this for long
+[01:30] setups.
+[01:31] The next one is structure and this is what I use when SMT is not present.
+[01:35] So taking a look at that same low the correlated lows here you can see we do not make a difference
+[01:41] in structure.
+[01:42] These are both higher lows.
+[01:44] So you can see this is a higher low relative to this one.
+[01:47] This is a higher low relative to this one.
+[01:50] So what is the difference?
+[01:51] You want to take a look at that extreme low and then the separation between the new low
+[01:55] and that.
+[01:56] So you can see from this higher low there is a decent separation between the previous
+[02:00] low.
+[02:01] However on this asset there is not much separation right it is quite close relative to this low
+[02:07] making almost equal lows.
+[02:08] So when there is not SMT present you can take a look at the separation the greater the separation
+[02:13] the stronger the asset.
+[02:15] So you can see here this is a stronger asset relative to this one because it is farther
+[02:20] away from the extreme low.
+[02:22] So now that you have learned about SMT and the structure or the separation between structure
+[02:27] let's take a look at the third one which is candle closures.
+[02:30] Now this is a bit more of an advanced concept in terms of relative strength and weakness
+[02:35] but when you are taking a look at candle closures they can tell you which asset is stronger
+[02:39] or weaker.
+[02:40] Let's go ahead and start out with candle two here on the low.
+[02:43] You can see we sweep out the previous low and we close nice and bullish.
+[02:47] However on this weaker asset we sweep out the low but we can't close bullish or back
+[02:51] above candle ones low.
+[02:53] This is a pretty solid sign that this asset on the right is stronger because it is showing
+[02:57] that strength in its candle to closure.
+[03:00] Now as we continue into candle three you can see they are relatively the same there but
+[03:04] candle four also shows the strength right.
+[03:07] This is closing as a bullish candle while on the weaker asset this is a bearish candle.
+[03:12] So you can see here if you're just taking a look at these candle closures you can use
+[03:16] candle closures alone to determine relative strength or weakness.
+[03:21] As you can see this is a stronger asset and this random candle right here.
+[03:25] We look at that same candle over here and it shows weakness right a doji candle closing
+[03:29] back inside its previous candle while this one is closing over.
+[03:33] So when you pair all three of these things together SMT candle closures and structure
+[03:38] that is what I used to determine relative strength and weakness through correlated assets.
+[03:44] Let's get into trading view and go over a few examples.
+[03:46] So here we are with our first example and before we begin it is important that you understand
+[03:51] that you can only do this with correlated assets.
+[03:54] So for example here is the S&P 500 here is the NASDAQ.
+[03:59] These are correlated assets and they should have the same structure but sometimes they
+[04:03] do not.
+[04:04] So here you can see if we reference the same high right here so the same time frame high.
+[04:10] What do we notice?
+[04:11] We go ahead and mark that out on both assets.
+[04:14] One asset has taken that out while the other hasn't.
+[04:17] So we can go ahead and consider that an SMT or a divergence between the assets as NASDAQ
+[04:23] has made a lower high while the S&P has made a higher high.
+[04:26] So by using that we can determine which is stronger in which is weaker.
+[04:31] The NASDAQ is weaker as it is making the lower high.
+[04:35] The S&P is stronger as it is making the higher high.
+[04:39] So that is how you use SMT to determine relative strength or weakness.
+[04:44] Now the next one is separation in candle closures.
+[04:47] Let's see if we can also do that on this example here.
+[04:50] So let's let this play forward and see if we can find any examples of that.
+[04:55] So you can see very similar structure in terms of candle closures between these assets here.
+[05:00] You can see weakness in both assets.
+[05:02] So after we play through that candle you notice the S&P has a strong bullish candle closing
+[05:08] over the body right a nice candle to closure.
+[05:11] If we notice on the NASDAQ here we have more of a doji a small range candle.
+[05:15] So what is that telling us in terms of just candle closures and strength and weakness
+[05:19] here.
+[05:20] It shows us that the S&P is stronger the NASDAQ is weaker.
+[05:25] Let's let this play ahead.
+[05:26] You can see that on this next candle it becomes very clear.
+[05:29] We are not only taking out this previous candle is low which we are not over here.
+[05:34] But look at the closure.
+[05:35] This is a doji candle while this is an engulfing bearish candle.
+[05:39] So combining those things together what do we notice.
+[05:42] We notice that we have the weakness from the SMT.
+[05:45] We're using candle closures to also show us the weakness and the strength on this side.
+[05:51] Let's also see if we can use one which is separation and we can start to see that here.
+[05:56] Let's take a look at the separation from this previous high.
+[05:59] So if we're marking out this previous high on both assets how close are we to this high.
+[06:06] If you notice with the S&P here we are relatively close to this high only a few points away.
+[06:12] How close are we to that high on NASDAQ.
+[06:15] Right we are quite far away from that high.
+[06:18] So you can see the separation between those assets also shows you the relative strength
+[06:23] and weakness.
+[06:24] So when you combine all three of those things together in practice doing that you really
+[06:29] understand the relative strength and weakness between assets.
+[06:32] So once again SMT shows strength or weakness.
+[06:36] We can use candle closures as well as separation.
+[06:39] So as we let this play ahead what do we notice.
+[06:42] Right we notice they both get a drop off but which drop off is substantially weaker.
+[06:48] Well that would be NASDAQ right.
+[06:49] It has a larger move and this is just an anomaly of a day but it has a great example of combining
+[06:55] all three of those things that we look for together.
+[06:59] Let's get into another example.
+[07:00] So here we are in another example and we have gold futures on the right here and then we
+[07:05] have gold GBP on the left here.
+[07:07] Let's take a look at this price action here and what do we notice.
+[07:10] Right let's say we're going into this with a bearish bias.
+[07:14] So we can take a look take a look at our current high and look to the left.
+[07:18] We've taken out this high here all we have in on this side.
+[07:22] So what is that.
+[07:23] That is an SMT.
+[07:25] And what does that tell us is gold or gold GBP weaker gold GBP.
+[07:30] Right now it's another thing we can look for.
+[07:33] Well in this case we don't have separation from these highs but you can look at the separation
+[07:37] from the lows right which is also sometimes just another SMT.
+[07:42] If you notice we're taking out this low here while we are not taking out the low here.
+[07:47] So that shows that this asset is weaker while this one is stronger.
+[07:51] So we don't really use separation much in this example here but let's take a look at
+[07:55] the closures.
+[07:57] And this one has a specific example of where it is important.
+[08:00] If you notice we take a look we'll zoom in here.
+[08:03] You can see not much difference in the closures but there is one big thing we notice here.
+[08:09] You notice how this candle closes below validating this change in the state of delivery.
+[08:15] Well if you take a look at this same example on the right here we can't close below that
+[08:19] level.
+[08:20] So what does that show me.
+[08:21] It shows me that there is weakness in gold GVP while gold is a slight bit stronger.
+[08:27] Do they both work out.
+[08:28] And you can see they both continue lower but that is a good example of where not all three
+[08:35] will show up.
+[08:36] But one thing I really want you to pay attention to is a lot of times the closures specifically
+[08:42] candles that create the change in the state of delivery or continuation will show you
+[08:46] that relative strength or weakness.
+[08:48] So another just small example here is if you take a look at this price action here it's
+[08:53] very subtle.
+[08:54] But what do we notice this candle is closing over its previous body.
+[08:58] This one is not.
+[08:59] And it shows you that this one has the strength at that time right taking out this high first.
+[09:05] Let's get into another example.
+[09:06] So here we are in our next example and we're going to look at all three things once again
+[09:10] SMT separation as well as candle closures.
+[09:15] What do we notice here.
+[09:16] Do we have an SMT.
+[09:17] Well we have a couple right.
+[09:20] So you notice we take a look at this high here.
+[09:22] This asset has taken out this high.
+[09:25] You can see from this high over here we've taken out that high on this right asset.
+[09:31] So that is one SMT showing strength in this asset weakness in this asset.
+[09:37] But we also have another one.
+[09:39] And this is going to show you that there are multiple SMTs across multiple different time
+[09:43] frames sometimes.
+[09:45] If you take a look at this high here right we take a look we've taken it out here where
+[09:49] we haven't taken it out here.
+[09:52] So we have multiple SMTs here.
+[09:54] Both are telling us the same thing.
+[09:56] This is the weaker asset.
+[09:58] This is the stronger asset.
+[10:00] Now can we use separation here.
+[10:02] Not to the upside right.
+[10:04] We don't really have it.
+[10:05] These are trading relatively in the same spot on both of these upside retracements into a
+[10:10] fair value gap here.
+[10:11] But what can we notice.
+[10:12] We can notice that we have what taken out this low and we haven't taken out this low
+[10:17] here which shows you what weakness in this asset strength in this asset.
+[10:23] Does that candle closures tell us much.
+[10:25] No they're all relatively the same here.
+[10:27] So this would tell us what though where do we want to focus this asset if we are bearish
+[10:32] right.
+[10:33] And so let's see if we get this continuation lower.
+[10:36] And we do get that trade lower right.
+[10:39] You can see they're relatively moving the same way.
+[10:42] But you can also sometimes use candle closures right.
+[10:44] So you can see we're getting a little bit more strength here.
+[10:47] Well let's see what happens on these next couple candles here.
+[10:50] So we can use candle closures.
+[10:55] This is where now the strength has switched a little where this is getting weaker while
+[11:00] this is getting stronger.
+[11:02] How can you tell that.
+[11:03] We can tell by the candle closures.
+[11:05] This is a consolidation is kind of remaining flat.
+[11:07] While this one is getting a bit stronger right.
+[11:10] It's having more bullish closures.
+[11:12] And so that tells you strength and weakness is not going to remain consistent all the
+[11:16] time.
+[11:17] Now this one's closer to the lows right.
+[11:19] So it gets a move towards these lows quicker.
+[11:22] But this one in this area here I would say is weaker.
+[11:25] So let's get into another example.
+[11:27] So here we are in this next example and we have a bullish bias because we have a bullish
+[11:32] fractal model here.
+[11:33] So just using this price action here which one is stronger and which one is weaker focusing
+[11:38] on the upside move.
+[11:40] So taking a look there's not really a very obvious SMT in here right.
+[11:44] You can see here's this low.
+[11:46] We kind of have the same structure on the downside here.
+[11:49] This is where we can use separation.
+[11:51] And what do I mean by that.
+[11:53] We'll take a look from this low here.
+[11:55] How close are we to that low or this low right.
+[11:59] So take a look at the structure there.
+[12:01] That's the same as this one here.
+[12:03] And you can see this is quite a bit further away than this one here or you could even
+[12:08] use this low.
+[12:10] It doesn't really matter which low you choose to look for separation.
+[12:14] You can use multiple right.
+[12:15] You can use all of those there.
+[12:17] So the separation is telling us what this asset here on the left or gold euro is stronger.
+[12:24] Now how else could we look at that.
+[12:26] Well there's a few subtle cues but another obvious one would be this one hasn't taken
+[12:31] out the high.
+[12:32] This one has.
+[12:33] So this is the stronger asset.
+[12:36] And so if you let that play out let's see if we can look at some candle closures here
+[12:39] right.
+[12:40] And both kind of tell us the same thing.
+[12:42] But once again subtle things this one is sweeping out the high closing below.
+[12:48] All this one is closing over the high closing over its previous candle.
+[12:52] So this is showing us the strength in gold euro over gold futures.
+[12:56] So let's get into another example.
+[12:58] So here we are in one more example and let's combine everything together once again.
+[13:04] So first let's look for SMT.
+[13:06] And what do we have.
+[13:07] Well we can take a look.
+[13:10] Here is this low.
+[13:11] You notice how we can't take out this previous low here.
+[13:14] That is SMT.
+[13:15] And we can find the same low on this asset here and take a look.
+[13:20] We have SMT on this low.
+[13:22] This one is bullish right.
+[13:24] It is making a higher low while this one is making a lower low.
+[13:28] But that's not the only SMT right.
+[13:30] We can take a look at this low.
+[13:32] This one is all the way up there while this one has ran out its low here.
+[13:37] So just using SMT this one is propped higher.
+[13:40] It is stronger.
+[13:41] So I want to be focused on that one according to SMT.
+[13:45] Let's say for instance we would use separation if we had this low and it was not yet taken
+[13:50] out because then it wouldn't technically be an SMT right because neither asset has taken
+[13:56] it out.
+[13:57] But this one is propped so much lower to the low than this one.
+[14:00] So putting that back where it was.
+[14:02] What can we use next.
+[14:04] Well candle closures as well as SMT.
+[14:06] If you notice on the upside here we're taking out highs that is far more bullish than being
+[14:11] propped lower like that.
+[14:13] Right.
+[14:14] Candle closures.
+[14:16] We take a look at the same low.
+[14:17] They're both bearish candles.
+[14:19] But what do we notice about the closures here.
+[14:21] Right.
+[14:22] Let's be specific.
+[14:23] This closure can't close below this down close candle below this low.
+[14:27] This one is closing below those down close candles.
+[14:30] Right.
+[14:31] That's showing you it's a much weaker close.
+[14:32] Now let's take a look at the next candle.
+[14:34] Right.
+[14:35] This candle.
+[14:36] Yes it's bullish.
+[14:37] Look at it on this one.
+[14:38] It's bought all the way back up and closing over this down close candle.
+[14:42] Right.
+[14:43] So this one is forming a continuation.
+[14:45] All this one is not yet reaching for the opening price of this down close candle.
+[14:49] We can tell that this is a stronger asset.
+[14:51] So if we want to trade it we'd rather focus on trading the stronger asset and you can
+[14:55] see how it's getting that expansion.
+[14:57] And I'll see as we let this play forward.
+[14:59] You can see.
+[15:01] Yes we take out the high.
+[15:02] Right.
+[15:03] And we do have a bearish candle here.
+[15:05] This is continuing through the high and then this one starts to catch up.
+[15:08] Right.
+[15:09] But this is the stronger asset.
+[15:11] Now just in review using SMT and then structure or separation between highs and lows paired
+[15:18] with candle closures on correlated assets.
+[15:21] You can determine the relative strength in which asset you should focus on.
+[15:25] Now this shouldn't be used alone.
+[15:27] Right.
+[15:28] You want to have a higher time frame framework.
+[15:29] I'm just going to be trading something because oh this one looks more bullish than the other.
+[15:34] You still need a strategy behind it.
+[15:36] But with that said I hope you learned something.
+[15:39] If you enjoyed it please give it a like and subscribe and I'll see you guys next time.
+[15:43] Have a good one.

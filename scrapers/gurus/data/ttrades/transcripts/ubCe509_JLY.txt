@@ -1,0 +1,246 @@
+[00:00] How's it going everyone?
+[00:12] This video is going to be about time frame alignment.
+[00:15] We're going to talk about how to align the time frames together, specifically how to
+[00:20] go from a higher time frame point of interest to a lower time frame entry using the entry
+[00:25] sequence.
+[00:26] Now the first thing we have to understand is how I use top down analysis.
+[00:31] With top down analysis I am focused on three time frames, a higher time frame for bias,
+[00:37] a middle time frame for structure, and a lower time frame for entry.
+[00:41] Now with the structure of this video I'm just going to be focused on the structure
+[00:45] and entry and how to align those with a bias.
+[00:49] If you have questions regarding bias please leave them in the comment section below or
+[00:53] check out the other videos regarding daily bias on my youtube channel.
+[00:57] So in this scenario we have formed a swing point and I am anticipating price to continue
+[01:02] lower the next day.
+[01:04] So with that bias I would then go down to my structure and my entry time frame.
+[01:08] Now what do I look for on my structural time frame?
+[01:11] Well I want to be looking for one, this to align with my higher time frame bias.
+[01:16] So if my bias is bearish I want to wait for either a change in the state of delivery or
+[01:21] a market structure shift to allow for my structural time frame to be bearish which aligns with
+[01:26] my bias.
+[01:27] Now once this is bearish then I want to wait for a key level.
+[01:31] And what do I mean for a key level?
+[01:33] Well that is either going to be a fair value gap, a high or a low, or an order block.
+[01:37] So you can see here price retraces into a fair value gap retesting the change in the
+[01:43] state of delivery.
+[01:44] So now that my structural time frame is aligned bearish and I have reached into a point of
+[01:48] interest all I need to do is wait for my lower time frame entry to align with my higher
+[01:53] time frame bias and structure.
+[01:55] Now after I have an order block formation on the lower time frame in which price moves
+[02:00] from bullish and then now it is bearish.
+[02:03] Now all three of my time frames from my lower time frame to my structural time frame to
+[02:07] my bias are all aligned bearish and that is when expansion occurs.
+[02:12] So what time frames do I pair together?
+[02:14] I pair the weekly with the four hour, the daily with the one hour, the four hour with
+[02:19] the 15, the one hour with the five, the 30 minute with the three minute and the 15 minute
+[02:25] with the one minute.
+[02:27] Now I align my bias the same way as I would align my structure.
+[02:30] So let's say I want to take an entry on the five minute.
+[02:33] That aligns with the one hour.
+[02:35] So now I have my entry time frame and my structural time frame.
+[02:38] But where do I get bias?
+[02:40] Well I want to see what aligns with the hourly.
+[02:42] So finding the hourly, I align it with the daily to get bias.
+[02:46] So let's say I want to take an entry on the one minute that aligns with the 15, the 15
+[02:51] minute aligns with what?
+[02:53] The four hour time frame.
+[02:54] So I'd use the four hour for bias, the 15 minute with structure and the one minute for
+[02:59] entry.
+[03:00] So what does an example of this look like?
+[03:02] Well you can see here we retrace into a swing low, which is a key level and a point of interest
+[03:08] on our structure time frame.
+[03:10] So then using the time frame alignment, I would look for an entry on the entry time
+[03:14] frame using my entry sequence.
+[03:17] So for example, if this is a daily chart, what would this be?
+[03:21] An hourly chart because the daily aligns with the hour.
+[03:25] So let's hop into trading view for some examples.
+[03:28] So here we are with our first example of time frame alignment.
+[03:32] If you are wondering what time frame I'm on or the asset I'm on, it will be in the bottom
+[03:36] right hand corner here.
+[03:37] So you can see similar to the example previous, we have a wrench into an old high.
+[03:43] So if I'm anticipating price to reverse off this old high or get a retracement entering
+[03:47] a new phase of price delivery, I would then want to go to its lower time frame pairing
+[03:52] and wait for a reversal.
+[03:54] So using the weekly time frame, I would then go down to the four hour time frame down here
+[03:59] on the four hour time frame.
+[04:00] I'd want to wait for a shift in trend, which I use a change in the state of delivery, which
+[04:06] is the series of up close candles into that important level.
+[04:10] And you can see we have not closed below that yet.
+[04:12] So we haven't shifted the structure from bullish to bearish.
+[04:17] Here you can see we are entering a consolidation.
+[04:21] And now we sweep out these highs to our left.
+[04:24] So with sweeping out our highs to our left here, we have made a new high, which then
+[04:29] using the series of up close candles into important level.
+[04:33] This is now my shift in structure or my change in the state of delivery.
+[04:38] Now with this, I could look to trade the reversal if I want now that the time frames are aligned
+[04:43] or I could wait for another continuation entry.
+[04:48] So you can see here, we get a retracement back into the range.
+[04:52] And once again, now we have a new order block formation.
+[04:58] So with our time frames bearish, I then could either look to take an entry here or go to
+[05:02] a lower time frames to seek an entry there as well.
+[05:06] So what would that look like?
+[05:07] We can drop down to the 15 minute time frame here because that aligns with the four hour
+[05:12] time frame.
+[05:13] So now down here on the 15 minute time frame, we have our four hour order block level.
+[05:19] And so when price reaches into that, we want to align our 15 minute time frame with our
+[05:24] four hour time frame.
+[05:26] So waiting for a change in the state of delivery here, let's see if we can get it and then
+[05:29] get on side with this move.
+[05:33] You can see we cannot close below it.
+[05:36] So letting this continue, we now make a new high with making a new high.
+[05:41] We now have a new series of closed candles.
+[05:48] Now you can see we get this closure below.
+[05:50] So now I could anticipate since this price action here is now bearish, I'm expecting
+[05:55] this high to hold.
+[05:57] I could get on side with this move here.
+[06:00] Now I can look to target to are on my entry timeframe.
+[06:05] And there you see we have hit to are.
+[06:07] So just to review what happened here, if we go back out to our four hour timeframe, we
+[06:12] used a bias or a point of interest from the weekly timeframe to wait for a four hour reversal.
+[06:20] Once this four hour is in bearish structure, I then can look for entries on the four hour
+[06:24] chart to go lower, or I can also use that to then drop down to a lower timeframe pairing
+[06:30] to look for entries that align.
+[06:32] So in this scenario, we aligned the 15 minute bearish with the four hour bearish and then
+[06:37] the weekly bearish as well.
+[06:39] So dropping back out to the weekly timeframe, you can also see we put in a swing point there.
+[06:44] So we were trading an expansion candle short.
+[06:48] So going back to the four hour timeframe, let's say I don't want to go to the lower
+[06:52] timeframe and get caught up.
+[06:54] What would that look like?
+[06:55] That would look like taking an entry on the four hour timeframe and using a four hour
+[06:59] chart for my invalidation as well.
+[07:02] There you can see we would have hit to are, or if we wait for a swing low to get taken
+[07:06] out, let's see what this looks like.
+[07:11] And you can see we hit our take profit there as well.
+[07:13] The main point I'm trying to get across here is if I'm entering on the 15 minute chart,
+[07:18] I also want my four hour chart bearish and I also want my weekly chart bearish.
+[07:22] The whole goal of catching expansions is to have all of my timeframes aligned in one direction.
+[07:28] And that is when you get this aggressive expansion move.
+[07:31] So let's hop into a few more examples.
+[07:33] So here we are with our next example.
+[07:35] You can see we are on the goal daily chart.
+[07:38] Do we have a point of interest or a reason to be looking for a setup?
+[07:43] And here we have three days of expansion into an old high.
+[07:47] So looking for a new phase of price delivery, if we're going to form a reversal, that would
+[07:52] occur off previous day high.
+[07:54] So let's drop down to the hourly chart, since that is what aligns with the daily chart.
+[07:58] So here we are on the hourly timeframe.
+[08:00] And if we are looking for a reversal off previous day high, we want to wait for that to get
+[08:05] swept out.
+[08:07] Here you can see we sweep out our previous day high.
+[08:11] So looking at this series of up close candles into that point of interest, I am then looking
+[08:17] for that as my change in the state of delivery.
+[08:19] So now aligned with my daily point of interest of an old high and the context of price trading
+[08:25] back towards the weekly open, we now have aligned our hourly with our daily timeframe.
+[08:32] Now with this, I could look to take an entry here, or once again, I could wait for the
+[08:36] New York session or a lower timeframe point of interest to be hit.
+[08:40] So you can see we reach back into this little fair value gap and retest our change in the
+[08:46] state of delivery.
+[08:47] So now what would I want to see here?
+[08:48] Well, I'd want to see either a lower timeframe setup or a new opposing candle or order block
+[08:54] formation.
+[08:55] So you can see we don't close below there, but now we close below here.
+[09:03] So what is this?
+[09:04] This is now a propulsion block because it is an order block formed off of another order
+[09:08] block.
+[09:09] So I could either look to take an entry here or drop down to the five minute.
+[09:13] So down here on the five minute, you can see where price retested our hourly order block
+[09:19] here.
+[09:20] And we have then closed below the up close candles into that point of interest.
+[09:26] So now the five minute is aligned bearish.
+[09:28] The hourly is aligned bearish.
+[09:30] And that also aligns with our bias.
+[09:33] So with all directions pointing down, it is then set up for expansion.
+[09:38] So looking to get on side at the open of the new candle, you can see here we start to get
+[09:45] a little bit of consolidation, but then we eventually expand lower hitting our to our
+[09:51] take profit.
+[09:53] So just to review going back out to our hourly timeframe, we have a reason to be looking for
+[09:58] a short setup from the bias of expanding away from the weekly open into a point of interest,
+[10:04] three days of expansion.
+[10:05] But most importantly, I'm not going to look for entries until my lower timeframe or my
+[10:10] structure timeframe shifts in that direction.
+[10:13] And then I'm looking to align my lower timeframe with that higher timeframe structure.
+[10:18] So in this case, using a five minute entry, I want to have a five minute bearish setup
+[10:23] that aligns with the hourly bearish structure.
+[10:25] And you can see that is when you get expansion conditions.
+[10:30] So here we are with our next example, and we are on the Dow 30 minute chart.
+[10:34] Now we don't sweep out this low, but we do have an SMT.
+[10:38] So using the daily profile, we have all these failure swings on the highs or in the New York
+[10:43] session, we have an SMT.
+[10:45] This is looking like a New York reversal setup.
+[10:48] Now with an SMT, I can use this as my lower timeframe confirmation.
+[10:54] And once we get a closure over that, that is then telling me that this low should hold.
+[10:59] And with that being held, I want to wait for a point of interest to be hit on the 30 minute
+[11:03] chart before dropping down to my aligned three minute chart.
+[11:07] And you can see here we have formed a bullish fair value gap.
+[11:13] So if price reaches into this on the three minute chart, I then want to wait for the
+[11:17] three minute chart to align with the 30 minute chart.
+[11:20] Let's drop down to the three minute timeframe.
+[11:22] So here we have that 30 minute fair value gap.
+[11:25] And you can see as we let this play out here, this is bearish price action here.
+[11:30] And when we reach into the 30 minute fair value gap, I want to wait for this to align
+[11:34] with my higher timeframe, which is the 30 minute chart bullish.
+[11:39] Once we get the closure through the down close candles into the point of interest, also sweeping
+[11:44] out the lower timeframe lows here, I can then anticipate this low to hold as we have aligned
+[11:50] our timeframes and set it up for expansion.
+[11:53] So getting on side here, my stop on the low and then looking for two are.
+[12:01] Let's see how this plays out.
+[12:04] You can see we get tagged in and we continue to two are.
+[12:09] So the main thing I want to show here is we let the reversal form on the higher timeframe,
+[12:14] right?
+[12:14] And then we have a 30 minute chart trending up.
+[12:18] So when we align the three minute chart with that 30 minute chart in a point of interest,
+[12:24] that is when expansion occurs.
+[12:26] So let's take a look at our last example here.
+[12:29] You can see that Euro USD is trending downwards here.
+[12:32] And what do we have?
+[12:33] We have price retracing into a fair value gap and sweeping out this high.
+[12:38] So viewing this as a consolidation, if we sweep out the high of the consolidation, what should
+[12:44] we reach for the low of the consolidation?
+[12:47] And that is because we have accumulation, manipulation, and then I'd anticipate distribution.
+[12:53] So using this as my bias, let's go all the way top down from a daily bias to aligning
+[12:58] that with the hourly timeframe and then aligning the five minute with that as well.
+[13:03] So here we are down on the hourly chart.
+[13:06] We have our bearish bias from the daily chart looking to trade from consolidation
+[13:10] highs to consolidation lows.
+[13:13] Now, to align our hourly timeframe bearish to align with our bias.
+[13:17] Do we have that confirmation?
+[13:20] We do because into that important level or sweeping out those highs, we have this series
+[13:24] of up close candles and those were closed below.
+[13:27] So looking for the lower half or the mean threshold of that change in the state of delivery,
+[13:33] I want to see this area of respect to continue lower.
+[13:36] So as we continue in towards this London session, you can see we start to retrace up into
+[13:43] this point of interest.
+[13:44] So if we are going to have this area of respect price and push it lower, we'd want to wait
+[13:50] on the five minute timeframe to align with our hourly.
+[13:53] So we're tracing back into this hourly point of interest from the change in the state of
+[13:57] delivery, our fair value up here and sweeping out our high to our left here.
+[14:02] Let's drop down to the five minute timeframe because we got this candle closure here,
+[14:07] which I could anticipate a reversal.
+[14:09] So down here on the five minute timeframe, we have aligned our daily with our hourly.
+[14:15] Now is our five minute timeframe aligned?
+[14:17] Not yet because we have not had that five minute confirmation.
+[14:22] That price is bearish yet.
+[14:23] So I have to wait for the closure through this series of up close candles into important level.
+[14:28] So now with this closure, I could look to get on side here with a short setup with my stop
+[14:33] on the high or wait for any retest.
+[14:44] So with this consolidation, I'm not anticipating price to reverse from a consolidation.
+[14:50] Are we respecting point five of this change in the state of delivery?
+[14:54] We are as we have not closed over.
+[14:56] So looking for this to become a propulsion block, do we get the closure below this?
+[15:04] And there we get the closure below this.
+[15:06] So now I would not anticipate price to trade to this high.
+[15:09] So I would look to get on side here with my stop over this swing high looking for two are.
+[15:15] Now, since I am aligning my daily with the hourly and the five minute,
+[15:19] what I can do is I can look for this to have my target be hit or get stopped out.
+[15:27] But what else can I do?
+[15:29] Since I'm aligning these timeframes together, I can also draw targets from my hourly timeframe.
+[15:34] So if I'm using my hourly timeframe here, I could then look for runners to go take out
+[15:39] this low here, this short term low, or to go reach for this low down here or the consolidation
+[15:46] low on the daily timeframe.
+[15:49] You can see when you align all the timeframes together, that is when you get expansion.
+[15:55] And there we go and take out that low.
+[15:58] So I hope you found this video helpful.
+[16:01] If you did, please consider liking and subscribing.
+[16:03] And I hope you have a great rest of your day.
+[16:05] See you guys next time.

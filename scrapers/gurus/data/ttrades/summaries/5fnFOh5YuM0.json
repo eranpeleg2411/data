@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "5fnFOh5YuM0",
+    "title": "TTrades Fractal Model - Trading Candle 4",
+    "url": "https://www.youtube.com/watch?v=5fnFOh5YuM0",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/5fnFOh5YuM0.json"
+  },
+  "stats": {
+    "word_count": 3324,
+    "duration_seconds": 1019.74,
+    "segments": 327,
+    "concepts_detected": 6,
+    "candidate_strategies": 3
+  },
+  "concept_mentions": {
+    "Liquidity": 4,
+    "Fair Value Gap": 6,
+    "SMT Divergence": 4,
+    "Premium and Discount": 2,
+    "Candle 3 Setup": 4,
+    "Protected Swing": 1
+  },
+  "spoken_time_references": [
+    "London session",
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 866.7,
+          "end": 876.66,
+          "text": "We have expansion met with expansion, which I would view as a reversal. We have all these lows over here to our left. So I could take a look at those as my draw on liquidity.",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 11
+        }
+      ]
+    },
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 136.2,
+          "end": 148.88,
+          "text": "So I could be looking for a continuation higher. Now where would I want that continuation higher from candle three, mark out the EQ. I'd want to see the point five of this be respected to trade higher if we're going to",
+          "concepts": [
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 12
+        },
+        {
+          "start": 578.46,
+          "end": 587.26,
+          "text": "Now let's say I miss my first entry right here looking for two are, which is what I would look to take. I can still look for a continuation entry.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 8
+        },
+        {
+          "start": 987.3,
+          "end": 997.86,
+          "text": "Do we get a continuation or do we get stopped out? And you can see we almost get stopped out, but we allow price to trade back up into that fair value gap.",
+          "concepts": [
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 10
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 250.56,
+          "end": 265.96,
+          "text": "be the closure through the down close candles that formed that SMT. So now with that closure through, I can anticipate this London reversal to hold if we're going to trade higher, and then I'll get a New York continuation.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 12
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 54.84,
+      "end": 67.4,
+      "text": "I can anticipate a bearish continuation. And paired with my equilibrium video, with a swing low and a bullish continuation, I would be looking for price to continue out of the upper half of candle threes range.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 136.2,
+      "end": 148.88,
+      "text": "So I could be looking for a continuation higher. Now where would I want that continuation higher from candle three, mark out the EQ. I'd want to see the point five of this be respected to trade higher if we're going to",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 160.52,
+      "end": 168.6,
+      "text": "Why am I not looking for this to go lower? Well, if you take a look at ES, ES swept out this low. So we have SMT here.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 250.56,
+      "end": 265.96,
+      "text": "be the closure through the down close candles that formed that SMT. So now with that closure through, I can anticipate this London reversal to hold if we're going to trade higher, and then I'll get a New York continuation.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 12
+    },
+    {
+      "start": 436.84,
+      "end": 448.18,
+      "text": "So this would be trading candle three in the swing. So I'm going to let one day pass and now we have that confirmed swing low. And if you notice, we are focusing on this higher timeframe range.",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 578.46,
+      "end": 587.26,
+      "text": "Now let's say I miss my first entry right here looking for two are, which is what I would look to take. I can still look for a continuation entry.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 8
+    },
+    {
+      "start": 673.7,
+      "end": 680.26,
+      "text": "Do we have any low resistance liquidity? Well, we have all these failure swings at the high here. These equal highs.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 750.78,
+      "end": 759.5,
+      "text": "Now, right here, we have an SMT. So I don't need this low to get taken out anymore. And then I can look towards these down close candles here.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 780.18,
+      "end": 790.78,
+      "text": "Right here, we get a retracement could look for a buy in this fair value gap. This swing point as we continue higher, or as we come into the New York session, we have a London reversal.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 866.7,
+      "end": 876.66,
+      "text": "We have expansion met with expansion, which I would view as a reversal. We have all these lows over here to our left. So I could take a look at those as my draw on liquidity.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 11
+    },
+    {
+      "start": 914.02,
+      "end": 923.1,
+      "text": "It could reach up into this fair value gap here, but that is the farthest I would want to see it go before it would drive lower. So let's see what the overnight session does.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 987.3,
+      "end": 997.86,
+      "text": "Do we get a continuation or do we get stopped out? And you can see we almost get stopped out, but we allow price to trade back up into that fair value gap.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 10
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.586779+00:00"
+}

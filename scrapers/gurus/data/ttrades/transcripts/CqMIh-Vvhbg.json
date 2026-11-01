@@ -1,0 +1,2051 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "CqMIh-Vvhbg",
+    "title": "Intro To TTrades Fractal Model [Indicator & Settings]",
+    "url": "https://www.youtube.com/watch?v=CqMIh-Vvhbg",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "model": "small",
+  "device": "cpu",
+  "language": "en",
+  "text": "How's it going everyone? This video is going to be a basic introduction into my fractal model. However, the main focus of this video is going to be going over my indicator and its settings and how it is used. So let's hop into the first example here to explain the fractal model, and then how the indicator would plot it. So my fractal model relies on the foundational understanding that the market cannot reverse without a swing point. So you can see here the market has formed a swing point to reverse or go from bearish to bullish. And if we're going to reverse from bullish to bearish, we are also going to form a swing point. Now, what do I use to determine if the market is likely to reverse? I will use candle closures. So you can see here price has swept out its previous candles high and then closed back inside the range. So if you've seen my daily bias video, you know that I would be bearish or looking for a previous day low. So with that understanding that I'd be looking for a previous day low or a run lower this next day, I'd be looking for an open high low close. Now to confirm this bias, I would go down to the hourly timeframe from the daily and look to see if we have a change in the state of delivery. So down here on the hourly chart, do we have a change in the state of delivery confirming this swing point? Well you can see we have closed through the series of up close candles that have made this high. So I consider this high protected and then I will look to trade the open high low close in the following candle. So you can see here as we let this play out, you can see we reach higher, we sweep out a high to the left and then we get an opposing candle formation here. So I'd anticipate this wick to have formed and then I can look to trade this lower the rest of the day. So I could either get on side in this next candle here or in this hourly candle or wait for a New York session. So you can see here as we approach the New York session, what happens? We sweep out this high to the left. We then close through the down close candle that made that high. So if I wanted to put on a position, I could put on a position on the close of this candle. I stop on the high and looking for two are. Let's see how this works out. So it makes us wait some time, but we do hit our TP on that trade. So just to review the foundational concepts within the fractal model, I hire timeframe closure in this case price swept out its previous day high and close back inside the range. We have a change in the state of delivery that confirms that reversal. And then the following candle I'm looking to trade the open high low close is that is what is determined by my higher timeframe bias. You can see here, this is how I would market out now to make this more efficient for myself with the help of two degrees. I have designed my own indicator to mark this out all for me. So let's go ahead and re walk through this price action, but with my indicator. So you can see on this new candle close, it has identified that it's taken the previous days high close back inside the range. It is also paired with a change in the state of delivery. With this, it will mark out projections to give myself targets as well as mark out a T spot, which is an area that I look for higher timeframe wicks to be formed. So for instance, if we are going to trade lower here, I would like to see price trade into this gray area, form a high or a higher timeframe wick and then trade lower throughout the day as we let this continue out. This is when I would then mark up my opposing candle formation. And I'd like to see this trade lower throughout the day. And you can see as we get into the next day here, because we have closed bearish, I would then look for a continuation in this following candle. If we let this play out, you can see we do get this continuation lower. And then we finally go and take out these lows to our left. So you can see that is what my indicator looks like. Now let's go back and take a look at this New York session setup where we have swept out this high here. Since my model is fractal, hence the name of the fractal model, I can apply this on multiple timeframes. So here we are on the daily and hourly, but let's say I wanted to go in here on the hourly and five minute, I could go ahead and rewind this drop down to the five minute timeframe and the indicator would auto adjust for that. So you can see we've taken out this high. If I had a bearish bias, I could go ahead and switch this to bearish and it will only seek out the bearish setups. And then as I let this continue, here we get this higher timeframe candle closure, the five minute setup, and then I'm anticipating the higher timeframe wick to form in this area to trade lower. So as we let this play out, you can see we respect that area. And then we get a continuation there to the lows to the left and to our standard deviation projections. So let's go ahead and go through all my indicator settings. So the first setting is a warning and error messages. Do I want to have that turned on? I personally do because if I'm not on an automatic timeframe, let's say I am on the one minute and 15 minute model and I'm on the five minute timeframe, I'm going to get an error because the five minute is greater than the one minute or the lower timeframe in that case. So I want to see that timeframe and I can see that I need to go to a one minute timeframe or below to view it. Now in our general settings, if I want to get alerts when setups form, I'm going to go ahead and have this toggle turned on and follow the instructions to get the alerts that I want to have. Now in terms of history, this is going to show how many previous setups on the chart. So if I only want to see the current setup, I can go ahead and make that a zero and it would only show the current setup. So for instance, if I let this continue to play out, it would then disappear. I have that setup to one, then it would go ahead and show the most recent setup and I can go all the way up to 40 for those setups. So let's say I go to 15, hit okay. You can see this will show the last 15 bearish setups because I also have my bias to bearish. So let's go ahead and pull back up our settings here. Now C2, C3 and C4 are the higher timeframe candle closures. Now I go over all the requirements for these within my course and mentorship, but essentially this means candle to candle three, candle four, and then specific candle closures with that. So you can see this will show a candle to closure. If I don't want to see a candle to closure, I can go ahead and turn that off. Then I will only see candle three closures with candle four continuation. I personally like to have all of these on because I like to view all of them. Now you may notice on the chart, there are a few different colors of these C2, C3 and C4. A gray C2 is when the setup has remained valid throughout candle four. A red C2 is when that setup fails within the first candle and an orange C2 is when that setup fails, but not the first candle after, but the second candle after. Now going into my bias, this is where I can select my bias. So in the previous example I just showed you, I was bearish going into the New York session, so I went ahead and selected it to bearish. And you can see how all of the bullish setups will disappear as I have chosen a bearish setup. Right. And so that will only show me the bearish setups. If I want to see bullish, I can go ahead and select bullish, and then it will show me all the bullish setups and not the bearish. If I don't have any bias or a neutral bias, I can select neutral and it will show me both bearish and bullish setups. Now the cool thing about this indicator is I can go ahead and adjust my kill zones through the timeframe filter. So for instance, you can see all of these different setups here, but let's say I'm only interested in price in the New York session between eight to 1130. So I could go ahead and take a look at this, adjust it from eight to 1130. Right. And one thing about this, it's going to choose the whole hours candle. So this means I would have to wait for the nine AM closure. So if I wanted to include the whole eight hour closure, I'm going to have to choose seven AM for this. With that selection, it has removed all of the setups that were not inside the kill zone. Now if I have multiple different kill zones, I can have up to three. So let's say I want to view London and New York AM session. I can go ahead and select that. And then I'll get those setups as well. Now going into a few of the customizable settings, the higher timeframe candles or the power of three candles on the right side, I have the option to hide those if I don't want to view them. And then I can also change the size of them. So you can see now they are hidden. I will go ahead and bring them back and you can adjust the size of them between small, medium and large. Now an offset will offset it from your chart. So currently it has this default offset of this location here where it's going to offset it about that much. Let's say I want more space between my chart and my higher timeframe candles. I can go ahead and just adjust this offset to 10 or whatever you select. And that will move these candles to the right. So you can see those candles now have moved to the right and basically doubled the offset there. The body, border and wick of the candles are pretty self-explanatory. Those will just adjust the colors of the higher timeframe candle. Now the higher timeframe open, this will mark out the current higher timeframe open of the higher timeframe candle. So you can see at this 12 a.m. hourly candle, it is marking out the open of that. If I wanted to turn that off, I can go ahead and turn that off there, or I can adjust these settings between solid dashed and dotted. Now open close time is going to be those vertical lines, which I find very important in my analysis for separating the individual open high low close. So you can see each of these three hours over here are separated vertically here. I can go ahead and turn that off if I do not want to view it. And you can see that is what it looks like with it turned off. Now the low and high lines are going to go ahead and mark out the high and low of each hour on the lower timeframe chart. This is not something I personally wish to see. So I go ahead and leave it off for my default settings. Now going into the model style. Do you want to show my fractal model labels? That is going to be the C two C two failed C four, all of those labels. So if I want to have those on, I'll have those on and I can choose the size of them, or I can go ahead and turn them off if I do not want to view them. Now the candle one sweep is going to mark out that first candle that was swept out from the higher timeframe closure. So you can see it will mark out the previous candles high here, as well as on the lower timeframe. I personally like to view that. Now here I have the choice for my change in the state of delivery between two options for a bullish change in the state of delivery and bearish change in the state of delivery. I personally keep them the same color, but some people do want to see the bearish change in the state of delivery as a different color. So for instance, if I wanted a different color on the bearish change in the state of delivery, I can adjust that setting. And then you can see it will adjust between bearish and bullish. Now for candle equilibrium, that is just going to mark out this higher timeframe candles, EQ. So you can see it is marked out there as well as on the lower timeframes. If you don't want to see that, you can go ahead and turn that off with the toggle and it will disappear. Now for the T spot, this is the area in the higher timeframe candles that I look for the higher timeframe, WIC2 form. So essentially on my short setup here, I'm expecting price to open high, go lower and then close. So I'm anticipating a high to be formed in this box. So those are the settings for that. And you can adjust those boxes, how you see fit by default, they will be gray and green as that is how I have them. Now going into the projections, these are currently drawn from the bodies. So these series of bodies in the change in the state of delivery. I can go ahead and adjust the manual input on these projections. These are the default settings that will be there. But let's say I wanted to add in something different. Let's say I wanted to add in a negative five. I can just type in a comma and negative five. Click out of this. And then the script will go ahead and add in that custom projection. So you can see how we have just added in a new projection there. So if you use different projections than me, you can go ahead and add those in manually. Now with the labels of the projections, you can go ahead and adjust those two. However you see fit, or you can go ahead and turn them off entirely by clicking this box right here. And you can see the labels will disappear completely. Now one thing I wanted to talk about here is I'm going up to the higher timeframe on the hourly and you can see we should have a setup being printed, but it is not. Why is that the case? So you can see I still have my timeframe filter marked out here, which won't show up on the hourly. So I want to go ahead and adjust the choose below period and adjust this to something below the current timeframe I wanted to show up on. So you can see this time faith filter will only apply on the 30 minute timeframe or below for this given kill zone. So you can see how that now has adjusted to print on the chart. Now the last thing I want to talk about is the formation liquidity. So you can see right here, formation liquidity, a dotted line. What is that? Well, given this candle closure here and looking bearish, I want to see price run out previous candles, lows or previous days, lows. As you can see, this previous days low here has already been taken. However, this previous days low has not been taken and that gets marked out there by the formation liquidity. Now the last thing we can talk about here is the table. So you can see down here on the right, it will go ahead and give me the timeframe asset, what fractal model I am set to. So you can see, because I have it on automatic, it is currently on the daily and hourly, the time until close. So there was four hours until this higher timeframe candle closes. My bias I have selected. So you can see it is currently neutral, but if I adjust that up here, it will show. And then I can also show my timeframe filters that I have set. Now all of this is pretty customizable. If you do have stuff that you want added into this indicator, I'm always going to be improving this. So just go ahead and shoot me a message and I will see if it makes sense. But let's go over a couple more things such as overlapping the indicators. So here we are going to go over a few examples of overlapping the higher timeframe T spot with a lower time frame setup. So you can see here we are in this higher timeframe T spot. We have a sweep of these consolidation highs. And then we close back inside the previous bar. So looking for price to trade lower here, what I could do is go ahead and copy this indicator by right click, copy command V and paste on a second one. Move this to the lower timeframe. So instead of having it on the daily and hourly, go to automatic. And then I would go down to the five minute timeframe. Now down here on the five minute timeframe, you can see it's a bit messy because it's overlaying the higher timeframe candles with the lower timeframe candles. So I'll go ahead and hide these higher timeframe candles. And I'll just view the lower timeframe candles here. So you can see, go ahead and remove the drawings as we get into this next candle. You can see it prints the setup, right? So we have the T spot right here on the five minute chart. So if I was looking for a setup to trade lower, I could either just take an entry here with my stop on an invalidation or look for a confirmation setup in here. And you can see what happens here. We start to trade that lower, right? And you can see we did get a bullish setup that printed right here, right? And that did fail right away as it was opposing the higher timeframe on. Now, with the closure lower, I'd be looking for a continuation out of this area. Now, as we let this play out, you can see once it closes over this area that I'm looking for a continuation, this will turn red because that is not ideal for me to be looking for a continuation lower when it closes over that level. And you can see that closure right there over my level was the early warning that this setup was not likely to continue. So let's go back out to the hourly timeframe to see if there's any other setups. So you can see, as we get into the next day here, what occurs is we have a candle to closure on the daily chart, setting up an hourly setup. So you can see if we zoom in, I'd be wanting to see the higher timeframe wick form in this area here. And we have a fair value gap here. So narrowing down this point of interest, I can drop down to the hourly and five minute to see if a setup occurs in this area that is bullish. So you can see, so we let this play out. There was a bearish setup. And you can see what do we notice the continuation from this bearish setup has failed. And that is what actually creates the bullish candle to closure. Now in this area, we have the hourly tea spot, which I'd want to see hold and a five minute tea spot right here. Now with the closure through these opposing candles here, that would be an order block. I could look to take an entry in here. My stop on this low. And looking for two are, and as we let this play out, you see, we get a continuation higher. And what else happens with this closure on this higher timeframe, I'd be looking for a continuation in this area here in candle for. You can see now that we have closed over those down close candles there, I'd anticipate this low to hold if we are going to trade higher. So we're going to take a look at the next two. We're going to trade higher. We finally hit that TP there. So you can see that is what I wanted to show was there's a lot of different things that you can do with this indicator in terms of a confluence or overlapping. But you can see how this hourly tea spot was then overlapped with the five minute tea spot. And if I really wanted to, I could go to the lower timeframes in there for our last example here, you can see we are on ES on the daily and hourly chart as we let this daily candle close. Let's see what happens. You can see our daily candle has closed inside the previous day high as shown here and here. We have a candle to closure with a change in the state of delivery. Here are the projections from the reversal. Now the price is going to continue lower. I'd like to see price hold or not close over this tea spot area here. So as we let this continue to play out, you can see as we enter the New York session, we have just consolidated. So with a consolidation, I'd like to see a manipulation before we get expansion. Here you can see we manipulate this side of the range. So where would I like to see price reach for? Well, ideally using the formation liquidity or the previous days low over here, which is marked out and in line with the projections, I'd like to see price expand to these lows. You can see price then expands to those lows and hits the targets. And that will conclude the video with the introduction to my fractal model as well as showcasing my indicator. If there is anything that I missed within this video in regards to settings or the indicator, feel free to leave a comment in the comment section below and I'll get those answered. But with that, I hope you have a great rest of your day and I'll see you guys next time.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 12.04,
+      "text": "How's it going everyone?"
+    },
+    {
+      "id": 1,
+      "start": 12.04,
+      "end": 16.08,
+      "text": "This video is going to be a basic introduction into my fractal model."
+    },
+    {
+      "id": 2,
+      "start": 16.08,
+      "end": 21.2,
+      "text": "However, the main focus of this video is going to be going over my indicator and its settings"
+    },
+    {
+      "id": 3,
+      "start": 21.2,
+      "end": 22.92,
+      "text": "and how it is used."
+    },
+    {
+      "id": 4,
+      "start": 22.92,
+      "end": 27.2,
+      "text": "So let's hop into the first example here to explain the fractal model, and then how the"
+    },
+    {
+      "id": 5,
+      "start": 27.2,
+      "end": 28.8,
+      "text": "indicator would plot it."
+    },
+    {
+      "id": 6,
+      "start": 28.8,
+      "end": 32.8,
+      "text": "So my fractal model relies on the foundational understanding that the market cannot reverse"
+    },
+    {
+      "id": 7,
+      "start": 32.8,
+      "end": 33.8,
+      "text": "without a swing point."
+    },
+    {
+      "id": 8,
+      "start": 33.8,
+      "end": 38.96,
+      "text": "So you can see here the market has formed a swing point to reverse or go from bearish"
+    },
+    {
+      "id": 9,
+      "start": 38.96,
+      "end": 40.12,
+      "text": "to bullish."
+    },
+    {
+      "id": 10,
+      "start": 40.12,
+      "end": 44.0,
+      "text": "And if we're going to reverse from bullish to bearish, we are also going to form a swing"
+    },
+    {
+      "id": 11,
+      "start": 44.0,
+      "end": 45.0,
+      "text": "point."
+    },
+    {
+      "id": 12,
+      "start": 45.0,
+      "end": 47.88,
+      "text": "Now, what do I use to determine if the market is likely to reverse?"
+    },
+    {
+      "id": 13,
+      "start": 47.88,
+      "end": 50.0,
+      "text": "I will use candle closures."
+    },
+    {
+      "id": 14,
+      "start": 50.0,
+      "end": 55.2,
+      "text": "So you can see here price has swept out its previous candles high and then closed back"
+    },
+    {
+      "id": 15,
+      "start": 55.2,
+      "end": 56.76,
+      "text": "inside the range."
+    },
+    {
+      "id": 16,
+      "start": 56.76,
+      "end": 60.32,
+      "text": "So if you've seen my daily bias video, you know that I would be bearish or looking for"
+    },
+    {
+      "id": 17,
+      "start": 60.32,
+      "end": 62.08,
+      "text": "a previous day low."
+    },
+    {
+      "id": 18,
+      "start": 62.08,
+      "end": 66.84,
+      "text": "So with that understanding that I'd be looking for a previous day low or a run lower this"
+    },
+    {
+      "id": 19,
+      "start": 66.84,
+      "end": 71.28,
+      "text": "next day, I'd be looking for an open high low close."
+    },
+    {
+      "id": 20,
+      "start": 71.28,
+      "end": 76.08,
+      "text": "Now to confirm this bias, I would go down to the hourly timeframe from the daily and"
+    },
+    {
+      "id": 21,
+      "start": 76.08,
+      "end": 79.16,
+      "text": "look to see if we have a change in the state of delivery."
+    },
+    {
+      "id": 22,
+      "start": 79.16,
+      "end": 83.44,
+      "text": "So down here on the hourly chart, do we have a change in the state of delivery confirming"
+    },
+    {
+      "id": 23,
+      "start": 83.44,
+      "end": 84.92,
+      "text": "this swing point?"
+    },
+    {
+      "id": 24,
+      "start": 84.92,
+      "end": 88.84,
+      "text": "Well you can see we have closed through the series of up close candles that have made"
+    },
+    {
+      "id": 25,
+      "start": 88.84,
+      "end": 90.08,
+      "text": "this high."
+    },
+    {
+      "id": 26,
+      "start": 90.08,
+      "end": 95.4,
+      "text": "So I consider this high protected and then I will look to trade the open high low close"
+    },
+    {
+      "id": 27,
+      "start": 95.4,
+      "end": 97.04,
+      "text": "in the following candle."
+    },
+    {
+      "id": 28,
+      "start": 97.04,
+      "end": 103.08,
+      "text": "So you can see here as we let this play out, you can see we reach higher, we sweep out"
+    },
+    {
+      "id": 29,
+      "start": 103.08,
+      "end": 107.12,
+      "text": "a high to the left and then we get an opposing candle formation here."
+    },
+    {
+      "id": 30,
+      "start": 107.12,
+      "end": 111.44,
+      "text": "So I'd anticipate this wick to have formed and then I can look to trade this lower the"
+    },
+    {
+      "id": 31,
+      "start": 111.44,
+      "end": 112.92,
+      "text": "rest of the day."
+    },
+    {
+      "id": 32,
+      "start": 112.92,
+      "end": 118.04,
+      "text": "So I could either get on side in this next candle here or in this hourly candle or wait"
+    },
+    {
+      "id": 33,
+      "start": 118.04,
+      "end": 120.6,
+      "text": "for a New York session."
+    },
+    {
+      "id": 34,
+      "start": 120.6,
+      "end": 124.6,
+      "text": "So you can see here as we approach the New York session, what happens?"
+    },
+    {
+      "id": 35,
+      "start": 124.6,
+      "end": 127.32,
+      "text": "We sweep out this high to the left."
+    },
+    {
+      "id": 36,
+      "start": 127.32,
+      "end": 131.44,
+      "text": "We then close through the down close candle that made that high."
+    },
+    {
+      "id": 37,
+      "start": 131.44,
+      "end": 136.48,
+      "text": "So if I wanted to put on a position, I could put on a position on the close of this candle."
+    },
+    {
+      "id": 38,
+      "start": 136.48,
+      "end": 140.08,
+      "text": "I stop on the high and looking for two are."
+    },
+    {
+      "id": 39,
+      "start": 140.08,
+      "end": 143.52,
+      "text": "Let's see how this works out."
+    },
+    {
+      "id": 40,
+      "start": 143.52,
+      "end": 147.52,
+      "text": "So it makes us wait some time, but we do hit our TP on that trade."
+    },
+    {
+      "id": 41,
+      "start": 147.52,
+      "end": 152.52,
+      "text": "So just to review the foundational concepts within the fractal model, I hire timeframe"
+    },
+    {
+      "id": 42,
+      "start": 152.52,
+      "end": 157.84,
+      "text": "closure in this case price swept out its previous day high and close back inside the range."
+    },
+    {
+      "id": 43,
+      "start": 157.84,
+      "end": 161.8,
+      "text": "We have a change in the state of delivery that confirms that reversal."
+    },
+    {
+      "id": 44,
+      "start": 161.8,
+      "end": 166.88,
+      "text": "And then the following candle I'm looking to trade the open high low close is that is"
+    },
+    {
+      "id": 45,
+      "start": 166.88,
+      "end": 170.04,
+      "text": "what is determined by my higher timeframe bias."
+    },
+    {
+      "id": 46,
+      "start": 170.04,
+      "end": 173.96,
+      "text": "You can see here, this is how I would market out now to make this more efficient for myself"
+    },
+    {
+      "id": 47,
+      "start": 173.96,
+      "end": 175.12,
+      "text": "with the help of two degrees."
+    },
+    {
+      "id": 48,
+      "start": 175.12,
+      "end": 178.76,
+      "text": "I have designed my own indicator to mark this out all for me."
+    },
+    {
+      "id": 49,
+      "start": 178.76,
+      "end": 183.12,
+      "text": "So let's go ahead and re walk through this price action, but with my indicator."
+    },
+    {
+      "id": 50,
+      "start": 183.12,
+      "end": 187.4,
+      "text": "So you can see on this new candle close, it has identified that it's taken the previous"
+    },
+    {
+      "id": 51,
+      "start": 187.4,
+      "end": 189.84,
+      "text": "days high close back inside the range."
+    },
+    {
+      "id": 52,
+      "start": 189.84,
+      "end": 193.32,
+      "text": "It is also paired with a change in the state of delivery."
+    },
+    {
+      "id": 53,
+      "start": 193.32,
+      "end": 197.52,
+      "text": "With this, it will mark out projections to give myself targets as well as mark out a"
+    },
+    {
+      "id": 54,
+      "start": 197.52,
+      "end": 202.64,
+      "text": "T spot, which is an area that I look for higher timeframe wicks to be formed."
+    },
+    {
+      "id": 55,
+      "start": 202.64,
+      "end": 206.64,
+      "text": "So for instance, if we are going to trade lower here, I would like to see price trade"
+    },
+    {
+      "id": 56,
+      "start": 206.64,
+      "end": 211.84,
+      "text": "into this gray area, form a high or a higher timeframe wick and then trade lower throughout"
+    },
+    {
+      "id": 57,
+      "start": 211.84,
+      "end": 214.6,
+      "text": "the day as we let this continue out."
+    },
+    {
+      "id": 58,
+      "start": 214.6,
+      "end": 217.76,
+      "text": "This is when I would then mark up my opposing candle formation."
+    },
+    {
+      "id": 59,
+      "start": 217.76,
+      "end": 222.64,
+      "text": "And I'd like to see this trade lower throughout the day."
+    },
+    {
+      "id": 60,
+      "start": 222.64,
+      "end": 227.68,
+      "text": "And you can see as we get into the next day here, because we have closed bearish, I would"
+    },
+    {
+      "id": 61,
+      "start": 227.68,
+      "end": 231.04,
+      "text": "then look for a continuation in this following candle."
+    },
+    {
+      "id": 62,
+      "start": 231.04,
+      "end": 238.88,
+      "text": "If we let this play out, you can see we do get this continuation lower."
+    },
+    {
+      "id": 63,
+      "start": 238.88,
+      "end": 243.14,
+      "text": "And then we finally go and take out these lows to our left."
+    },
+    {
+      "id": 64,
+      "start": 243.14,
+      "end": 246.08,
+      "text": "So you can see that is what my indicator looks like."
+    },
+    {
+      "id": 65,
+      "start": 246.08,
+      "end": 249.92,
+      "text": "Now let's go back and take a look at this New York session setup where we have swept"
+    },
+    {
+      "id": 66,
+      "start": 249.92,
+      "end": 251.64,
+      "text": "out this high here."
+    },
+    {
+      "id": 67,
+      "start": 251.64,
+      "end": 256.04,
+      "text": "Since my model is fractal, hence the name of the fractal model, I can apply this on multiple"
+    },
+    {
+      "id": 68,
+      "start": 256.04,
+      "end": 257.12,
+      "text": "timeframes."
+    },
+    {
+      "id": 69,
+      "start": 257.12,
+      "end": 261.6,
+      "text": "So here we are on the daily and hourly, but let's say I wanted to go in here on the hourly"
+    },
+    {
+      "id": 70,
+      "start": 261.6,
+      "end": 267.12,
+      "text": "and five minute, I could go ahead and rewind this drop down to the five minute timeframe"
+    },
+    {
+      "id": 71,
+      "start": 267.12,
+      "end": 270.08,
+      "text": "and the indicator would auto adjust for that."
+    },
+    {
+      "id": 72,
+      "start": 270.08,
+      "end": 273.08,
+      "text": "So you can see we've taken out this high."
+    },
+    {
+      "id": 73,
+      "start": 273.08,
+      "end": 278.04,
+      "text": "If I had a bearish bias, I could go ahead and switch this to bearish and it will only"
+    },
+    {
+      "id": 74,
+      "start": 278.04,
+      "end": 280.84,
+      "text": "seek out the bearish setups."
+    },
+    {
+      "id": 75,
+      "start": 280.84,
+      "end": 286.32,
+      "text": "And then as I let this continue, here we get this higher timeframe candle closure, the"
+    },
+    {
+      "id": 76,
+      "start": 286.32,
+      "end": 290.28,
+      "text": "five minute setup, and then I'm anticipating the higher timeframe wick to form in this"
+    },
+    {
+      "id": 77,
+      "start": 290.28,
+      "end": 292.4,
+      "text": "area to trade lower."
+    },
+    {
+      "id": 78,
+      "start": 292.4,
+      "end": 297.96,
+      "text": "So as we let this play out, you can see we respect that area."
+    },
+    {
+      "id": 79,
+      "start": 297.96,
+      "end": 303.44,
+      "text": "And then we get a continuation there to the lows to the left and to our standard deviation"
+    },
+    {
+      "id": 80,
+      "start": 303.44,
+      "end": 304.44,
+      "text": "projections."
+    },
+    {
+      "id": 81,
+      "start": 304.44,
+      "end": 307.48,
+      "text": "So let's go ahead and go through all my indicator settings."
+    },
+    {
+      "id": 82,
+      "start": 307.48,
+      "end": 310.32,
+      "text": "So the first setting is a warning and error messages."
+    },
+    {
+      "id": 83,
+      "start": 310.32,
+      "end": 311.88,
+      "text": "Do I want to have that turned on?"
+    },
+    {
+      "id": 84,
+      "start": 311.88,
+      "end": 316.84,
+      "text": "I personally do because if I'm not on an automatic timeframe, let's say I am on the one minute"
+    },
+    {
+      "id": 85,
+      "start": 316.84,
+      "end": 321.2,
+      "text": "and 15 minute model and I'm on the five minute timeframe, I'm going to get an error because"
+    },
+    {
+      "id": 86,
+      "start": 321.2,
+      "end": 325.8,
+      "text": "the five minute is greater than the one minute or the lower timeframe in that case."
+    },
+    {
+      "id": 87,
+      "start": 325.8,
+      "end": 330.12,
+      "text": "So I want to see that timeframe and I can see that I need to go to a one minute timeframe"
+    },
+    {
+      "id": 88,
+      "start": 330.12,
+      "end": 332.04,
+      "text": "or below to view it."
+    },
+    {
+      "id": 89,
+      "start": 332.04,
+      "end": 336.36,
+      "text": "Now in our general settings, if I want to get alerts when setups form, I'm going to"
+    },
+    {
+      "id": 90,
+      "start": 336.36,
+      "end": 340.64,
+      "text": "go ahead and have this toggle turned on and follow the instructions to get the alerts"
+    },
+    {
+      "id": 91,
+      "start": 340.64,
+      "end": 342.72,
+      "text": "that I want to have."
+    },
+    {
+      "id": 92,
+      "start": 342.72,
+      "end": 347.98,
+      "text": "Now in terms of history, this is going to show how many previous setups on the chart."
+    },
+    {
+      "id": 93,
+      "start": 347.98,
+      "end": 352.0,
+      "text": "So if I only want to see the current setup, I can go ahead and make that a zero and it"
+    },
+    {
+      "id": 94,
+      "start": 352.0,
+      "end": 354.02,
+      "text": "would only show the current setup."
+    },
+    {
+      "id": 95,
+      "start": 354.02,
+      "end": 358.12,
+      "text": "So for instance, if I let this continue to play out, it would then disappear."
+    },
+    {
+      "id": 96,
+      "start": 358.12,
+      "end": 363.08,
+      "text": "I have that setup to one, then it would go ahead and show the most recent setup and I"
+    },
+    {
+      "id": 97,
+      "start": 363.08,
+      "end": 365.56,
+      "text": "can go all the way up to 40 for those setups."
+    },
+    {
+      "id": 98,
+      "start": 365.56,
+      "end": 369.14,
+      "text": "So let's say I go to 15, hit okay."
+    },
+    {
+      "id": 99,
+      "start": 369.14,
+      "end": 375.14,
+      "text": "You can see this will show the last 15 bearish setups because I also have my bias to bearish."
+    },
+    {
+      "id": 100,
+      "start": 375.14,
+      "end": 378.1,
+      "text": "So let's go ahead and pull back up our settings here."
+    },
+    {
+      "id": 101,
+      "start": 378.1,
+      "end": 382.52,
+      "text": "Now C2, C3 and C4 are the higher timeframe candle closures."
+    },
+    {
+      "id": 102,
+      "start": 382.52,
+      "end": 387.48,
+      "text": "Now I go over all the requirements for these within my course and mentorship, but essentially"
+    },
+    {
+      "id": 103,
+      "start": 387.48,
+      "end": 393.02,
+      "text": "this means candle to candle three, candle four, and then specific candle closures with that."
+    },
+    {
+      "id": 104,
+      "start": 393.02,
+      "end": 395.78,
+      "text": "So you can see this will show a candle to closure."
+    },
+    {
+      "id": 105,
+      "start": 395.78,
+      "end": 399.18,
+      "text": "If I don't want to see a candle to closure, I can go ahead and turn that off."
+    },
+    {
+      "id": 106,
+      "start": 399.18,
+      "end": 402.58,
+      "text": "Then I will only see candle three closures with candle four continuation."
+    },
+    {
+      "id": 107,
+      "start": 402.58,
+      "end": 405.98,
+      "text": "I personally like to have all of these on because I like to view all of them."
+    },
+    {
+      "id": 108,
+      "start": 405.98,
+      "end": 410.78,
+      "text": "Now you may notice on the chart, there are a few different colors of these C2, C3 and"
+    },
+    {
+      "id": 109,
+      "start": 410.78,
+      "end": 411.78,
+      "text": "C4."
+    },
+    {
+      "id": 110,
+      "start": 411.78,
+      "end": 415.86,
+      "text": "A gray C2 is when the setup has remained valid throughout candle four."
+    },
+    {
+      "id": 111,
+      "start": 415.86,
+      "end": 421.34,
+      "text": "A red C2 is when that setup fails within the first candle and an orange C2 is when that"
+    },
+    {
+      "id": 112,
+      "start": 421.34,
+      "end": 426.18,
+      "text": "setup fails, but not the first candle after, but the second candle after."
+    },
+    {
+      "id": 113,
+      "start": 426.18,
+      "end": 429.94,
+      "text": "Now going into my bias, this is where I can select my bias."
+    },
+    {
+      "id": 114,
+      "start": 429.94,
+      "end": 433.9,
+      "text": "So in the previous example I just showed you, I was bearish going into the New York session,"
+    },
+    {
+      "id": 115,
+      "start": 433.9,
+      "end": 435.98,
+      "text": "so I went ahead and selected it to bearish."
+    },
+    {
+      "id": 116,
+      "start": 435.98,
+      "end": 441.14,
+      "text": "And you can see how all of the bullish setups will disappear as I have chosen a bearish"
+    },
+    {
+      "id": 117,
+      "start": 441.14,
+      "end": 442.14,
+      "text": "setup."
+    },
+    {
+      "id": 118,
+      "start": 442.14,
+      "end": 443.14,
+      "text": "Right."
+    },
+    {
+      "id": 119,
+      "start": 443.14,
+      "end": 445.42,
+      "text": "And so that will only show me the bearish setups."
+    },
+    {
+      "id": 120,
+      "start": 445.42,
+      "end": 449.3,
+      "text": "If I want to see bullish, I can go ahead and select bullish, and then it will show me"
+    },
+    {
+      "id": 121,
+      "start": 449.3,
+      "end": 452.34,
+      "text": "all the bullish setups and not the bearish."
+    },
+    {
+      "id": 122,
+      "start": 452.34,
+      "end": 457.54,
+      "text": "If I don't have any bias or a neutral bias, I can select neutral and it will show me both"
+    },
+    {
+      "id": 123,
+      "start": 457.54,
+      "end": 459.78,
+      "text": "bearish and bullish setups."
+    },
+    {
+      "id": 124,
+      "start": 459.78,
+      "end": 463.58,
+      "text": "Now the cool thing about this indicator is I can go ahead and adjust my kill zones through"
+    },
+    {
+      "id": 125,
+      "start": 463.58,
+      "end": 465.22,
+      "text": "the timeframe filter."
+    },
+    {
+      "id": 126,
+      "start": 465.22,
+      "end": 468.98,
+      "text": "So for instance, you can see all of these different setups here, but let's say I'm only"
+    },
+    {
+      "id": 127,
+      "start": 468.98,
+      "end": 473.7,
+      "text": "interested in price in the New York session between eight to 1130."
+    },
+    {
+      "id": 128,
+      "start": 473.7,
+      "end": 478.34,
+      "text": "So I could go ahead and take a look at this, adjust it from eight to 1130."
+    },
+    {
+      "id": 129,
+      "start": 478.34,
+      "end": 479.34,
+      "text": "Right."
+    },
+    {
+      "id": 130,
+      "start": 479.34,
+      "end": 483.34,
+      "text": "And one thing about this, it's going to choose the whole hours candle."
+    },
+    {
+      "id": 131,
+      "start": 483.34,
+      "end": 486.1,
+      "text": "So this means I would have to wait for the nine AM closure."
+    },
+    {
+      "id": 132,
+      "start": 486.1,
+      "end": 489.98,
+      "text": "So if I wanted to include the whole eight hour closure, I'm going to have to choose"
+    },
+    {
+      "id": 133,
+      "start": 489.98,
+      "end": 491.64,
+      "text": "seven AM for this."
+    },
+    {
+      "id": 134,
+      "start": 491.64,
+      "end": 496.5,
+      "text": "With that selection, it has removed all of the setups that were not inside the kill zone."
+    },
+    {
+      "id": 135,
+      "start": 496.5,
+      "end": 499.66,
+      "text": "Now if I have multiple different kill zones, I can have up to three."
+    },
+    {
+      "id": 136,
+      "start": 499.66,
+      "end": 502.54,
+      "text": "So let's say I want to view London and New York AM session."
+    },
+    {
+      "id": 137,
+      "start": 503.02,
+      "end": 504.34,
+      "text": "I can go ahead and select that."
+    },
+    {
+      "id": 138,
+      "start": 504.58,
+      "end": 506.62,
+      "text": "And then I'll get those setups as well."
+    },
+    {
+      "id": 139,
+      "start": 506.94,
+      "end": 511.66,
+      "text": "Now going into a few of the customizable settings, the higher timeframe candles or the"
+    },
+    {
+      "id": 140,
+      "start": 511.66,
+      "end": 516.1,
+      "text": "power of three candles on the right side, I have the option to hide those if I don't"
+    },
+    {
+      "id": 141,
+      "start": 516.1,
+      "end": 517.1,
+      "text": "want to view them."
+    },
+    {
+      "id": 142,
+      "start": 517.66,
+      "end": 519.7,
+      "text": "And then I can also change the size of them."
+    },
+    {
+      "id": 143,
+      "start": 520.14,
+      "end": 521.94,
+      "text": "So you can see now they are hidden."
+    },
+    {
+      "id": 144,
+      "start": 522.02,
+      "end": 526.22,
+      "text": "I will go ahead and bring them back and you can adjust the size of them between small,"
+    },
+    {
+      "id": 145,
+      "start": 526.46,
+      "end": 527.74,
+      "text": "medium and large."
+    },
+    {
+      "id": 146,
+      "start": 528.02,
+      "end": 530.34,
+      "text": "Now an offset will offset it from your chart."
+    },
+    {
+      "id": 147,
+      "start": 530.34,
+      "end": 535.34,
+      "text": "So currently it has this default offset of this location here where it's going to"
+    },
+    {
+      "id": 148,
+      "start": 535.34,
+      "end": 537.1,
+      "text": "offset it about that much."
+    },
+    {
+      "id": 149,
+      "start": 537.58,
+      "end": 540.94,
+      "text": "Let's say I want more space between my chart and my higher timeframe candles."
+    },
+    {
+      "id": 150,
+      "start": 541.3,
+      "end": 546.34,
+      "text": "I can go ahead and just adjust this offset to 10 or whatever you select."
+    },
+    {
+      "id": 151,
+      "start": 546.42,
+      "end": 548.74,
+      "text": "And that will move these candles to the right."
+    },
+    {
+      "id": 152,
+      "start": 549.54,
+      "end": 553.66,
+      "text": "So you can see those candles now have moved to the right and basically doubled the"
+    },
+    {
+      "id": 153,
+      "start": 553.66,
+      "end": 554.66,
+      "text": "offset there."
+    },
+    {
+      "id": 154,
+      "start": 554.94,
+      "end": 558.54,
+      "text": "The body, border and wick of the candles are pretty self-explanatory."
+    },
+    {
+      "id": 155,
+      "start": 558.54,
+      "end": 561.54,
+      "text": "Those will just adjust the colors of the higher timeframe candle."
+    },
+    {
+      "id": 156,
+      "start": 562.22,
+      "end": 566.58,
+      "text": "Now the higher timeframe open, this will mark out the current higher timeframe open of"
+    },
+    {
+      "id": 157,
+      "start": 566.58,
+      "end": 567.94,
+      "text": "the higher timeframe candle."
+    },
+    {
+      "id": 158,
+      "start": 568.02,
+      "end": 572.62,
+      "text": "So you can see at this 12 a.m. hourly candle, it is marking out the open of that."
+    },
+    {
+      "id": 159,
+      "start": 573.06,
+      "end": 577.02,
+      "text": "If I wanted to turn that off, I can go ahead and turn that off there, or I can adjust"
+    },
+    {
+      "id": 160,
+      "start": 577.02,
+      "end": 579.78,
+      "text": "these settings between solid dashed and dotted."
+    },
+    {
+      "id": 161,
+      "start": 580.42,
+      "end": 584.74,
+      "text": "Now open close time is going to be those vertical lines, which I find very important"
+    },
+    {
+      "id": 162,
+      "start": 584.74,
+      "end": 588.46,
+      "text": "in my analysis for separating the individual open high low close."
+    },
+    {
+      "id": 163,
+      "start": 588.9,
+      "end": 593.02,
+      "text": "So you can see each of these three hours over here are separated vertically here."
+    },
+    {
+      "id": 164,
+      "start": 593.7,
+      "end": 596.5,
+      "text": "I can go ahead and turn that off if I do not want to view it."
+    },
+    {
+      "id": 165,
+      "start": 596.86,
+      "end": 599.38,
+      "text": "And you can see that is what it looks like with it turned off."
+    },
+    {
+      "id": 166,
+      "start": 599.66,
+      "end": 603.7,
+      "text": "Now the low and high lines are going to go ahead and mark out the high and low of"
+    },
+    {
+      "id": 167,
+      "start": 603.7,
+      "end": 605.94,
+      "text": "each hour on the lower timeframe chart."
+    },
+    {
+      "id": 168,
+      "start": 606.38,
+      "end": 608.22,
+      "text": "This is not something I personally wish to see."
+    },
+    {
+      "id": 169,
+      "start": 608.26,
+      "end": 611.46,
+      "text": "So I go ahead and leave it off for my default settings."
+    },
+    {
+      "id": 170,
+      "start": 611.58,
+      "end": 613.54,
+      "text": "Now going into the model style."
+    },
+    {
+      "id": 171,
+      "start": 613.78,
+      "end": 615.94,
+      "text": "Do you want to show my fractal model labels?"
+    },
+    {
+      "id": 172,
+      "start": 616.22,
+      "end": 621.1,
+      "text": "That is going to be the C two C two failed C four, all of those labels."
+    },
+    {
+      "id": 173,
+      "start": 621.1,
+      "end": 625.22,
+      "text": "So if I want to have those on, I'll have those on and I can choose the size of them,"
+    },
+    {
+      "id": 174,
+      "start": 625.38,
+      "end": 628.42,
+      "text": "or I can go ahead and turn them off if I do not want to view them."
+    },
+    {
+      "id": 175,
+      "start": 628.9,
+      "end": 633.34,
+      "text": "Now the candle one sweep is going to mark out that first candle that was swept out"
+    },
+    {
+      "id": 176,
+      "start": 633.38,
+      "end": 634.78,
+      "text": "from the higher timeframe closure."
+    },
+    {
+      "id": 177,
+      "start": 635.14,
+      "end": 638.58,
+      "text": "So you can see it will mark out the previous candles high here, as well as on"
+    },
+    {
+      "id": 178,
+      "start": 638.58,
+      "end": 639.66,
+      "text": "the lower timeframe."
+    },
+    {
+      "id": 179,
+      "start": 640.02,
+      "end": 641.26,
+      "text": "I personally like to view that."
+    },
+    {
+      "id": 180,
+      "start": 641.82,
+      "end": 645.78,
+      "text": "Now here I have the choice for my change in the state of delivery between two"
+    },
+    {
+      "id": 181,
+      "start": 645.78,
+      "end": 648.86,
+      "text": "options for a bullish change in the state of delivery and bearish change in the"
+    },
+    {
+      "id": 182,
+      "start": 648.86,
+      "end": 649.42,
+      "text": "state of delivery."
+    },
+    {
+      "id": 183,
+      "start": 649.94,
+      "end": 653.02,
+      "text": "I personally keep them the same color, but some people do want to see the"
+    },
+    {
+      "id": 184,
+      "start": 653.02,
+      "end": 655.1,
+      "text": "bearish change in the state of delivery as a different color."
+    },
+    {
+      "id": 185,
+      "start": 655.66,
+      "end": 658.5,
+      "text": "So for instance, if I wanted a different color on the bearish change in the"
+    },
+    {
+      "id": 186,
+      "start": 658.5,
+      "end": 660.62,
+      "text": "state of delivery, I can adjust that setting."
+    },
+    {
+      "id": 187,
+      "start": 661.02,
+      "end": 664.02,
+      "text": "And then you can see it will adjust between bearish and bullish."
+    },
+    {
+      "id": 188,
+      "start": 664.34,
+      "end": 667.78,
+      "text": "Now for candle equilibrium, that is just going to mark out this higher"
+    },
+    {
+      "id": 189,
+      "start": 667.78,
+      "end": 669.42,
+      "text": "timeframe candles, EQ."
+    },
+    {
+      "id": 190,
+      "start": 669.86,
+      "end": 673.46,
+      "text": "So you can see it is marked out there as well as on the lower timeframes."
+    },
+    {
+      "id": 191,
+      "start": 674.06,
+      "end": 677.06,
+      "text": "If you don't want to see that, you can go ahead and turn that off with the"
+    },
+    {
+      "id": 192,
+      "start": 677.06,
+      "end": 678.66,
+      "text": "toggle and it will disappear."
+    },
+    {
+      "id": 193,
+      "start": 679.94,
+      "end": 684.46,
+      "text": "Now for the T spot, this is the area in the higher timeframe candles that I"
+    },
+    {
+      "id": 194,
+      "start": 684.46,
+      "end": 686.9,
+      "text": "look for the higher timeframe, WIC2 form."
+    },
+    {
+      "id": 195,
+      "start": 687.26,
+      "end": 692.06,
+      "text": "So essentially on my short setup here, I'm expecting price to open high, go"
+    },
+    {
+      "id": 196,
+      "start": 692.06,
+      "end": 693.22,
+      "text": "lower and then close."
+    },
+    {
+      "id": 197,
+      "start": 693.26,
+      "end": 695.86,
+      "text": "So I'm anticipating a high to be formed in this box."
+    },
+    {
+      "id": 198,
+      "start": 696.18,
+      "end": 697.94,
+      "text": "So those are the settings for that."
+    },
+    {
+      "id": 199,
+      "start": 698.14,
+      "end": 702.1,
+      "text": "And you can adjust those boxes, how you see fit by default, they will be gray"
+    },
+    {
+      "id": 200,
+      "start": 702.14,
+      "end": 704.26,
+      "text": "and green as that is how I have them."
+    },
+    {
+      "id": 201,
+      "start": 704.38,
+      "end": 707.7,
+      "text": "Now going into the projections, these are currently drawn from the bodies."
+    },
+    {
+      "id": 202,
+      "start": 707.74,
+      "end": 710.98,
+      "text": "So these series of bodies in the change in the state of delivery."
+    },
+    {
+      "id": 203,
+      "start": 711.46,
+      "end": 714.46,
+      "text": "I can go ahead and adjust the manual input on these projections."
+    },
+    {
+      "id": 204,
+      "start": 714.94,
+      "end": 716.94,
+      "text": "These are the default settings that will be there."
+    },
+    {
+      "id": 205,
+      "start": 717.26,
+      "end": 719.26,
+      "text": "But let's say I wanted to add in something different."
+    },
+    {
+      "id": 206,
+      "start": 719.42,
+      "end": 721.94,
+      "text": "Let's say I wanted to add in a negative five."
+    },
+    {
+      "id": 207,
+      "start": 722.42,
+      "end": 724.94,
+      "text": "I can just type in a comma and negative five."
+    },
+    {
+      "id": 208,
+      "start": 725.94,
+      "end": 726.82,
+      "text": "Click out of this."
+    },
+    {
+      "id": 209,
+      "start": 727.18,
+      "end": 730.82,
+      "text": "And then the script will go ahead and add in that custom projection."
+    },
+    {
+      "id": 210,
+      "start": 731.1,
+      "end": 733.82,
+      "text": "So you can see how we have just added in a new projection there."
+    },
+    {
+      "id": 211,
+      "start": 734.18,
+      "end": 737.34,
+      "text": "So if you use different projections than me, you can go ahead and add those in"
+    },
+    {
+      "id": 212,
+      "start": 737.34,
+      "end": 737.86,
+      "text": "manually."
+    },
+    {
+      "id": 213,
+      "start": 738.3,
+      "end": 742.02,
+      "text": "Now with the labels of the projections, you can go ahead and adjust those two."
+    },
+    {
+      "id": 214,
+      "start": 742.34,
+      "end": 746.74,
+      "text": "However you see fit, or you can go ahead and turn them off entirely by"
+    },
+    {
+      "id": 215,
+      "start": 746.74,
+      "end": 748.22,
+      "text": "clicking this box right here."
+    },
+    {
+      "id": 216,
+      "start": 748.78,
+      "end": 751.02,
+      "text": "And you can see the labels will disappear completely."
+    },
+    {
+      "id": 217,
+      "start": 751.5,
+      "end": 754.46,
+      "text": "Now one thing I wanted to talk about here is I'm going up to the higher"
+    },
+    {
+      "id": 218,
+      "start": 754.5,
+      "end": 758.82,
+      "text": "timeframe on the hourly and you can see we should have a setup being printed,"
+    },
+    {
+      "id": 219,
+      "start": 758.82,
+      "end": 759.62,
+      "text": "but it is not."
+    },
+    {
+      "id": 220,
+      "start": 759.78,
+      "end": 760.86,
+      "text": "Why is that the case?"
+    },
+    {
+      "id": 221,
+      "start": 761.22,
+      "end": 764.06,
+      "text": "So you can see I still have my timeframe filter marked out here, which"
+    },
+    {
+      "id": 222,
+      "start": 764.06,
+      "end": 765.58,
+      "text": "won't show up on the hourly."
+    },
+    {
+      "id": 223,
+      "start": 766.02,
+      "end": 769.9,
+      "text": "So I want to go ahead and adjust the choose below period and adjust this to"
+    },
+    {
+      "id": 224,
+      "start": 770.02,
+      "end": 772.86,
+      "text": "something below the current timeframe I wanted to show up on."
+    },
+    {
+      "id": 225,
+      "start": 773.26,
+      "end": 777.7,
+      "text": "So you can see this time faith filter will only apply on the 30 minute"
+    },
+    {
+      "id": 226,
+      "start": 777.7,
+      "end": 780.1,
+      "text": "timeframe or below for this given kill zone."
+    },
+    {
+      "id": 227,
+      "start": 780.26,
+      "end": 783.3,
+      "text": "So you can see how that now has adjusted to print on the chart."
+    },
+    {
+      "id": 228,
+      "start": 783.62,
+      "end": 786.5,
+      "text": "Now the last thing I want to talk about is the formation liquidity."
+    },
+    {
+      "id": 229,
+      "start": 786.98,
+      "end": 790.06,
+      "text": "So you can see right here, formation liquidity, a dotted line."
+    },
+    {
+      "id": 230,
+      "start": 790.14,
+      "end": 790.98,
+      "text": "What is that?"
+    },
+    {
+      "id": 231,
+      "start": 791.38,
+      "end": 795.3,
+      "text": "Well, given this candle closure here and looking bearish, I want to see price"
+    },
+    {
+      "id": 232,
+      "start": 795.3,
+      "end": 798.42,
+      "text": "run out previous candles, lows or previous days, lows."
+    },
+    {
+      "id": 233,
+      "start": 798.86,
+      "end": 802.54,
+      "text": "As you can see, this previous days low here has already been taken."
+    },
+    {
+      "id": 234,
+      "start": 802.86,
+      "end": 806.9,
+      "text": "However, this previous days low has not been taken and that gets marked out"
+    },
+    {
+      "id": 235,
+      "start": 806.9,
+      "end": 808.7,
+      "text": "there by the formation liquidity."
+    },
+    {
+      "id": 236,
+      "start": 809.02,
+      "end": 811.98,
+      "text": "Now the last thing we can talk about here is the table."
+    },
+    {
+      "id": 237,
+      "start": 812.18,
+      "end": 815.42,
+      "text": "So you can see down here on the right, it will go ahead and give me the"
+    },
+    {
+      "id": 238,
+      "start": 815.42,
+      "end": 818.78,
+      "text": "timeframe asset, what fractal model I am set to."
+    },
+    {
+      "id": 239,
+      "start": 818.82,
+      "end": 822.42,
+      "text": "So you can see, because I have it on automatic, it is currently on the daily"
+    },
+    {
+      "id": 240,
+      "start": 822.42,
+      "end": 824.82,
+      "text": "and hourly, the time until close."
+    },
+    {
+      "id": 241,
+      "start": 824.86,
+      "end": 827.82,
+      "text": "So there was four hours until this higher timeframe candle closes."
+    },
+    {
+      "id": 242,
+      "start": 828.22,
+      "end": 829.62,
+      "text": "My bias I have selected."
+    },
+    {
+      "id": 243,
+      "start": 829.78,
+      "end": 834.18,
+      "text": "So you can see it is currently neutral, but if I adjust that up here, it will show."
+    },
+    {
+      "id": 244,
+      "start": 834.58,
+      "end": 837.66,
+      "text": "And then I can also show my timeframe filters that I have set."
+    },
+    {
+      "id": 245,
+      "start": 838.1,
+      "end": 839.98,
+      "text": "Now all of this is pretty customizable."
+    },
+    {
+      "id": 246,
+      "start": 840.26,
+      "end": 844.06,
+      "text": "If you do have stuff that you want added into this indicator, I'm always going"
+    },
+    {
+      "id": 247,
+      "start": 844.06,
+      "end": 845.14,
+      "text": "to be improving this."
+    },
+    {
+      "id": 248,
+      "start": 845.46,
+      "end": 848.82,
+      "text": "So just go ahead and shoot me a message and I will see if it makes sense."
+    },
+    {
+      "id": 249,
+      "start": 849.14,
+      "end": 852.82,
+      "text": "But let's go over a couple more things such as overlapping the indicators."
+    },
+    {
+      "id": 250,
+      "start": 853.14,
+      "end": 857.46,
+      "text": "So here we are going to go over a few examples of overlapping the higher"
+    },
+    {
+      "id": 251,
+      "start": 857.46,
+      "end": 860.06,
+      "text": "timeframe T spot with a lower time frame setup."
+    },
+    {
+      "id": 252,
+      "start": 860.54,
+      "end": 863.34,
+      "text": "So you can see here we are in this higher timeframe T spot."
+    },
+    {
+      "id": 253,
+      "start": 863.74,
+      "end": 866.98,
+      "text": "We have a sweep of these consolidation highs."
+    },
+    {
+      "id": 254,
+      "start": 867.34,
+      "end": 869.86,
+      "text": "And then we close back inside the previous bar."
+    },
+    {
+      "id": 255,
+      "start": 870.22,
+      "end": 874.42,
+      "text": "So looking for price to trade lower here, what I could do is go ahead and"
+    },
+    {
+      "id": 256,
+      "start": 874.42,
+      "end": 880.34,
+      "text": "copy this indicator by right click, copy command V and paste on a second one."
+    },
+    {
+      "id": 257,
+      "start": 880.86,
+      "end": 882.46,
+      "text": "Move this to the lower timeframe."
+    },
+    {
+      "id": 258,
+      "start": 882.46,
+      "end": 886.06,
+      "text": "So instead of having it on the daily and hourly, go to automatic."
+    },
+    {
+      "id": 259,
+      "start": 886.22,
+      "end": 888.74,
+      "text": "And then I would go down to the five minute timeframe."
+    },
+    {
+      "id": 260,
+      "start": 889.58,
+      "end": 892.62,
+      "text": "Now down here on the five minute timeframe, you can see it's a bit messy"
+    },
+    {
+      "id": 261,
+      "start": 892.66,
+      "end": 895.62,
+      "text": "because it's overlaying the higher timeframe candles with the lower"
+    },
+    {
+      "id": 262,
+      "start": 895.62,
+      "end": 896.54,
+      "text": "timeframe candles."
+    },
+    {
+      "id": 263,
+      "start": 897.06,
+      "end": 899.62,
+      "text": "So I'll go ahead and hide these higher timeframe candles."
+    },
+    {
+      "id": 264,
+      "start": 900.18,
+      "end": 902.62,
+      "text": "And I'll just view the lower timeframe candles here."
+    },
+    {
+      "id": 265,
+      "start": 903.22,
+      "end": 907.78,
+      "text": "So you can see, go ahead and remove the drawings as we get into this next candle."
+    },
+    {
+      "id": 266,
+      "start": 908.26,
+      "end": 910.18,
+      "text": "You can see it prints the setup, right?"
+    },
+    {
+      "id": 267,
+      "start": 910.18,
+      "end": 914.14,
+      "text": "So we have the T spot right here on the five minute chart."
+    },
+    {
+      "id": 268,
+      "start": 914.46,
+      "end": 917.78,
+      "text": "So if I was looking for a setup to trade lower, I could either just take"
+    },
+    {
+      "id": 269,
+      "start": 917.78,
+      "end": 922.22,
+      "text": "an entry here with my stop on an invalidation or look for a confirmation"
+    },
+    {
+      "id": 270,
+      "start": 922.22,
+      "end": 923.06,
+      "text": "setup in here."
+    },
+    {
+      "id": 271,
+      "start": 923.66,
+      "end": 925.7,
+      "text": "And you can see what happens here."
+    },
+    {
+      "id": 272,
+      "start": 926.62,
+      "end": 929.26,
+      "text": "We start to trade that lower, right?"
+    },
+    {
+      "id": 273,
+      "start": 929.58,
+      "end": 933.98,
+      "text": "And you can see we did get a bullish setup that printed right here, right?"
+    },
+    {
+      "id": 274,
+      "start": 934.22,
+      "end": 938.18,
+      "text": "And that did fail right away as it was opposing the higher timeframe on."
+    },
+    {
+      "id": 275,
+      "start": 938.54,
+      "end": 943.94,
+      "text": "Now, with the closure lower, I'd be looking for a continuation out of this area."
+    },
+    {
+      "id": 276,
+      "start": 944.42,
+      "end": 951.7,
+      "text": "Now, as we let this play out, you can see once it closes over this area that"
+    },
+    {
+      "id": 277,
+      "start": 951.7,
+      "end": 955.38,
+      "text": "I'm looking for a continuation, this will turn red because that is not ideal"
+    },
+    {
+      "id": 278,
+      "start": 955.38,
+      "end": 959.98,
+      "text": "for me to be looking for a continuation lower when it closes over that level."
+    },
+    {
+      "id": 279,
+      "start": 961.78,
+      "end": 966.14,
+      "text": "And you can see that closure right there over my level was the early warning"
+    },
+    {
+      "id": 280,
+      "start": 966.14,
+      "end": 968.46,
+      "text": "that this setup was not likely to continue."
+    },
+    {
+      "id": 281,
+      "start": 969.1,
+      "end": 973.1,
+      "text": "So let's go back out to the hourly timeframe to see if there's any other setups."
+    },
+    {
+      "id": 282,
+      "start": 973.66,
+      "end": 978.1,
+      "text": "So you can see, as we get into the next day here, what occurs is we have a"
+    },
+    {
+      "id": 283,
+      "start": 978.1,
+      "end": 982.54,
+      "text": "candle to closure on the daily chart, setting up an hourly setup."
+    },
+    {
+      "id": 284,
+      "start": 982.78,
+      "end": 986.54,
+      "text": "So you can see if we zoom in, I'd be wanting to see the higher timeframe"
+    },
+    {
+      "id": 285,
+      "start": 986.54,
+      "end": 988.66,
+      "text": "wick form in this area here."
+    },
+    {
+      "id": 286,
+      "start": 989.02,
+      "end": 990.94,
+      "text": "And we have a fair value gap here."
+    },
+    {
+      "id": 287,
+      "start": 992.02,
+      "end": 996.14,
+      "text": "So narrowing down this point of interest, I can drop down to the hourly and"
+    },
+    {
+      "id": 288,
+      "start": 996.14,
+      "end": 999.94,
+      "text": "five minute to see if a setup occurs in this area that is bullish."
+    },
+    {
+      "id": 289,
+      "start": 1000.66,
+      "end": 1002.7,
+      "text": "So you can see, so we let this play out."
+    },
+    {
+      "id": 290,
+      "start": 1002.9,
+      "end": 1004.3,
+      "text": "There was a bearish setup."
+    },
+    {
+      "id": 291,
+      "start": 1004.3,
+      "end": 1008.62,
+      "text": "And you can see what do we notice the continuation from this bearish setup"
+    },
+    {
+      "id": 292,
+      "start": 1008.62,
+      "end": 1009.22,
+      "text": "has failed."
+    },
+    {
+      "id": 293,
+      "start": 1012.46,
+      "end": 1016.26,
+      "text": "And that is what actually creates the bullish candle to closure."
+    },
+    {
+      "id": 294,
+      "start": 1016.62,
+      "end": 1020.54,
+      "text": "Now in this area, we have the hourly tea spot, which I'd want to see hold and"
+    },
+    {
+      "id": 295,
+      "start": 1020.54,
+      "end": 1022.14,
+      "text": "a five minute tea spot right here."
+    },
+    {
+      "id": 296,
+      "start": 1022.66,
+      "end": 1027.14,
+      "text": "Now with the closure through these opposing candles here, that would be an"
+    },
+    {
+      "id": 297,
+      "start": 1027.14,
+      "end": 1027.82,
+      "text": "order block."
+    },
+    {
+      "id": 298,
+      "start": 1028.14,
+      "end": 1029.86,
+      "text": "I could look to take an entry in here."
+    },
+    {
+      "id": 299,
+      "start": 1030.1,
+      "end": 1031.14,
+      "text": "My stop on this low."
+    },
+    {
+      "id": 300,
+      "start": 1031.18,
+      "end": 1035.82,
+      "text": "And looking for two are, and as we let this play out, you see, we get a"
+    },
+    {
+      "id": 301,
+      "start": 1035.82,
+      "end": 1036.82,
+      "text": "continuation higher."
+    },
+    {
+      "id": 302,
+      "start": 1037.5,
+      "end": 1041.66,
+      "text": "And what else happens with this closure on this higher timeframe, I'd be looking"
+    },
+    {
+      "id": 303,
+      "start": 1041.66,
+      "end": 1045.54,
+      "text": "for a continuation in this area here in candle for."
+    },
+    {
+      "id": 304,
+      "start": 1048.5,
+      "end": 1052.38,
+      "text": "You can see now that we have closed over those down close candles there, I'd"
+    },
+    {
+      "id": 305,
+      "start": 1052.38,
+      "end": 1055.22,
+      "text": "anticipate this low to hold if we are going to trade higher."
+    },
+    {
+      "id": 306,
+      "start": 1056.18,
+      "end": 1058.22,
+      "text": "So we're going to take a look at the next two."
+    },
+    {
+      "id": 307,
+      "start": 1058.22,
+      "end": 1059.26,
+      "text": "We're going to trade higher."
+    },
+    {
+      "id": 308,
+      "start": 1061.9,
+      "end": 1063.58,
+      "text": "We finally hit that TP there."
+    },
+    {
+      "id": 309,
+      "start": 1064.18,
+      "end": 1067.38,
+      "text": "So you can see that is what I wanted to show was there's a lot of different"
+    },
+    {
+      "id": 310,
+      "start": 1067.38,
+      "end": 1071.62,
+      "text": "things that you can do with this indicator in terms of a confluence or overlapping."
+    },
+    {
+      "id": 311,
+      "start": 1071.98,
+      "end": 1076.94,
+      "text": "But you can see how this hourly tea spot was then overlapped with the five"
+    },
+    {
+      "id": 312,
+      "start": 1076.94,
+      "end": 1077.62,
+      "text": "minute tea spot."
+    },
+    {
+      "id": 313,
+      "start": 1077.94,
+      "end": 1082.14,
+      "text": "And if I really wanted to, I could go to the lower timeframes in there for our"
+    },
+    {
+      "id": 314,
+      "start": 1082.14,
+      "end": 1086.82,
+      "text": "last example here, you can see we are on ES on the daily and hourly chart as we"
+    },
+    {
+      "id": 315,
+      "start": 1086.82,
+      "end": 1088.58,
+      "text": "let this daily candle close."
+    },
+    {
+      "id": 316,
+      "start": 1088.62,
+      "end": 1089.62,
+      "text": "Let's see what happens."
+    },
+    {
+      "id": 317,
+      "start": 1090.14,
+      "end": 1094.54,
+      "text": "You can see our daily candle has closed inside the previous day high as shown"
+    },
+    {
+      "id": 318,
+      "start": 1094.54,
+      "end": 1095.54,
+      "text": "here and here."
+    },
+    {
+      "id": 319,
+      "start": 1096.26,
+      "end": 1099.66,
+      "text": "We have a candle to closure with a change in the state of delivery."
+    },
+    {
+      "id": 320,
+      "start": 1100.18,
+      "end": 1102.58,
+      "text": "Here are the projections from the reversal."
+    },
+    {
+      "id": 321,
+      "start": 1102.82,
+      "end": 1104.46,
+      "text": "Now the price is going to continue lower."
+    },
+    {
+      "id": 322,
+      "start": 1104.58,
+      "end": 1108.66,
+      "text": "I'd like to see price hold or not close over this tea spot area here."
+    },
+    {
+      "id": 323,
+      "start": 1109.22,
+      "end": 1114.94,
+      "text": "So as we let this continue to play out, you can see as we enter the New"
+    },
+    {
+      "id": 324,
+      "start": 1114.94,
+      "end": 1116.86,
+      "text": "York session, we have just consolidated."
+    },
+    {
+      "id": 325,
+      "start": 1117.3,
+      "end": 1122.7,
+      "text": "So with a consolidation, I'd like to see a manipulation before we get expansion."
+    },
+    {
+      "id": 326,
+      "start": 1124.86,
+      "end": 1127.46,
+      "text": "Here you can see we manipulate this side of the range."
+    },
+    {
+      "id": 327,
+      "start": 1127.7,
+      "end": 1129.62,
+      "text": "So where would I like to see price reach for?"
+    },
+    {
+      "id": 328,
+      "start": 1129.86,
+      "end": 1134.3,
+      "text": "Well, ideally using the formation liquidity or the previous days low over here,"
+    },
+    {
+      "id": 329,
+      "start": 1134.58,
+      "end": 1138.22,
+      "text": "which is marked out and in line with the projections, I'd like to see price"
+    },
+    {
+      "id": 330,
+      "start": 1138.22,
+      "end": 1139.78,
+      "text": "expand to these lows."
+    },
+    {
+      "id": 331,
+      "start": 1140.54,
+      "end": 1145.54,
+      "text": "You can see price then expands to those lows and hits the targets."
+    },
+    {
+      "id": 332,
+      "start": 1146.3,
+      "end": 1150.1,
+      "text": "And that will conclude the video with the introduction to my fractal model as"
+    },
+    {
+      "id": 333,
+      "start": 1150.1,
+      "end": 1151.94,
+      "text": "well as showcasing my indicator."
+    },
+    {
+      "id": 334,
+      "start": 1152.26,
+      "end": 1156.3,
+      "text": "If there is anything that I missed within this video in regards to settings"
+    },
+    {
+      "id": 335,
+      "start": 1156.3,
+      "end": 1160.06,
+      "text": "or the indicator, feel free to leave a comment in the comment section below"
+    },
+    {
+      "id": 336,
+      "start": 1160.06,
+      "end": 1161.22,
+      "text": "and I'll get those answered."
+    },
+    {
+      "id": 337,
+      "start": 1161.5,
+      "end": 1164.02,
+      "text": "But with that, I hope you have a great rest of your day and I'll see you guys"
+    },
+    {
+      "id": 338,
+      "start": 1164.02,
+      "end": 1164.54,
+      "text": "next time."
+    }
+  ],
+  "created_at": "2026-09-01T17:01:01.051862+00:00"
+}

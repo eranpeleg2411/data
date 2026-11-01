@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "NqSbvqDKML0",
+    "title": "The Only Points of Interest That Actually Matter For Trading",
+    "url": "https://www.youtube.com/watch?v=NqSbvqDKML0",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/NqSbvqDKML0.json"
+  },
+  "stats": {
+    "word_count": 4070,
+    "duration_seconds": 1209.64,
+    "segments": 439,
+    "concepts_detected": 6,
+    "candidate_strategies": 4
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 42,
+    "Order Blocks and Breakers": 1,
+    "SMT Divergence": 2,
+    "TTrades Fractal Model": 2,
+    "Protected Swing": 10,
+    "CISD": 10
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "High or Low of Day",
+      "evidence": [
+        {
+          "start": 895.2,
+          "end": 905.36,
+          "text": "And you can see how we can adjust those points of interest based off of what the chart is telling us. I'm not going in here and just saying this is where the high of day is going to form.",
+          "concepts": [],
+          "strategies": [
+            "High or Low of Day"
+          ],
+          "score": 7
+        }
+      ]
+    },
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 945.6,
+          "end": 955.2,
+          "text": "But looking at the fair value gap, that's where I want to have the continuation form. We have an ideal candle to closure. And then now we'd want to see that trade lower, right?",
+          "concepts": [
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 10
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 1022.2,
+          "end": 1032.88,
+          "text": "But what do we have? We have a small wick supported by SMT and a change in the state of delivery. Now let's take a look at that point of reversal to the range we have created.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 12
+        }
+      ]
+    },
+    {
+      "name": "CISD Confirmed Swing Entry",
+      "evidence": [
+        {
+          "start": 132.3,
+          "end": 147.78,
+          "text": "Now a CISD level is a point of interest that I rarely use and I only use it in the case when there is no fair value gap or high or low to be taken out from the point of reversal. But here you can see we have that same point of reversal, right?",
+          "concepts": [
+            "Fair Value Gap",
+            "CISD"
+          ],
+          "strategies": [
+            "CISD Confirmed Swing Entry"
+          ],
+          "score": 19
+        },
+        {
+          "start": 222.06,
+          "end": 233.06,
+          "text": "If we don't, I can look for a swing low. If we don't, then I can use the CISD level. I'm only going to use the CISD level, either a fair value gap or a swing high or low is",
+          "concepts": [
+            "Fair Value Gap",
+            "CISD"
+          ],
+          "strategies": [
+            "CISD Confirmed Swing Entry"
+          ],
+          "score": 16
+        },
+        {
+          "start": 583.26,
+          "end": 597.58,
+          "text": "I'm looking for a point of reversal in line with my model. And then I'm looking for a fair value gap or a swing high or low. If neither of those are present, then I will look to use that CISD level and 50% of it.",
+          "concepts": [
+            "Fair Value Gap",
+            "CISD"
+          ],
+          "strategies": [
+            "CISD Confirmed Swing Entry"
+          ],
+          "score": 17
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 49.4,
+      "end": 59.04,
+      "text": "And when I do use a retest of a CISD level, that is in a specific case, which we will get into. So let's first talk about swing highs and lows.",
+      "concepts": [
+        "CISD"
+      ],
+      "strategies": [
+        "CISD Confirmed Swing Entry"
+      ],
+      "score": 11
+    },
+    {
+      "start": 80.5,
+      "end": 91.94,
+      "text": "So that is my point of interest in the range from the protected swing or the reversal point. So from the reversal, do I have a point of interest here? I have a swing high or a swing low.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 104.14,
+      "end": 119.18,
+      "text": "So once again, from that point of reversal, do I have any points of interest? You can see I don't have a high or a low, but what do I have a fair value gap? So marking that out, that gives us our point of interest where we want to see price reverse",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 132.3,
+      "end": 147.78,
+      "text": "Now a CISD level is a point of interest that I rarely use and I only use it in the case when there is no fair value gap or high or low to be taken out from the point of reversal. But here you can see we have that same point of reversal, right?",
+      "concepts": [
+        "Fair Value Gap",
+        "CISD"
+      ],
+      "strategies": [
+        "CISD Confirmed Swing Entry"
+      ],
+      "score": 19
+    },
+    {
+      "start": 159.66,
+      "end": 171.42,
+      "text": "No. So in the case that from the point of reversal to the range that we are currently trading and we don't have a point of interest, that is when I can use the retest of the CISD level.",
+      "concepts": [
+        "CISD"
+      ],
+      "strategies": [
+        "CISD Confirmed Swing Entry"
+      ],
+      "score": 14
+    },
+    {
+      "start": 222.06,
+      "end": 233.06,
+      "text": "If we don't, I can look for a swing low. If we don't, then I can use the CISD level. I'm only going to use the CISD level, either a fair value gap or a swing high or low is",
+      "concepts": [
+        "Fair Value Gap",
+        "CISD"
+      ],
+      "strategies": [
+        "CISD Confirmed Swing Entry"
+      ],
+      "score": 16
+    },
+    {
+      "start": 491.9,
+      "end": 502.86,
+      "text": "So looking for a fair value gap, we don't have one of those looking for a swing point. If we don't have one of those, then we go into this next scenario where if we have neither of those, then we can use the CISD level.",
+      "concepts": [
+        "Fair Value Gap",
+        "CISD"
+      ],
+      "strategies": [
+        "CISD Confirmed Swing Entry"
+      ],
+      "score": 15
+    },
+    {
+      "start": 583.26,
+      "end": 597.58,
+      "text": "I'm looking for a point of reversal in line with my model. And then I'm looking for a fair value gap or a swing high or low. If neither of those are present, then I will look to use that CISD level and 50% of it.",
+      "concepts": [
+        "Fair Value Gap",
+        "CISD"
+      ],
+      "strategies": [
+        "CISD Confirmed Swing Entry"
+      ],
+      "score": 17
+    },
+    {
+      "start": 639.86,
+      "end": 649.3,
+      "text": "I would not consider that because it doesn't have a point of interest, right? Because we have a fair value gap here, I will not consider it unless it reaches into this point of interest.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 788.52,
+      "end": 795.32,
+      "text": "Why would I not consider this a protected swing? It never hits a point of interest. It has a fair value gap right above it.",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 973.36,
+      "end": 982.68,
+      "text": "like that. I just want to show you how I choose my points of interest. I'm always finding a point of reversal or protected swing. Then looking for a fair value gap.",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 1022.2,
+      "end": 1032.88,
+      "text": "But what do we have? We have a small wick supported by SMT and a change in the state of delivery. Now let's take a look at that point of reversal to the range we have created.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 12
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:34.884572+00:00"
+}

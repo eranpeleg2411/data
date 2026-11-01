@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "ubCe509_JLY",
+    "title": "Timeframe Alignment: How To Align Timeframes For Expansion",
+    "url": "https://www.youtube.com/watch?v=ubCe509_JLY",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/ubCe509_JLY.json"
+  },
+  "stats": {
+    "word_count": 3003,
+    "duration_seconds": 966.14,
+    "segments": 246,
+    "concepts_detected": 6,
+    "candidate_strategies": 3
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 7,
+    "Market Structure Shift": 1,
+    "Order Blocks and Breakers": 8,
+    "SMT Divergence": 3,
+    "Power of Three": 1,
+    "Daily Bias": 2
+  },
+  "spoken_time_references": [
+    "London session",
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 283.34,
+          "end": 298.22,
+          "text": "or I could wait for another continuation entry. So you can see here, we get a retracement back into the range. And once again, now we have a new order block formation.",
+          "concepts": [
+            "Order Blocks and Breakers"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 11
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 638.3,
+          "end": 648.3,
+          "text": "So using the daily profile, we have all these failure swings on the highs or in the New York session, we have an SMT. This is looking like a New York reversal setup.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 14
+        }
+      ]
+    },
+    {
+      "name": "Power of Three / AMD",
+      "evidence": [
+        {
+          "start": 764.22,
+          "end": 778.58,
+          "text": "we reach for the low of the consolidation? And that is because we have accumulation, manipulation, and then I'd anticipate distribution. So using this as my bias, let's go all the way top down from a daily bias to aligning",
+          "concepts": [
+            "Power of Three",
+            "Daily Bias"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 15
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 12.36,
+      "end": 25.16,
+      "text": "This video is going to be about time frame alignment. We're going to talk about how to align the time frames together, specifically how to go from a higher time frame point of interest to a lower time frame entry using the entry",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 49.36,
+      "end": 62.2,
+      "text": "If you have questions regarding bias please leave them in the comment section below or check out the other videos regarding daily bias on my youtube channel. So in this scenario we have formed a swing point and I am anticipating price to continue",
+      "concepts": [
+        "Daily Bias"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 91.52,
+      "end": 103.24,
+      "text": "And what do I mean for a key level? Well that is either going to be a fair value gap, a high or a low, or an order block. So you can see here price retraces into a fair value gap retesting the change in the",
+      "concepts": [
+        "Fair Value Gap",
+        "Order Blocks and Breakers"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 108.44,
+      "end": 120.16,
+      "text": "interest all I need to do is wait for my lower time frame entry to align with my higher time frame bias and structure. Now after I have an order block formation on the lower time frame in which price moves",
+      "concepts": [
+        "Order Blocks and Breakers"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 283.34,
+      "end": 298.22,
+      "text": "or I could wait for another continuation entry. So you can see here, we get a retracement back into the range. And once again, now we have a new order block formation.",
+      "concepts": [
+        "Order Blocks and Breakers"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 11
+    },
+    {
+      "start": 491.7,
+      "end": 505.26,
+      "text": "So looking at this series of up close candles into that point of interest, I am then looking for that as my change in the state of delivery. So now aligned with my daily point of interest of an old high and the context of price trading",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 512.02,
+      "end": 526.46,
+      "text": "Now with this, I could look to take an entry here, or once again, I could wait for the New York session or a lower timeframe point of interest to be hit. So you can see we reach back into this little fair value gap and retest our change in the",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 553.7,
+      "end": 566.18,
+      "text": "So down here on the five minute, you can see where price retested our hourly order block here. And we have then closed below the up close candles into that point of interest.",
+      "concepts": [
+        "Order Blocks and Breakers"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 638.3,
+      "end": 648.3,
+      "text": "So using the daily profile, we have all these failure swings on the highs or in the New York session, we have an SMT. This is looking like a New York reversal setup.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 14
+    },
+    {
+      "start": 659.5,
+      "end": 673.48,
+      "text": "And with that being held, I want to wait for a point of interest to be hit on the 30 minute chart before dropping down to my aligned three minute chart. And you can see here we have formed a bullish fair value gap.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 690.66,
+      "end": 704.42,
+      "text": "And when we reach into the 30 minute fair value gap, I want to wait for this to align with my higher timeframe, which is the 30 minute chart bullish. Once we get the closure through the down close candles into the point of interest, also sweeping",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 764.22,
+      "end": 778.58,
+      "text": "we reach for the low of the consolidation? And that is because we have accumulation, manipulation, and then I'd anticipate distribution. So using this as my bias, let's go all the way top down from a daily bias to aligning",
+      "concepts": [
+        "Power of Three",
+        "Daily Bias"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 15
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.683743+00:00"
+}

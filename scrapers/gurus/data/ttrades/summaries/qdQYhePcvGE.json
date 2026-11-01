@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "qdQYhePcvGE",
+    "title": "TTrades Fractal Model - Trading Candle 3",
+    "url": "https://www.youtube.com/watch?v=qdQYhePcvGE",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/qdQYhePcvGE.json"
+  },
+  "stats": {
+    "word_count": 7473,
+    "duration_seconds": 2127.94,
+    "segments": 718,
+    "concepts_detected": 10,
+    "candidate_strategies": 5
+  },
+  "concept_mentions": {
+    "Liquidity": 12,
+    "Fair Value Gap": 7,
+    "Order Blocks and Breakers": 6,
+    "SMT Divergence": 9,
+    "TTrades Fractal Model": 2,
+    "Candle 2 Closure": 1,
+    "Candle 3 Setup": 21,
+    "Candle 4 Setup": 1,
+    "Protected Swing": 22,
+    "Buyside and Sellside Liquidity": 7
+  },
+  "spoken_time_references": [
+    "London session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 493.08,
+          "end": 499.8,
+          "text": "We have that reversal. We have the projections the liquidity and let's see what happens is now we are trading this candle three.",
+          "concepts": [
+            "Liquidity",
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 14
+        },
+        {
+          "start": 569.4,
+          "end": 582.0,
+          "text": "So we have closed back inside this previous days range is that I want to see a new high or that buy side liquidity. So with this reversal daily candle then I can anticipate a continuation in day three.",
+          "concepts": [
+            "Liquidity",
+            "Buyside and Sellside Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 14
+        }
+      ]
+    },
+    {
+      "name": "High or Low of Day",
+      "evidence": [
+        {
+          "start": 847.74,
+          "end": 861.86,
+          "text": "this liquidity here or the highs or I can look for a retest. So for instance here if I want to be able to target this negative one or this current high of day maybe that is where I'm going to use a smaller stop loss or looking for",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "High or Low of Day"
+          ],
+          "score": 12
+        }
+      ]
+    },
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 247.16,
+          "end": 261.2,
+          "text": "And so what I'm going to want to look for now is that continuation. You can see we do have price reaching into a fair value gap here. Let's see if we can get a continuation from this point of interest to trade it higher.",
+          "concepts": [
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 13
+        },
+        {
+          "start": 590.6,
+          "end": 600.36,
+          "text": "We have an SMT. So if we're looking for a continuation in this day we want to see price open make a low form a protected swing to trade higher.",
+          "concepts": [
+            "SMT Divergence",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 15
+        },
+        {
+          "start": 1534.32,
+          "end": 1547.74,
+          "text": "timeframe reversals, a higher timeframe continuation paired with a lower timeframe reversal. So this next example is another of a higher timeframe continuation. And then that is allowing me to trade a lower timeframe reversal.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 14
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 441.88,
+          "end": 451.0,
+          "text": "You'll notice that if you wanted to when paired with SMT here you could look to trade this reversal here. But let's say I wanted to look to trade the continuation.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 11
+        },
+        {
+          "start": 619.88,
+          "end": 632.32,
+          "text": "We hit two are we also have another SMT forming here with YM. Well what is another thing we could do here. Well this was looking to trade a reversal on the lower timeframe inside that continuation",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 13
+        },
+        {
+          "start": 1450.78,
+          "end": 1461.08,
+          "text": "So either an SMT with the change in the state of delivery and a nice V shape reversal, because we do have these equal highs now. And there you can see right here, we have that SMT, right?",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 12
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 361.4,
+          "end": 372.72,
+          "text": "So this is where I could then look to take an entry on the open. I have a protected swing and I could look for two are or to look towards those projections that line up with the liquidity resting below.",
+          "concepts": [
+            "Liquidity",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 17
+        },
+        {
+          "start": 838.1,
+          "end": 852.54,
+          "text": "While still respecting these protected swings over here we form a new protected swing. This is when I can either look to take an entry on this retest I stop on the low targeting this liquidity here or the highs or I can look for a retest.",
+          "concepts": [
+            "Liquidity",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 21
+        },
+        {
+          "start": 988.84,
+          "end": 995.64,
+          "text": "So now we have this as a protected swing and this as a protected swing. So I could take a target. So I could take an entry there.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 13
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 247.16,
+      "end": 261.2,
+      "text": "And so what I'm going to want to look for now is that continuation. You can see we do have price reaching into a fair value gap here. Let's see if we can get a continuation from this point of interest to trade it higher.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 361.4,
+      "end": 372.72,
+      "text": "So this is where I could then look to take an entry on the open. I have a protected swing and I could look for two are or to look towards those projections that line up with the liquidity resting below.",
+      "concepts": [
+        "Liquidity",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 17
+    },
+    {
+      "start": 493.08,
+      "end": 499.8,
+      "text": "We have that reversal. We have the projections the liquidity and let's see what happens is now we are trading this candle three.",
+      "concepts": [
+        "Liquidity",
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 14
+    },
+    {
+      "start": 569.4,
+      "end": 582.0,
+      "text": "So we have closed back inside this previous days range is that I want to see a new high or that buy side liquidity. So with this reversal daily candle then I can anticipate a continuation in day three.",
+      "concepts": [
+        "Liquidity",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 14
+    },
+    {
+      "start": 590.6,
+      "end": 600.36,
+      "text": "We have an SMT. So if we're looking for a continuation in this day we want to see price open make a low form a protected swing to trade higher.",
+      "concepts": [
+        "SMT Divergence",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 15
+    },
+    {
+      "start": 619.88,
+      "end": 632.32,
+      "text": "We hit two are we also have another SMT forming here with YM. Well what is another thing we could do here. Well this was looking to trade a reversal on the lower timeframe inside that continuation",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 13
+    },
+    {
+      "start": 653.36,
+      "end": 666.64,
+      "text": "So if we get a closure through the series of down close candles here as we have this reversal and then this would be the continuation order block or the propulsion block. Then I could have a trade that looks something like this with the same target and I get more",
+      "concepts": [
+        "Order Blocks and Breakers"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 814.68,
+      "end": 827.48,
+      "text": "So I want to see a shallow retracement a protected swing and then to trade the continuation. So let's see if that occurs we do have a fair value gap right here as the point of interest. So we do have a series of down close candles.",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 14
+    },
+    {
+      "start": 838.1,
+      "end": 852.54,
+      "text": "While still respecting these protected swings over here we form a new protected swing. This is when I can either look to take an entry on this retest I stop on the low targeting this liquidity here or the highs or I can look for a retest.",
+      "concepts": [
+        "Liquidity",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 21
+    },
+    {
+      "start": 988.84,
+      "end": 995.64,
+      "text": "So now we have this as a protected swing and this as a protected swing. So I could take a target. So I could take an entry there.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 1534.32,
+      "end": 1547.74,
+      "text": "timeframe reversals, a higher timeframe continuation paired with a lower timeframe reversal. So this next example is another of a higher timeframe continuation. And then that is allowing me to trade a lower timeframe reversal.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 14
+    },
+    {
+      "start": 1751.3,
+      "end": 1760.42,
+      "text": "for continuation lower. So my candle for here is in this case, giving me my bias to trade it to lower where it would be lower sell side liquidity.",
+      "concepts": [
+        "Liquidity",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 13
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.523747+00:00"
+}

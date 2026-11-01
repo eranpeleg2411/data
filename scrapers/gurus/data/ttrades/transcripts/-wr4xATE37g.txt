@@ -1,0 +1,316 @@
+[00:00] How's it going everyone?
+[00:12] In this video we are going to talk about protected swings or protected highs and lows in the
+[00:17] market.
+[00:18] So let's get into the video.
+[00:20] So what is a protected swing?
+[00:22] A protected swing is a high or low in which I'm expecting to hold as the trend continues.
+[00:28] So what do I mean by that?
+[00:29] In this case, in a bullish scenario, I'm expecting this low to remain intact if this trend is
+[00:34] going to continue higher.
+[00:37] Now how do I define a protected high or low or a protected swing?
+[00:40] Well, there are two types and this would be the first one.
+[00:44] If we are bullish, I want to see a low or a short term low be ran out or swept and then
+[00:50] close through the series of down close candles that made the low.
+[00:53] So you can see here, here is the low.
+[00:56] If we find the series of down close candles, I mark that out.
+[00:59] Once price closes over that level, this is now a protected low and I expect it to hold
+[01:05] if we are going to continue higher.
+[01:07] Now when do we not need to run out the low?
+[01:10] Well, that is only if we use SMT.
+[01:13] So in this case, using SMT, the correlated asset has ran out the low forming a protected
+[01:18] low.
+[01:19] So then we can anticipate this low to hold as well.
+[01:22] So in this case, I'll use the series of down close candles that made the failure swing
+[01:27] once that is closed over, then expecting these to hold here.
+[01:31] Now the other type of protected swing is one formed out of a fair value gap.
+[01:36] So in the first two examples, it is based off of a high or low being swept out.
+[01:40] In this case, it is price reaching into a fair value gap.
+[01:43] I then find the low.
+[01:45] I found this series of down close candles that formed that low.
+[01:48] Once price closes over that level, I then anticipate this low to hold if price is going
+[01:53] to continue higher.
+[01:55] So let's get into an example.
+[01:56] Here you can see prices trending down into an important level where we may anticipate
+[02:01] a new phase of price.
+[02:03] You can see we have a series of down close candles into that important level.
+[02:07] Do we close over those two down close candles?
+[02:09] No, so it is still bearish.
+[02:12] So taking a look here, now we have swept out that short term low or sweeping out a liquidity
+[02:17] point.
+[02:18] Here we have the correlated asset to show you what it looks like with an SMT, but we're
+[02:22] going to focus on this one.
+[02:24] But now with the sweep of a low, we can find this low and the series of down close candles
+[02:29] that made that low.
+[02:30] Go ahead and mark out this level.
+[02:31] And when price closes over that level, this low is now protected or anticipate this low
+[02:37] to hold if price is going to reverse and change trend and continue higher.
+[02:42] So from here, I can look to take an entry or seek a continuation as I'm expecting this
+[02:47] trend to continue higher.
+[02:49] So let's get into some examples in trading view.
+[02:53] So here we are with our first example, and you can see we have had expansion lower, and
+[02:58] then we're having a consolidation.
+[03:00] So if you understand the phases of price, if we are in a consolidation, where do we want
+[03:04] to focus the external parts of the range?
+[03:08] Since we are bearish, what would we want to see?
+[03:10] We would want to see highs ran out to then trade back lower.
+[03:15] So taking a look at this, what happens when we reach up into this high?
+[03:19] Well, we sweep it out.
+[03:21] And if you notice, we have a candle to closure.
+[03:24] Or if you see my daily bias video, we're closing back inside the previous day's range.
+[03:28] So we can expect this to trade lower.
+[03:31] Let's go down to the hourly chart to see what this looks like.
+[03:34] So here we are down on the hourly chart, and I have my indicator up with the daily candles
+[03:38] so you can visualize it.
+[03:40] Here we have swept out our previous days high.
+[03:43] And do we form a reversal?
+[03:45] Well, what forms a protected high?
+[03:47] Well, let's say I was trying to frame a reversal off of this previous day high.
+[03:51] We have that turtle soup.
+[03:53] But what happens?
+[03:54] And why do I wait for a protected high?
+[03:55] Well, we never get that confirmation of the close through the series of down close candles
+[04:00] that made the high.
+[04:01] So you can see how it just fails.
+[04:04] Now we have another sweep over this high.
+[04:07] What happens here?
+[04:08] Well, do we get a closure through the series of candles that made the high?
+[04:12] In this case, it is just one.
+[04:13] Yes, we do.
+[04:15] So with this, now we can anticipate this trend to have flipped and we are bearish, right?
+[04:21] And what does this do?
+[04:22] This is now a protected swing.
+[04:24] Right?
+[04:25] I'm expecting this high to remain intact because it has been closed through.
+[04:29] If price is going to continue bearish.
+[04:32] So I'm expecting this week to remain intact as we trade lower.
+[04:36] So getting into the next day, let's see what happens.
+[04:38] You can see my indicator does plot a bearish signal.
+[04:43] We reach up into here.
+[04:44] And there's really not much going on here as this is a whole series up.
+[04:48] I would be ignoring the small little candle there.
+[04:52] What happens if we need a protected swing?
+[04:55] We would need what?
+[04:56] A high to be swept out.
+[04:58] Why are we looking for a high to be swept out and not a low?
+[05:01] Well, we are bearish because this trend is now bearish as long as this wick remains intact.
+[05:07] So now that we have swept out the high, what would we need to form a protected swing right
+[05:11] here to trade off of?
+[05:13] We would need this series of up close candles that swept out that high to be closed below.
+[05:19] So as we let this continue, do we get a closure below that we do right here?
+[05:24] So now I'm expecting this high to remain, but we have a new protected high.
+[05:28] I'm expecting this high to remain.
+[05:30] And due to the day, I'm expecting that to remain intact as we continue into the next
+[05:35] day pretty late into the session.
+[05:38] So here we are in the next day.
+[05:41] We have a consolidation.
+[05:43] Here we sweep out this high.
+[05:45] What would we need for price to form a protected high right here?
+[05:49] We need a closure through the series of up close candles.
+[05:52] Not really many series of up close candles there.
+[05:54] So it would just be that body right there.
+[05:57] So marking that out, I would need a closure through that.
+[06:00] We have yet to get that.
+[06:02] So now we have swept out a new high.
+[06:04] So I'm just going to repeat the process.
+[06:07] And here you can see where would be the series of up close candles right there.
+[06:12] So let's see when we get a closure through that right there, we get the closure through.
+[06:17] So now I'd expect this high to remain intact.
+[06:19] And you can see how this is used for a continuation of a trend.
+[06:23] Here is a reversal and each one of these is a continuation of this bearish trend or a
+[06:29] lower timeframe reversal.
+[06:31] And where would I be looking to target?
+[06:32] Well, I have my liquidity points here as marked out via my indicator.
+[06:36] So as we let this continue, we go and take out that low taking a look.
+[06:42] Do we get a retracement or a reversal?
+[06:44] It's looking like a retracement.
+[06:46] What do we have here?
+[06:47] We sweep out a high or into a fair value gap.
+[06:51] And what do we also have a closure through the series of up close candles into that important
+[06:56] level, I could then anticipate this high to remain if we're going to continue lower.
+[07:02] And once again, we get a continuation lower.
+[07:05] We have a very deep retracement almost taking out this high, but it remains intact with that
+[07:11] deeper tracement.
+[07:12] What do we reach into a fair value gap here?
+[07:15] And so then now with the closure through this up close candle into that fair value
+[07:19] gap, we now have a new protected high.
+[07:22] Right.
+[07:22] And so all I'm looking for is this low because that is our daily target.
+[07:26] Let's see if that gets taken or if our protected high gets taken out first.
+[07:31] And you can see we get those lows taken out.
+[07:34] So hopefully that makes sense how we have a reversal.
+[07:37] This forms a protected high, right?
+[07:39] Our protected swing.
+[07:41] And then we are expecting this trend to continue until it is violated, right?
+[07:45] With daily closures as we are closing outside the previous days lows.
+[07:50] So as long as that is occurring, I'm expecting this trend to continue.
+[07:53] And I can continue to just track the protected swings in the market, giving me areas that
+[07:58] I want to sell.
+[08:01] So here we are with our same EU example.
+[08:03] We were just up here and we had those lows taken out down here.
+[08:07] Now, if we're expecting this to continue lower, what are we looking at?
+[08:12] Well, we had this range high taken out and we have this range low.
+[08:16] Now we have equal lows of expansion and we are consolidating.
+[08:20] So if we're expecting a continuation lower, what do we want to see a run of a high and
+[08:26] then to form a protected swing?
+[08:29] Now let's talk about something the anticipation of a protected swing versus a protected swing
+[08:34] forming.
+[08:35] So you can see here, I have the narrative that I'm expecting this high to form in here
+[08:40] to trade lower.
+[08:41] So I can anticipate that protected swing to form and drop down to the hourly chart.
+[08:46] And that is where I could look for lower timeframe setups and confirmations.
+[08:50] So you can see here, we have price running out this high here.
+[08:53] We close through the series of up close candles into that high.
+[08:57] Right?
+[08:58] And so I'm expecting a continuation lower here.
+[09:01] So if we have expansion, what do we expect?
+[09:04] Either a retracement or a consolidation to get a continuation signature right here.
+[09:10] We are pretty much consolidating.
+[09:12] And what do we notice?
+[09:13] We are taking out highs, right?
+[09:15] So we reach into this fair value gap over here and we don't get that protected swing.
+[09:19] Right?
+[09:20] We get a very lethargic move back into the range here, not confirming this as a protected
+[09:25] high.
+[09:26] So we have another sweep of a high here.
+[09:29] Here would be our protected high, a closure through here.
+[09:33] So I can go ahead and wait for that.
+[09:36] And when we close through here, what am I anticipating?
+[09:39] I'm now anticipating this high to remain intact, which means this wick high has formed.
+[09:44] And I can expect to trade that lower.
+[09:46] So we let that continue.
+[09:48] We go and take out that previous days low.
+[09:51] And let's see if we run out the low.
+[09:54] We are currently leaving this range low.
+[09:57] And then as we approach this candle for continuation and expecting the lower half of this candle
+[10:02] to push price lower, we have price running out a high right here into a fair value gap.
+[10:09] Where are the series of candles?
+[10:10] Well, you could use these full move here, but if we look at this price went up down
+[10:16] back up.
+[10:17] So I can really just use this level in here.
+[10:21] So let's see what happens.
+[10:23] We've run out a new high.
+[10:26] It gives me a new level to look at right here.
+[10:30] Sweep.
+[10:31] Not very clean in here, but I can use that leg up or I could just use the same level
+[10:36] closure through that.
+[10:37] And then we go ahead and drop through those lows.
+[10:39] So you can see if we go back out to our daily timeframe here, what we can do is use that
+[10:45] narrative on the daily chart with a daily closure to anticipate and refine it on the
+[10:50] hourly.
+[10:51] Or if we were just going to wait for the daily setup, we'd have the anticipation of that
+[10:55] swing.
+[10:56] And then when we close through here, that is the confirmation that this high should
+[11:00] remain intact as we go run out that low and we get an expansion lower.
+[11:05] So here we are on our next example, ES on the four hour chart.
+[11:09] And we have the daily candles up here.
+[11:11] You can see we have a nice bearish closure on the daily chart.
+[11:15] So if expecting a continuation lower, I want to see from the lower half of this.
+[11:19] Well, what area is in the lower half?
+[11:21] We have a fair value gap right here.
+[11:24] If I'm expecting price to retrace up and continue lower, I want to see price form a
+[11:28] high in here to continue lower.
+[11:31] So letting another candle play out.
+[11:33] What are we left with?
+[11:35] Is that a bearish closure?
+[11:36] It is not.
+[11:37] So I can give it another candle.
+[11:40] Is this a bearish closure?
+[11:41] Yes, it is.
+[11:42] We sweep out our previous and we close back inside the range.
+[11:45] So with this, I can drop down to the 15 minute chart.
+[11:49] So here we are down on the 15 minute chart.
+[11:52] And do we have a protected swing?
+[11:54] Well, we find this high right here.
+[11:56] We find the series of up close candles that made it.
+[11:59] Have we closed through it?
+[12:00] Yes, we have.
+[12:01] So with that, I'm expecting this high to remain intact.
+[12:05] Now, as we move ahead, what happens?
+[12:08] Do we have any points of interest?
+[12:11] Well, waiting for the closure and the open of the new candle.
+[12:14] We do right here as we have swept out this high.
+[12:18] So now what am I seeing?
+[12:19] If we're going to form a new protected high, we need to close through where?
+[12:23] Right here.
+[12:24] Why that point?
+[12:26] Because that is the series of up close candles.
+[12:28] In this case, just one that swept out this previous high or point of interest.
+[12:32] So as we let this continue, we close through there.
+[12:35] And now I can anticipate a move lower to that sell side liquidity point.
+[12:40] So starting out this next example, we are on silver one hour chart.
+[12:44] So you can see our daily chart here.
+[12:46] We have a nice sweep of the highs and closure back in, which is very bearish.
+[12:51] So going ahead and marking out this up close candle here, I'd want to see that
+[12:55] be respected as we trade lower.
+[12:58] Now with this, where is our protected swing?
+[13:01] Well, my indicator will mark that out, but I'll find the high here.
+[13:04] I'll find the series of candles that made that high.
+[13:06] In this case, it is just one as it sweeps out this high previous as well.
+[13:11] And so that is our protected high.
+[13:13] Now, if I'm looking to take a position in here, do I
+[13:16] want to enter with my stop all the way on this high?
+[13:20] That doesn't really give good risk to reward to my first target or even to
+[13:24] my projections.
+[13:25] So with that, I'm going to let a new protected swing form to look for an entry.
+[13:30] So as I let this play forward, let's see what happens.
+[13:33] Does price reach into a point of interest?
+[13:36] It does as it reaches into a fair value gap here.
+[13:39] And what else do we have?
+[13:41] We have these series of up close candles, or in this case, a singular one
+[13:45] into that point of interest, and we are now closed through.
+[13:49] Now I have a new protected swing in the market, and I'm expecting
+[13:52] this to remain intact as we trade lower if this trend is going to continue.
+[13:57] So then this is where I can sell, put my stop on the protected swing high,
+[14:02] and then look for two R.
+[14:05] So let's see how this works out.
+[14:09] And you can see we hit our two R.
+[14:12] And then we go to that for standard deviation projection.
+[14:16] But that is an example of how I would actually look to trade with protected swings.
+[14:20] I'm using it as my invalidation.
+[14:23] I want an entry fairly close to my invalidation to give me good risk to reward.
+[14:29] So here we are in our next example.
+[14:30] You can take a look at this sell side of the curve here, running out these lows.
+[14:35] Here is where we formed that protected swing as we have closed through here.
+[14:39] 50% is retested, and then we get a continuation lower.
+[14:42] Now you can see all these failure swings on the highs.
+[14:46] Once again, we want to be trading towards failure swings and we want
+[14:48] protected swings on our side of the market.
+[14:51] So we have failure swings on the buy side of the market.
+[14:54] And what do we notice down here?
+[14:56] We have swept out a low.
+[14:58] Have we confirmed that low or protected that low?
+[15:01] Yes, as we have closed through the series of down close candles that formed that low.
+[15:05] So now I can anticipate this low to hold.
+[15:08] If this is going to be the low or the reversal off previous day low to then trade
+[15:12] higher back through these highs.
+[15:14] So as we zoom in, let's see how this forms in here.
+[15:18] So you can see what do we have?
+[15:20] We have a point of interest, a fair value gap here.
+[15:23] We have a down close candle into that point of interest.
+[15:27] It's then closed over.
+[15:28] So what does that give us?
+[15:29] That gives us a new protected swing.
+[15:32] Right.
+[15:32] So this would be the continuation or the order block formed at the low risk buy.
+[15:36] So once again, here, that is where I could look to buy, but my stop on the invalidation.
+[15:42] And then from there, I could be looking for two R.
+[15:46] Right.
+[15:46] Or I could be looking for those highs up here, right?
+[15:49] Because that is where I'm anticipating price to trade to.
+[15:53] So let's see what happens as we let this play out.
+[15:56] We get a continuation higher and we hit our TP up there.
+[16:00] So once again, it's just important to track those protected swings because that is
+[16:05] where the opportunities lie.
+[16:06] You don't have to catch them at the reversal.
+[16:09] You can get the continuation or even the candles following that reversal or when
+[16:14] the continuation is confirmed.
+[16:16] Now, I hope you enjoyed this video.
+[16:17] It is a very important concept within my trading.
+[16:20] So I hope you find it helpful.
+[16:22] Now, when I'm looking for entries, I am mainly focused on a new invalidation forming.
+[16:27] When I can anticipate a new invalidation forming or a new protected swing, that gives
+[16:31] me a new area to anticipate expansion from or to trade off of.
+[16:36] Now, if you have any questions, feel free to leave them in the comments below or
+[16:39] any suggestions for future videos.
+[16:41] I hope you enjoyed and I'll see you guys next time.
+[16:43] Have a good one.

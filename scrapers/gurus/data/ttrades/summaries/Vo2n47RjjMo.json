@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "Vo2n47RjjMo",
+    "title": "Intracandle CISD (IC-CISD) - Improve Your Entries",
+    "url": "https://www.youtube.com/watch?v=Vo2n47RjjMo",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/Vo2n47RjjMo.json"
+  },
+  "stats": {
+    "word_count": 2868,
+    "duration_seconds": 834.52,
+    "segments": 278,
+    "concepts_detected": 6,
+    "candidate_strategies": 3
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 5,
+    "SMT Divergence": 1,
+    "Candle 3 Setup": 13,
+    "Candle 4 Setup": 5,
+    "Protected Swing": 4,
+    "CISD": 3
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 383.36,
+          "end": 392.28,
+          "text": "Have a new continuation that formed. So I could also look for a continuation there. But for me, since we already take out a lot of these lows, I prefer this first entry.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        },
+        {
+          "start": 763.0,
+          "end": 772.6,
+          "text": "but I'd want to wait for a new continuation. So I either need this to get bought up rather quickly to form a candle three closure and then look for that to trade higher, or I need some sort of",
+          "concepts": [
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        },
+        {
+          "start": 790.96,
+          "end": 801.4,
+          "text": "We have a continuation that has formed inside our candle three. So now I've anticipate that this wick has formed on the daily timeframe. So I could look to trade it higher.",
+          "concepts": [
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 520.32,
+          "end": 529.12,
+          "text": "So here we are with a candle to closure. And you can see we have a V shape reversal and SMT as shown by my indicator. And we are in candle three.",
+          "concepts": [
+            "SMT Divergence",
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 14
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 684.48,
+          "end": 694.2,
+          "text": "does this trend lower. Takes a bit of time, but it does. So you can see how that protected swing inside candle three here forms the wick",
+          "concepts": [
+            "Candle 3 Setup",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 16
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 38.0,
+      "end": 49.52,
+      "text": "We use that by finding the level that hit a point of interest, so interacting with a fair value gap, a high or a low, and then price closing over the series of candles into that point of interest.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 134.2,
+      "end": 142.56,
+      "text": "Mechanically how do I do that? I wait for a continuation to form. Since this continuation forms a protected swing, then I can anticipate this WIC to be",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 174.72,
+      "end": 183.8,
+      "text": "And what do we have? We have a new continuation that has formed prior to the open of the new candle. So we would want to see this high remain if price is going to trade lower.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 7
+    },
+    {
+      "start": 219.8,
+      "end": 227.8,
+      "text": "as into this fair value gap. And what do we do? We have a closure through the series of up close candles into that point of interest.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 383.36,
+      "end": 392.28,
+      "text": "Have a new continuation that formed. So I could also look for a continuation there. But for me, since we already take out a lot of these lows, I prefer this first entry.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    },
+    {
+      "start": 489.28,
+      "end": 500.24,
+      "text": "continuation inside this higher time from candle, which forms the wick. And then we could look to trade that lower. And here you can see because of how it forms, it gives great risk to reward to our previous",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 7
+    },
+    {
+      "start": 520.32,
+      "end": 529.12,
+      "text": "So here we are with a candle to closure. And you can see we have a V shape reversal and SMT as shown by my indicator. And we are in candle three.",
+      "concepts": [
+        "SMT Divergence",
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 14
+    },
+    {
+      "start": 669.0,
+      "end": 675.84,
+      "text": "And there we get that continuation. So I could look to take a short setup, put my stop on the high and look for a continuation lower.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 7
+    },
+    {
+      "start": 684.48,
+      "end": 694.2,
+      "text": "does this trend lower. Takes a bit of time, but it does. So you can see how that protected swing inside candle three here forms the wick",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 16
+    },
+    {
+      "start": 701.12,
+      "end": 709.12,
+      "text": "Reach into a point of interest or a fair value gap. Price closing over this level. That confirms the wick of candle four right there.",
+      "concepts": [
+        "Fair Value Gap",
+        "Candle 4 Setup"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 763.0,
+      "end": 772.6,
+      "text": "but I'd want to wait for a new continuation. So I either need this to get bought up rather quickly to form a candle three closure and then look for that to trade higher, or I need some sort of",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    },
+    {
+      "start": 790.96,
+      "end": 801.4,
+      "text": "We have a continuation that has formed inside our candle three. So now I've anticipate that this wick has formed on the daily timeframe. So I could look to trade it higher.",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.853458+00:00"
+}

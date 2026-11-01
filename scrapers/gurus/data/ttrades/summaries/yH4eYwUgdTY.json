@@ -1,0 +1,190 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "yH4eYwUgdTY",
+    "title": "Relative Strength & Weakness + SMT Divergence (Full Guide)",
+    "url": "https://www.youtube.com/watch?v=yH4eYwUgdTY",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/yH4eYwUgdTY.json"
+  },
+  "stats": {
+    "word_count": 3055,
+    "duration_seconds": 944.16,
+    "segments": 301,
+    "concepts_detected": 5,
+    "candidate_strategies": 2
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 1,
+    "SMT Divergence": 26,
+    "TTrades Fractal Model": 1,
+    "Candle 3 Setup": 1,
+    "Candle 4 Setup": 1
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 632.88,
+          "end": 639.08,
+          "text": "right. And so let's see if we get this continuation lower. And we do get that trade lower right.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 6
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 251.04,
+          "end": 263.2,
+          "text": "We go ahead and mark that out on both assets. One asset has taken that out while the other hasn't. So we can go ahead and consider that an SMT or a divergence between the assets as NASDAQ",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 11
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 29.84,
+      "end": 37.4,
+      "text": "weakness between correlated assets. The first will be SMT. The second will be structure and the third will be candle closures.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 142.8,
+      "end": 155.32,
+      "text": "So now that you have learned about SMT and the structure or the separation between structure let's take a look at the third one which is candle closures. Now this is a bit more of an advanced concept in terms of relative strength and weakness",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 177.76,
+      "end": 187.6,
+      "text": "that strength in its candle to closure. Now as we continue into candle three you can see they are relatively the same there but candle four also shows the strength right.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Candle 4 Setup"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 213.68,
+      "end": 226.96,
+      "text": "So when you pair all three of these things together SMT candle closures and structure that is what I used to determine relative strength and weakness through correlated assets. Let's get into trading view and go over a few examples.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 251.04,
+      "end": 263.2,
+      "text": "We go ahead and mark that out on both assets. One asset has taken that out while the other hasn't. So we can go ahead and consider that an SMT or a divergence between the assets as NASDAQ",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 11
+    },
+    {
+      "start": 271.92,
+      "end": 284.16,
+      "text": "The NASDAQ is weaker as it is making the lower high. The S&P is stronger as it is making the higher high. So that is how you use SMT to determine relative strength or weakness.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 339.76,
+      "end": 351.04,
+      "text": "So combining those things together what do we notice. We notice that we have the weakness from the SMT. We're using candle closures to also show us the weakness and the strength on this side.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 389.12,
+      "end": 399.52,
+      "text": "understand the relative strength and weakness between assets. So once again SMT shows strength or weakness. We can use candle closures as well as separation.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 450.8,
+      "end": 462.92,
+      "text": "Right now it's another thing we can look for. Well in this case we don't have separation from these highs but you can look at the separation from the lows right which is also sometimes just another SMT.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 550.24,
+      "end": 557.28,
+      "text": "SMT separation as well as candle closures. What do we notice here. Do we have an SMT.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 571.9,
+      "end": 583.56,
+      "text": "So that is one SMT showing strength in this asset weakness in this asset. But we also have another one. And this is going to show you that there are multiple SMTs across multiple different time",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 604.04,
+      "end": 611.12,
+      "text": "We don't really have it. These are trading relatively in the same spot on both of these upside retracements into a fair value gap here.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 6
+    }
+  ],
+  "generated_at": "2026-09-01T19:54:17.623745+00:00"
+}

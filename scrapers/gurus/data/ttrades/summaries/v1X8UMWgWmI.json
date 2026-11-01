@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "v1X8UMWgWmI",
+    "title": "Best Trading Strategy for 2026 - TTFM",
+    "url": "https://www.youtube.com/watch?v=v1X8UMWgWmI",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/v1X8UMWgWmI.json"
+  },
+  "stats": {
+    "word_count": 3123,
+    "duration_seconds": 945.64,
+    "segments": 301,
+    "concepts_detected": 10,
+    "candidate_strategies": 2
+  },
+  "concept_mentions": {
+    "Liquidity": 1,
+    "Fair Value Gap": 4,
+    "SMT Divergence": 2,
+    "TTrades Fractal Model": 3,
+    "Candle 3 Setup": 20,
+    "Candle 4 Setup": 1,
+    "Protected Swing": 9,
+    "PSP Confirmation": 1,
+    "CISD": 1,
+    "Daily Bias": 6
+  },
+  "spoken_time_references": [
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 396.96,
+          "end": 408.88,
+          "text": "with a swing point is just a 15 minute continuation. So here you can see we did form a 15 minute continuation with SMT. We could look to trade that long, or we could look for a retracement back into",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 13
+        },
+        {
+          "start": 704.36,
+          "end": 711.96,
+          "text": "It's just the easiest, right? The easiest is going to be aligning that candle three with a lower timeframe candle three and then a continuation entry.",
+          "concepts": [
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 13
+        },
+        {
+          "start": 862.24,
+          "end": 875.76,
+          "text": "these down close candles, or in a new continuation already prior to the open. This is where I could look to take a positional entry, put my stop on this low because I have a protected swing prior to the open and then look for two",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "Protected Swing Invalidation"
+          ],
+          "score": 19
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 862.24,
+          "end": 875.76,
+          "text": "these down close candles, or in a new continuation already prior to the open. This is where I could look to take a positional entry, put my stop on this low because I have a protected swing prior to the open and then look for two",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "Protected Swing Invalidation"
+          ],
+          "score": 19
+        },
+        {
+          "start": 921.0,
+          "end": 931.8,
+          "text": "Then we're looking to trade this four hour candle three with a protected swing. In this case, we had the protected swing form just prior. So it's a positional entry, or we could wait for another continuation",
+          "concepts": [
+            "Candle 3 Setup",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 17
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 87.68,
+      "end": 99.16,
+      "text": "Now we went over how to get daily bias with a candle to closure, or we can trade candle three or candle four. Now, if we don't have a candle to closure, as you can see here, price sweeps out its",
+      "concepts": [
+        "Candle 3 Setup",
+        "Candle 4 Setup",
+        "Daily Bias"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 141.2,
+      "end": 153.92,
+      "text": "And if you don't know what this is, I have an entire video on confirming swing points using the change in the state of delivery on my website. Now, once we have a daily bias, this is when we are going to go down to the four hour chart.",
+      "concepts": [
+        "PSP Confirmation",
+        "Daily Bias"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 163.64,
+      "end": 175.08,
+      "text": "So we can look to anticipate candle three, four, and then a continued expansion. If we haven't hit our drawn liquidity or our higher timeframe key level. So the goal is to have a daily bias.",
+      "concepts": [
+        "Liquidity",
+        "Candle 3 Setup",
+        "Daily Bias"
+      ],
+      "strategies": [],
+      "score": 12
+    },
+    {
+      "start": 228.96,
+      "end": 241.48,
+      "text": "So sweeping out a low or reaching into a fair value gap, or ideally both. So you can see here, we're sweeping out all of these lows into this fair value gap. And then price closes over the series of down close candles into that point of interest.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 248.92,
+      "end": 260.96,
+      "text": "timeframe, and we can look for this to expand higher. So the goal of this model is to trade candle three on multiple timeframes. Or an expansion candle on the daily aligned with a lower timeframe fractal model.",
+      "concepts": [
+        "TTrades Fractal Model",
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 396.96,
+      "end": 408.88,
+      "text": "with a swing point is just a 15 minute continuation. So here you can see we did form a 15 minute continuation with SMT. We could look to trade that long, or we could look for a retracement back into",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 420.56,
+      "end": 427.48,
+      "text": "So there's a retest. Here's a new continuation. And we could also take an entry there or on the retest of that.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    },
+    {
+      "start": 474.44,
+      "end": 487.6,
+      "text": "Or we could wait for another candle three there, which gives a another two R there. So we're just trying to align all timeframes in one direction. Then use protected swings or the close over the series of down close candles",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 12
+    },
+    {
+      "start": 704.36,
+      "end": 711.96,
+      "text": "It's just the easiest, right? The easiest is going to be aligning that candle three with a lower timeframe candle three and then a continuation entry.",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 801.64,
+      "end": 813.32,
+      "text": "It is ideal because it is also forming a protected swing is closing over the series of down close candles into the low rate, just taking out these lows to the left, but it is also forming a protected swing at the same time.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 862.24,
+      "end": 875.76,
+      "text": "these down close candles, or in a new continuation already prior to the open. This is where I could look to take a positional entry, put my stop on this low because I have a protected swing prior to the open and then look for two",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Trend Continuation",
+        "Protected Swing Invalidation"
+      ],
+      "score": 19
+    },
+    {
+      "start": 921.0,
+      "end": 931.8,
+      "text": "Then we're looking to trade this four hour candle three with a protected swing. In this case, we had the protected swing form just prior. So it's a positional entry, or we could wait for another continuation",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 17
+    }
+  ],
+  "generated_at": "2026-09-01T19:36:30.265328+00:00"
+}

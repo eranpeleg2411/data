@@ -1,0 +1,327 @@
+[00:00] How's it going everyone?
+[00:12] In today's video we are going to talk about how to trade the fourth day in a swing point,
+[00:17] specifically using the daily timeframe, and that is where you get your daily swing point
+[00:21] model, or day four of that.
+[00:24] So if you have been following my content for a while, you know the foundation of my model
+[00:28] is built off the fact that the market cannot reverse without a swing high or a swing low.
+[00:33] So if price is going to go from bearish to bullish, it has to form a swing low.
+[00:39] If it is going from bullish to bearish, it has to form a swing high.
+[00:43] With this, if a swing low forms, I can then anticipate a bullish continuation on the following
+[00:48] day with a strong closure in day three, or with a strong bearish closure in day three,
+[00:54] I can anticipate a bearish continuation.
+[00:57] And paired with my equilibrium video, with a swing low and a bullish continuation, I
+[01:02] would be looking for price to continue out of the upper half of candle threes range.
+[01:07] And with a bearish continuation, I would be looking for price to continue out of the
+[01:11] lower half of candle threes range.
+[01:13] And this is due to expansions not giving those deep retracement, right?
+[01:17] If price is going to expand, I don't want to see a deep retracement into a discount
+[01:21] of this range to go higher.
+[01:23] I just want to see it expand that shows me strength or it will show me weakness.
+[01:28] So with this, I then have a bias and an area to be looking for lower timeframe PD arrays.
+[01:33] So for instance, if I have a daily bullish bias, I'm looking in this area for the wick
+[01:37] to form, then I look for PD arrays on the lower timeframe in here to form the lower
+[01:42] day and then I can trade the continuations on this day.
+[01:45] So what does this look like top down wise?
+[01:47] Well I have my fourth day in which I can anticipate a bias.
+[01:51] I use a middle timeframe for structure and then I use a lower timeframe for entry or
+[01:56] this is exactly what I've gone over in my top down analysis video if you haven't seen
+[02:00] that.
+[02:01] But with that said, let's get into trading view and go over some examples.
+[02:06] So here we are with our first example.
+[02:08] And do we have a swing low?
+[02:10] Well, you can see we have a low with a higher low on each side, which is a swing low.
+[02:16] So I could be looking for a continuation higher.
+[02:19] Now where would I want that continuation higher from candle three, mark out the EQ.
+[02:24] I'd want to see the point five of this be respected to trade higher if we're going to
+[02:28] continue to expand.
+[02:30] Now you may be asking yourself, why am I not focused on this swing high here?
+[02:34] So we form it out of a fair value gap.
+[02:37] We have a high with a lower high on each side.
+[02:40] Why am I not looking for this to go lower?
+[02:43] Well, if you take a look at ES, ES swept out this low.
+[02:46] So we have SMT here.
+[02:48] And with this closure, we then have a valid change in the state of delivery here on the
+[02:53] daily timeframe.
+[02:55] So with that, I would be looking for price to trade higher on this fourth day.
+[02:59] So cleaning up the chart a little, what I will look for is for price to open, make a
+[03:04] low in the upper half of this previous candle and then trade higher, higher to where previous
+[03:09] high, this swing point to the left and anything beyond that.
+[03:14] So dropping down to the 30 minute timeframe, I'm wanting to see price form its daily wick
+[03:19] above the EQ of the previous candle.
+[03:22] So with this area here, where do I have an invalidation?
+[03:25] Well, I'm not wanting to see price trade below this low.
+[03:29] So with that, I'd want to see price form a low above this area here.
+[03:34] So let's see what happens.
+[03:37] We have a move lower.
+[03:40] And if you're thinking in the phases of price, we have expansion, is this met with expansion
+[03:44] forming a reversal?
+[03:46] No, this is a retracement or a consolidation.
+[03:49] So I'd want another run of this low.
+[03:52] Now as we get into London session, what happens?
+[03:55] We're moving towards this low.
+[03:57] Do we go and take it out?
+[04:00] And no, we do not.
+[04:01] But why do we not?
+[04:03] We form an SMT with ES.
+[04:05] So I can anticipate this low to hold if what if we get a confirmation of that, which would
+[04:10] be the closure through the down close candles that formed that SMT.
+[04:16] So now with that closure through, I can anticipate this London reversal to hold if we're going
+[04:21] to trade higher, and then I'll get a New York continuation.
+[04:25] So let's see what happens as we approach New York.
+[04:28] So as we reach into New York session, we are forming some fair value gaps in here.
+[04:34] So I'd want to see those be respected.
+[04:36] Now do I need to know which one of these is going to react and hold?
+[04:40] No, I do not yet.
+[04:42] I can just wait for the lower timeframe price action and the drivers around the New York
+[04:46] session to form the low and then trade off of that.
+[04:49] So let's drop down to the three minute timeframe to watch this play out.
+[04:53] So down here on the three minute timeframe, you can see we have an expansion or into a
+[04:58] consolidation.
+[04:59] So I'd want a run of the lows to then trade higher.
+[05:02] Now where could I expect those to occur?
+[05:05] We'll into these fair value gaps here on the higher timeframe candles.
+[05:08] But I also want to pair that with a driver.
+[05:10] When would that be 830 or 930?
+[05:13] So I can go ahead and wait for 830.
+[05:16] Go ahead and play forward to that.
+[05:18] And you can see 830.
+[05:21] We open up what occurs.
+[05:23] We run out these lows, which is ideal if we're having a consolidation prior to a news driver.
+[05:30] And then now with this, the down close candles, in this case, it's a singular one that took
+[05:35] out the low paired with 830.
+[05:38] That is a change in the state of delivery on this timeframe.
+[05:41] So now what is occurring?
+[05:43] Our three minute, our 30 minute and our daily is all aligned in one direction.
+[05:48] So with this, I can look to take an entry, have my stop at the low and then look forward
+[05:53] to our.
+[05:55] So let's see how this works out.
+[05:57] And there we go.
+[05:58] We get to our.
+[05:59] Now the most important concept here is aligning all those timeframes together.
+[06:03] But you can see how it all came down to anticipating that daily candle.
+[06:07] Where did we want that higher timeframe wick to form in the upper half of candle three?
+[06:12] So looking in the upper half of the area, we also have that level from the daily change
+[06:16] in the state of delivery.
+[06:17] And then just using lower timeframes to align with that idea.
+[06:21] So here we are in our next example.
+[06:23] And if we're taking a look, what do we see?
+[06:25] You notice we have a consolidation here.
+[06:29] We've taken out the highs in the consolidation and then we aggressively move through the
+[06:33] lows.
+[06:34] And then what do we notice about the phases of price right here?
+[06:37] We have expansion into the lows expansion back out of the lows.
+[06:41] So this is going to be a higher timeframe wick or a reversal.
+[06:45] So thinking in terms of the phases of price once again, expansion, what do we have here?
+[06:50] A consolidation or a retracement, viewing it as a consolidation right here.
+[06:56] What do we notice?
+[06:57] We sweep out the lows in the consolidation, aggressive out, aggressive back in.
+[07:02] So I could be looking to trade this higher.
+[07:04] Now pairing that with the daily closures.
+[07:07] What do we notice here?
+[07:08] We notice that we have a nice aggressive candle closure here.
+[07:11] But what do we see?
+[07:13] This is the low.
+[07:14] Do we have a low on each side?
+[07:15] We do not.
+[07:16] So this would be trading candle three in the swing.
+[07:19] So I'm going to let one day pass and now we have that confirmed swing low.
+[07:24] And if you notice, we are focusing on this higher timeframe range.
+[07:28] So I could still be looking towards these equal highs up here as a target.
+[07:32] So now that this is confirmed, what would I want to look for?
+[07:35] I'd want to look for the upper half of candle three to form a continuation higher.
+[07:41] So let's drop down to the lower timeframe.
+[07:43] So opening up the new candle, you can see we have expansion into either a retrofit
+[07:49] retracement or consolidation.
+[07:51] So let's see how we trade out of this area.
+[07:53] And that will tell me if I'm anticipating this low to hold or if it consolidates, then
+[07:57] I expect this low to get taken out.
+[08:01] So we expand away.
+[08:03] So now I'm expecting this low to hold.
+[08:05] So any retracement, I'm then looking for swing lows to get on side with the move higher.
+[08:12] So as we continue, let's see what London does.
+[08:15] You can see London, we reach back into that area.
+[08:17] You want to see that hold.
+[08:19] Does it hold?
+[08:20] Yes.
+[08:21] We get the closure through the down close candles into an important level.
+[08:25] This is now a series of opposing candles or expect this to hold right?
+[08:29] And where do I want to see the support?
+[08:31] I want to see the upper half of this from body to body also support.
+[08:36] So as we trade into this, let's see, we can go down here and look for a lower timeframe
+[08:41] entry.
+[08:42] Now, I want to look for a PD array in this area.
+[08:45] Do I have any?
+[08:46] Well, I can expect lows in here, but we just have these failure swings here.
+[08:50] So I'd ideally want to see these ran out form a swing low to then trade it higher.
+[08:54] Let's drop down to the five minute timeframe.
+[08:57] So here we are down on the five minute timeframe.
+[09:00] And you can see we don't really have a swing point to trade away from on the hourly here.
+[09:04] So we want to let that form.
+[09:05] So you can see we sweep out a high in this consolidation.
+[09:09] We'd want to see the low in the consolidation.
+[09:11] We have that lower timeframe bearish change in the state of delivery.
+[09:15] I don't want to see this run out some lows here.
+[09:18] And there we go on this candle here.
+[09:19] We run out all of these lows.
+[09:22] So this is not enough confirmation to say there is a lower timeframe reversal that
+[09:27] is bullish.
+[09:28] I need to wait for the closure through the down close candles that made this low.
+[09:33] Do we form that?
+[09:34] Here we finally do.
+[09:36] So now I can look to get on side with this.
+[09:38] Now let's say I miss my first entry right here looking for two are, which is what I
+[09:43] would look to take.
+[09:44] I can still look for a continuation entry.
+[09:47] So let's see if that forms right here.
+[09:51] What do we do?
+[09:52] We reach into a PD array or a fair value gap.
+[09:55] Do we get a closure through the down close candle into that?
+[09:59] And why am I not looking for this area down here?
+[10:02] Well, if price is going to enter an expansion phase, it's not going to have deeper
+[10:06] tracements.
+[10:07] If we have expansion out and expansion back in, that's then a reversal in which I'm
+[10:11] looking for the lows.
+[10:12] So let's see what happens.
+[10:14] Do we get the closure over?
+[10:16] And right here, we get the closure over.
+[10:18] So I can look to take an entry my stop on the body low or the low.
+[10:22] In this case, I'll use the body low look for two are, and let's see how this plays
+[10:26] out.
+[10:28] So you can see we get a retracement into this fair value gap.
+[10:31] We close over this level here now.
+[10:33] So I'd expect this low to hold and see what happens.
+[10:37] And we get that expansion higher hitting our two are objective.
+[10:40] Once again, going back to our daily timeframe where all of this starts, what
+[10:44] are we looking for?
+[10:46] We're looking for swing highs and lows.
+[10:48] Here we form a swing low with a low with a higher low on each side.
+[10:53] And then looking for that expansion following that or that continuation.
+[10:57] Right.
+[10:57] It's the same thing as right here.
+[10:58] We have a low with a higher low on each side.
+[11:01] What do we get the next day?
+[11:03] This continuation right here.
+[11:05] So let's get into our next example.
+[11:07] So here we are in our next example.
+[11:09] We are on Euro USD on the daily chart.
+[11:12] And what do we notice?
+[11:13] Right.
+[11:13] Do we have any low resistance liquidity?
+[11:16] Well, we have all these failure swings at the high here.
+[11:19] These equal highs.
+[11:20] So using that as a draw, we have expansion into what I would consider
+[11:24] a retracement, right?
+[11:26] And then looking for a continuation here, which fails, right?
+[11:29] And so this is just a consolidation.
+[11:32] So keeping our same drawn liquidity.
+[11:34] If we run out the consolidation low, I'd want to see price trade back higher and
+[11:39] look for a continuation into these highs.
+[11:42] Is there any bullish closures yet?
+[11:43] No.
+[11:44] So we go ahead and wait.
+[11:45] And now we have that bullish closure.
+[11:47] And what else do we have?
+[11:48] We have a low with a higher low on each side.
+[11:52] So that is a swing point.
+[11:54] So looking for a continuation the next day into these highs.
+[11:58] What do we have?
+[11:59] You can mark out point five of this range and then drop down to our lower time frame.
+[12:04] Now down here on the lower time frame, I want to see price hold the upper half
+[12:09] of this area right here.
+[12:10] So my mind goes to what?
+[12:12] What PD arrays are in this area?
+[12:14] Well, there's a lot of fair value gaps here.
+[12:16] That doesn't really help us out, but we do have a low right here.
+[12:19] So that would be what I am watching for.
+[12:23] And since we cannot aggressively move lower and then close through here,
+[12:27] I expect this low to get taken out.
+[12:30] Now, right here, we have an SMT.
+[12:33] So I don't need this low to get taken out anymore.
+[12:36] And then I can look towards these down close candles here.
+[12:41] Now with a closure through here, do I need to go down to a lower time frame?
+[12:45] Some people prefer to just take entries on the one hour, in which case I could
+[12:49] take an entry on this close, my stop on the low and look for two are.
+[12:54] What else could I do?
+[12:55] I could see if there's any retracement.
+[12:57] So let's see what happens.
+[13:00] Right here, we get a retracement could look for a buy in this fair value gap.
+[13:04] This swing point as we continue higher, or as we come into the New York session,
+[13:09] we have a London reversal.
+[13:10] I'd want to see a New York continuation.
+[13:14] What do we notice?
+[13:16] Aggressive up.
+[13:17] Do we get a retracement or a reversal?
+[13:19] This is a reversal.
+[13:20] We sweep out a low.
+[13:22] If we are going to continue with that New York trend, this should form the low.
+[13:26] And I could look to get on side, which I can go down to the five minute chart to do
+[13:30] down here on the five minute chart.
+[13:32] I have a nice closure on that hourly.
+[13:35] Do I have the confirmation?
+[13:37] I do as we've closed through the series of candles that made that low.
+[13:40] I could just look to get on side with this trade here.
+[13:43] My stop on the low or below the bodies and then looking for two are.
+[13:48] So let's see what happens.
+[13:54] And there we go.
+[13:55] And we hit our two are so you can see there's various different ways you can
+[13:58] enter.
+[13:59] You can use a lower time frame.
+[14:00] You can skip the lower time frame.
+[14:02] The main thing that drives all my setups is always going to be on the daily chart.
+[14:07] If I can frame a direction on the daily chart, the lower time frames fall into line.
+[14:12] If I'm lacking this analysis, then I don't really know what is going on.
+[14:16] Let's get into another example.
+[14:19] So here we are with our next example.
+[14:20] And what do you notice?
+[14:22] Do we have any failure swings or some sort of consolidation we can look to run out?
+[14:26] We have expansion met with expansion, which I would view as a reversal.
+[14:30] We have all these lows over here to our left.
+[14:33] So I could take a look at those as my draw on liquidity.
+[14:37] Now, if that is my draw on liquidity, I'm looking for swing highs.
+[14:40] Right.
+[14:41] Do I have any?
+[14:42] Well, taking a look right here, I have a high with a lower high on each side.
+[14:47] And what do you notice about this closure here?
+[14:50] It closes through this up close candle here.
+[14:53] So I can anticipate what to hold.
+[14:55] I would want to be looking for the lower half of this third candle here to trade
+[15:01] lower into this low and possibly these lows down here.
+[15:05] So down here on the hourly timeframe, we want to see the lower half of this respect.
+[15:10] So I wouldn't really want to see price trade up into this area.
+[15:14] It could reach up into this fair value gap here, but that is the farthest I would
+[15:18] want to see it go before it would drive lower.
+[15:21] So let's see what the overnight session does.
+[15:23] We reach up, we form a little swing right here, and then we start to fall off.
+[15:28] So if we are going to have an expansion candle in the daily, we have a small wick.
+[15:33] I could look for a continuation.
+[15:35] Now, for a continuation, I want to find a protected high.
+[15:39] Do I have that?
+[15:40] Well, right here I do as what I have swept out this high and also closed through
+[15:46] this level here.
+[15:48] Now, the cool thing about this is it's fractal, right?
+[15:50] So I can use point five of this candle looking for a continuation lower on the
+[15:56] lower timeframe.
+[15:57] So drop into the five minute timeframe.
+[15:59] You can see it's a bit messy on the five minute timeframe, but what do we have?
+[16:03] We have this series of up close candles or this range up into the high.
+[16:08] We have closed below that.
+[16:09] So then I could look to get on side with any entry in here on the close.
+[16:13] And where would I want to see it respect?
+[16:15] Right.
+[16:15] I want to see point five of that be respected.
+[16:17] So I could allow price to reach up into this fair value up here.
+[16:21] So I just put my stop up there and then look for two R.
+[16:25] So let's see what happens.
+[16:27] Do we get a continuation or do we get stopped out?
+[16:32] And you can see we almost get stopped out, but we allow price to trade back up
+[16:36] into that fair value gap.
+[16:37] Right.
+[16:38] I want to have my stop above that because it can reach back up in respect point
+[16:42] five of this higher timeframe candle.
+[16:45] So there we go.
+[16:47] Now, I hope you found this video helpful.
+[16:49] It is a fractal concept.
+[16:51] However, I prefer to use it on the daily candles.
+[16:54] If you did find it helpful, please consider liking subscribing and I'll
+[16:57] see you guys in the next video.
+[16:59] Have a good one.

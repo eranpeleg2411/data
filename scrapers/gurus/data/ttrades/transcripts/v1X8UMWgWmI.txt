@@ -1,0 +1,301 @@
+[00:00] How's it going and welcome back to another video.
+[00:13] In this video we are going to go over the best model for beginners or anyone starting
+[00:18] out.
+[00:19] But also this is not just for beginners, this is anyone who is looking to trade.
+[00:23] So let's get into the video.
+[00:25] So the first step in this intraday model is having a daily bias and this is the most
+[00:30] important part.
+[00:31] It is anticipating the daily candle or a daily expansion candle.
+[00:36] How we're going to do that is using a candle to or a candle three closure.
+[00:40] If you do not know what this is, please check out my website where I cover candle to closure
+[00:45] and candle three closure in depth with videos.
+[00:48] But a candle to closure is where we have price sweep out its previous candle and close back
+[00:53] above it.
+[00:54] With this, we can anticipate the next candle to expand because reversal then expansion.
+[01:00] And this is when we can have a daily bias or look to trade is when we have an anticipated
+[01:06] expansion candle.
+[01:08] If this candle closes well or above candle to is high, then we can also look for a continuation
+[01:14] in candle for now it is important to note that with a candle to closure, we do need
+[01:20] a change in the state of delivery.
+[01:23] Try that candle to before we can look to trade that expansion higher.
+[01:27] Now we went over how to get daily bias with a candle to closure, or we can trade candle
+[01:32] three or candle four.
+[01:34] Now, if we don't have a candle to closure, as you can see here, price sweeps out its
+[01:39] previous candle, but does not close back above it.
+[01:42] This means we can wait for another candle.
+[01:44] We don't have a bias for this candle.
+[01:47] Once this candle prints, it is engulfing this candle previous if it closes over its body.
+[01:53] That means it is a candle three closure with a candle three closure, then we can look to
+[01:58] trade candle for as price has shown that is reversed in candle to is looking for a continuation
+[02:04] higher in candle for now.
+[02:07] Once again, we do need to confirm this on the lower timeframe looking for a change in
+[02:11] the state of delivery to have occurred before we're looking to get on side in candle for
+[02:17] if there is no change in the state of delivery, then we cannot look to trade this.
+[02:21] And if you don't know what this is, I have an entire video on confirming swing points
+[02:25] using the change in the state of delivery on my website.
+[02:28] Now, once we have a daily bias, this is when we are going to go down to the four hour chart.
+[02:33] We are simply looking for the same thing on the four hour chart, a candle to or a candle
+[02:38] three closure.
+[02:40] In this scenario, you can see we have a candle to closure.
+[02:43] So we can look to anticipate candle three, four, and then a continued expansion.
+[02:48] If we haven't hit our drawn liquidity or our higher timeframe key level.
+[02:52] So the goal is to have a daily bias.
+[02:55] In this case, we're going over a bullish scenario.
+[02:58] So with a bullish daily bias, we want to see price open trade lower to form the wick.
+[03:03] Once the wick has formed, which is what we're using the four hour candles for, then we can
+[03:07] look to trade it higher.
+[03:09] So once we have that candle to closure, what are we going to look for?
+[03:13] We're going to do the same thing that we just did with the daily and hourly, but with the
+[03:17] four hour and 15 minute fractal model.
+[03:19] So if we zoom in here, once we have a four hour candle to closure or candle three closure,
+[03:25] we're going to first check that we have a what change in the state of delivery.
+[03:30] We're going to do that by finding the low finding the series of candles that made that
+[03:33] low.
+[03:34] And then once price has closed through that level, it has confirmed this swing point and
+[03:39] we can look to trade that continuation higher.
+[03:41] How are we going to trade that continuation?
+[03:43] We're going to look for a new protected swing.
+[03:46] So what is that?
+[03:47] We need a point of interest.
+[03:48] So sweeping out a low or reaching into a fair value gap, or ideally both.
+[03:53] So you can see here, we're sweeping out all of these lows into this fair value gap.
+[03:57] And then price closes over the series of down close candles into that point of interest.
+[04:02] Once we have formed that, we can anticipate this wick to have formed, right?
+[04:05] So we see how we're doing the same thing on the higher timeframe as we are on the lower
+[04:08] timeframe, and we can look for this to expand higher.
+[04:11] So the goal of this model is to trade candle three on multiple timeframes.
+[04:16] Or an expansion candle on the daily aligned with a lower timeframe fractal model.
+[04:21] With that, we can look for price to expand higher.
+[04:24] So let's get into some examples and trading view and go over this.
+[04:27] So here we are with our first example.
+[04:29] And you can see we are trading within a range.
+[04:32] We have just taken out our range low.
+[04:34] So we could be looking for price to trade to our range high, which also lines up as
+[04:38] a fractal model target.
+[04:41] So with this, we have a candle to closure on the daily at a point of interest.
+[04:46] So we could be looking for this to trade higher.
+[04:49] If we have what an hourly change in the state of delivery.
+[04:52] So taking a look here, adding my indicator on, it shows that we have an hourly
+[04:56] change in the state of delivery with a green tea spot here.
+[04:59] We could be looking for price to trade higher from here, considering we have
+[05:03] that confirmation of the daily wick.
+[05:06] Now here I'm going to go to the four hour timeframe.
+[05:09] So here only four hour timeframe.
+[05:11] What am I looking for?
+[05:13] I'm looking for a four hour swing point within this daily candle.
+[05:17] Let's let this move ahead.
+[05:18] And here you can see, we'll go ahead and rewind, but we have formed a four hour
+[05:21] swing point right here as we have swept out this previous low, as well as how to
+[05:26] candle to closure and this confirmation here, which is a new protected swing.
+[05:32] So with that, we can go down to the 15 minute timeframe.
+[05:35] I'm going to go ahead and put on this indicator template, which will show the
+[05:39] daily candle, as well as four hour candles here.
+[05:42] And we can be looking to trade this higher here.
+[05:45] So in this candle, we've already opened up and taken out this high.
+[05:49] It's usually not ideal too long after that, as we're going to get either a
+[05:52] consolidation or a retracement if we're going to continue higher.
+[05:56] So I'd rather wait to see if we get one of those.
+[05:58] So I'll go ahead and remove all these drawings.
+[06:00] Let's see what happens.
+[06:03] Here we are getting that retracement.
+[06:04] So we can kind of wait until we get into the New York session.
+[06:07] Now let's take a look at our phases of price here.
+[06:10] Expansion consolidation.
+[06:12] So this is where we're going to want to see a low ran out before we want to see
+[06:17] a move higher.
+[06:19] So we can also form a new swing point here as this candle has no wick.
+[06:23] We could also be looking for price to take out this level as well.
+[06:27] So here we open up, we reach into this low.
+[06:30] So we could be looking for a move higher now.
+[06:33] And once again, all we're looking for now that we have confirmed the low a day
+[06:36] with a swing point is just a 15 minute continuation.
+[06:40] So here you can see we did form a 15 minute continuation with SMT.
+[06:44] We could look to trade that long, or we could look for a retracement back into
+[06:48] the range to get some better risk to reward.
+[06:51] So maybe taking a retest here, or we can look for a new continuation.
+[06:55] Let's see what it would look like with a retest entry, or we can see if we
+[06:58] get a new continuation.
+[07:00] So there's a retest.
+[07:01] Here's a new continuation.
+[07:04] And we could also take an entry there or on the retest of that.
+[07:08] There's the retest of that.
+[07:09] And we get a new continuation higher.
+[07:12] But what are we really doing here?
+[07:14] Well, if I go ahead and click this button here, we'll show the four hour chart
+[07:18] with the daily chart.
+[07:19] So with the daily chart on there, we were just letting the daily wick form using
+[07:23] that four hour swing point here.
+[07:25] And then we're looking to trade a continuation.
+[07:28] So we were looking for the continuation in here, but it already took out a target
+[07:31] and then consolidated.
+[07:33] So we're waiting for a new continuation.
+[07:35] This new continuation within the daily range is actually a reversal.
+[07:39] And we can look for another continuation if we want to here.
+[07:42] But overall, what are we doing?
+[07:44] We're aligning all these timeframes together.
+[07:47] A candle three.
+[07:48] And then we're also looking to trade another candle three.
+[07:51] So this is candle two here.
+[07:53] We wanted to trade that.
+[07:54] Or we could wait for another candle three there, which gives a another two R there.
+[07:59] So we're just trying to align all timeframes in one direction.
+[08:02] Then use protected swings or the close over the series of down close candles
+[08:07] into a point of interest to frame our continuations higher.
+[08:11] So as we let this continue higher, you can see we continue to get another
+[08:15] continuation candle, three and four continue higher and into the new day.
+[08:20] So we'll replay that one more time to right there.
+[08:23] You can see our daily candle.
+[08:25] We open, we form a low, we trade and trend higher.
+[08:30] And then that forms an open, low, high close.
+[08:33] And we're trying to find four hour swing points to trade away from on our
+[08:37] intraday timeframes for the four hour and 15.
+[08:40] So here we are on Bitcoin.
+[08:42] So let's see if we can find some examples in here.
+[08:45] You can see we have a daily swing point formed.
+[08:47] We form it out of a fair value gap.
+[08:49] We have a candle to closure.
+[08:51] Do we have an hourly change in the state of delivery?
+[08:54] We'll go ahead, go down to the hourly timeframe here.
+[08:57] Do we have the hourly change in the state of delivery?
+[08:59] We do.
+[09:00] So you can see as we get into this next day, my model will print out a green box.
+[09:08] And I'll be looking for longs in this day.
+[09:11] Now, if I'm looking for a long setup here in candle three, what am I going to
+[09:14] want to look for a four hour swing point?
+[09:18] We're going down to the four hour timeframe.
+[09:19] Do we have a four hour swing point to trade away from?
+[09:23] Let's see if we form one.
+[09:25] And no, we do not get a four hour swing point, right?
+[09:28] We just create failure swings.
+[09:29] So this is not something we'd be able to trade yet.
+[09:32] Let's go back to our daily timeframe as this candle closed.
+[09:35] It has.
+[09:35] So we can be looking for price to respect this EQ.
+[09:39] If it's going to trade higher once again, going to the four hour timeframe.
+[09:43] So down here on the four hour timeframe, do we have a four hour swing point?
+[09:47] Not yet.
+[09:48] So let's see what happens here on a new candle open, we reach into this gap.
+[09:53] And we have a candle to closure.
+[09:55] So now what do we have?
+[09:57] We have a candle for continuation on the daily.
+[09:59] So we're looking for this to trade higher.
+[10:02] We have a four hour swing point.
+[10:03] So the next thing to do is go down to the 15 minute timeframe.
+[10:07] So down here on the 15 minute timeframe, we're just going to be looking for a
+[10:11] continuation to trade this higher.
+[10:14] So you can see we open up right here.
+[10:17] Could I just take a long setup right here?
+[10:19] Sure.
+[10:19] I just need my stop down here.
+[10:21] Can I get to our.
+[10:23] Sure.
+[10:24] That would be trading the reversal.
+[10:25] And we're fine to do that if we want to, we can also see if we can form a continuation,
+[10:30] a new continuation in this candle to form the wick of the four hour timeframe.
+[10:35] Let's see.
+[10:37] Right here, we reach below these lows.
+[10:41] Do we form a new continuation, which would be a close through the series of candles here?
+[10:46] Let's see.
+[10:48] Oh, we made a new low.
+[10:50] So we have a new series of candles in this case, it's just one.
+[10:54] And we've closed over.
+[10:55] Now we can look long here, but our stop here and then look for two are, which
+[11:00] would be right here, or I can hold until it's higher.
+[11:03] So two possible entries here, one would be a reversal.
+[11:06] You have to have a wider stop.
+[11:07] One would be a continuation.
+[11:09] We have a smaller stop.
+[11:11] Let's see.
+[11:12] This one hits our TP.
+[11:14] Let's see if the next one hits our TP as well.
+[11:18] It takes a while, but it does hit our TP as well.
+[11:21] So you see both of those work.
+[11:23] And what are we noticing right here?
+[11:25] We'll go ahead and replay it just a little bit.
+[11:27] We are aligning a four hour swing point with our daily candle, expecting our daily
+[11:32] candle to expand once we find protected swings on the 15 minute timeframe.
+[11:36] We can look for it to expand as well.
+[11:39] Now, do you have to trade an expansion candle in the daily?
+[11:42] No, you don't have to.
+[11:44] It's just the easiest, right?
+[11:46] The easiest is going to be aligning that candle three with a lower timeframe candle
+[11:50] three and then a continuation entry.
+[11:52] But if you notice right here, we could also trade this back across the range,
+[11:56] but that's not in line with the daily candle.
+[11:58] So I would prefer not to, you can see we have a continuation SMT, a CISD.
+[12:04] And we have a small wick that supports expansion lower.
+[12:07] We could look for that to expand lower.
+[12:08] You can see it expanded lower into this low, right?
+[12:12] Taking out our current days low, but I would always prefer to align with the
+[12:17] daily timeframe or with that expansion.
+[12:19] So one more time.
+[12:21] What were we doing?
+[12:23] We'll clean up the chart with no indicator.
+[12:25] We're looking to trade an expansion on the daily.
+[12:28] Since we had a daily swing point at a point of interest here with a candle to
+[12:32] closure, and that was paired with an hourly change in the state of delivery.
+[12:36] I can look to trade this candle higher.
+[12:38] This candle never gave any opportunity because it didn't make a four hour swing
+[12:42] point, but since it closed over candle to his high, we can expect a further
+[12:46] continuation.
+[12:47] So using the EQ of this, we'd want to see that be respected, but we can look for
+[12:52] a four hour swing point in there.
+[12:54] So inside that next daily candle, which is right here, we have a new four
+[12:59] hour swing point and a candle to closure.
+[13:02] So now we are of aligned our daily expansion, which we're expecting to go
+[13:06] higher with a four hour swing point.
+[13:08] And then we're taking an entry on the 15 minute timeframe, expecting it to go
+[13:12] higher.
+[13:13] So here we are on our last example.
+[13:15] And what do we have here?
+[13:17] We have a daily candle to closure.
+[13:20] Why is this ideal?
+[13:21] It is ideal because it is also forming a protected swing is closing over the
+[13:25] series of down close candles into the low rate, just taking out these lows to the
+[13:29] left, but it is also forming a protected swing at the same time.
+[13:33] So what does this mean?
+[13:34] We could be looking for a candle three continuation from the upper half of this
+[13:38] daily range higher.
+[13:40] So what would we want to do?
+[13:42] We'd want to look for a four hour swing point.
+[13:45] So let's let this open up.
+[13:47] What do we notice?
+[13:48] We have price open low first, which is ideal if we're bullish, because we're
+[13:53] forming the lower wick of the daily candle.
+[13:55] And what do we have a candle to closure?
+[13:59] Right.
+[13:59] So here we have a candle to closure.
+[14:01] Then we'd want to go to the 15 minute timeframe.
+[14:06] You're on the 15 minute timeframe.
+[14:08] What do we have a change in the state of delivery, which means it's valid to look
+[14:12] for candles to trade higher in this next candle.
+[14:15] What do we notice before the open here?
+[14:17] We noticed that we have already went into this fair value gap and closed over
+[14:22] these down close candles, or in a new continuation already prior to the open.
+[14:27] This is where I could look to take a positional entry, put my stop on this
+[14:31] low because I have a protected swing prior to the open and then look for two
+[14:35] or four hold runners to those higher timeframe objectives.
+[14:39] Because I'm entering around the opening price of the daily candle, right?
+[14:43] Right around it or below it.
+[14:45] If I'm expecting price to expand, I can almost hold this toward the
+[14:48] close of the daily candle.
+[14:50] You can see we form a new continuation.
+[14:53] So if you didn't get entered into this first one, you get enter into this next
+[14:57] one as well.
+[14:58] And then we expand higher.
+[15:00] So you can see what are we doing?
+[15:02] We're aligning a daily expansion candle with a four hour expansion candle.
+[15:07] And then do we get a continuation here too?
+[15:09] We also do as well.
+[15:11] So just to review, you can see what did we do?
+[15:14] We aligned a daily candle three where we are expecting it to expand with a
+[15:19] four hour candle three.
+[15:21] Then we're looking to trade this four hour candle three with a protected swing.
+[15:25] In this case, we had the protected swing form just prior.
+[15:28] So it's a positional entry, or we could wait for another continuation
+[15:31] within that candle three.
+[15:33] Then we're just letting it expand as we're expecting this daily candle to
+[15:36] expand.
+[15:37] And like I will go over my futures targets video, if I'm looking for a
+[15:40] higher timeframe target and letting these run, this is where you can get really
+[15:43] good risk to reward trades.

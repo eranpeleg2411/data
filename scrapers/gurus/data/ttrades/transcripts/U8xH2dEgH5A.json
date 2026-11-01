@@ -1,0 +1,863 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "U8xH2dEgH5A",
+    "title": "Liquidity: Buyside & Sellside - ICT Concepts",
+    "url": "https://www.youtube.com/watch?v=U8xH2dEgH5A",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "model": "small",
+  "device": "cpu",
+  "language": "en",
+  "text": "How's it going everyone? This video is going to cover liquidity, buy side and sell side liquidity, and we will mainly be focused on old highs and old lows as well as equal highs and equal lows. Before we get into anything, the first thing we need to understand is swing points in the market because this is how we determine where liquidity is resting. So over here we have a swing low and how do we determine if we have a swing low? Well we have a low right here with a higher low to the left and a higher low to the right and that makes this a swing low. Similarly over here we have a high with a lower high on the left and a lower high on the right that makes this a swing high. Now to understand why this is important we have to understand the psychology of traders. If someone was to get long in this area here they're likely to put their stop on this swing low. Similarly over here if they're going to get short they're likely to put their stop on this swing high. With that understanding we know that there are sell stops resting under here and buy stops resting above here. With the sell stops resting below here we call this sell side liquidity and with the buy stops resting above here we call this buy side liquidity. Smart money will look to pair orders below these lows and above these highs. So let's get into the charts and look at some examples. We are now going to practice identifying these swing points or buy side and sell side liquidity. So looking at this four hour chart here where are the obvious highs and lows? We have a low right here. This would be sell side liquidity. As you notice we have a low with a higher low and a higher low on each side. We have a high right here with a lower high on each side. So this would be our buy side liquidity. Now if you notice what did we just put in? We put in another swing point because we have a high with a lower high on each side. So this would be considered buy side liquidity. Moving this forward and seeing price takes out this high. So now I'm not worried about buy side liquidity here and it now moves to over here because we have a high with a lower high on this side and I'm anticipating a new lower high on this side. Right. So lower high here. Similarly, now we just took out this low over here and now we have a low with a higher low on each side letting this continue and focusing on these swing points. Just put in a new one there. That gets taken out. Another swing here since this didn't take out this previous low. Those are now relatively equal those and so those are just outside of the liquidity together. Now take out this high and if we put in a lower high on this side, this will become our buy side liquidity, which it does. Now we have buy side resting here. We take that out. And if you notice, we do put in a new swing low right here. I'm going to focus on the really obvious highs and lows on the outside of the range. There we go. We go reach all the way up to this high now. Now if we put in a swing up here, we will have new buy side liquidity, which we do now have buy side liquidity resting here. Now we put in a swing low and this is reaching for that buy side up there. And now that is taken, if we put in a swing low, now this becomes our buy side liquidity and you can see how this continues. The next thing we are going to look at are two types of liquidity and those are old highs and lows and relatively equal highs and lows. And so I have them marked out on the chart here from the previous example. You can look like this where you have two different swing points that are relatively equal or very close together, forming relatively equal highs or lows or lows in this case. Or when you have highs that are all clustered together like this, those are relatively equal highs. These old highs and old lows just refer to a previous high or low where a single swing point stands out like that. Next thing we're going to talk about are liquidity levels that I always have marked out on my chart or at least know where they are located. And the first one would be previous weeks high and low. So if we look at this previous week, here is a Tuesday low and here is Thursday high and why I mark these out is it's a pretty easy draw on liquidity or a way to frame a reversal. So looking at this, we take this previous week's high back into this fair value gap and then from here, what do we do? We expand higher. That is something I always have marked out on my chart. The next liquidity level I always have marked out on my chart, previous day high and previous day low. I can either frame a reversal or use it as a draw. And in this case here, you can see it was used as a draw and previous day high was taken out before expanding higher. The last levels of liquidity I always have marked out on my chart are session highs and lows. So in this case shown, I have a session high and low, one session high and low, and these can be used to frame a narrative, a draw or a reversal as well. Let's take a look at some examples here and how using session highs and lows can work out. So if you notice here, we have our Asia session low that's already been taken, but above us, we have Asia session high, London session high and London session low all have not been reached. So as we go into New York open, we get a move up, we take that London session high, reach for midnight. We end up taking that Asia session high as well. Now do we get a nice break of structure? Not really yet. There we get some displacement down. Looking in here, do we have any sort of setup? We do have a five minute pair of value gap here. And we reach back into it. A nice respect to that. No body closes even in the fair value gap. And then where do we go for or where is our target? Well we still have equal lows from London session sitting right there. Here is another five minute pair value gap. And there we reach our London session low. So you can see how just using these liquidity levels, Asia high and low, London session high and low, New York can be framed off of that. So let's go ahead to the next day. So looking at this next day, we will also mark out our previous day high and low right here and right here. And we'll go ahead and watch this day play out from Asia. So right here, you can see Asia high being created, being taken. Now we get London session. Let's see what happens. And there we go. So we take our London session low and Asian session low. No real displacement below here. Let's see what happens. We start to get displacement up. We have a five minute pair value gap here. See if that gets tagged. It does get tagged. Now where would I want to be targeting here? Well either these liquidity levels here or London session high. London session high gets tagged. We base around midnight. No closes below. End up sweeping this low. Now if we are going to go somewhere else, we've already taken session highs and lows, but what do we have previous day high and low? And so as we start to expand up, we get a move to the previous day high. So taking out that liquidity level, displacement over it, and then we continue higher. So hopefully that shows you how to use liquidity and what important liquidity levels you can mark out if you don't know what to mark out. The indicator used in this video is free and I will link it in the description below. Also wanted to let you guys know that I did start a free discord. So if you want to check that out, the link will be in the description as well. And I'll do my best to have a PDF document of this video out in the description before it releases. But besides that, if you did enjoy this video, please give it a like and subscribe. I hope you have a great rest of your day. See ya.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 11.76,
+      "text": "How's it going everyone?"
+    },
+    {
+      "id": 1,
+      "start": 11.76,
+      "end": 16.72,
+      "text": "This video is going to cover liquidity, buy side and sell side liquidity, and we will"
+    },
+    {
+      "id": 2,
+      "start": 16.72,
+      "end": 22.02,
+      "text": "mainly be focused on old highs and old lows as well as equal highs and equal lows."
+    },
+    {
+      "id": 3,
+      "start": 22.02,
+      "end": 25.92,
+      "text": "Before we get into anything, the first thing we need to understand is swing points in the"
+    },
+    {
+      "id": 4,
+      "start": 25.92,
+      "end": 30.32,
+      "text": "market because this is how we determine where liquidity is resting."
+    },
+    {
+      "id": 5,
+      "start": 30.32,
+      "end": 36.04,
+      "text": "So over here we have a swing low and how do we determine if we have a swing low?"
+    },
+    {
+      "id": 6,
+      "start": 36.04,
+      "end": 42.56,
+      "text": "Well we have a low right here with a higher low to the left and a higher low to the right"
+    },
+    {
+      "id": 7,
+      "start": 42.56,
+      "end": 45.52,
+      "text": "and that makes this a swing low."
+    },
+    {
+      "id": 8,
+      "start": 45.52,
+      "end": 52.0,
+      "text": "Similarly over here we have a high with a lower high on the left and a lower high on"
+    },
+    {
+      "id": 9,
+      "start": 52.0,
+      "end": 54.76,
+      "text": "the right that makes this a swing high."
+    },
+    {
+      "id": 10,
+      "start": 55.32,
+      "end": 60.68,
+      "text": "Now to understand why this is important we have to understand the psychology of traders."
+    },
+    {
+      "id": 11,
+      "start": 60.68,
+      "end": 66.2,
+      "text": "If someone was to get long in this area here they're likely to put their stop on this swing"
+    },
+    {
+      "id": 12,
+      "start": 66.2,
+      "end": 67.2,
+      "text": "low."
+    },
+    {
+      "id": 13,
+      "start": 67.2,
+      "end": 71.84,
+      "text": "Similarly over here if they're going to get short they're likely to put their stop on"
+    },
+    {
+      "id": 14,
+      "start": 71.84,
+      "end": 73.52,
+      "text": "this swing high."
+    },
+    {
+      "id": 15,
+      "start": 73.52,
+      "end": 78.44,
+      "text": "With that understanding we know that there are sell stops resting under here and buy"
+    },
+    {
+      "id": 16,
+      "start": 78.44,
+      "end": 81.16,
+      "text": "stops resting above here."
+    },
+    {
+      "id": 17,
+      "start": 81.16,
+      "end": 85.88,
+      "text": "With the sell stops resting below here we call this sell side liquidity and with the"
+    },
+    {
+      "id": 18,
+      "start": 85.88,
+      "end": 90.04,
+      "text": "buy stops resting above here we call this buy side liquidity."
+    },
+    {
+      "id": 19,
+      "start": 90.04,
+      "end": 94.48,
+      "text": "Smart money will look to pair orders below these lows and above these highs."
+    },
+    {
+      "id": 20,
+      "start": 94.48,
+      "end": 97.08,
+      "text": "So let's get into the charts and look at some examples."
+    },
+    {
+      "id": 21,
+      "start": 97.08,
+      "end": 103.16,
+      "text": "We are now going to practice identifying these swing points or buy side and sell side liquidity."
+    },
+    {
+      "id": 22,
+      "start": 103.16,
+      "end": 109.2,
+      "text": "So looking at this four hour chart here where are the obvious highs and lows?"
+    },
+    {
+      "id": 23,
+      "start": 109.24,
+      "end": 111.32,
+      "text": "We have a low right here."
+    },
+    {
+      "id": 24,
+      "start": 111.32,
+      "end": 113.28,
+      "text": "This would be sell side liquidity."
+    },
+    {
+      "id": 25,
+      "start": 113.28,
+      "end": 120.12,
+      "text": "As you notice we have a low with a higher low and a higher low on each side."
+    },
+    {
+      "id": 26,
+      "start": 120.12,
+      "end": 124.12,
+      "text": "We have a high right here with a lower high on each side."
+    },
+    {
+      "id": 27,
+      "start": 124.12,
+      "end": 128.24,
+      "text": "So this would be our buy side liquidity."
+    },
+    {
+      "id": 28,
+      "start": 128.24,
+      "end": 131.32,
+      "text": "Now if you notice what did we just put in?"
+    },
+    {
+      "id": 29,
+      "start": 131.32,
+      "end": 137.68,
+      "text": "We put in another swing point because we have a high with a lower high on each side."
+    },
+    {
+      "id": 30,
+      "start": 137.68,
+      "end": 141.52,
+      "text": "So this would be considered buy side liquidity."
+    },
+    {
+      "id": 31,
+      "start": 141.52,
+      "end": 148.4,
+      "text": "Moving this forward and seeing price takes out this high."
+    },
+    {
+      "id": 32,
+      "start": 148.4,
+      "end": 155.68,
+      "text": "So now I'm not worried about buy side liquidity here and it now moves to over here because"
+    },
+    {
+      "id": 33,
+      "start": 155.68,
+      "end": 161.4,
+      "text": "we have a high with a lower high on this side and I'm anticipating a new lower high on this"
+    },
+    {
+      "id": 34,
+      "start": 161.4,
+      "end": 162.4,
+      "text": "side."
+    },
+    {
+      "id": 35,
+      "start": 162.4,
+      "end": 163.4,
+      "text": "Right."
+    },
+    {
+      "id": 36,
+      "start": 163.4,
+      "end": 164.6,
+      "text": "So lower high here."
+    },
+    {
+      "id": 37,
+      "start": 164.64,
+      "end": 173.4,
+      "text": "Similarly, now we just took out this low over here and now we have a low with a higher low"
+    },
+    {
+      "id": 38,
+      "start": 173.4,
+      "end": 179.48,
+      "text": "on each side letting this continue and focusing on these swing points."
+    },
+    {
+      "id": 39,
+      "start": 179.48,
+      "end": 183.32,
+      "text": "Just put in a new one there."
+    },
+    {
+      "id": 40,
+      "start": 183.32,
+      "end": 187.32,
+      "text": "That gets taken out."
+    },
+    {
+      "id": 41,
+      "start": 187.32,
+      "end": 192.52,
+      "text": "Another swing here since this didn't take out this previous low."
+    },
+    {
+      "id": 42,
+      "start": 192.52,
+      "end": 200.4,
+      "text": "Those are now relatively equal those and so those are just outside of the liquidity together."
+    },
+    {
+      "id": 43,
+      "start": 200.4,
+      "end": 206.64,
+      "text": "Now take out this high and if we put in a lower high on this side, this will become"
+    },
+    {
+      "id": 44,
+      "start": 206.64,
+      "end": 210.44,
+      "text": "our buy side liquidity, which it does."
+    },
+    {
+      "id": 45,
+      "start": 210.44,
+      "end": 218.24,
+      "text": "Now we have buy side resting here."
+    },
+    {
+      "id": 46,
+      "start": 218.24,
+      "end": 221.08,
+      "text": "We take that out."
+    },
+    {
+      "id": 47,
+      "start": 221.08,
+      "end": 224.8,
+      "text": "And if you notice, we do put in a new swing low right here."
+    },
+    {
+      "id": 48,
+      "start": 224.8,
+      "end": 231.12,
+      "text": "I'm going to focus on the really obvious highs and lows on the outside of the range."
+    },
+    {
+      "id": 49,
+      "start": 231.12,
+      "end": 232.12,
+      "text": "There we go."
+    },
+    {
+      "id": 50,
+      "start": 232.12,
+      "end": 234.96,
+      "text": "We go reach all the way up to this high now."
+    },
+    {
+      "id": 51,
+      "start": 234.96,
+      "end": 242.6,
+      "text": "Now if we put in a swing up here, we will have new buy side liquidity, which we do now"
+    },
+    {
+      "id": 52,
+      "start": 242.6,
+      "end": 244.68,
+      "text": "have buy side liquidity resting here."
+    },
+    {
+      "id": 53,
+      "start": 251.08,
+      "end": 262.68,
+      "text": "Now we put in a swing low and this is reaching for that buy side up there."
+    },
+    {
+      "id": 54,
+      "start": 262.68,
+      "end": 270.6,
+      "text": "And now that is taken, if we put in a swing low, now this becomes our buy side liquidity"
+    },
+    {
+      "id": 55,
+      "start": 270.6,
+      "end": 273.76,
+      "text": "and you can see how this continues."
+    },
+    {
+      "id": 56,
+      "start": 273.76,
+      "end": 278.32,
+      "text": "The next thing we are going to look at are two types of liquidity and those are old highs"
+    },
+    {
+      "id": 57,
+      "start": 278.32,
+      "end": 281.64,
+      "text": "and lows and relatively equal highs and lows."
+    },
+    {
+      "id": 58,
+      "start": 281.64,
+      "end": 285.64,
+      "text": "And so I have them marked out on the chart here from the previous example."
+    },
+    {
+      "id": 59,
+      "start": 285.64,
+      "end": 289.88,
+      "text": "You can look like this where you have two different swing points that are relatively"
+    },
+    {
+      "id": 60,
+      "start": 289.88,
+      "end": 296.84,
+      "text": "equal or very close together, forming relatively equal highs or lows or lows in this case."
+    },
+    {
+      "id": 61,
+      "start": 296.84,
+      "end": 301.56,
+      "text": "Or when you have highs that are all clustered together like this, those are relatively equal"
+    },
+    {
+      "id": 62,
+      "start": 301.56,
+      "end": 303.08,
+      "text": "highs."
+    },
+    {
+      "id": 63,
+      "start": 303.08,
+      "end": 308.84,
+      "text": "These old highs and old lows just refer to a previous high or low where a single swing"
+    },
+    {
+      "id": 64,
+      "start": 308.84,
+      "end": 311.68,
+      "text": "point stands out like that."
+    },
+    {
+      "id": 65,
+      "start": 311.68,
+      "end": 315.32,
+      "text": "Next thing we're going to talk about are liquidity levels that I always have marked out on my"
+    },
+    {
+      "id": 66,
+      "start": 315.32,
+      "end": 318.76,
+      "text": "chart or at least know where they are located."
+    },
+    {
+      "id": 67,
+      "start": 318.76,
+      "end": 321.8,
+      "text": "And the first one would be previous weeks high and low."
+    },
+    {
+      "id": 68,
+      "start": 321.8,
+      "end": 329.08,
+      "text": "So if we look at this previous week, here is a Tuesday low and here is Thursday high"
+    },
+    {
+      "id": 69,
+      "start": 329.08,
+      "end": 334.72,
+      "text": "and why I mark these out is it's a pretty easy draw on liquidity or a way to frame"
+    },
+    {
+      "id": 70,
+      "start": 334.72,
+      "end": 335.72,
+      "text": "a reversal."
+    },
+    {
+      "id": 71,
+      "start": 335.72,
+      "end": 341.88,
+      "text": "So looking at this, we take this previous week's high back into this fair value gap"
+    },
+    {
+      "id": 72,
+      "start": 341.88,
+      "end": 345.24,
+      "text": "and then from here, what do we do?"
+    },
+    {
+      "id": 73,
+      "start": 345.24,
+      "end": 346.24,
+      "text": "We expand higher."
+    },
+    {
+      "id": 74,
+      "start": 346.24,
+      "end": 349.24,
+      "text": "That is something I always have marked out on my chart."
+    },
+    {
+      "id": 75,
+      "start": 349.24,
+      "end": 354.12,
+      "text": "The next liquidity level I always have marked out on my chart, previous day high and previous"
+    },
+    {
+      "id": 76,
+      "start": 354.12,
+      "end": 355.4,
+      "text": "day low."
+    },
+    {
+      "id": 77,
+      "start": 355.4,
+      "end": 359.4,
+      "text": "I can either frame a reversal or use it as a draw."
+    },
+    {
+      "id": 78,
+      "start": 359.4,
+      "end": 364.8,
+      "text": "And in this case here, you can see it was used as a draw and previous day high was taken"
+    },
+    {
+      "id": 79,
+      "start": 364.8,
+      "end": 366.76,
+      "text": "out before expanding higher."
+    },
+    {
+      "id": 80,
+      "start": 366.76,
+      "end": 371.32,
+      "text": "The last levels of liquidity I always have marked out on my chart are session highs and"
+    },
+    {
+      "id": 81,
+      "start": 371.32,
+      "end": 372.32,
+      "text": "lows."
+    },
+    {
+      "id": 82,
+      "start": 372.32,
+      "end": 377.36,
+      "text": "So in this case shown, I have a session high and low, one session high and low, and these"
+    },
+    {
+      "id": 83,
+      "start": 377.36,
+      "end": 382.28,
+      "text": "can be used to frame a narrative, a draw or a reversal as well."
+    },
+    {
+      "id": 84,
+      "start": 382.28,
+      "end": 387.16,
+      "text": "Let's take a look at some examples here and how using session highs and lows can work"
+    },
+    {
+      "id": 85,
+      "start": 387.16,
+      "end": 388.16,
+      "text": "out."
+    },
+    {
+      "id": 86,
+      "start": 388.16,
+      "end": 393.6,
+      "text": "So if you notice here, we have our Asia session low that's already been taken, but above us,"
+    },
+    {
+      "id": 87,
+      "start": 393.6,
+      "end": 399.56,
+      "text": "we have Asia session high, London session high and London session low all have not been"
+    },
+    {
+      "id": 88,
+      "start": 399.56,
+      "end": 400.56,
+      "text": "reached."
+    },
+    {
+      "id": 89,
+      "start": 400.56,
+      "end": 407.76,
+      "text": "So as we go into New York open, we get a move up, we take that London session high, reach"
+    },
+    {
+      "id": 90,
+      "start": 407.76,
+      "end": 410.12,
+      "text": "for midnight."
+    },
+    {
+      "id": 91,
+      "start": 410.12,
+      "end": 414.4,
+      "text": "We end up taking that Asia session high as well."
+    },
+    {
+      "id": 92,
+      "start": 414.4,
+      "end": 417.0,
+      "text": "Now do we get a nice break of structure?"
+    },
+    {
+      "id": 93,
+      "start": 417.0,
+      "end": 418.0,
+      "text": "Not really yet."
+    },
+    {
+      "id": 94,
+      "start": 418.0,
+      "end": 424.56,
+      "text": "There we get some displacement down."
+    },
+    {
+      "id": 95,
+      "start": 424.56,
+      "end": 427.0,
+      "text": "Looking in here, do we have any sort of setup?"
+    },
+    {
+      "id": 96,
+      "start": 427.0,
+      "end": 434.08,
+      "text": "We do have a five minute pair of value gap here."
+    },
+    {
+      "id": 97,
+      "start": 434.08,
+      "end": 435.48,
+      "text": "And we reach back into it."
+    },
+    {
+      "id": 98,
+      "start": 435.48,
+      "end": 437.28,
+      "text": "A nice respect to that."
+    },
+    {
+      "id": 99,
+      "start": 437.28,
+      "end": 441.32,
+      "text": "No body closes even in the fair value gap."
+    },
+    {
+      "id": 100,
+      "start": 441.32,
+      "end": 444.76,
+      "text": "And then where do we go for or where is our target?"
+    },
+    {
+      "id": 101,
+      "start": 444.76,
+      "end": 450.4,
+      "text": "Well we still have equal lows from London session sitting right there."
+    },
+    {
+      "id": 102,
+      "start": 450.4,
+      "end": 456.76,
+      "text": "Here is another five minute pair value gap."
+    },
+    {
+      "id": 103,
+      "start": 456.76,
+      "end": 458.92,
+      "text": "And there we reach our London session low."
+    },
+    {
+      "id": 104,
+      "start": 458.92,
+      "end": 465.24,
+      "text": "So you can see how just using these liquidity levels, Asia high and low, London session high"
+    },
+    {
+      "id": 105,
+      "start": 465.32,
+      "end": 468.96,
+      "text": "and low, New York can be framed off of that."
+    },
+    {
+      "id": 106,
+      "start": 468.96,
+      "end": 471.8,
+      "text": "So let's go ahead to the next day."
+    },
+    {
+      "id": 107,
+      "start": 471.8,
+      "end": 477.6,
+      "text": "So looking at this next day, we will also mark out our previous day high and low right"
+    },
+    {
+      "id": 108,
+      "start": 477.6,
+      "end": 479.0,
+      "text": "here and right here."
+    },
+    {
+      "id": 109,
+      "start": 479.0,
+      "end": 482.76,
+      "text": "And we'll go ahead and watch this day play out from Asia."
+    },
+    {
+      "id": 110,
+      "start": 482.76,
+      "end": 488.12,
+      "text": "So right here, you can see Asia high being created, being taken."
+    },
+    {
+      "id": 111,
+      "start": 488.12,
+      "end": 489.6,
+      "text": "Now we get London session."
+    },
+    {
+      "id": 112,
+      "start": 489.6,
+      "end": 492.72,
+      "text": "Let's see what happens."
+    },
+    {
+      "id": 113,
+      "start": 492.72,
+      "end": 493.72,
+      "text": "And there we go."
+    },
+    {
+      "id": 114,
+      "start": 493.8,
+      "end": 498.28,
+      "text": "So we take our London session low and Asian session low."
+    },
+    {
+      "id": 115,
+      "start": 498.28,
+      "end": 499.8,
+      "text": "No real displacement below here."
+    },
+    {
+      "id": 116,
+      "start": 499.8,
+      "end": 501.72,
+      "text": "Let's see what happens."
+    },
+    {
+      "id": 117,
+      "start": 501.72,
+      "end": 503.64,
+      "text": "We start to get displacement up."
+    },
+    {
+      "id": 118,
+      "start": 503.64,
+      "end": 506.96,
+      "text": "We have a five minute pair value gap here."
+    },
+    {
+      "id": 119,
+      "start": 506.96,
+      "end": 509.32,
+      "text": "See if that gets tagged."
+    },
+    {
+      "id": 120,
+      "start": 509.32,
+      "end": 510.72,
+      "text": "It does get tagged."
+    },
+    {
+      "id": 121,
+      "start": 510.72,
+      "end": 512.76,
+      "text": "Now where would I want to be targeting here?"
+    },
+    {
+      "id": 122,
+      "start": 512.76,
+      "end": 519.4,
+      "text": "Well either these liquidity levels here or London session high."
+    },
+    {
+      "id": 123,
+      "start": 519.4,
+      "end": 521.44,
+      "text": "London session high gets tagged."
+    },
+    {
+      "id": 124,
+      "start": 521.44,
+      "end": 523.12,
+      "text": "We base around midnight."
+    },
+    {
+      "id": 125,
+      "start": 523.12,
+      "end": 525.0,
+      "text": "No closes below."
+    },
+    {
+      "id": 126,
+      "start": 525.0,
+      "end": 527.64,
+      "text": "End up sweeping this low."
+    },
+    {
+      "id": 127,
+      "start": 527.64,
+      "end": 533.6,
+      "text": "Now if we are going to go somewhere else, we've already taken session highs and lows,"
+    },
+    {
+      "id": 128,
+      "start": 533.6,
+      "end": 536.6,
+      "text": "but what do we have previous day high and low?"
+    },
+    {
+      "id": 129,
+      "start": 536.6,
+      "end": 542.6,
+      "text": "And so as we start to expand up, we get a move to the previous day high."
+    },
+    {
+      "id": 130,
+      "start": 542.6,
+      "end": 550.24,
+      "text": "So taking out that liquidity level, displacement over it, and then we continue higher."
+    },
+    {
+      "id": 131,
+      "start": 550.24,
+      "end": 556.32,
+      "text": "So hopefully that shows you how to use liquidity and what important liquidity levels you can"
+    },
+    {
+      "id": 132,
+      "start": 556.32,
+      "end": 559.44,
+      "text": "mark out if you don't know what to mark out."
+    },
+    {
+      "id": 133,
+      "start": 559.44,
+      "end": 564.16,
+      "text": "The indicator used in this video is free and I will link it in the description below."
+    },
+    {
+      "id": 134,
+      "start": 564.16,
+      "end": 567.76,
+      "text": "Also wanted to let you guys know that I did start a free discord."
+    },
+    {
+      "id": 135,
+      "start": 567.76,
+      "end": 571.6,
+      "text": "So if you want to check that out, the link will be in the description as well."
+    },
+    {
+      "id": 136,
+      "start": 571.6,
+      "end": 577.04,
+      "text": "And I'll do my best to have a PDF document of this video out in the description before"
+    },
+    {
+      "id": 137,
+      "start": 577.04,
+      "end": 578.04,
+      "text": "it releases."
+    },
+    {
+      "id": 138,
+      "start": 578.44,
+      "end": 582.24,
+      "text": "But besides that, if you did enjoy this video, please give it a like and subscribe."
+    },
+    {
+      "id": 139,
+      "start": 582.24,
+      "end": 584.36,
+      "text": "I hope you have a great rest of your day."
+    },
+    {
+      "id": 140,
+      "start": 584.36,
+      "end": 584.56,
+      "text": "See ya."
+    }
+  ],
+  "created_at": "2026-09-01T17:10:03.671738+00:00"
+}

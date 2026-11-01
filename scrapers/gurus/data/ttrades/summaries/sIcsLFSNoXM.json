@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "sIcsLFSNoXM",
+    "title": "Open High Low Close - Understanding Candlesticks",
+    "url": "https://www.youtube.com/watch?v=sIcsLFSNoXM",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/sIcsLFSNoXM.json"
+  },
+  "stats": {
+    "word_count": 2505,
+    "duration_seconds": 839.38,
+    "segments": 244,
+    "concepts_detected": 3,
+    "candidate_strategies": 1
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 1,
+    "Premium and Discount": 3,
+    "Daily Bias": 1
+  },
+  "spoken_time_references": [
+    "New York open",
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Premium Discount Expansion",
+      "evidence": [
+        {
+          "start": 808.34,
+          "end": 822.9,
+          "text": "And if you go down to the lower timeframes, you kind of already know what they look like. For instance, here, I know we opened made a high back at equilibrium of the previous day. Then from there, we found expansion lower and then we closed in the lows here.",
+          "concepts": [
+            "Premium and Discount"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 11
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 285.7,
+      "end": 302.86,
+      "text": "As we continue this ahead into the New York session, what do we get? We get a move higher sweeping these previous highs around equilibrium of the previous day and then displacement lower.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 454.78,
+      "end": 466.34,
+      "text": "So if you notice what happens is we move higher and then price reverses to go lower. We have an aggressive move out of a range and aggressive move back into a range. Let's see how this month closes.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 609.3,
+      "end": 623.14,
+      "text": "And similar thing here with a bearish indecision candle, the open and closing prices are relatively close to each other, making a very small body or not much direction in the market. Let's go into the charts and look at a few examples of these.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 692.9,
+      "end": 702.62,
+      "text": "But if you know what a seek and destroy looks like or a broad information, we'll just kind of get that pattern, right? The price will take external go back to equilibrium with range.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 749.98,
+      "end": 760.46,
+      "text": "Well, let's see the next days. Open, low, high, close, closing over this previous bar. Remember my daily bias video?",
+      "concepts": [
+        "Daily Bias"
+      ],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 778.74,
+      "end": 788.58,
+      "text": "So you can see how the opening price and closing price are right next to each other. It happens. Well, now we sweep previous day low into a fair value gap.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 808.34,
+      "end": 822.9,
+      "text": "And if you go down to the lower timeframes, you kind of already know what they look like. For instance, here, I know we opened made a high back at equilibrium of the previous day. Then from there, we found expansion lower and then we closed in the lows here.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 11
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:36.326067+00:00"
+}

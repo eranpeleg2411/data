@@ -1,0 +1,295 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "Kf4c41_qO1s",
+    "title": "Higher Timeframe Analysis For Trading - Aligning Expansion Candles",
+    "url": "https://www.youtube.com/watch?v=Kf4c41_qO1s",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/Kf4c41_qO1s.json"
+  },
+  "stats": {
+    "word_count": 2426,
+    "duration_seconds": 710.96,
+    "segments": 220,
+    "concepts_detected": 5,
+    "candidate_strategies": 4
+  },
+  "concept_mentions": {
+    "Order Blocks and Breakers": 2,
+    "Power of Three": 2,
+    "TTrades Fractal Model": 4,
+    "Candle 3 Setup": 9,
+    "Protected Swing": 5
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 162.76,
+          "end": 172.92,
+          "text": "Now this is going to be the easiest of the scenarios aligning a higher timeframe with a candle three and then finding a continuation entry. But you can also do this for reversal trades.",
+          "concepts": [
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 14
+        },
+        {
+          "start": 225.4,
+          "end": 237.0,
+          "text": "three or that continuation and then trade a higher timeframe candle three and then look for a continuation order block within all of that. The most simple way will be to trade a candle three on multiple timeframes.",
+          "concepts": [
+            "Order Blocks and Breakers",
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 16
+        }
+      ]
+    },
+    {
+      "name": "Power of Three / AMD",
+      "evidence": [
+        {
+          "start": 240.68,
+          "end": 252.72,
+          "text": "Now before we get into this example, I want to show how I have my indicator layout set up for this visualization of expansion alignment. So what I'm going to do is have a daily power of three indicator set up here.",
+          "concepts": [
+            "Power of Three"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 11
+        },
+        {
+          "start": 258.24,
+          "end": 273.24,
+          "text": "And there's many free ones you can look for. If you type in higher timeframe power of three, you'll find one from two degrees. The next thing I'll do is use my fractal model indicator.",
+          "concepts": [
+            "Power of Three",
+            "TTrades Fractal Model"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 16
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 146.36,
+          "end": 160.0,
+          "text": "Once it forms a small wick, you can see it opens, it trades lower, forms a protected swing or the wick of this higher time from candle. And then this is when trend can occur because we have the structure aligned with multiple",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 12
+        },
+        {
+          "start": 380.72,
+          "end": 398.28,
+          "text": "So we can expect this to continue lower and then we do get this trend lower and you can see these small wicks support expansion lower small wick expansion, small wick expansion. Even when we open this next candle, we have price open trade into this protected swing",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 14
+        },
+        {
+          "start": 416.12,
+          "end": 424.6,
+          "text": "And I'm going to align structure with that in the form of protected swings or continuation order blocks. And that's where you can get price to continue or trend.",
+          "concepts": [
+            "Order Blocks and Breakers",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 15
+        }
+      ]
+    },
+    {
+      "name": "Premium Discount Expansion",
+      "evidence": [
+        {
+          "start": 543.48,
+          "end": 552.08,
+          "text": "I can see the EQ of the hourly. I can see the fractal model on multiple different timeframes. And then that's where I can get a setup where I can see all the expansion",
+          "concepts": [
+            "TTrades Fractal Model"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 9
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 146.36,
+      "end": 160.0,
+      "text": "Once it forms a small wick, you can see it opens, it trades lower, forms a protected swing or the wick of this higher time from candle. And then this is when trend can occur because we have the structure aligned with multiple",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 162.76,
+      "end": 172.92,
+      "text": "Now this is going to be the easiest of the scenarios aligning a higher timeframe with a candle three and then finding a continuation entry. But you can also do this for reversal trades.",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 14
+    },
+    {
+      "start": 178.28,
+      "end": 188.32,
+      "text": "We go down to our intermediate timeframe and we have also a small wick forming a reversal and we have a protected swing. At this point, all timeframes are aligned for an expansion.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 225.4,
+      "end": 237.0,
+      "text": "three or that continuation and then trade a higher timeframe candle three and then look for a continuation order block within all of that. The most simple way will be to trade a candle three on multiple timeframes.",
+      "concepts": [
+        "Order Blocks and Breakers",
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 16
+    },
+    {
+      "start": 240.68,
+      "end": 252.72,
+      "text": "Now before we get into this example, I want to show how I have my indicator layout set up for this visualization of expansion alignment. So what I'm going to do is have a daily power of three indicator set up here.",
+      "concepts": [
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 11
+    },
+    {
+      "start": 258.24,
+      "end": 273.24,
+      "text": "And there's many free ones you can look for. If you type in higher timeframe power of three, you'll find one from two degrees. The next thing I'll do is use my fractal model indicator.",
+      "concepts": [
+        "Power of Three",
+        "TTrades Fractal Model"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 16
+    },
+    {
+      "start": 342.16,
+      "end": 352.64,
+      "text": "then forming a continuation. But now that we have a protected swing in this higher timeframe candle, I've anticipated that this wick has formed and then price can continue to trend lower.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 380.72,
+      "end": 398.28,
+      "text": "So we can expect this to continue lower and then we do get this trend lower and you can see these small wicks support expansion lower small wick expansion, small wick expansion. Even when we open this next candle, we have price open trade into this protected swing",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 14
+    },
+    {
+      "start": 416.12,
+      "end": 424.6,
+      "text": "And I'm going to align structure with that in the form of protected swings or continuation order blocks. And that's where you can get price to continue or trend.",
+      "concepts": [
+        "Order Blocks and Breakers",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 15
+    },
+    {
+      "start": 474.6,
+      "end": 488.8,
+      "text": "And this is a good example of trading candle three on multiple timeframes. Here we have a daily candle three, a four hour candle, three and an hourly candle, three. You can see that's when the trend really gets going here because it is a continuation",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 501.0,
+      "end": 512.48,
+      "text": "And then I'm going to set up a four hour and 15 minute fractal model. I'll leave these checked, but then offset it 17 and have the rest of the settings besides these marked here turned off.",
+      "concepts": [
+        "TTrades Fractal Model"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 543.48,
+      "end": 552.08,
+      "text": "I can see the EQ of the hourly. I can see the fractal model on multiple different timeframes. And then that's where I can get a setup where I can see all the expansion",
+      "concepts": [
+        "TTrades Fractal Model"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 9
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:36.271699+00:00"
+}

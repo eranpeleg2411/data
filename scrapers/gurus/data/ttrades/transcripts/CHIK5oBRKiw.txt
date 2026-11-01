@@ -1,0 +1,270 @@
+[00:00] How's it going everyone?
+[00:11] This video is going to be over the change in state of delivery.
+[00:14] We will first go over the PDF to learn what that is before going to the charts and finding
+[00:18] some examples.
+[00:20] At the end, I will combine it with standard deviations and AMD to create an entry model.
+[00:25] So here we are in the PDF and what is the change in state of delivery?
+[00:29] Well the change in state of delivery is when price goes from bullish to bearish or from
+[00:34] bearish to bullish.
+[00:35] Now let's go through this example here.
+[00:37] Price is moving up into a higher time frame PD array or important level.
+[00:42] This up close candle here gets closed below here and that is when the change in state
+[00:48] of delivery occurs.
+[00:49] When the opening price of this up close candle or series of up close candles gets closed
+[00:54] below.
+[00:55] After being closed below, I can anticipate price to trade lower.
+[00:58] Similarly down here, price puts in a swing low, raise the sell stops and then closes
+[01:04] over the series or single down close candle changing the state of delivery.
+[01:10] When price returns, I can anticipate a reaction to trade higher.
+[01:14] Now let's take a look at two more examples.
+[01:16] Now when there is more than one up close candle or a series of up close candles, I use the
+[01:21] opening price of the first candle.
+[01:23] So I will look for this price to be closed below and then when price returns, I can
+[01:28] anticipate it to trade lower.
+[01:30] Similarly down here, there are three down close candles into the important level.
+[01:35] I will use the opening price of the first candle as my change in state of delivery.
+[01:40] So let's go into the charts and look at a few examples of this.
+[01:43] So here we are with our first example and I'm going to go ahead and mark out our buy
+[01:46] side liquidity resting above these old highs.
+[01:49] I'm then going to drop down to a five minute time frame and here we are just before New
+[01:54] York open.
+[01:55] Let's go ahead and watch and see what happens.
+[02:00] So you can see price displaces up over this high and then displaces back into the range.
+[02:06] Now, I generally prefer a lower time frame sweep with my entry models, but we'll go ahead
+[02:10] and mark it out without one.
+[02:12] So what I'm looking for here are the series or single up close candle that made the new
+[02:16] high before displacing and closing below.
+[02:19] Now where would that be?
+[02:21] Right here, we have one, two candles that made the new high before the displacement down.
+[02:27] And I'd want to see a close below here.
+[02:31] So you can see price is failing to close below this level.
+[02:36] And then now we get a new sweep of a high.
+[02:39] So now where would I look for price to change the state of delivery?
+[02:43] I'd want to see price close below these series of up close candles here.
+[02:48] And you can see price does close below those candles.
+[02:51] Now that we have changed the state of delivery from bullish to bearish, I can be looking
+[02:56] for price to trade lower.
+[02:58] Where is lower?
+[02:59] Well, we have London lows resting below right here.
+[03:02] So with that idea in mind, I could be looking for price to retest the order block.
+[03:07] My stop on the high targeting these London lows.
+[03:11] Now, since this is 1.66 are and I generally prefer a minimum of two hours, I would say
+[03:16] minimum of two are what can I do?
+[03:19] I can take what we learned in the previous projection video, project out this manipulation
+[03:24] leg and then look for the negative two.
+[03:26] So letting this play out, let's see what happens.
+[03:30] You can see it takes the order block, respects this fair value gap in here.
+[03:36] And now price trades and closes below this candle here, which is now validating it as
+[03:42] an order block.
+[03:46] And there you go.
+[03:56] We hit the negative two to negative 2.5 standard deviations.
+[04:00] So just to review, price goes sweeps and old high, then displaces down.
+[04:05] However, this can't change the state of delivery.
+[04:08] We get a lower timeframe sweep, which changes the state of delivery.
+[04:11] And then we can anticipate price to trade lower to London lows and the standard
+[04:16] deviation projection from here.
+[04:18] I look for an entry model to gain entry into the move down.
+[04:21] So let's hop into the next example.
+[04:23] So in this next example, we are going to work top down from the daily and how you
+[04:27] can use the change in state of delivery on multiple different time frame.
+[04:30] So you can see here we have a daily fair value gap right here, which would be the
+[04:34] drawn liquidity.
+[04:37] Here you can see price reaches up into this fair value gap, respects it and
+[04:41] closes down using the next day model.
+[04:44] We can anticipate price to move lower the next day, taking out previous day low.
+[04:48] But let's hop into the hourly chart to confirm this bias.
+[04:51] So here we are on the hourly chart.
+[04:53] And ideally we want to see a change in the state of delivery after engaging our
+[04:57] higher timeframe PD array.
+[04:59] Well, here is our daily fair value gap or a higher timeframe PD array.
+[05:02] Do we get a change in the state of delivery after engaging with it?
+[05:06] We do as we displace and close below a series of up close candles here.
+[05:11] Now, what else can we do for my latest videos to give us a target for this move
+[05:15] down, we can project out this manipulation leg from the high to the low.
+[05:20] Then we can look for the negative two to negative 2.5 area for a target.
+[05:24] So let's get into the next day and see what happens.
+[05:30] So you can see here we are building a range and we just put in equal lows.
+[05:34] Now, when we are bearish with price action, a run of an old high is an area to be
+[05:39] looking short.
+[05:40] So let's hop down to the lower timeframes for this 9 30 open.
+[05:44] In this case, we'll use the two minute.
+[05:45] So here we are on the two minute chart.
+[05:48] Let's go ahead and zoom out so you can see where we're at.
+[05:50] We have the old high that was just tagged right there are equal lows here.
+[05:55] And we have a negative two to negative 2.5 right here.
+[05:58] So we'll go ahead and mark that out.
+[06:00] Zooming back in.
+[06:01] Let's see what we have here.
+[06:02] So you can see 9 30 open manipulated up closed back in the range.
+[06:07] So if I'd want to see this move down, I'd want to see a change in state of delivery
+[06:11] or price close below the series of up close candles here.
+[06:17] Here we get that close validating it as a change in state of delivery.
+[06:21] So I'd be looking to enter a short position here.
+[06:23] My stop on this high.
+[06:25] Now what can I do for targets?
+[06:27] So I'm going to go ahead and look at the range.
+[06:29] Here my stop on this high.
+[06:31] Now what can I do for targets?
+[06:33] Well, I can also project off this manipulation like here.
+[06:36] And let's go ahead and zoom back out.
+[06:38] Now ideally I'm looking for targets in the negative two to negative 2.5,
+[06:43] which we have some equal lows there.
+[06:44] We have equal lows, so as the negative four to negative 4.5 there.
+[06:48] But we also have our hourly target here.
+[06:51] I'm going to go ahead and put my target just on these equal lows here.
+[06:54] But we'll see how these areas react.
+[06:56] Let's go ahead and zoom back in.
+[07:00] So here we get tagged in.
+[07:04] Pretty choppy.
+[07:06] Some displacement down.
+[07:11] And zooming back out.
+[07:13] There we go.
+[07:13] And we hit the low.
+[07:15] You can see we hit our negative two to negative 2.5 and our negative four.
+[07:20] Let's see if we reach for that hourly target.
+[07:26] And we do reach for that hourly target.
+[07:28] Now let's go back out to the hourly chart just to review this.
+[07:31] We went from our higher timeframe PD array, which in this case was a daily
+[07:35] fair value gap.
+[07:36] We waited for the change in state of delivery on the hourly chart.
+[07:39] And then the next day we had a sweep of buy side liquidity,
+[07:43] which is an area to get short when price is bearish.
+[07:47] From here we look for the change in state of delivery on the two minute chart
+[07:50] to get short targeting these equal lows on the hourly chart,
+[07:54] as well as the projections from the high of the week.
+[07:57] Now that you understand the change in state of delivery,
+[07:59] how do I combine all of this into an entry model?
+[08:02] Well, what I focus on is a manipulation, then a change in state of delivery.
+[08:07] And then I focus on order blocks and fair value gaps to deliver price to projections.
+[08:12] So let's go over a few examples of that.
+[08:14] So you can see right here we have created a range.
+[08:18] Let's see what happens.
+[08:21] You can see price is failing to displace out of this range,
+[08:25] but that is the first thing manipulation.
+[08:28] The next thing I look for is a change in the state of delivery.
+[08:30] So I would need price to close below this last up close candle.
+[08:36] So you can see we have not closed below it yet.
+[08:40] And there is our close below.
+[08:42] So that is our change in state of delivery.
+[08:45] Now, if I'm looking to take the first entry,
+[08:47] looking to enter here at the change of the state of delivery,
+[08:50] or when it retest the order block, my stop on the manipulation high,
+[08:54] which swept and then for targets, I like to project out my targets.
+[08:59] Now here I have a low I can be targeting,
+[09:02] but I can keep in mind the negative two to negative 2.5.
+[09:05] So ideally it would look something like this,
+[09:07] targeting the negative two standard deviations.
+[09:09] We're going to go ahead and just keep it on this low.
+[09:15] Now we create more up close candles here and close below them.
+[09:20] And now we have more order blocks.
+[09:21] So if I was going to miss the first entry,
+[09:23] I'd be looking for another entry here.
+[09:29] There we make more up close candles.
+[09:31] So I want to see this continue to support price lower.
+[09:35] And another thing I'll do is I'm only going to be looking for entries
+[09:39] within a premium of this dealing range here.
+[09:42] So above this line here.
+[09:48] You can see price is retesting that order block.
+[09:54] And there we go.
+[09:55] We break that initial low.
+[09:57] Let's go ahead and mark out our negative two to negative 2.5.
+[10:02] And now let's see if we can find something in the other direction.
+[10:10] So you can see we're building a range.
+[10:15] Now we do reach into the negative two to negative 2.5 and below these lows.
+[10:19] So if the price is retest,
+[10:21] and below these lows,
+[10:23] so if this is going to become manipulation,
+[10:25] I'd want to see a change in the state of delivery
+[10:28] or price close over the series of down close candles here.
+[10:35] And price does do that.
+[10:36] So the next thing I do is I look to project out this manipulation.
+[10:40] I look to our left.
+[10:41] What do we have resting in the negative two to negative 2.5?
+[10:45] We have an old high.
+[10:46] So that will be my first target.
+[10:48] So if I'm looking for the first entry,
+[10:50] I'm looking to enter on this change in state of delivery or the order block
+[10:55] with my stop on the manipulation,
+[10:58] targeting this high.
+[11:07] Now what I'm focusing on is a close over this down close candle.
+[11:11] So now that they closed over that, it is also a valid order block.
+[11:14] So I'm looking for that to support price.
+[11:18] And we go reach that high.
+[11:20] And let's see how far we go.
+[11:26] You can see we consolidate, but we do go end up
+[11:29] and hit that negative four standard deviations.
+[11:31] So after cleaning up the chart a little,
+[11:33] let's go through what I look for one more time.
+[11:36] So the first thing is manipulation.
+[11:37] So you can see we have manipulation over an old high
+[11:41] before change in state of delivery.
+[11:43] Once those two things occur,
+[11:45] I look to project out this manipulation leg to give myself a confluence
+[11:49] or targets.
+[11:50] After that occurs, I look for order blocks and fair value gaps
+[11:53] to support price lower or higher, in this case, lower.
+[11:56] And then the same thing on the other side over here,
+[11:59] we have manipulation.
+[12:00] Once that is confirmed by changing the state of delivery,
+[12:03] I can then look for an entry on the order block or fair value gap
+[12:07] as price reaches higher to these projection targets and liquidity levels.
+[12:11] Last thing we're going to talk about in this video is combining AMD
+[12:14] or the box setup with the change in state of delivery
+[12:18] or an order block formation.
+[12:20] Now I posted on my community tab this post.
+[12:23] And so we're going to go over this example.
+[12:25] So if you notice right here, we have some sort of range.
+[12:28] Let's wait for the manipulation before we identify that.
+[12:34] So here we get the manipulation as that we have an aggressive move out
+[12:37] and then back into a range.
+[12:39] So going ahead and marking out this consolidation or accumulation.
+[12:44] And we'll also mark out the highest body in that accumulation
+[12:48] as that is the box setup.
+[12:50] And we'll mark out the deviation from this range or the manipulation.
+[12:54] Generally, the box setup is a retest of these previous highs over here.
+[12:58] I stopped there and then looking for targets.
+[13:01] Well, how can we get targets that can project out this manipulation leg
+[13:05] and look for that?
+[13:06] So this would be the normal box setup.
+[13:08] However, if I want confirmation, let's see what we would do.
+[13:12] So when price comes back up into this area, instead of immediately taking an entry,
+[13:16] I'm looking for a formation of an order block or a change in the state of delivery
+[13:20] right here.
+[13:25] So you can see we have a high here that gets swept.
+[13:28] And then where is the series of up close candles that made the high right here?
+[13:33] And you can see price already closed below the opening price of that.
+[13:37] Validating it as an order block.
+[13:39] So then I can look for an entry here and then I can decide I can either put my
+[13:43] stop here or up here.
+[13:45] In this case, I'm comfortable putting my stop here as we had a sweep.
+[13:49] And then I can look to target that original projection.
+[13:54] So let's see how this works.
+[13:59] And there we go.
+[14:01] Here we are building a range.
+[14:05] As we cannot make new highs or lows.
+[14:07] So marking out the lowest bodies in that range.
+[14:09] Now go ahead and mark out our accumulation or manipulation.
+[14:15] Now you want to see this displaced back into the range, which it does.
+[14:18] Now, if I'm looking for a box setup, my original entry would be on a retest of
+[14:23] this line here.
+[14:24] So I'm going to go ahead and mark out the lowest bodies in that range.
+[14:28] So my original entry would be on a retest of this line here.
+[14:31] My stop on this low.
+[14:33] However, let's wait for an order block formation there.
+[14:38] So you can see we have a down close candle into that area, into the fair value gap.
+[14:43] So then I'm looking for a close over this candle.
+[14:48] Here we get a close over this candle.
+[14:51] So then I will be looking to enter along there.
+[14:53] And then I can either put my stop on this low or here.
+[14:56] I would have my stop on this low and then I can project out this manipulation for
+[15:01] a target and in this case, looking for a previous high here or this fair value gap
+[15:07] that lines up with the first standard deviation.
+[15:09] So we'll just go here.
+[15:16] And there you go.
+[15:17] So that is the example from the post.
+[15:19] And I hope that makes sense and that it gives you something to study.
+[15:22] I hope you found this video helpful.
+[15:24] If you did, please consider liking and subscribing.
+[15:27] And if you want to see a more in-depth video on that entry model, please let me know in
+[15:31] the comments below and I'll see you guys next week.
+[15:33] Have a good one.

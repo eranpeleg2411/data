@@ -1,0 +1,175 @@
+[00:00] How's it going everyone?
+[00:12] This video is going to be about how the change in the state of delivery confirms swing points.
+[00:16] So what is the change in the state of delivery?
+[00:18] The change in the state of delivery is the order block formation that forms when trend
+[00:22] changes.
+[00:23] So here you can see we have a bearish trend.
+[00:26] Right here we changed the trend or the trend shifts to bullish.
+[00:30] Right here we have a bullish trend and then it shifts to bearish.
+[00:34] What defines a change in the state of delivery is price reaching into an important level,
+[00:38] sweeping out a low or reaching into a fair value gap and then closing through the series
+[00:43] of candles that reach into that important level.
+[00:46] Now how do I use a change in the state of delivery?
+[00:48] Here you can see I'm going to be looking for a change in the state of delivery on the lower
+[00:53] time frame in combination with a swing point.
+[00:56] So when I have a candle to or a candle three closure on the higher time frame, I'm going
+[01:00] to look inside that higher time frame candle and make sure it has a change in the state
+[01:04] of delivery.
+[01:05] If it doesn't have a change in the state of delivery, I'm not going to be looking for
+[01:09] that as a valid shift in trend and looking for a continuation going to wait for that
+[01:13] change in the state of delivery to occur or I'm going to ignore the setup.
+[01:17] Let's take a look at what this looks like in my fractal model.
+[01:20] So here you can see we have a valid candle to closure.
+[01:23] So you can see we have a candle to closure as price sweeps out its previous candle and
+[01:27] closes back in.
+[01:28] Now what do I look for on the lower time frame?
+[01:30] I need to have that change in the state of delivery.
+[01:33] I find the high.
+[01:34] I find the series of candles that made that high.
+[01:36] Do we have a closure through that level?
+[01:38] We do.
+[01:39] So this means both of the requirements and it is valid to be looking for a continuation
+[01:43] lower.
+[01:44] Now let's take a look at an example of an invalid case.
+[01:47] Here you can see we have a candle to closure.
+[01:49] It sweeps out the previous closes back in.
+[01:52] Do we have a change in the state of delivery?
+[01:53] I find the high.
+[01:54] I find the series of candles that made that high.
+[01:56] Did we close below that level?
+[01:58] No.
+[01:59] But this is not a valid fractal model and I would not be looking for a continuation
+[02:03] yet.
+[02:04] Now let's take a look at another invalid case.
+[02:06] Here you can see we don't have a candle to closure.
+[02:10] So even though we have a change in the state of delivery, it does not mean anything to
+[02:14] me unless it is paired with a higher time frame candle closure.
+[02:18] Now let's take a look at a candle three closure scenario.
+[02:21] Here's an example of where both requirements are met.
+[02:24] We have a candle three closure because we don't have a candle to and then candle three
+[02:28] closes below the opening price and candle two.
+[02:31] So once I have that candle closure, I go and check.
+[02:34] I find the high.
+[02:35] The series of candles that made that high have we closed through it?
+[02:39] Yes.
+[02:40] Oh, this meets both the requirements and is valid to be looking for a continuation in
+[02:43] candle four.
+[02:44] Now let's take a look at an invalid scenario.
+[02:47] We have a candle three closure on the higher time frames.
+[02:50] But when we drop down to the lower time frame here, we fail to close below this level.
+[02:54] And now we are just forming a consolidation.
+[02:56] Now let's take a look at another scenario.
+[02:59] This is not a valid candle three closure because price never closes below the opening price
+[03:04] and candle two.
+[03:05] So I'd never be looking to the lower time frames.
+[03:07] So this change in the state of delivery means nothing to me.
+[03:10] So now that you understand why I look for a change in the state of delivery, let's go
+[03:14] into trading view and go over a few examples of this.
+[03:17] So here we are in the first example.
+[03:19] And do we have a candle to closure or a candle three closure?
+[03:23] Yes, we do.
+[03:24] As we have taken out this high and close back below it.
+[03:27] So that is the first requirement that is met.
+[03:29] And then I want to find the high.
+[03:31] Do I have this series of up close candles that made that high?
+[03:34] Is it closed below?
+[03:35] It does.
+[03:36] And here you can see as we play ahead, it does mark that out on the indicator because
+[03:41] it is a valid model.
+[03:42] We have the sweep.
+[03:43] We have the change in the state of delivery.
+[03:45] And I can be looking for a continuation in this next day as it is a valid continuation.
+[03:53] And there you can see we get a continuation lower.
+[03:57] So here we are in an example and you can see price has swept out its previous days low
+[04:02] and close back inside.
+[04:04] As you can see on this higher time frame, is it a valid factor model?
+[04:07] Yes, because it is paired with a lower time frame change in the state of delivery.
+[04:11] That means I could be looking long in this next day.
+[04:14] Now here you can see we have what a candle to closure.
+[04:19] Let's go see if this is a valid candle to closure by going to my time frame pairing.
+[04:23] But going down to the five minute time frame here, do we have a valid candle to closure?
+[04:29] Well, I want to find what I want to find the low and the series of candles that made it.
+[04:33] In this case, it's one and have we closed over it?
+[04:37] Yes, we have.
+[04:38] So as I move forward, my indicator will plot that out.
+[04:41] And we have a valid candle to closure looking for a continuation higher.
+[04:48] And we do get that continuation higher.
+[04:50] So you can see it's a fractal concept.
+[04:53] And so we can apply it to any time frame.
+[04:55] So let's go out to the monthly time frame.
+[04:57] So here on the monthly time frame, do we have a candle to closure?
+[05:00] We do.
+[05:01] Do we have a change in the state of delivery?
+[05:03] Well, we need to go down to the daily time frame to see if we have a change in the state
+[05:07] delivery.
+[05:09] So finding that sweep, we find the low, we find the series of candles that made it.
+[05:12] In this case, it's a singular one.
+[05:14] And the indicator has plotted that out because that's our change in the state of delivery.
+[05:18] Since we have two of those requirements met, then it will print out the rest of the logic,
+[05:24] right?
+[05:24] We have the T spot and the EQ and price reaches in respects that area.
+[05:28] And we do get a reaction higher.
+[05:31] Now let's go look at a few lower time frame examples.
+[05:34] Now let's take a look at this example here.
+[05:36] We have a candle to closure as price takes out its previous high and closes back below.
+[05:41] Now if I want to confirm this swing point, I'd be looking for a lower time frame change in
+[05:46] the state of delivery.
+[05:47] Now looking on the lower time frame, I find the high.
+[05:49] Do we have the series of candles that made that high?
+[05:52] Yes.
+[05:53] So do we close below it confirming the swing point?
+[05:56] We haven't yet.
+[05:57] So what happens?
+[05:58] We do not do that and we take out this high.
+[06:01] So by waiting for the closure through or having both parts of the fract model, the candle closure
+[06:08] and the swing point confirmation or the change in the state of delivery,
+[06:11] I save myself from taking losses that look like this.
+[06:14] Let's take a look at another example that looks like this.
+[06:17] Let's take a look at this example here.
+[06:19] You can see we run out all the highs to the left here and we have a nice v shape reversal.
+[06:24] This closes as a candle to closure bearish.
+[06:27] Now yes, I do note that we have a bullish closure as well.
+[06:31] But let's focus on why this is not a valid bearish setup.
+[06:35] So if we're looking for this to be valid, we want to confirm it with a lower time frame
+[06:39] change in the state of delivery, which would be this level here.
+[06:43] As you can see, price fails to go and close below this level.
+[06:47] When it fails to form, they change in the state of delivery.
+[06:50] That means it's not a valid bearish setup and you can see my indicator will not print a bearish setup.
+[06:55] Usually when we fail to form a change in the state of delivery,
+[06:58] we're going to consolidate for me consolidation and then take out one side of the range and trade
+[07:03] to the other. Let's see what happens. You can see we have this range.
+[07:09] We sweep out this side, then we go and trade to the other side.
+[07:14] Now we take out this side. Do we go trade to the other side?
+[07:18] Yes, because we're just in a consolidation. Now let's let this trade ahead.
+[07:24] You can see we do get a decent reaction out of this T spot area here.
+[07:28] But what do we notice? We form a continuation right here and then we go ahead and fail, right?
+[07:34] We take out that protected swing. That means this trend is not looking that great and it is just
+[07:39] consolidating. There we go ahead and sweep out the low. We are waiting for a proper closure, right?
+[07:48] And here you can see we have a candle to closure. Now is this confirmed?
+[07:52] Well, I'm going to go find the low and the series of candles that made it and how we close through
+[07:57] this level. Yes. But then I could be looking for price to continue higher in this next candle.
+[08:04] You can see we open we trade lower into a point of interest on a continuation order block
+[08:10] and then trade higher towards these highs on the left. Now what I want to review here is just
+[08:15] when looking for a higher timeframe closure, you just want to confirm that on the lower time frame.
+[08:21] Now not all lower timeframe structure is the same just because it does have a closure over
+[08:27] doesn't mean it's a good closure over. If it consolidates for half of the candle and then
+[08:31] closes over, it's usually just a consolidation. You want to see that nice V shape reversal or
+[08:36] V shape paired with the change in the state of delivery. So let's get into another example.
+[08:41] Let's go through one final example of blending change in the state of delivery with swing points.
+[08:47] So here you can see we have a candle to closure and we're sweeping out a range high. So we have a
+[08:52] consolidation or an accumulation, a sweep of a high and you see how we have that V shape reversal
+[08:58] and that V shape reversal forms the change in the state of delivery. That's ideally what I want to
+[09:03] see with a setup. So here we have the candle closure, we have the change in the state of
+[09:07] delivery and here we actually have SMT as well. Now if you use what I posted in the last video,
+[09:12] what do I want to be looking for here? I just want to be looking for a continuation order block.
+[09:17] So here we have a point of interest. Do we get a continuation order block?
+[09:21] Here we reach in, we have a candle closure, but do we form a continuation? No. So then we go ahead
+[09:27] and make a new high. Do we form a continuation here? Let's see. And there we do, we get a nice
+[09:35] displacement lower. So this is where I then want to see price trade lower as we formed a protected
+[09:40] swing inside this higher timeframe candle. You can see the low resistance liquidity here.
+[09:46] Let's see if this trades lower. We do get that move lower. And we get that continuation. So one
+[09:52] more thing to review when looking at a higher timeframe candle closure, I'm not just looking
+[09:57] at the closure. I'm also going to be looking at the lower timeframe and making sure it has that
+[10:02] structure or the lower timeframe change in the state of delivery, which confirms that swing
+[10:06] point. So with that, that will be the end of this video. I hope you found it helpful. If you do enjoy
+[10:12] it, please let me know in the comment section below and I'll see you guys next time. Have a good one.

@@ -1,0 +1,276 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "WFqLwOp2pXw",
+    "title": "How To Trade Consolidation - Phases Of Price",
+    "url": "https://www.youtube.com/watch?v=WFqLwOp2pXw",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/WFqLwOp2pXw.json"
+  },
+  "stats": {
+    "word_count": 3251,
+    "duration_seconds": 1096.16,
+    "segments": 327,
+    "concepts_detected": 7,
+    "candidate_strategies": 4
+  },
+  "concept_mentions": {
+    "Liquidity": 3,
+    "Fair Value Gap": 7,
+    "SMT Divergence": 3,
+    "Power of Three": 3,
+    "Premium and Discount": 6,
+    "TTrades Fractal Model": 3,
+    "Protected Swing": 5
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 209.16,
+          "end": 219.76,
+          "text": "Well, if you've seen my protected swings video, I can either look to get onside here, but a lot of times I prefer to wait for a continuation because what if we don't form a low here and we just trade lower?",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 12
+        },
+        {
+          "start": 702.0,
+          "end": 713.4,
+          "text": "I'm letting a low form trading the continuation, letting a low form. Trading the continuation. So just review consolidation, wait for the manipulation, trade the expansion,",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 8
+        },
+        {
+          "start": 842.12,
+          "end": 852.88,
+          "text": "We do. So this would be a valid fractal model where I could look long or I could look at what a continuation entry from this propulsion block or the continuation.",
+          "concepts": [
+            "TTrades Fractal Model"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 11
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 162.2,
+          "end": 174.12,
+          "text": "I can use that SMT to anticipate this high remains as we trade lower. Now there are two types of consolidations that I will look to participate in. And that will be a continuation or a reversal.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 13
+        }
+      ]
+    },
+    {
+      "name": "Power of Three / AMD",
+      "evidence": [
+        {
+          "start": 106.0,
+          "end": 121.12,
+          "text": "And this is your classic power of three or accumulation, manipulation and then distribution higher. Now in the bearish example, here you can see we remain internal to this high and to this low. Price then takes out the high.",
+          "concepts": [
+            "Power of Three"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 14
+        },
+        {
+          "start": 124.84,
+          "end": 138.6,
+          "text": "We have your accumulation, manipulation, distribution. Now the only time we don't need price to run out the high or the low is if we have SMT. And that means the correlated asset does run out the consolidation lows.",
+          "concepts": [
+            "SMT Divergence",
+            "Power of Three"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 16
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 439.08,
+          "end": 451.92,
+          "text": "And then I'd want to see this low be protected as we continue to trend higher. And we do so. So hopefully that makes sense in combining the protected swings with a consolidation.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 11
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 106.0,
+      "end": 121.12,
+      "text": "And this is your classic power of three or accumulation, manipulation and then distribution higher. Now in the bearish example, here you can see we remain internal to this high and to this low. Price then takes out the high.",
+      "concepts": [
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 14
+    },
+    {
+      "start": 124.84,
+      "end": 138.6,
+      "text": "We have your accumulation, manipulation, distribution. Now the only time we don't need price to run out the high or the low is if we have SMT. And that means the correlated asset does run out the consolidation lows.",
+      "concepts": [
+        "SMT Divergence",
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 16
+    },
+    {
+      "start": 141.32,
+      "end": 155.76,
+      "text": "So you can see here, let's say for example, this is NQ and ES did run out the low here. We have the SMT. I can treat this as a protected low once closed over because ES ran out the low, even though NQ didn't.",
+      "concepts": [
+        "SMT Divergence",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 162.2,
+      "end": 174.12,
+      "text": "I can use that SMT to anticipate this high remains as we trade lower. Now there are two types of consolidations that I will look to participate in. And that will be a continuation or a reversal.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 13
+    },
+    {
+      "start": 209.16,
+      "end": 219.76,
+      "text": "Well, if you've seen my protected swings video, I can either look to get onside here, but a lot of times I prefer to wait for a continuation because what if we don't form a low here and we just trade lower?",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 366.56,
+      "end": 380.12,
+      "text": "So I could go down to a lower timeframe or the one minute, or I can wait for a protected swing to form on this timeframe, which would be a closure through the series of down close candles into that important level, which is that low there.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 395.64,
+      "end": 406.16,
+      "text": "Now is this going to be a protected low? Well, we want to see if we get a closure through this. Now a quick lesson, we do not have a fair value gap or a low to be swept out in here.",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 439.08,
+      "end": 451.92,
+      "text": "And then I'd want to see this low be protected as we continue to trend higher. And we do so. So hopefully that makes sense in combining the protected swings with a consolidation.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 11
+    },
+    {
+      "start": 518.44,
+      "end": 533.76,
+      "text": "We are respecting the EQ of this change in the state of delivery and we're expanding higher, not respecting this EQ. Now if this EQ is going to fail, that means the swing point is going to fail, which can make it our draw on liquidity.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 702.0,
+      "end": 713.4,
+      "text": "I'm letting a low form trading the continuation, letting a low form. Trading the continuation. So just review consolidation, wait for the manipulation, trade the expansion,",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 8
+    },
+    {
+      "start": 842.12,
+      "end": 852.88,
+      "text": "We do. So this would be a valid fractal model where I could look long or I could look at what a continuation entry from this propulsion block or the continuation.",
+      "concepts": [
+        "TTrades Fractal Model"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 11
+    },
+    {
+      "start": 859.12,
+      "end": 869.6,
+      "text": "Now, if you notice, we have a very bullish day. We're disrespecting the equilibrium, which means this swing is likely to fail. So that would be our drawn liquidity.",
+      "concepts": [
+        "Liquidity",
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 10
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:36.792785+00:00"
+}

@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "U8xH2dEgH5A",
+    "title": "Liquidity: Buyside & Sellside - ICT Concepts",
+    "url": "https://www.youtube.com/watch?v=U8xH2dEgH5A",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/U8xH2dEgH5A.json"
+  },
+  "stats": {
+    "word_count": 1529,
+    "duration_seconds": 584.56,
+    "segments": 141,
+    "concepts_detected": 3,
+    "candidate_strategies": 1
+  },
+  "concept_mentions": {
+    "Liquidity": 25,
+    "Fair Value Gap": 2,
+    "Buyside and Sellside Liquidity": 16
+  },
+  "spoken_time_references": [
+    "Asia session",
+    "London session",
+    "New York open"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 329.08,
+          "end": 341.88,
+          "text": "and why I mark these out is it's a pretty easy draw on liquidity or a way to frame a reversal. So looking at this, we take this previous week's high back into this fair value gap",
+          "concepts": [
+            "Liquidity",
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 15
+        },
+        {
+          "start": 349.24,
+          "end": 359.4,
+          "text": "The next liquidity level I always have marked out on my chart, previous day high and previous day low. I can either frame a reversal or use it as a draw.",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 10
+        },
+        {
+          "start": 536.6,
+          "end": 556.32,
+          "text": "And so as we start to expand up, we get a move to the previous day high. So taking out that liquidity level, displacement over it, and then we continue higher. So hopefully that shows you how to use liquidity and what important liquidity levels you can",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 13
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 11.76,
+      "end": 25.92,
+      "text": "This video is going to cover liquidity, buy side and sell side liquidity, and we will mainly be focused on old highs and old lows as well as equal highs and equal lows. Before we get into anything, the first thing we need to understand is swing points in the",
+      "concepts": [
+        "Liquidity",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 73.52,
+      "end": 85.88,
+      "text": "With that understanding we know that there are sell stops resting under here and buy stops resting above here. With the sell stops resting below here we call this sell side liquidity and with the",
+      "concepts": [
+        "Liquidity",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 90.04,
+      "end": 103.16,
+      "text": "Smart money will look to pair orders below these lows and above these highs. So let's get into the charts and look at some examples. We are now going to practice identifying these swing points or buy side and sell side liquidity.",
+      "concepts": [
+        "Liquidity",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [],
+      "score": 15
+    },
+    {
+      "start": 131.32,
+      "end": 148.4,
+      "text": "We put in another swing point because we have a high with a lower high on each side. So this would be considered buy side liquidity. Moving this forward and seeing price takes out this high.",
+      "concepts": [
+        "Liquidity",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 242.6,
+      "end": 270.6,
+      "text": "have buy side liquidity resting here. Now we put in a swing low and this is reaching for that buy side up there. And now that is taken, if we put in a swing low, now this becomes our buy side liquidity",
+      "concepts": [
+        "Liquidity",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [],
+      "score": 12
+    },
+    {
+      "start": 262.68,
+      "end": 278.32,
+      "text": "And now that is taken, if we put in a swing low, now this becomes our buy side liquidity and you can see how this continues. The next thing we are going to look at are two types of liquidity and those are old highs",
+      "concepts": [
+        "Liquidity",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [],
+      "score": 12
+    },
+    {
+      "start": 329.08,
+      "end": 341.88,
+      "text": "and why I mark these out is it's a pretty easy draw on liquidity or a way to frame a reversal. So looking at this, we take this previous week's high back into this fair value gap",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 15
+    },
+    {
+      "start": 349.24,
+      "end": 359.4,
+      "text": "The next liquidity level I always have marked out on my chart, previous day high and previous day low. I can either frame a reversal or use it as a draw.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 10
+    },
+    {
+      "start": 366.76,
+      "end": 377.36,
+      "text": "The last levels of liquidity I always have marked out on my chart are session highs and lows. So in this case shown, I have a session high and low, one session high and low, and these",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 12
+    },
+    {
+      "start": 450.4,
+      "end": 465.24,
+      "text": "Here is another five minute pair value gap. And there we reach our London session low. So you can see how just using these liquidity levels, Asia high and low, London session high",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 510.72,
+      "end": 521.44,
+      "text": "Now where would I want to be targeting here? Well either these liquidity levels here or London session high. London session high gets tagged.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 536.6,
+      "end": 556.32,
+      "text": "And so as we start to expand up, we get a move to the previous day high. So taking out that liquidity level, displacement over it, and then we continue higher. So hopefully that shows you how to use liquidity and what important liquidity levels you can",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 13
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:34.922997+00:00"
+}

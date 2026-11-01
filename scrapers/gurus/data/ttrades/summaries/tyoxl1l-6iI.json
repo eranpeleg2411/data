@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "tyoxl1l-6iI",
+    "title": "Candle 2 Closure: The Foundation of TTrades Fractal Model",
+    "url": "https://www.youtube.com/watch?v=tyoxl1l-6iI",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/tyoxl1l-6iI.json"
+  },
+  "stats": {
+    "word_count": 2852,
+    "duration_seconds": 775.8,
+    "segments": 247,
+    "concepts_detected": 9,
+    "candidate_strategies": 2
+  },
+  "concept_mentions": {
+    "Liquidity": 1,
+    "Fair Value Gap": 2,
+    "SMT Divergence": 1,
+    "Premium and Discount": 1,
+    "TTrades Fractal Model": 3,
+    "Candle 2 Closure": 3,
+    "Candle 3 Setup": 18,
+    "Candle 4 Setup": 6,
+    "Protected Swing": 1
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 529.12,
+          "end": 536.4,
+          "text": "So what does that tell us? If we are going to continue and leave this high, we should anticipate a continuation here to trade lower.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 7
+        }
+      ]
+    },
+    {
+      "name": "Fractal Candle 2 Closure Entry",
+      "evidence": [
+        {
+          "start": 12.0,
+          "end": 23.28,
+          "text": "In this video we are going to cover what is a candle 2 closure. Now within my fractal model I have two candle closure types, a candle 2 and a candle 3 closure. So let's get into this video that covers candle 2 closures.",
+          "concepts": [
+            "TTrades Fractal Model",
+            "Candle 2 Closure",
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Fractal Candle 2 Closure Entry"
+          ],
+          "score": 19
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 12.0,
+      "end": 23.28,
+      "text": "In this video we are going to cover what is a candle 2 closure. Now within my fractal model I have two candle closure types, a candle 2 and a candle 3 closure. So let's get into this video that covers candle 2 closures.",
+      "concepts": [
+        "TTrades Fractal Model",
+        "Candle 2 Closure",
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Fractal Candle 2 Closure Entry"
+      ],
+      "score": 19
+    },
+    {
+      "start": 50.12,
+      "end": 62.36,
+      "text": "We close back inside the previous candle's range or above this candle's low, and that is a reversal closure and I can anticipate price to go in the other direction. Now a candle 2 closure is focused on when we have a reversal closure or we sweep out",
+      "concepts": [
+        "Candle 2 Closure"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 66.6,
+      "end": 80.84,
+      "text": "So taking a look at this diagram here, you can see we have a reversal closure or a candle 2 closure where in the bullish scenario here, price sweeps out the previous candle's low and then closes back above that candle's low signifying that price has reversed in candle",
+      "concepts": [
+        "Candle 2 Closure"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 99.4,
+      "end": 111.92,
+      "text": "to work, you want to define this with bias and a higher timeframe point of interest, which I use fair value gaps in highs and lows. So once we have this closure, we can then anticipate candle 3 to have a continuation and you may",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 149.8,
+      "end": 162.28,
+      "text": "So just to review, we have a candle to closure closing back above the low of candle 1, allowing candle 3 to expand candle 3 closes strong or over candle 2's high, which allows candle 4 to expand as well.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Candle 4 Setup"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 176.36,
+      "end": 188.64,
+      "text": "level or a point of interest being a high, low, or a fair value gap. Now let's say we want to blend this with my equilibrium video, that's where we can go ahead and mark out these areas we expect the wick to form in the higher timeframe candles.",
+      "concepts": [
+        "Fair Value Gap",
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 192.24,
+      "end": 201.52,
+      "text": "upper half of that wick to see if candle 3 forms its wick in respect to that. If it doesn't respect the point 5, then it's likely to fail and a swing point is unlikely to form.",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 253.72,
+      "end": 265.68,
+      "text": "So here you can see price sweeps out its previous candles high and then closes back below it. Having a candle to closure, looking for a candle 3 continuation lower. Now looking at this swing point here, we have price sweeping out the previous candles low,",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 12
+    },
+    {
+      "start": 375.56,
+      "end": 386.2,
+      "text": "We do form a protected swing. So I am not looking for price to return to this level if it's going to trade higher. That's when I can actually use the opposing candles as a point of interest and why this",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 613.92,
+      "end": 624.32,
+      "text": "We have a valid monthly and daily fractal model that says we want to trade to these lows. So getting into this candle three or for this continuation, we can use this on the daily",
+      "concepts": [
+        "TTrades Fractal Model",
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 642.6,
+      "end": 651.8,
+      "text": "We have a daily swing point or a daily candle to closure forming with SMT. Do we have a change in the state of delivery? We do because we find the high the series of candles that made it.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 665.8,
+      "end": 676.32,
+      "text": "We have a candle to closure and this gets a continuation lower. And what are we saying about candle three? If candle three closes below candle to is low, we can look for candle four to continue lower",
+      "concepts": [
+        "Candle 3 Setup",
+        "Candle 4 Setup"
+      ],
+      "strategies": [],
+      "score": 8
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.384062+00:00"
+}

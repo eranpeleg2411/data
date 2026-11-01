@@ -1,0 +1,305 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "-ocfPuD_oqE",
+    "title": "How To Use SMT Divergence - TTrades Fractal Model",
+    "url": "https://www.youtube.com/watch?v=-ocfPuD_oqE",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/-ocfPuD_oqE.json"
+  },
+  "stats": {
+    "word_count": 2508,
+    "duration_seconds": 802.02,
+    "segments": 222,
+    "concepts_detected": 6,
+    "candidate_strategies": 3
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 1,
+    "SMT Divergence": 79,
+    "TTrades Fractal Model": 4,
+    "Candle 3 Setup": 11,
+    "Candle 4 Setup": 2,
+    "Protected Swing": 2
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 158.12,
+          "end": 176.52,
+          "text": "So that is an SMT between candle two and candle three or a continuation that can give us a confluence to trade this continuation lower interest that this candle to can hold. Now we can also get a double SMT or an SMT between candle one and two and between two",
+          "concepts": [
+            "SMT Divergence",
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 18
+        },
+        {
+          "start": 364.3,
+          "end": 376.06,
+          "text": "Now one quick example here, I did say that I do prefer to trade the continuation in candle three and candle four, but I know many of you like to trade the reversal in candle two. So how do we use SMT with that?",
+          "concepts": [
+            "SMT Divergence",
+            "Candle 3 Setup",
+            "Candle 4 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 22
+        },
+        {
+          "start": 589.5,
+          "end": 603.34,
+          "text": "So there is an SMT between this current day's high and the previous day high with dollar. So this is a continuation SMT showing that if we have the intraday confirmation, there's more confluence to see this to trade lower.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 12
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 364.3,
+          "end": 376.06,
+          "text": "Now one quick example here, I did say that I do prefer to trade the continuation in candle three and candle four, but I know many of you like to trade the reversal in candle two. So how do we use SMT with that?",
+          "concepts": [
+            "SMT Divergence",
+            "Candle 3 Setup",
+            "Candle 4 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 22
+        },
+        {
+          "start": 609.58,
+          "end": 625.26,
+          "text": "So the difference between a reversal SMT and a continuation SMT is a reversal SMT would form at the reversal or candle one and candle two. A continuation SMT is an SMT between candle two and candle three or on the lower time",
+          "concepts": [
+            "SMT Divergence",
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 21
+        },
+        {
+          "start": 709.18,
+          "end": 722.18,
+          "text": "That is when we have a reversal between candle to and candle one or that reversal SMT in a reversal between candle to and candle three or that continuation SMT. And you can see this price action here is quite messy.",
+          "concepts": [
+            "SMT Divergence",
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 18
+        }
+      ]
+    },
+    {
+      "name": "Premium Discount Expansion",
+      "evidence": [
+        {
+          "start": 412.18,
+          "end": 420.98,
+          "text": "Get that expansion to the EQ, it fails the EQ and then takes out that previous lows or those targets down there. So hopefully that makes sense.",
+          "concepts": [],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 7
+        },
+        {
+          "start": 542.82,
+          "end": 554.66,
+          "text": "then expanded higher invalidating that EQ, thus invalidating the possibility for me to look for a bearish expansion. So just because you see SMT doesn't mean everything's going to work.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 10
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 36.04,
+      "end": 47.92,
+      "text": "So what is SMT? SMT is a divergence between correlated markets. So for instance, if I have the S&P 500 here or ES and NASDAQ here, those are correlated",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 13
+    },
+    {
+      "start": 56.92,
+      "end": 70.28,
+      "text": "high while the NASDAQ makes a lower low, that would be a divergence between correlated markets, also known as an SMT. And that is what we can use to give confluence to a reversal.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 14
+    },
+    {
+      "start": 119.72,
+      "end": 129.92,
+      "text": "Now we can also have an SMT between candle two and candle three, which is a continuation SMT. So this is a reversal SMT forming the reversal.",
+      "concepts": [
+        "SMT Divergence",
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 17
+    },
+    {
+      "start": 158.12,
+      "end": 176.52,
+      "text": "So that is an SMT between candle two and candle three or a continuation that can give us a confluence to trade this continuation lower interest that this candle to can hold. Now we can also get a double SMT or an SMT between candle one and two and between two",
+      "concepts": [
+        "SMT Divergence",
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 18
+    },
+    {
+      "start": 176.52,
+      "end": 186.64,
+      "text": "and three. So we have this reversal SMT, but we also have this continuation SMT. Now once again, it's important that you don't just randomly look for SMTs.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 13
+    },
+    {
+      "start": 204.0,
+      "end": 216.96,
+      "text": "And then we have a reversal SMT or an SMT with YM. This is on NQ from candle two to candle one. That gives us an extra confirmation that this can reverse here and we can get an expansion",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 14
+    },
+    {
+      "start": 339.22,
+      "end": 351.46,
+      "text": "And you can see how it shows that SMT there. So taking a look at YM, what is YM here? This is actually a case where YM is a continuation SMT or an SMT between candle three and candle",
+      "concepts": [
+        "SMT Divergence",
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 364.3,
+      "end": 376.06,
+      "text": "Now one quick example here, I did say that I do prefer to trade the continuation in candle three and candle four, but I know many of you like to trade the reversal in candle two. So how do we use SMT with that?",
+      "concepts": [
+        "SMT Divergence",
+        "Candle 3 Setup",
+        "Candle 4 Setup"
+      ],
+      "strategies": [
+        "Trend Continuation",
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 22
+    },
+    {
+      "start": 609.58,
+      "end": 625.26,
+      "text": "So the difference between a reversal SMT and a continuation SMT is a reversal SMT would form at the reversal or candle one and candle two. A continuation SMT is an SMT between candle two and candle three or on the lower time",
+      "concepts": [
+        "SMT Divergence",
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 21
+    },
+    {
+      "start": 669.78,
+      "end": 682.34,
+      "text": "And that is an intraday reversal. And we're using this continuation SMT as a confluence for this move or seeing that YM hasn't taken out its previous day high while yes and NQ have.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 15
+    },
+    {
+      "start": 709.18,
+      "end": 722.18,
+      "text": "That is when we have a reversal between candle to and candle one or that reversal SMT in a reversal between candle to and candle three or that continuation SMT. And you can see this price action here is quite messy.",
+      "concepts": [
+        "SMT Divergence",
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 18
+    },
+    {
+      "start": 774.54,
+      "end": 790.9,
+      "text": "Now I hope this video was helpful and you understand what a reversal versus a continuation SMT looks like within my fractal model and what a double SMT looks like. Once again, I want you to remember, you don't just look for an SMT and then randomly apply",
+      "concepts": [
+        "SMT Divergence",
+        "TTrades Fractal Model"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 16
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.253170+00:00"
+}

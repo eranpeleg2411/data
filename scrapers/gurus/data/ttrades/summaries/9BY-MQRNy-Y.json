@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "9BY-MQRNy-Y",
+    "title": "TTrades Swing Trading Model - Simple Strategy",
+    "url": "https://www.youtube.com/watch?v=9BY-MQRNy-Y",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/9BY-MQRNy-Y.json"
+  },
+  "stats": {
+    "word_count": 3759,
+    "duration_seconds": 1069.84,
+    "segments": 350,
+    "concepts_detected": 6,
+    "candidate_strategies": 3
+  },
+  "concept_mentions": {
+    "Liquidity": 3,
+    "Fair Value Gap": 3,
+    "SMT Divergence": 2,
+    "TTrades Fractal Model": 6,
+    "Candle 3 Setup": 4,
+    "Protected Swing": 7
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 216.28,
+          "end": 228.08,
+          "text": "So down here on the hourly chart, you can see we have now formed a continuation, right? As we have closed through the series of candles here. Now this continuation is not something I would personally look to trade because my",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        },
+        {
+          "start": 613.76,
+          "end": 627.0,
+          "text": "And there we get a closure blow, the series of up close candles. So that is a continuation. I can look to take an entry there and see if that works out as we start to trade lower,",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        },
+        {
+          "start": 1002.08,
+          "end": 1007.08,
+          "text": "That's fine. We can let it trade away once we get a continuation. I wouldn't want to take an entry before it does that.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 8
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 417.6,
+          "end": 421.88,
+          "text": "swings. And what do we notice here? We have a nice reversal with an SMT.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 11
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 445.28,
+          "end": 457.04,
+          "text": "Well, really I could look to just take an entry positionally if I wanted to and put my stop on that protected swing and then look for the higher timeframe objective, right? Which is that high right there, which gives us plenty over our two R.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 13
+        },
+        {
+          "start": 471.92,
+          "end": 480.24,
+          "text": "A nice V shape reversal, nice V shape reversal. And this would have been another possible entry here. That's creating a new protected swing.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 13
+        },
+        {
+          "start": 980.88,
+          "end": 991.08,
+          "text": "We get a sweep and then we get a closure through, right? So that is creating an opposing candle or a protected swing. And I could look to take an entry there with my stop there.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 12
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 12.96,
+      "end": 28.64,
+      "text": "This is a highly requested video swing trading using my fractal model. Now we will talk about using this on the weekly, the daily and the hourly for entries, but it's also viable to use this for a monthly, weekly and then four hour for entries.",
+      "concepts": [
+        "TTrades Fractal Model"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 45.6,
+      "end": 56.84,
+      "text": "closures. So here you can see we have internal to external liquidity with a candle to closure. It's reasonable to anticipate expansion on this candle three of the weekly timeframe.",
+      "concepts": [
+        "Liquidity",
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 101.28,
+      "end": 111.64,
+      "text": "That means it's valid to look for the fractal model higher in Wednesday. So what will I be looking for? I'll be looking for the wick of candle three or Wednesday to form and then look to get",
+      "concepts": [
+        "TTrades Fractal Model",
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 216.28,
+      "end": 228.08,
+      "text": "So down here on the hourly chart, you can see we have now formed a continuation, right? As we have closed through the series of candles here. Now this continuation is not something I would personally look to trade because my",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    },
+    {
+      "start": 379.12,
+      "end": 391.48,
+      "text": "bias, which still allows me to look for swing entries. Now why wouldn't I want to see price trade all the way down into this fair value gap? Well, if during an expansion price retraces all the way down to here, this is when price",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 417.6,
+      "end": 421.88,
+      "text": "swings. And what do we notice here? We have a nice reversal with an SMT.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 11
+    },
+    {
+      "start": 445.28,
+      "end": 457.04,
+      "text": "Well, really I could look to just take an entry positionally if I wanted to and put my stop on that protected swing and then look for the higher timeframe objective, right? Which is that high right there, which gives us plenty over our two R.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 471.92,
+      "end": 480.24,
+      "text": "A nice V shape reversal, nice V shape reversal. And this would have been another possible entry here. That's creating a new protected swing.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 613.76,
+      "end": 627.0,
+      "text": "And there we get a closure blow, the series of up close candles. So that is a continuation. I can look to take an entry there and see if that works out as we start to trade lower,",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    },
+    {
+      "start": 744.88,
+      "end": 753.24,
+      "text": "And then looking to trade those daily swing points, you can trade the reversal candles themselves. I just prefer to trade that candle three as I find it easier.",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 980.88,
+      "end": 991.08,
+      "text": "We get a sweep and then we get a closure through, right? So that is creating an opposing candle or a protected swing. And I could look to take an entry there with my stop there.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 1002.08,
+      "end": 1007.08,
+      "text": "That's fine. We can let it trade away once we get a continuation. I wouldn't want to take an entry before it does that.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 8
+    }
+  ],
+  "generated_at": "2026-09-01T19:50:22.051250+00:00"
+}

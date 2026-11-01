@@ -1,0 +1,3960 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:11.000 --> 00:00:12.750 align:start position:0%
+ 
+How's<00:00:11.120><c> it</c><00:00:11.200><c> going</c><00:00:11.400><c> everyone</c><00:00:11.880><c> and</c><00:00:12.160><c> welcome</c><00:00:12.480><c> back</c>
+
+00:00:12.750 --> 00:00:12.760 align:start position:0%
+How's it going everyone and welcome back
+ 
+
+00:00:12.760 --> 00:00:14.870 align:start position:0%
+How's it going everyone and welcome back
+to<00:00:12.880><c> another</c><00:00:13.200><c> video.</c><00:00:14.000><c> In</c><00:00:14.080><c> this</c><00:00:14.240><c> video</c><00:00:14.560><c> we</c><00:00:14.760><c> are</c>
+
+00:00:14.870 --> 00:00:14.880 align:start position:0%
+to another video. In this video we are
+ 
+
+00:00:14.880 --> 00:00:16.590 align:start position:0%
+to another video. In this video we are
+going<00:00:15.120><c> to</c><00:00:15.280><c> talk</c><00:00:15.560><c> about</c><00:00:15.880><c> letting</c><00:00:16.200><c> the</c><00:00:16.360><c> wick</c>
+
+00:00:16.590 --> 00:00:16.600 align:start position:0%
+going to talk about letting the wick
+ 
+
+00:00:16.600 --> 00:00:19.270 align:start position:0%
+going to talk about letting the wick
+form<00:00:17.280><c> and</c><00:00:17.400><c> then</c><00:00:17.520><c> trading</c><00:00:18.040><c> the</c><00:00:18.240><c> body.</c><00:00:19.040><c> And</c><00:00:19.160><c> this</c>
+
+00:00:19.270 --> 00:00:19.280 align:start position:0%
+form and then trading the body. And this
+ 
+
+00:00:19.280 --> 00:00:21.510 align:start position:0%
+form and then trading the body. And this
+is<00:00:19.400><c> the</c><00:00:19.560><c> logic</c><00:00:19.960><c> I</c><00:00:20.040><c> use</c><00:00:20.360><c> on</c><00:00:20.600><c> every</c><00:00:20.880><c> time</c><00:00:21.200><c> frame</c>
+
+00:00:21.510 --> 00:00:21.520 align:start position:0%
+is the logic I use on every time frame
+ 
+
+00:00:21.520 --> 00:00:23.950 align:start position:0%
+is the logic I use on every time frame
+to<00:00:21.720><c> align</c><00:00:22.080><c> for</c><00:00:22.240><c> expansion</c><00:00:23.000><c> as</c><00:00:23.200><c> well</c><00:00:23.400><c> as</c><00:00:23.600><c> get</c><00:00:23.760><c> my</c>
+
+00:00:23.950 --> 00:00:23.960 align:start position:0%
+to align for expansion as well as get my
+ 
+
+00:00:23.960 --> 00:00:26.830 align:start position:0%
+to align for expansion as well as get my
+entries.<00:00:24.920><c> It</c><00:00:25.040><c> is</c><00:00:25.160><c> also</c><00:00:25.440><c> the</c><00:00:25.640><c> logic</c><00:00:26.040><c> behind</c><00:00:26.640><c> my</c>
+
+00:00:26.830 --> 00:00:26.840 align:start position:0%
+entries. It is also the logic behind my
+ 
+
+00:00:26.840 --> 00:00:28.310 align:start position:0%
+entries. It is also the logic behind my
+intra<00:00:27.120><c> candle</c><00:00:27.520><c> change</c><00:00:27.840><c> in</c><00:00:27.920><c> the</c><00:00:28.000><c> state</c><00:00:28.240><c> of</c>
+
+00:00:28.310 --> 00:00:28.320 align:start position:0%
+intra candle change in the state of
+ 
+
+00:00:28.320 --> 00:00:30.390 align:start position:0%
+intra candle change in the state of
+delivery<00:00:28.760><c> concept.</c><00:00:29.800><c> Let's</c><00:00:30.000><c> get</c><00:00:30.120><c> into</c><00:00:30.280><c> the</c>
+
+00:00:30.390 --> 00:00:30.400 align:start position:0%
+delivery concept. Let's get into the
+ 
+
+00:00:30.400 --> 00:00:31.510 align:start position:0%
+delivery concept. Let's get into the
+PDF.
+
+00:00:31.510 --> 00:00:31.520 align:start position:0%
+PDF.
+ 
+
+00:00:31.520 --> 00:00:32.350 align:start position:0%
+PDF.
+Now<00:00:31.640><c> the</c><00:00:31.720><c> first</c><00:00:31.960><c> thing</c><00:00:32.080><c> you</c><00:00:32.160><c> have</c><00:00:32.240><c> to</c>
+
+00:00:32.350 --> 00:00:32.360 align:start position:0%
+Now the first thing you have to
+ 
+
+00:00:32.360 --> 00:00:34.390 align:start position:0%
+Now the first thing you have to
+understand<00:00:32.960><c> is</c><00:00:33.160><c> what</c><00:00:33.400><c> is</c><00:00:33.640><c> a</c><00:00:33.720><c> change</c><00:00:34.200><c> in</c><00:00:34.280><c> the</c>
+
+00:00:34.390 --> 00:00:34.400 align:start position:0%
+understand is what is a change in the
+ 
+
+00:00:34.400 --> 00:00:37.230 align:start position:0%
+understand is what is a change in the
+state<00:00:34.600><c> of</c><00:00:34.680><c> delivery</c><00:00:35.320><c> or</c><00:00:35.520><c> a</c><00:00:35.640><c> protected</c><00:00:36.400><c> swing.</c>
+
+00:00:37.230 --> 00:00:37.240 align:start position:0%
+state of delivery or a protected swing.
+ 
+
+00:00:37.240 --> 00:00:39.390 align:start position:0%
+state of delivery or a protected swing.
+A<00:00:37.320><c> protected</c><00:00:37.800><c> swing</c><00:00:38.480><c> is</c><00:00:38.640><c> when</c><00:00:38.760><c> price</c><00:00:39.040><c> reaches</c>
+
+00:00:39.390 --> 00:00:39.400 align:start position:0%
+A protected swing is when price reaches
+ 
+
+00:00:39.400 --> 00:00:40.910 align:start position:0%
+A protected swing is when price reaches
+an<00:00:39.520><c> important</c><00:00:39.960><c> level,</c><00:00:40.400><c> which</c><00:00:40.560><c> would</c><00:00:40.640><c> be</c><00:00:40.800><c> a</c>
+
+00:00:40.910 --> 00:00:40.920 align:start position:0%
+an important level, which would be a
+ 
+
+00:00:40.920 --> 00:00:43.350 align:start position:0%
+an important level, which would be a
+high,<00:00:41.480><c> low,</c><00:00:41.840><c> or</c><00:00:42.040><c> a</c><00:00:42.120><c> fair</c><00:00:42.320><c> value</c><00:00:42.560><c> gap,</c><00:00:43.160><c> and</c><00:00:43.240><c> then</c>
+
+00:00:43.350 --> 00:00:43.360 align:start position:0%
+high, low, or a fair value gap, and then
+ 
+
+00:00:43.360 --> 00:00:45.310 align:start position:0%
+high, low, or a fair value gap, and then
+closes<00:00:43.800><c> through</c><00:00:44.200><c> the</c><00:00:44.320><c> series</c><00:00:44.720><c> of</c><00:00:44.800><c> candles</c>
+
+00:00:45.310 --> 00:00:45.320 align:start position:0%
+closes through the series of candles
+ 
+
+00:00:45.320 --> 00:00:47.590 align:start position:0%
+closes through the series of candles
+into<00:00:45.560><c> that</c><00:00:45.760><c> important</c><00:00:46.160><c> level.</c><00:00:46.880><c> So</c><00:00:47.000><c> here</c><00:00:47.280><c> in</c><00:00:47.480><c> a</c>
+
+00:00:47.590 --> 00:00:47.600 align:start position:0%
+into that important level. So here in a
+ 
+
+00:00:47.600 --> 00:00:49.510 align:start position:0%
+into that important level. So here in a
+bullish<00:00:48.040><c> change</c><00:00:48.280><c> in</c><00:00:48.360><c> the</c><00:00:48.440><c> state</c><00:00:48.640><c> of</c><00:00:48.680><c> delivery,</c>
+
+00:00:49.510 --> 00:00:49.520 align:start position:0%
+bullish change in the state of delivery,
+ 
+
+00:00:49.520 --> 00:00:51.110 align:start position:0%
+bullish change in the state of delivery,
+price<00:00:49.720><c> reaches</c><00:00:50.080><c> into</c><00:00:50.360><c> an</c><00:00:50.440><c> important</c><00:00:50.760><c> level,</c>
+
+00:00:51.110 --> 00:00:51.120 align:start position:0%
+price reaches into an important level,
+ 
+
+00:00:51.120 --> 00:00:53.070 align:start position:0%
+price reaches into an important level,
+which<00:00:51.280><c> is</c><00:00:51.400><c> sweeping</c><00:00:51.720><c> out</c><00:00:51.840><c> this</c><00:00:51.960><c> previous</c><00:00:52.400><c> low,</c>
+
+00:00:53.070 --> 00:00:53.080 align:start position:0%
+which is sweeping out this previous low,
+ 
+
+00:00:53.080 --> 00:00:54.950 align:start position:0%
+which is sweeping out this previous low,
+and<00:00:53.200><c> then</c><00:00:53.320><c> closes</c><00:00:53.960><c> through</c><00:00:54.480><c> the</c><00:00:54.560><c> series</c><00:00:54.880><c> of</c>
+
+00:00:54.950 --> 00:00:54.960 align:start position:0%
+and then closes through the series of
+ 
+
+00:00:54.960 --> 00:00:57.230 align:start position:0%
+and then closes through the series of
+down<00:00:55.160><c> close</c><00:00:55.400><c> candles</c><00:00:55.760><c> that</c><00:00:55.960><c> formed</c><00:00:56.280><c> that</c><00:00:56.520><c> low.</c>
+
+00:00:57.230 --> 00:00:57.240 align:start position:0%
+down close candles that formed that low.
+ 
+
+00:00:57.240 --> 00:01:00.030 align:start position:0%
+down close candles that formed that low.
+So<00:00:57.360><c> that</c><00:00:57.560><c> is</c><00:00:57.720><c> a</c><00:00:57.800><c> shift</c><00:00:58.240><c> in</c><00:00:58.400><c> trend</c><00:00:58.800><c> from</c><00:00:59.160><c> bearish</c>
+
+00:01:00.030 --> 00:01:00.040 align:start position:0%
+So that is a shift in trend from bearish
+ 
+
+00:01:00.040 --> 00:01:02.990 align:start position:0%
+So that is a shift in trend from bearish
+to<00:01:00.320><c> bullish.</c><00:01:01.400><c> And</c><00:01:01.600><c> likewise</c><00:01:02.320><c> in</c><00:01:02.480><c> this</c><00:01:02.720><c> bearish</c>
+
+00:01:02.990 --> 00:01:03.000 align:start position:0%
+to bullish. And likewise in this bearish
+ 
+
+00:01:03.000 --> 00:01:05.990 align:start position:0%
+to bullish. And likewise in this bearish
+example,<00:01:03.960><c> we</c><00:01:04.120><c> have</c><00:01:04.440><c> a</c><00:01:04.559><c> bullish</c><00:01:04.960><c> trend</c><00:01:05.280><c> here.</c>
+
+00:01:05.990 --> 00:01:06.000 align:start position:0%
+example, we have a bullish trend here.
+ 
+
+00:01:06.000 --> 00:01:08.230 align:start position:0%
+example, we have a bullish trend here.
+Price<00:01:06.280><c> reaches</c><00:01:06.640><c> into</c><00:01:06.920><c> this</c><00:01:07.080><c> previous</c><00:01:07.560><c> high,</c>
+
+00:01:08.230 --> 00:01:08.240 align:start position:0%
+Price reaches into this previous high,
+ 
+
+00:01:08.240 --> 00:01:09.870 align:start position:0%
+Price reaches into this previous high,
+and<00:01:08.320><c> then</c><00:01:08.440><c> price</c><00:01:08.680><c> closes</c><00:01:09.080><c> through</c><00:01:09.440><c> the</c><00:01:09.560><c> series</c>
+
+00:01:09.870 --> 00:01:09.880 align:start position:0%
+and then price closes through the series
+ 
+
+00:01:09.880 --> 00:01:11.870 align:start position:0%
+and then price closes through the series
+of<00:01:10.000><c> up</c><00:01:10.120><c> close</c><00:01:10.360><c> candles</c><00:01:10.920><c> into</c><00:01:11.280><c> that</c><00:01:11.440><c> important</c>
+
+00:01:11.870 --> 00:01:11.880 align:start position:0%
+of up close candles into that important
+ 
+
+00:01:11.880 --> 00:01:14.870 align:start position:0%
+of up close candles into that important
+level.<00:01:12.600><c> That</c><00:01:12.720><c> is</c><00:01:12.880><c> a</c><00:01:12.960><c> shift</c><00:01:13.480><c> from</c><00:01:13.880><c> bullish</c><00:01:14.640><c> to</c>
+
+00:01:14.870 --> 00:01:14.880 align:start position:0%
+level. That is a shift from bullish to
+ 
+
+00:01:14.880 --> 00:01:17.190 align:start position:0%
+level. That is a shift from bullish to
+bearish<00:01:15.440><c> and</c><00:01:15.560><c> then</c><00:01:15.720><c> price</c><00:01:16.000><c> trends</c><00:01:16.320><c> that</c><00:01:16.560><c> way.</c>
+
+00:01:17.190 --> 00:01:17.200 align:start position:0%
+bearish and then price trends that way.
+ 
+
+00:01:17.200 --> 00:01:19.110 align:start position:0%
+bearish and then price trends that way.
+Now<00:01:17.360><c> yes,</c><00:01:17.720><c> we</c><00:01:17.880><c> use</c><00:01:18.200><c> this</c><00:01:18.440><c> change</c><00:01:18.760><c> in</c><00:01:18.840><c> the</c><00:01:18.920><c> state</c>
+
+00:01:19.110 --> 00:01:19.120 align:start position:0%
+Now yes, we use this change in the state
+ 
+
+00:01:19.120 --> 00:01:21.910 align:start position:0%
+Now yes, we use this change in the state
+of<00:01:19.200><c> delivery</c><00:01:19.800><c> to</c><00:01:19.960><c> show</c><00:01:20.200><c> a</c><00:01:20.320><c> shift</c><00:01:20.680><c> of</c><00:01:20.800><c> trend</c><00:01:21.680><c> at</c>
+
+00:01:21.910 --> 00:01:21.920 align:start position:0%
+of delivery to show a shift of trend at
+ 
+
+00:01:21.920 --> 00:01:23.510 align:start position:0%
+of delivery to show a shift of trend at
+the<00:01:22.280><c> higher</c><00:01:22.560><c> time</c><00:01:22.800><c> frame</c><00:01:23.040><c> point</c><00:01:23.360><c> of</c><00:01:23.480><c> a</c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+the higher time frame point of a
+ 
+
+00:01:23.520 --> 00:01:25.870 align:start position:0%
+the higher time frame point of a
+reversal<00:01:24.160><c> or</c><00:01:24.360><c> candle</c><00:01:24.720><c> closure.</c><00:01:25.560><c> So</c><00:01:25.680><c> we</c><00:01:25.800><c> are</c>
+
+00:01:25.870 --> 00:01:25.880 align:start position:0%
+reversal or candle closure. So we are
+ 
+
+00:01:25.880 --> 00:01:27.630 align:start position:0%
+reversal or candle closure. So we are
+confirming<00:01:26.360><c> those</c><00:01:26.560><c> swing</c><00:01:26.840><c> formations</c><00:01:27.440><c> with</c>
+
+00:01:27.630 --> 00:01:27.640 align:start position:0%
+confirming those swing formations with
+ 
+
+00:01:27.640 --> 00:01:29.470 align:start position:0%
+confirming those swing formations with
+it,<00:01:28.120><c> but</c><00:01:28.320><c> that</c><00:01:28.440><c> is</c><00:01:28.560><c> not</c><00:01:28.760><c> what</c><00:01:28.920><c> this</c><00:01:29.120><c> video</c><00:01:29.360><c> is</c>
+
+00:01:29.470 --> 00:01:29.480 align:start position:0%
+it, but that is not what this video is
+ 
+
+00:01:29.480 --> 00:01:32.150 align:start position:0%
+it, but that is not what this video is
+about.<00:01:30.200><c> This</c><00:01:30.400><c> video</c><00:01:30.640><c> is</c><00:01:30.760><c> about</c><00:01:31.640><c> looking</c><00:01:32.000><c> for</c>
+
+00:01:32.150 --> 00:01:32.160 align:start position:0%
+about. This video is about looking for
+ 
+
+00:01:32.160 --> 00:01:34.510 align:start position:0%
+about. This video is about looking for
+that<00:01:32.360><c> confirmation</c><00:01:33.240><c> in</c><00:01:33.400><c> the</c><00:01:33.520><c> continuation</c>
+
+00:01:34.510 --> 00:01:34.520 align:start position:0%
+that confirmation in the continuation
+ 
+
+00:01:34.520 --> 00:01:35.790 align:start position:0%
+that confirmation in the continuation
+candle.
+
+00:01:35.790 --> 00:01:35.800 align:start position:0%
+candle.
+ 
+
+00:01:35.800 --> 00:01:37.910 align:start position:0%
+candle.
+So<00:01:36.040><c> here</c><00:01:36.280><c> you</c><00:01:36.360><c> can</c><00:01:36.520><c> see,</c><00:01:37.200><c> we</c><00:01:37.280><c> do</c><00:01:37.440><c> have</c><00:01:37.600><c> a</c><00:01:37.680><c> higher</c>
+
+00:01:37.910 --> 00:01:37.920 align:start position:0%
+So here you can see, we do have a higher
+ 
+
+00:01:37.920 --> 00:01:40.390 align:start position:0%
+So here you can see, we do have a higher
+time<00:01:38.200><c> frame</c><00:01:38.440><c> candle</c><00:01:38.840><c> to</c><00:01:39.040><c> closure</c><00:01:39.880><c> and</c><00:01:40.040><c> yes,</c><00:01:40.280><c> we</c>
+
+00:01:40.390 --> 00:01:40.400 align:start position:0%
+time frame candle to closure and yes, we
+ 
+
+00:01:40.400 --> 00:01:42.270 align:start position:0%
+time frame candle to closure and yes, we
+want<00:01:40.600><c> to</c><00:01:40.720><c> check</c><00:01:41.040><c> for</c><00:01:41.360><c> a</c><00:01:41.480><c> lower</c><00:01:41.800><c> time</c><00:01:42.040><c> frame</c>
+
+00:01:42.270 --> 00:01:42.280 align:start position:0%
+want to check for a lower time frame
+ 
+
+00:01:42.280 --> 00:01:44.310 align:start position:0%
+want to check for a lower time frame
+change<00:01:42.600><c> in</c><00:01:42.680><c> the</c><00:01:42.760><c> state</c><00:01:42.960><c> of</c><00:01:43.040><c> delivery</c><00:01:43.920><c> to</c><00:01:44.080><c> show</c>
+
+00:01:44.310 --> 00:01:44.320 align:start position:0%
+change in the state of delivery to show
+ 
+
+00:01:44.320 --> 00:01:46.430 align:start position:0%
+change in the state of delivery to show
+that<00:01:44.560><c> we</c><00:01:44.720><c> have</c><00:01:45.240><c> that</c><00:01:45.440><c> confirmation,</c><00:01:46.320><c> the</c>
+
+00:01:46.430 --> 00:01:46.440 align:start position:0%
+that we have that confirmation, the
+ 
+
+00:01:46.440 --> 00:01:48.430 align:start position:0%
+that we have that confirmation, the
+swing<00:01:46.720><c> point</c><00:01:46.960><c> has</c><00:01:47.120><c> formed</c><00:01:47.640><c> or</c><00:01:47.720><c> the</c><00:01:47.880><c> reversal</c>
+
+00:01:48.430 --> 00:01:48.440 align:start position:0%
+swing point has formed or the reversal
+ 
+
+00:01:48.440 --> 00:01:50.830 align:start position:0%
+swing point has formed or the reversal
+has<00:01:48.640><c> formed.</c><00:01:49.560><c> But</c><00:01:49.680><c> what</c><00:01:49.840><c> is</c><00:01:49.960><c> the</c><00:01:50.160><c> logic</c><00:01:50.600><c> we</c><00:01:50.720><c> are</c>
+
+00:01:50.830 --> 00:01:50.840 align:start position:0%
+has formed. But what is the logic we are
+ 
+
+00:01:50.840 --> 00:01:52.950 align:start position:0%
+has formed. But what is the logic we are
+using<00:01:51.320><c> to</c><00:01:51.480><c> get</c><00:01:51.680><c> on</c><00:01:51.800><c> side</c><00:01:52.240><c> in</c><00:01:52.400><c> this</c><00:01:52.560><c> higher</c><00:01:52.760><c> time</c>
+
+00:01:52.950 --> 00:01:52.960 align:start position:0%
+using to get on side in this higher time
+ 
+
+00:01:52.960 --> 00:01:54.710 align:start position:0%
+using to get on side in this higher time
+frame<00:01:53.120><c> candle?</c><00:01:54.040><c> Yes,</c><00:01:54.280><c> we</c><00:01:54.400><c> have</c><00:01:54.560><c> the</c>
+
+00:01:54.710 --> 00:01:54.720 align:start position:0%
+frame candle? Yes, we have the
+ 
+
+00:01:54.720 --> 00:01:56.870 align:start position:0%
+frame candle? Yes, we have the
+understanding<00:01:55.400><c> it</c><00:01:55.560><c> should</c><00:01:55.880><c> be</c><00:01:56.040><c> bullish.</c><00:01:56.640><c> So</c>
+
+00:01:56.870 --> 00:01:56.880 align:start position:0%
+understanding it should be bullish. So
+ 
+
+00:01:56.880 --> 00:01:58.750 align:start position:0%
+understanding it should be bullish. So
+what<00:01:57.040><c> are</c><00:01:57.160><c> we</c><00:01:57.360><c> waiting</c><00:01:57.680><c> for?</c><00:01:58.280><c> Why</c><00:01:58.400><c> not</c><00:01:58.560><c> just</c>
+
+00:01:58.750 --> 00:01:58.760 align:start position:0%
+what are we waiting for? Why not just
+ 
+
+00:01:58.760 --> 00:02:00.590 align:start position:0%
+what are we waiting for? Why not just
+take<00:01:58.920><c> an</c><00:01:59.040><c> entry</c><00:01:59.360><c> right</c><00:01:59.520><c> away?</c><00:02:00.200><c> Well,</c><00:02:00.360><c> I</c><00:02:00.400><c> want</c>
+
+00:02:00.590 --> 00:02:00.600 align:start position:0%
+take an entry right away? Well, I want
+ 
+
+00:02:00.600 --> 00:02:02.190 align:start position:0%
+take an entry right away? Well, I want
+the<00:02:00.680><c> market</c><00:02:01.040><c> to</c><00:02:01.160><c> show</c><00:02:01.400><c> me</c><00:02:01.560><c> that</c><00:02:01.720><c> it</c><00:02:01.840><c> actually</c>
+
+00:02:02.190 --> 00:02:02.200 align:start position:0%
+the market to show me that it actually
+ 
+
+00:02:02.200 --> 00:02:04.350 align:start position:0%
+the market to show me that it actually
+wants<00:02:02.440><c> to</c><00:02:02.560><c> trade</c><00:02:02.840><c> away</c><00:02:03.479><c> cuz</c><00:02:03.640><c> price</c><00:02:03.920><c> could</c><00:02:04.160><c> just</c>
+
+00:02:04.350 --> 00:02:04.360 align:start position:0%
+wants to trade away cuz price could just
+ 
+
+00:02:04.360 --> 00:02:06.590 align:start position:0%
+wants to trade away cuz price could just
+open<00:02:04.920><c> and</c><00:02:05.040><c> drop</c><00:02:05.320><c> right</c><00:02:05.520><c> through</c><00:02:05.640><c> the</c><00:02:05.760><c> low.</c><00:02:06.440><c> So,</c>
+
+00:02:06.590 --> 00:02:06.600 align:start position:0%
+open and drop right through the low. So,
+ 
+
+00:02:06.600 --> 00:02:09.109 align:start position:0%
+open and drop right through the low. So,
+I'm<00:02:06.760><c> waiting</c><00:02:07.040><c> for</c><00:02:07.360><c> a</c><00:02:07.479><c> higher</c><00:02:07.920><c> low</c><00:02:08.640><c> or</c><00:02:08.840><c> a</c><00:02:08.920><c> new</c>
+
+00:02:09.109 --> 00:02:09.119 align:start position:0%
+I'm waiting for a higher low or a new
+ 
+
+00:02:09.119 --> 00:02:11.230 align:start position:0%
+I'm waiting for a higher low or a new
+protected<00:02:09.679><c> swing.</c><00:02:10.640><c> So,</c><00:02:10.920><c> with</c><00:02:11.120><c> the</c>
+
+00:02:11.230 --> 00:02:11.240 align:start position:0%
+protected swing. So, with the
+ 
+
+00:02:11.240 --> 00:02:13.830 align:start position:0%
+protected swing. So, with the
+expectation<00:02:12.040><c> to</c><00:02:12.200><c> trade</c><00:02:12.560><c> higher,</c><00:02:13.280><c> we</c><00:02:13.400><c> want</c><00:02:13.640><c> to</c>
+
+00:02:13.830 --> 00:02:13.840 align:start position:0%
+expectation to trade higher, we want to
+ 
+
+00:02:13.840 --> 00:02:16.350 align:start position:0%
+expectation to trade higher, we want to
+let<00:02:14.040><c> this</c><00:02:14.320><c> bullish</c><00:02:14.840><c> wick</c><00:02:15.160><c> form.</c><00:02:15.880><c> That</c><00:02:16.080><c> is</c><00:02:16.200><c> the</c>
+
+00:02:16.350 --> 00:02:16.360 align:start position:0%
+let this bullish wick form. That is the
+ 
+
+00:02:16.360 --> 00:02:18.430 align:start position:0%
+let this bullish wick form. That is the
+logic<00:02:16.840><c> behind</c><00:02:17.240><c> the</c><00:02:17.360><c> intra-candle</c><00:02:18.000><c> change</c><00:02:18.360><c> in</c>
+
+00:02:18.430 --> 00:02:18.440 align:start position:0%
+logic behind the intra-candle change in
+ 
+
+00:02:18.440 --> 00:02:19.830 align:start position:0%
+logic behind the intra-candle change in
+the<00:02:18.520><c> state</c><00:02:18.720><c> of</c><00:02:18.760><c> delivery.</c>
+
+00:02:19.830 --> 00:02:19.840 align:start position:0%
+the state of delivery.
+ 
+
+00:02:19.840 --> 00:02:21.670 align:start position:0%
+the state of delivery.
+To<00:02:20.080><c> form</c><00:02:20.440><c> this</c><00:02:20.680><c> wick</c><00:02:20.959><c> in</c><00:02:21.120><c> the</c><00:02:21.240><c> higher</c><00:02:21.480><c> time</c>
+
+00:02:21.670 --> 00:02:21.680 align:start position:0%
+To form this wick in the higher time
+ 
+
+00:02:21.680 --> 00:02:23.550 align:start position:0%
+To form this wick in the higher time
+frame<00:02:21.840><c> candle,</c><00:02:22.560><c> we</c><00:02:22.720><c> have</c><00:02:22.959><c> to</c><00:02:23.080><c> have</c><00:02:23.360><c> some</c>
+
+00:02:23.550 --> 00:02:23.560 align:start position:0%
+frame candle, we have to have some
+ 
+
+00:02:23.560 --> 00:02:26.510 align:start position:0%
+frame candle, we have to have some
+short-term<00:02:24.680><c> or</c><00:02:24.840><c> small</c><00:02:25.240><c> bearish</c><00:02:25.760><c> movement</c><00:02:26.400><c> and</c>
+
+00:02:26.510 --> 00:02:26.520 align:start position:0%
+short-term or small bearish movement and
+ 
+
+00:02:26.520 --> 00:02:28.990 align:start position:0%
+short-term or small bearish movement and
+then<00:02:26.720><c> a</c><00:02:26.800><c> shift</c><00:02:27.240><c> back</c><00:02:27.600><c> into</c><00:02:27.959><c> bullish</c><00:02:28.320><c> movement</c>
+
+00:02:28.990 --> 00:02:29.000 align:start position:0%
+then a shift back into bullish movement
+ 
+
+00:02:29.000 --> 00:02:30.870 align:start position:0%
+then a shift back into bullish movement
+to<00:02:29.120><c> form</c><00:02:29.440><c> a</c><00:02:29.520><c> swing</c><00:02:29.920><c> low.</c><00:02:30.520><c> So,</c><00:02:30.640><c> once</c><00:02:30.800><c> we</c>
+
+00:02:30.870 --> 00:02:30.880 align:start position:0%
+to form a swing low. So, once we
+ 
+
+00:02:30.880 --> 00:02:32.830 align:start position:0%
+to form a swing low. So, once we
+anticipate<00:02:31.320><c> that</c><00:02:31.480><c> this</c><00:02:31.680><c> wick</c><00:02:31.920><c> has</c><00:02:32.160><c> formed,</c>
+
+00:02:32.830 --> 00:02:32.840 align:start position:0%
+anticipate that this wick has formed,
+ 
+
+00:02:32.840 --> 00:02:34.949 align:start position:0%
+anticipate that this wick has formed,
+then<00:02:33.040><c> we</c><00:02:33.120><c> can</c><00:02:33.280><c> look</c><00:02:33.480><c> to</c><00:02:33.600><c> trade</c><00:02:33.920><c> it</c><00:02:34.080><c> higher.</c>
+
+00:02:34.949 --> 00:02:34.959 align:start position:0%
+then we can look to trade it higher.
+ 
+
+00:02:34.959 --> 00:02:36.750 align:start position:0%
+then we can look to trade it higher.
+Now,<00:02:35.120><c> how</c><00:02:35.280><c> am</c><00:02:35.400><c> I</c><00:02:35.480><c> going</c><00:02:35.720><c> to</c><00:02:35.840><c> do</c><00:02:36.040><c> that?</c><00:02:36.560><c> An</c>
+
+00:02:36.750 --> 00:02:36.760 align:start position:0%
+Now, how am I going to do that? An
+ 
+
+00:02:36.760 --> 00:02:38.150 align:start position:0%
+Now, how am I going to do that? An
+intra-candle<00:02:37.400><c> change</c><00:02:37.720><c> in</c><00:02:37.800><c> the</c><00:02:37.880><c> state</c><00:02:38.080><c> of</c>
+
+00:02:38.150 --> 00:02:38.160 align:start position:0%
+intra-candle change in the state of
+ 
+
+00:02:38.160 --> 00:02:41.110 align:start position:0%
+intra-candle change in the state of
+delivery<00:02:39.040><c> or</c><00:02:39.280><c> a</c><00:02:39.360><c> new</c><00:02:39.680><c> protected</c><00:02:40.280><c> swing</c><00:02:40.959><c> in</c>
+
+00:02:41.110 --> 00:02:41.120 align:start position:0%
+delivery or a new protected swing in
+ 
+
+00:02:41.120 --> 00:02:43.310 align:start position:0%
+delivery or a new protected swing in
+this<00:02:41.280><c> continuation</c><00:02:42.040><c> candle.</c>
+
+00:02:43.310 --> 00:02:43.320 align:start position:0%
+this continuation candle.
+ 
+
+00:02:43.320 --> 00:02:45.430 align:start position:0%
+this continuation candle.
+So,<00:02:43.480><c> here</c><00:02:43.680><c> you</c><00:02:43.760><c> can</c><00:02:43.920><c> see</c><00:02:44.640><c> price</c><00:02:44.880><c> reaches</c><00:02:45.200><c> into</c>
+
+00:02:45.430 --> 00:02:45.440 align:start position:0%
+So, here you can see price reaches into
+ 
+
+00:02:45.440 --> 00:02:47.030 align:start position:0%
+So, here you can see price reaches into
+an<00:02:45.520><c> important</c><00:02:45.959><c> level,</c><00:02:46.400><c> which</c><00:02:46.560><c> is</c><00:02:46.680><c> this</c><00:02:46.880><c> fair</c>
+
+00:02:47.030 --> 00:02:47.040 align:start position:0%
+an important level, which is this fair
+ 
+
+00:02:47.040 --> 00:02:49.110 align:start position:0%
+an important level, which is this fair
+value<00:02:47.320><c> gap.</c><00:02:48.080><c> It</c><00:02:48.160><c> closes</c><00:02:48.480><c> through</c><00:02:48.760><c> the</c><00:02:48.880><c> series</c>
+
+00:02:49.110 --> 00:02:49.120 align:start position:0%
+value gap. It closes through the series
+ 
+
+00:02:49.120 --> 00:02:50.670 align:start position:0%
+value gap. It closes through the series
+of<00:02:49.200><c> candles</c><00:02:49.520><c> that</c><00:02:49.680><c> made</c><00:02:49.880><c> that</c><00:02:50.080><c> low</c><00:02:50.440><c> in</c><00:02:50.600><c> the</c>
+
+00:02:50.670 --> 00:02:50.680 align:start position:0%
+of candles that made that low in the
+ 
+
+00:02:50.680 --> 00:02:52.110 align:start position:0%
+of candles that made that low in the
+important<00:02:51.080><c> level.</c><00:02:51.680><c> So,</c><00:02:51.760><c> now</c><00:02:51.920><c> I</c><00:02:51.959><c> can</c>
+
+00:02:52.110 --> 00:02:52.120 align:start position:0%
+important level. So, now I can
+ 
+
+00:02:52.120 --> 00:02:54.470 align:start position:0%
+important level. So, now I can
+anticipate<00:02:52.560><c> this</c><00:02:52.720><c> to</c><00:02:52.800><c> be</c><00:02:52.920><c> a</c><00:02:52.959><c> protected</c><00:02:53.600><c> swing.</c>
+
+00:02:54.470 --> 00:02:54.480 align:start position:0%
+anticipate this to be a protected swing.
+ 
+
+00:02:54.480 --> 00:02:56.870 align:start position:0%
+anticipate this to be a protected swing.
+If<00:02:54.640><c> this</c><00:02:54.840><c> is</c><00:02:54.959><c> a</c><00:02:55.040><c> protected</c><00:02:55.520><c> swing</c><00:02:56.200><c> and</c><00:02:56.480><c> that</c><00:02:56.720><c> is</c>
+
+00:02:56.870 --> 00:02:56.880 align:start position:0%
+If this is a protected swing and that is
+ 
+
+00:02:56.880 --> 00:02:58.190 align:start position:0%
+If this is a protected swing and that is
+the<00:02:57.080><c> low</c><00:02:57.360><c> of</c><00:02:57.480><c> this</c><00:02:57.680><c> higher</c><00:02:57.840><c> time</c><00:02:58.040><c> frame</c>
+
+00:02:58.190 --> 00:02:58.200 align:start position:0%
+the low of this higher time frame
+ 
+
+00:02:58.200 --> 00:03:00.150 align:start position:0%
+the low of this higher time frame
+candle,<00:02:58.959><c> then</c><00:02:59.080><c> I'd</c><00:02:59.200><c> want</c><00:02:59.360><c> to</c><00:02:59.400><c> see</c><00:02:59.519><c> it</c><00:02:59.640><c> hold</c><00:03:00.000><c> if</c>
+
+00:03:00.150 --> 00:03:00.160 align:start position:0%
+candle, then I'd want to see it hold if
+ 
+
+00:03:00.160 --> 00:03:02.670 align:start position:0%
+candle, then I'd want to see it hold if
+we<00:03:00.320><c> are</c><00:03:00.560><c> truly</c><00:03:01.080><c> going</c><00:03:01.320><c> to</c><00:03:01.440><c> expand</c><00:03:01.920><c> higher.</c><00:03:02.560><c> So,</c>
+
+00:03:02.670 --> 00:03:02.680 align:start position:0%
+we are truly going to expand higher. So,
+ 
+
+00:03:02.680 --> 00:03:04.390 align:start position:0%
+we are truly going to expand higher. So,
+here<00:03:02.880><c> you</c><00:03:02.959><c> can</c><00:03:03.120><c> see</c><00:03:03.600><c> we</c><00:03:03.720><c> have</c><00:03:03.840><c> that</c><00:03:04.000><c> protected</c>
+
+00:03:04.390 --> 00:03:04.400 align:start position:0%
+here you can see we have that protected
+ 
+
+00:03:04.400 --> 00:03:06.310 align:start position:0%
+here you can see we have that protected
+swing<00:03:04.720><c> and</c><00:03:04.840><c> now</c><00:03:05.000><c> I</c><00:03:05.080><c> have</c><00:03:05.320><c> that</c><00:03:05.480><c> anticipation</c>
+
+00:03:06.310 --> 00:03:06.320 align:start position:0%
+swing and now I have that anticipation
+ 
+
+00:03:06.320 --> 00:03:08.470 align:start position:0%
+swing and now I have that anticipation
+for<00:03:06.519><c> price</c><00:03:06.840><c> to</c><00:03:07.000><c> trade</c><00:03:07.280><c> higher.</c><00:03:08.040><c> This</c><00:03:08.200><c> is</c><00:03:08.320><c> where</c>
+
+00:03:08.470 --> 00:03:08.480 align:start position:0%
+for price to trade higher. This is where
+ 
+
+00:03:08.480 --> 00:03:10.590 align:start position:0%
+for price to trade higher. This is where
+I<00:03:08.519><c> could</c><00:03:08.720><c> then</c><00:03:08.920><c> look</c><00:03:09.120><c> to</c><00:03:09.239><c> take</c><00:03:09.480><c> an</c><00:03:09.600><c> entry</c><00:03:10.400><c> or</c>
+
+00:03:10.590 --> 00:03:10.600 align:start position:0%
+I could then look to take an entry or
+ 
+
+00:03:10.600 --> 00:03:13.030 align:start position:0%
+I could then look to take an entry or
+get<00:03:10.800><c> on</c><00:03:10.959><c> side</c><00:03:11.640><c> as</c><00:03:11.760><c> I've</c><00:03:11.880><c> anticipated</c><00:03:12.519><c> this</c><00:03:12.920><c> to</c>
+
+00:03:13.030 --> 00:03:13.040 align:start position:0%
+get on side as I've anticipated this to
+ 
+
+00:03:13.040 --> 00:03:14.310 align:start position:0%
+get on side as I've anticipated this to
+have<00:03:13.160><c> formed</c><00:03:13.400><c> its</c><00:03:13.560><c> low</c><00:03:13.920><c> and</c><00:03:14.040><c> we</c><00:03:14.160><c> should</c>
+
+00:03:14.310 --> 00:03:14.320 align:start position:0%
+have formed its low and we should
+ 
+
+00:03:14.320 --> 00:03:16.670 align:start position:0%
+have formed its low and we should
+continue<00:03:14.880><c> this</c><00:03:15.040><c> trend</c><00:03:15.360><c> higher.</c>
+
+00:03:16.670 --> 00:03:16.680 align:start position:0%
+continue this trend higher.
+ 
+
+00:03:16.680 --> 00:03:18.030 align:start position:0%
+continue this trend higher.
+And<00:03:16.760><c> there</c><00:03:16.880><c> you</c><00:03:16.959><c> can</c><00:03:17.120><c> see</c><00:03:17.519><c> we</c><00:03:17.640><c> do</c><00:03:17.800><c> get</c><00:03:17.959><c> the</c>
+
+00:03:18.030 --> 00:03:18.040 align:start position:0%
+And there you can see we do get the
+ 
+
+00:03:18.040 --> 00:03:20.590 align:start position:0%
+And there you can see we do get the
+expansion.<00:03:19.280><c> So,</c><00:03:19.360><c> the</c><00:03:19.480><c> whole</c><00:03:19.760><c> goal</c><00:03:20.160><c> and</c><00:03:20.320><c> whole</c>
+
+00:03:20.590 --> 00:03:20.600 align:start position:0%
+expansion. So, the whole goal and whole
+ 
+
+00:03:20.600 --> 00:03:22.509 align:start position:0%
+expansion. So, the whole goal and whole
+lesson<00:03:20.920><c> I</c><00:03:21.000><c> want</c><00:03:21.280><c> you</c><00:03:21.360><c> to</c><00:03:21.560><c> learn</c><00:03:21.880><c> within</c><00:03:22.280><c> this</c>
+
+00:03:22.509 --> 00:03:22.519 align:start position:0%
+lesson I want you to learn within this
+ 
+
+00:03:22.519 --> 00:03:25.470 align:start position:0%
+lesson I want you to learn within this
+video<00:03:23.320><c> is</c><00:03:23.840><c> when</c><00:03:24.040><c> I'm</c><00:03:24.200><c> looking</c><00:03:24.480><c> for</c><00:03:24.640><c> an</c><00:03:24.760><c> entry,</c>
+
+00:03:25.470 --> 00:03:25.480 align:start position:0%
+video is when I'm looking for an entry,
+ 
+
+00:03:25.480 --> 00:03:27.550 align:start position:0%
+video is when I'm looking for an entry,
+I'm<00:03:25.560><c> not</c><00:03:25.720><c> just</c><00:03:25.920><c> taking</c><00:03:26.280><c> any</c><00:03:26.480><c> random</c><00:03:26.800><c> trade.</c>
+
+00:03:27.550 --> 00:03:27.560 align:start position:0%
+I'm not just taking any random trade.
+ 
+
+00:03:27.560 --> 00:03:29.470 align:start position:0%
+I'm not just taking any random trade.
+I'm<00:03:27.680><c> asking</c><00:03:28.040><c> myself,</c><00:03:28.840><c> did</c><00:03:28.959><c> this</c><00:03:29.120><c> higher</c><00:03:29.320><c> time</c>
+
+00:03:29.470 --> 00:03:29.480 align:start position:0%
+I'm asking myself, did this higher time
+ 
+
+00:03:29.480 --> 00:03:31.870 align:start position:0%
+I'm asking myself, did this higher time
+frame<00:03:29.640><c> candle</c><00:03:30.000><c> form</c><00:03:30.280><c> its</c><00:03:30.480><c> wick</c><00:03:30.760><c> yet?</c><00:03:31.480><c> If</c><00:03:31.640><c> I</c><00:03:31.720><c> can</c>
+
+00:03:31.870 --> 00:03:31.880 align:start position:0%
+frame candle form its wick yet? If I can
+ 
+
+00:03:31.880 --> 00:03:33.830 align:start position:0%
+frame candle form its wick yet? If I can
+answer<00:03:32.200><c> that</c><00:03:32.480><c> yes,</c><00:03:33.040><c> then</c><00:03:33.200><c> I</c><00:03:33.280><c> can</c><00:03:33.440><c> look</c><00:03:33.600><c> for</c><00:03:33.720><c> an</c>
+
+00:03:33.830 --> 00:03:33.840 align:start position:0%
+answer that yes, then I can look for an
+ 
+
+00:03:33.840 --> 00:03:36.430 align:start position:0%
+answer that yes, then I can look for an
+entry.<00:03:34.680><c> If</c><00:03:34.800><c> that</c><00:03:35.000><c> answer</c><00:03:35.280><c> is</c><00:03:35.480><c> no,</c><00:03:36.120><c> then</c><00:03:36.280><c> there</c>
+
+00:03:36.430 --> 00:03:36.440 align:start position:0%
+entry. If that answer is no, then there
+ 
+
+00:03:36.440 --> 00:03:38.430 align:start position:0%
+entry. If that answer is no, then there
+is<00:03:36.680><c> no</c><00:03:36.920><c> protected</c><00:03:37.440><c> swing</c><00:03:37.760><c> or</c><00:03:38.000><c> anything</c><00:03:38.320><c> to</c>
+
+00:03:38.430 --> 00:03:38.440 align:start position:0%
+is no protected swing or anything to
+ 
+
+00:03:38.440 --> 00:03:40.350 align:start position:0%
+is no protected swing or anything to
+trade<00:03:38.680><c> away</c><00:03:38.920><c> from</c><00:03:39.280><c> and</c><00:03:39.400><c> I</c><00:03:39.440><c> need</c><00:03:39.640><c> to</c><00:03:39.800><c> wait</c><00:03:40.040><c> until</c>
+
+00:03:40.350 --> 00:03:40.360 align:start position:0%
+trade away from and I need to wait until
+ 
+
+00:03:40.360 --> 00:03:42.750 align:start position:0%
+trade away from and I need to wait until
+I<00:03:40.400><c> can</c><00:03:40.600><c> say</c><00:03:40.800><c> yes</c><00:03:41.160><c> to</c><00:03:41.360><c> that</c><00:03:41.560><c> question.</c>
+
+00:03:42.750 --> 00:03:42.760 align:start position:0%
+I can say yes to that question.
+ 
+
+00:03:42.760 --> 00:03:44.110 align:start position:0%
+I can say yes to that question.
+Let's<00:03:42.880><c> get</c><00:03:43.000><c> into</c><00:03:43.160><c> TradingView</c><00:03:43.640><c> and</c><00:03:43.760><c> go</c><00:03:43.920><c> over</c>
+
+00:03:44.110 --> 00:03:44.120 align:start position:0%
+Let's get into TradingView and go over
+ 
+
+00:03:44.120 --> 00:03:46.430 align:start position:0%
+Let's get into TradingView and go over
+some<00:03:44.280><c> examples</c><00:03:44.800><c> of</c><00:03:44.920><c> this.</c>
+
+00:03:46.430 --> 00:03:46.440 align:start position:0%
+some examples of this.
+ 
+
+00:03:46.440 --> 00:03:48.150 align:start position:0%
+some examples of this.
+So,<00:03:46.519><c> here</c><00:03:46.680><c> we</c><00:03:46.800><c> are</c><00:03:46.880><c> with</c><00:03:47.040><c> our</c><00:03:47.160><c> first</c><00:03:47.480><c> example.</c>
+
+00:03:48.150 --> 00:03:48.160 align:start position:0%
+So, here we are with our first example.
+ 
+
+00:03:48.160 --> 00:03:49.710 align:start position:0%
+So, here we are with our first example.
+You<00:03:48.239><c> can</c><00:03:48.400><c> see</c><00:03:48.560><c> we</c><00:03:48.680><c> do</c><00:03:48.880><c> have</c><00:03:49.080><c> a</c><00:03:49.120><c> candle</c><00:03:49.519><c> to</c>
+
+00:03:49.710 --> 00:03:49.720 align:start position:0%
+You can see we do have a candle to
+ 
+
+00:03:49.720 --> 00:03:52.509 align:start position:0%
+You can see we do have a candle to
+closure<00:03:50.560><c> with</c><00:03:50.800><c> SMT,</c><00:03:51.760><c> a</c><00:03:51.800><c> nice</c><00:03:52.080><c> V-shape</c>
+
+00:03:52.509 --> 00:03:52.519 align:start position:0%
+closure with SMT, a nice V-shape
+ 
+
+00:03:52.519 --> 00:03:54.190 align:start position:0%
+closure with SMT, a nice V-shape
+reversal,<00:03:53.240><c> but</c><00:03:53.360><c> what</c><00:03:53.480><c> do</c><00:03:53.520><c> we</c><00:03:53.600><c> notice</c><00:03:53.960><c> about</c>
+
+00:03:54.190 --> 00:03:54.200 align:start position:0%
+reversal, but what do we notice about
+ 
+
+00:03:54.200 --> 00:03:56.510 align:start position:0%
+reversal, but what do we notice about
+this?<00:03:54.880><c> Price</c><00:03:55.120><c> is</c><00:03:55.360><c> aggressively</c><00:03:55.920><c> coming</c><00:03:56.240><c> back</c>
+
+00:03:56.510 --> 00:03:56.520 align:start position:0%
+this? Price is aggressively coming back
+ 
+
+00:03:56.520 --> 00:03:58.390 align:start position:0%
+this? Price is aggressively coming back
+into<00:03:56.760><c> this</c><00:03:57.000><c> range,</c><00:03:57.640><c> so</c><00:03:57.760><c> it</c><00:03:57.840><c> doesn't</c><00:03:58.080><c> have</c><00:03:58.320><c> a</c>
+
+00:03:58.390 --> 00:03:58.400 align:start position:0%
+into this range, so it doesn't have a
+ 
+
+00:03:58.400 --> 00:04:00.710 align:start position:0%
+into this range, so it doesn't have a
+very<00:03:58.640><c> nice</c><00:03:59.000><c> bearish</c><00:03:59.440><c> closure</c><00:03:59.840><c> here.</c><00:04:00.520><c> But</c><00:04:00.600><c> if</c>
+
+00:04:00.710 --> 00:04:00.720 align:start position:0%
+very nice bearish closure here. But if
+ 
+
+00:04:00.720 --> 00:04:02.870 align:start position:0%
+very nice bearish closure here. But if
+we<00:04:00.880><c> look</c><00:04:01.120><c> towards</c><00:04:01.440><c> this</c><00:04:01.600><c> correlated</c><00:04:02.160><c> asset</c><00:04:02.640><c> or</c>
+
+00:04:02.870 --> 00:04:02.880 align:start position:0%
+we look towards this correlated asset or
+ 
+
+00:04:02.880 --> 00:04:05.190 align:start position:0%
+we look towards this correlated asset or
+ES,<00:04:03.720><c> you</c><00:04:03.800><c> can</c><00:04:03.920><c> see</c><00:04:04.040><c> we</c><00:04:04.160><c> have</c><00:04:04.280><c> that</c><00:04:04.400><c> SMT</c><00:04:04.920><c> on</c><00:04:05.040><c> the</c>
+
+00:04:05.190 --> 00:04:05.200 align:start position:0%
+ES, you can see we have that SMT on the
+ 
+
+00:04:05.200 --> 00:04:07.430 align:start position:0%
+ES, you can see we have that SMT on the
+high.<00:04:05.960><c> We</c><00:04:06.080><c> have</c><00:04:06.200><c> a</c><00:04:06.240><c> nice</c><00:04:06.480><c> V-shape,</c><00:04:07.080><c> and</c><00:04:07.200><c> here</c>
+
+00:04:07.430 --> 00:04:07.440 align:start position:0%
+high. We have a nice V-shape, and here
+ 
+
+00:04:07.440 --> 00:04:09.230 align:start position:0%
+high. We have a nice V-shape, and here
+we<00:04:07.600><c> are</c><00:04:07.720><c> more</c><00:04:07.959><c> in</c><00:04:08.080><c> a</c><00:04:08.160><c> consolidation</c><00:04:09.000><c> or</c><00:04:09.200><c> a</c>
+
+00:04:09.230 --> 00:04:09.240 align:start position:0%
+we are more in a consolidation or a
+ 
+
+00:04:09.240 --> 00:04:11.710 align:start position:0%
+we are more in a consolidation or a
+retracement.<00:04:10.360><c> So</c><00:04:10.480><c> as</c><00:04:10.600><c> long</c><00:04:10.840><c> as</c><00:04:10.959><c> we</c><00:04:11.080><c> remain</c><00:04:11.560><c> in</c>
+
+00:04:11.710 --> 00:04:11.720 align:start position:0%
+retracement. So as long as we remain in
+ 
+
+00:04:11.720 --> 00:04:13.830 align:start position:0%
+retracement. So as long as we remain in
+respect<00:04:12.240><c> to</c><00:04:12.400><c> this</c><00:04:12.600><c> gap</c><00:04:12.920><c> here,</c><00:04:13.520><c> we</c><00:04:13.600><c> could</c><00:04:13.720><c> look</c>
+
+00:04:13.830 --> 00:04:13.840 align:start position:0%
+respect to this gap here, we could look
+ 
+
+00:04:13.840 --> 00:04:16.110 align:start position:0%
+respect to this gap here, we could look
+for<00:04:13.959><c> price</c><00:04:14.280><c> to</c><00:04:14.400><c> trade</c><00:04:14.720><c> lower.</c><00:04:15.640><c> Now,</c><00:04:15.760><c> what</c><00:04:15.959><c> is</c>
+
+00:04:16.110 --> 00:04:16.120 align:start position:0%
+for price to trade lower. Now, what is
+ 
+
+00:04:16.120 --> 00:04:18.670 align:start position:0%
+for price to trade lower. Now, what is
+this<00:04:16.320><c> video</c><00:04:16.959><c> trying</c><00:04:17.320><c> to</c><00:04:17.519><c> teach</c><00:04:17.880><c> you?</c><00:04:18.519><c> Our</c>
+
+00:04:18.670 --> 00:04:18.680 align:start position:0%
+this video trying to teach you? Our
+ 
+
+00:04:18.680 --> 00:04:21.229 align:start position:0%
+this video trying to teach you? Our
+whole<00:04:18.920><c> goal</c><00:04:19.200><c> is</c><00:04:19.359><c> to</c><00:04:19.840><c> look</c><00:04:20.079><c> at</c><00:04:20.160><c> this</c><00:04:20.320><c> candle</c><00:04:21.120><c> and</c>
+
+00:04:21.229 --> 00:04:21.239 align:start position:0%
+whole goal is to look at this candle and
+ 
+
+00:04:21.239 --> 00:04:23.070 align:start position:0%
+whole goal is to look at this candle and
+determine<00:04:21.760><c> when</c><00:04:22.040><c> we</c><00:04:22.160><c> think</c><00:04:22.440><c> that</c><00:04:22.600><c> its</c><00:04:22.840><c> wick</c>
+
+00:04:23.070 --> 00:04:23.080 align:start position:0%
+determine when we think that its wick
+ 
+
+00:04:23.080 --> 00:04:25.070 align:start position:0%
+determine when we think that its wick
+has<00:04:23.320><c> formed.</c><00:04:24.040><c> We</c><00:04:24.120><c> don't</c><00:04:24.280><c> want</c><00:04:24.480><c> to</c><00:04:24.600><c> try</c><00:04:24.840><c> to</c>
+
+00:04:25.070 --> 00:04:25.080 align:start position:0%
+has formed. We don't want to try to
+ 
+
+00:04:25.080 --> 00:04:27.950 align:start position:0%
+has formed. We don't want to try to
+trade<00:04:25.560><c> short</c><00:04:26.400><c> prior</c><00:04:26.800><c> to</c><00:04:26.960><c> the</c><00:04:27.120><c> wick</c><00:04:27.360><c> forming,</c>
+
+00:04:27.950 --> 00:04:27.960 align:start position:0%
+trade short prior to the wick forming,
+ 
+
+00:04:27.960 --> 00:04:29.870 align:start position:0%
+trade short prior to the wick forming,
+because<00:04:28.240><c> if</c><00:04:28.360><c> we</c><00:04:28.440><c> try</c><00:04:28.640><c> to</c><00:04:28.760><c> do</c><00:04:28.960><c> that,</c><00:04:29.560><c> let's</c><00:04:29.760><c> say</c>
+
+00:04:29.870 --> 00:04:29.880 align:start position:0%
+because if we try to do that, let's say
+ 
+
+00:04:29.880 --> 00:04:31.950 align:start position:0%
+because if we try to do that, let's say
+we<00:04:30.000><c> try</c><00:04:30.120><c> to</c><00:04:30.280><c> enter</c><00:04:30.560><c> short</c><00:04:30.840><c> right</c><00:04:31.040><c> here</c><00:04:31.640><c> before</c>
+
+00:04:31.950 --> 00:04:31.960 align:start position:0%
+we try to enter short right here before
+ 
+
+00:04:31.960 --> 00:04:34.030 align:start position:0%
+we try to enter short right here before
+the<00:04:32.080><c> wick</c><00:04:32.280><c> has</c><00:04:32.520><c> formed,</c><00:04:33.440><c> right?</c><00:04:33.720><c> What</c><00:04:33.919><c> is</c>
+
+00:04:34.030 --> 00:04:34.040 align:start position:0%
+the wick has formed, right? What is
+ 
+
+00:04:34.040 --> 00:04:35.750 align:start position:0%
+the wick has formed, right? What is
+going<00:04:34.280><c> to</c><00:04:34.440><c> happen?</c><00:04:35.040><c> We</c><00:04:35.160><c> are</c><00:04:35.240><c> going</c><00:04:35.440><c> to</c><00:04:35.560><c> get</c>
+
+00:04:35.750 --> 00:04:35.760 align:start position:0%
+going to happen? We are going to get
+ 
+
+00:04:35.760 --> 00:04:37.430 align:start position:0%
+going to happen? We are going to get
+stopped<00:04:36.160><c> out,</c><00:04:36.760><c> and</c><00:04:36.880><c> we're</c><00:04:37.000><c> going</c><00:04:37.120><c> to</c><00:04:37.200><c> be</c><00:04:37.320><c> the</c>
+
+00:04:37.430 --> 00:04:37.440 align:start position:0%
+stopped out, and we're going to be the
+ 
+
+00:04:37.440 --> 00:04:40.590 align:start position:0%
+stopped out, and we're going to be the
+liquidity<00:04:38.280><c> for</c><00:04:38.520><c> the</c><00:04:38.640><c> wick</c><00:04:38.800><c> to</c><00:04:39.000><c> form.</c><00:04:39.919><c> So,</c><00:04:40.480><c> we</c>
+
+00:04:40.590 --> 00:04:40.600 align:start position:0%
+liquidity for the wick to form. So, we
+ 
+
+00:04:40.600 --> 00:04:42.630 align:start position:0%
+liquidity for the wick to form. So, we
+want<00:04:40.840><c> to</c><00:04:41.000><c> wait</c><00:04:41.200><c> until</c><00:04:41.480><c> we</c><00:04:41.560><c> can</c><00:04:41.760><c> answer</c><00:04:42.080><c> yes</c><00:04:42.400><c> to</c>
+
+00:04:42.630 --> 00:04:42.640 align:start position:0%
+want to wait until we can answer yes to
+ 
+
+00:04:42.640 --> 00:04:45.150 align:start position:0%
+want to wait until we can answer yes to
+that<00:04:42.800><c> question.</c><00:04:43.640><c> So</c><00:04:43.760><c> I'll</c><00:04:43.840><c> just</c><00:04:44.040><c> sit</c><00:04:44.160><c> here.</c>
+
+00:04:45.150 --> 00:04:45.160 align:start position:0%
+that question. So I'll just sit here.
+ 
+
+00:04:45.160 --> 00:04:46.750 align:start position:0%
+that question. So I'll just sit here.
+After<00:04:45.480><c> each</c><00:04:45.640><c> closure,</c><00:04:46.080><c> I'm</c><00:04:46.200><c> going</c><00:04:46.400><c> to</c><00:04:46.520><c> ask</c>
+
+00:04:46.750 --> 00:04:46.760 align:start position:0%
+After each closure, I'm going to ask
+ 
+
+00:04:46.760 --> 00:04:48.550 align:start position:0%
+After each closure, I'm going to ask
+myself,<00:04:47.320><c> do</c><00:04:47.520><c> I</c><00:04:47.600><c> think</c><00:04:47.840><c> that</c><00:04:47.960><c> this</c><00:04:48.160><c> wick</c><00:04:48.360><c> has</c>
+
+00:04:48.550 --> 00:04:48.560 align:start position:0%
+myself, do I think that this wick has
+ 
+
+00:04:48.560 --> 00:04:50.710 align:start position:0%
+myself, do I think that this wick has
+formed?<00:04:49.200><c> Well,</c><00:04:49.360><c> taking</c><00:04:49.640><c> a</c><00:04:49.680><c> look</c><00:04:49.840><c> here,</c><00:04:50.440><c> do</c><00:04:50.640><c> I</c>
+
+00:04:50.710 --> 00:04:50.720 align:start position:0%
+formed? Well, taking a look here, do I
+ 
+
+00:04:50.720 --> 00:04:52.430 align:start position:0%
+formed? Well, taking a look here, do I
+trust<00:04:51.080><c> that</c><00:04:51.200><c> this</c><00:04:51.400><c> high</c><00:04:51.640><c> shouldn't</c><00:04:51.960><c> get</c><00:04:52.120><c> taken</c>
+
+00:04:52.430 --> 00:04:52.440 align:start position:0%
+trust that this high shouldn't get taken
+ 
+
+00:04:52.440 --> 00:04:54.870 align:start position:0%
+trust that this high shouldn't get taken
+out?<00:04:53.200><c> No,</c><00:04:53.600><c> so</c><00:04:53.760><c> I'm</c><00:04:53.840><c> going</c><00:04:53.960><c> to</c><00:04:54.080><c> let</c><00:04:54.240><c> it</c><00:04:54.320><c> continue</c>
+
+00:04:54.870 --> 00:04:54.880 align:start position:0%
+out? No, so I'm going to let it continue
+ 
+
+00:04:54.880 --> 00:04:57.270 align:start position:0%
+out? No, so I'm going to let it continue
+forward.
+
+00:04:57.270 --> 00:04:57.280 align:start position:0%
+forward.
+ 
+
+00:04:57.280 --> 00:04:58.870 align:start position:0%
+forward.
+Here<00:04:57.360><c> you</c><00:04:57.440><c> can</c><00:04:57.600><c> see,</c><00:04:58.200><c> do</c><00:04:58.320><c> I</c><00:04:58.440><c> answer</c><00:04:58.720><c> that</c>
+
+00:04:58.870 --> 00:04:58.880 align:start position:0%
+Here you can see, do I answer that
+ 
+
+00:04:58.880 --> 00:05:00.750 align:start position:0%
+Here you can see, do I answer that
+question<00:04:59.240><c> again</c><00:04:59.520><c> the</c><00:04:59.600><c> same</c><00:04:59.880><c> way?</c><00:05:00.400><c> Yes,</c><00:05:00.680><c> I</c>
+
+00:05:00.750 --> 00:05:00.760 align:start position:0%
+question again the same way? Yes, I
+ 
+
+00:05:00.760 --> 00:05:02.310 align:start position:0%
+question again the same way? Yes, I
+don't<00:05:01.040><c> trust</c><00:05:01.320><c> that</c><00:05:01.440><c> this</c><00:05:01.600><c> has</c><00:05:01.840><c> formed</c><00:05:02.160><c> the</c>
+
+00:05:02.310 --> 00:05:02.320 align:start position:0%
+don't trust that this has formed the
+ 
+
+00:05:02.320 --> 00:05:05.030 align:start position:0%
+don't trust that this has formed the
+wick<00:05:02.640><c> of</c><00:05:02.840><c> the</c><00:05:03.200><c> higher</c><00:05:03.480><c> time</c><00:05:03.680><c> frame</c><00:05:03.840><c> candle.</c>
+
+00:05:05.030 --> 00:05:05.040 align:start position:0%
+wick of the higher time frame candle.
+ 
+
+00:05:05.040 --> 00:05:06.870 align:start position:0%
+wick of the higher time frame candle.
+And<00:05:05.120><c> right</c><00:05:05.280><c> here,</c><00:05:05.680><c> a</c><00:05:05.840><c> very</c><00:05:06.200><c> shallow</c><00:05:06.520><c> sweep</c>
+
+00:05:06.870 --> 00:05:06.880 align:start position:0%
+And right here, a very shallow sweep
+ 
+
+00:05:06.880 --> 00:05:09.110 align:start position:0%
+And right here, a very shallow sweep
+into<00:05:07.160><c> this</c><00:05:07.400><c> gap,</c><00:05:08.160><c> and</c><00:05:08.240><c> you</c><00:05:08.280><c> can</c><00:05:08.400><c> see</c><00:05:08.640><c> we</c><00:05:08.800><c> can't</c>
+
+00:05:09.110 --> 00:05:09.120 align:start position:0%
+into this gap, and you can see we can't
+ 
+
+00:05:09.120 --> 00:05:10.909 align:start position:0%
+into this gap, and you can see we can't
+close<00:05:09.440><c> below</c><00:05:09.680><c> there.</c><00:05:10.120><c> We're</c><00:05:10.240><c> trying</c><00:05:10.720><c> to</c>
+
+00:05:10.909 --> 00:05:10.919 align:start position:0%
+close below there. We're trying to
+ 
+
+00:05:10.919 --> 00:05:13.870 align:start position:0%
+close below there. We're trying to
+consolidate<00:05:11.720><c> here,</c><00:05:11.960><c> so</c><00:05:12.440><c> once</c><00:05:12.680><c> again,</c><00:05:13.400><c> no,</c><00:05:13.800><c> I</c>
+
+00:05:13.870 --> 00:05:13.880 align:start position:0%
+consolidate here, so once again, no, I
+ 
+
+00:05:13.880 --> 00:05:15.670 align:start position:0%
+consolidate here, so once again, no, I
+don't<00:05:14.200><c> think</c><00:05:14.440><c> that</c><00:05:14.600><c> we</c><00:05:14.680><c> have</c><00:05:14.800><c> formed</c><00:05:15.360><c> the</c><00:05:15.480><c> wick</c>
+
+00:05:15.670 --> 00:05:15.680 align:start position:0%
+don't think that we have formed the wick
+ 
+
+00:05:15.680 --> 00:05:17.430 align:start position:0%
+don't think that we have formed the wick
+of<00:05:15.760><c> the</c><00:05:15.840><c> candle.</c><00:05:16.840><c> Now,</c><00:05:16.880><c> this</c><00:05:17.040><c> looks</c><00:05:17.200><c> like</c><00:05:17.360><c> a</c>
+
+00:05:17.430 --> 00:05:17.440 align:start position:0%
+of the candle. Now, this looks like a
+ 
+
+00:05:17.440 --> 00:05:19.350 align:start position:0%
+of the candle. Now, this looks like a
+pretty<00:05:17.720><c> decent</c><00:05:18.120><c> formation.</c><00:05:19.040><c> We</c><00:05:19.120><c> do</c><00:05:19.200><c> have</c><00:05:19.320><c> a</c>
+
+00:05:19.350 --> 00:05:19.360 align:start position:0%
+pretty decent formation. We do have a
+ 
+
+00:05:19.360 --> 00:05:20.750 align:start position:0%
+pretty decent formation. We do have a
+shallow<00:05:19.720><c> wick,</c>
+
+00:05:20.750 --> 00:05:20.760 align:start position:0%
+shallow wick,
+ 
+
+00:05:20.760 --> 00:05:22.470 align:start position:0%
+shallow wick,
+but<00:05:20.919><c> because</c><00:05:21.320><c> of</c><00:05:21.400><c> this</c><00:05:21.560><c> little</c><00:05:21.760><c> gap</c><00:05:22.040><c> up,</c><00:05:22.280><c> let's</c>
+
+00:05:22.470 --> 00:05:22.480 align:start position:0%
+but because of this little gap up, let's
+ 
+
+00:05:22.480 --> 00:05:23.830 align:start position:0%
+but because of this little gap up, let's
+see<00:05:22.560><c> what</c><00:05:22.680><c> it</c><00:05:22.760><c> looks</c><00:05:22.919><c> like</c><00:05:23.120><c> on</c><00:05:23.280><c> a</c><00:05:23.360><c> slightly</c>
+
+00:05:23.830 --> 00:05:23.840 align:start position:0%
+see what it looks like on a slightly
+ 
+
+00:05:23.840 --> 00:05:25.590 align:start position:0%
+see what it looks like on a slightly
+lower<00:05:24.080><c> time</c><00:05:24.320><c> frame,</c><00:05:24.760><c> like</c><00:05:24.919><c> the</c><00:05:25.040><c> 30-minute</c>
+
+00:05:25.590 --> 00:05:25.600 align:start position:0%
+lower time frame, like the 30-minute
+ 
+
+00:05:25.600 --> 00:05:27.630 align:start position:0%
+lower time frame, like the 30-minute
+here.<00:05:26.400><c> On</c><00:05:26.480><c> the</c><00:05:26.560><c> 30-minute</c><00:05:26.960><c> here,</c><00:05:27.360><c> what</c><00:05:27.480><c> do</c><00:05:27.560><c> I</c>
+
+00:05:27.630 --> 00:05:27.640 align:start position:0%
+here. On the 30-minute here, what do I
+ 
+
+00:05:27.640 --> 00:05:29.830 align:start position:0%
+here. On the 30-minute here, what do I
+see?<00:05:28.360><c> I</c><00:05:28.440><c> see</c><00:05:28.600><c> that</c><00:05:28.760><c> we</c><00:05:28.880><c> are</c><00:05:29.040><c> just</c><00:05:29.480><c> really</c>
+
+00:05:29.830 --> 00:05:29.840 align:start position:0%
+see? I see that we are just really
+ 
+
+00:05:29.840 --> 00:05:31.470 align:start position:0%
+see? I see that we are just really
+consolidating.
+
+00:05:31.470 --> 00:05:31.480 align:start position:0%
+consolidating.
+ 
+
+00:05:31.480 --> 00:05:33.390 align:start position:0%
+consolidating.
+I<00:05:31.520><c> would</c><00:05:31.640><c> have</c><00:05:31.760><c> wanted</c><00:05:32.080><c> to</c><00:05:32.240><c> see</c><00:05:32.919><c> if</c><00:05:33.080><c> this</c><00:05:33.280><c> was</c>
+
+00:05:33.390 --> 00:05:33.400 align:start position:0%
+I would have wanted to see if this was
+ 
+
+00:05:33.400 --> 00:05:35.909 align:start position:0%
+I would have wanted to see if this was
+going<00:05:33.600><c> to</c><00:05:33.640><c> be</c><00:05:33.720><c> a</c><00:05:33.800><c> reversal,</c><00:05:34.880><c> an</c><00:05:35.000><c> actual</c><00:05:35.480><c> sweep</c>
+
+00:05:35.909 --> 00:05:35.919 align:start position:0%
+going to be a reversal, an actual sweep
+ 
+
+00:05:35.919 --> 00:05:37.790 align:start position:0%
+going to be a reversal, an actual sweep
+into<00:05:36.200><c> that</c><00:05:36.440><c> high,</c><00:05:36.680><c> right?</c><00:05:37.280><c> So</c><00:05:37.360><c> I</c><00:05:37.400><c> got</c><00:05:37.560><c> a</c><00:05:37.600><c> little</c>
+
+00:05:37.790 --> 00:05:37.800 align:start position:0%
+into that high, right? So I got a little
+ 
+
+00:05:37.800 --> 00:05:39.390 align:start position:0%
+into that high, right? So I got a little
+too<00:05:38.000><c> close</c><00:05:38.240><c> to</c><00:05:38.360><c> that</c><00:05:38.520><c> high</c><00:05:38.760><c> forming</c><00:05:39.120><c> equal</c>
+
+00:05:39.390 --> 00:05:39.400 align:start position:0%
+too close to that high forming equal
+ 
+
+00:05:39.400 --> 00:05:42.030 align:start position:0%
+too close to that high forming equal
+highs,<00:05:40.280><c> so</c><00:05:40.480><c> it's</c><00:05:40.680><c> hard</c><00:05:41.000><c> for</c><00:05:41.120><c> me</c><00:05:41.240><c> to</c><00:05:41.360><c> say</c><00:05:41.560><c> yes,</c><00:05:41.960><c> I</c>
+
+00:05:42.030 --> 00:05:42.040 align:start position:0%
+highs, so it's hard for me to say yes, I
+ 
+
+00:05:42.040 --> 00:05:44.150 align:start position:0%
+highs, so it's hard for me to say yes, I
+trust<00:05:42.440><c> that</c><00:05:42.560><c> this</c><00:05:42.760><c> wick</c><00:05:42.960><c> has</c><00:05:43.200><c> formed.</c><00:05:44.040><c> So</c><00:05:44.120><c> I'm</c>
+
+00:05:44.150 --> 00:05:44.160 align:start position:0%
+trust that this wick has formed. So I'm
+ 
+
+00:05:44.160 --> 00:05:47.630 align:start position:0%
+trust that this wick has formed. So I'm
+going<00:05:44.280><c> to</c><00:05:44.360><c> let</c><00:05:44.520><c> another</c><00:05:44.880><c> candle</c><00:05:45.320><c> form.</c>
+
+00:05:47.630 --> 00:05:47.640 align:start position:0%
+going to let another candle form.
+ 
+
+00:05:47.640 --> 00:05:50.230 align:start position:0%
+going to let another candle form.
+And<00:05:47.880><c> who</c><00:05:48.080><c> knows,</c><00:05:48.560><c> right?</c><00:05:49.080><c> If</c><00:05:49.280><c> it</c><00:05:49.480><c> has</c><00:05:49.920><c> formed</c>
+
+00:05:50.230 --> 00:05:50.240 align:start position:0%
+And who knows, right? If it has formed
+ 
+
+00:05:50.240 --> 00:05:51.790 align:start position:0%
+And who knows, right? If it has formed
+its<00:05:50.400><c> wick,</c><00:05:51.000><c> then</c><00:05:51.120><c> it</c><00:05:51.200><c> will</c><00:05:51.320><c> form</c><00:05:51.520><c> a</c><00:05:51.560><c> new</c>
+
+00:05:51.790 --> 00:05:51.800 align:start position:0%
+its wick, then it will form a new
+ 
+
+00:05:51.800 --> 00:05:53.510 align:start position:0%
+its wick, then it will form a new
+continuation<00:05:52.520><c> in</c><00:05:52.600><c> here,</c><00:05:53.040><c> and</c><00:05:53.160><c> then</c><00:05:53.280><c> we</c><00:05:53.360><c> can</c>
+
+00:05:53.510 --> 00:05:53.520 align:start position:0%
+continuation in here, and then we can
+ 
+
+00:05:53.520 --> 00:05:55.350 align:start position:0%
+continuation in here, and then we can
+look<00:05:53.640><c> to</c><00:05:53.760><c> trade</c><00:05:54.000><c> it.</c><00:05:54.440><c> But</c><00:05:54.600><c> until</c><00:05:54.880><c> that,</c><00:05:55.280><c> we</c>
+
+00:05:55.350 --> 00:05:55.360 align:start position:0%
+look to trade it. But until that, we
+ 
+
+00:05:55.360 --> 00:05:58.830 align:start position:0%
+look to trade it. But until that, we
+need<00:05:55.520><c> to</c><00:05:55.640><c> let</c><00:05:55.800><c> this</c><00:05:56.280><c> continue</c><00:05:56.760><c> to</c><00:05:57.000><c> form.</c>
+
+00:05:58.830 --> 00:05:58.840 align:start position:0%
+need to let this continue to form.
+ 
+
+00:05:58.840 --> 00:06:00.830 align:start position:0%
+need to let this continue to form.
+And<00:05:58.920><c> you</c><00:05:59.000><c> can</c><00:05:59.120><c> see,</c><00:05:59.760><c> now</c><00:06:00.120><c> here</c><00:06:00.600><c> we</c><00:06:00.760><c> are</c>
+
+00:06:00.830 --> 00:06:00.840 align:start position:0%
+And you can see, now here we are
+ 
+
+00:06:00.840 --> 00:06:02.430 align:start position:0%
+And you can see, now here we are
+reaching<00:06:01.160><c> back</c><00:06:01.400><c> up</c><00:06:01.520><c> towards</c><00:06:01.760><c> this</c><00:06:01.960><c> high.</c><00:06:02.360><c> We</c>
+
+00:06:02.430 --> 00:06:02.440 align:start position:0%
+reaching back up towards this high. We
+ 
+
+00:06:02.440 --> 00:06:04.590 align:start position:0%
+reaching back up towards this high. We
+have<00:06:02.520><c> this</c><00:06:02.680><c> little</c><00:06:02.880><c> consolidation</c><00:06:03.720><c> range.</c><00:06:04.480><c> Do</c>
+
+00:06:04.590 --> 00:06:04.600 align:start position:0%
+have this little consolidation range. Do
+ 
+
+00:06:04.600 --> 00:06:06.350 align:start position:0%
+have this little consolidation range. Do
+I<00:06:04.680><c> think</c><00:06:04.880><c> that</c><00:06:05.040><c> this</c><00:06:05.600><c> is</c><00:06:05.760><c> the</c><00:06:05.920><c> wick</c><00:06:06.160><c> of</c><00:06:06.280><c> the</c>
+
+00:06:06.350 --> 00:06:06.360 align:start position:0%
+I think that this is the wick of the
+ 
+
+00:06:06.360 --> 00:06:08.030 align:start position:0%
+I think that this is the wick of the
+daily<00:06:06.640><c> candle</c><00:06:07.200><c> or</c><00:06:07.320><c> this</c><00:06:07.480><c> higher</c><00:06:07.680><c> time</c><00:06:07.840><c> frame</c>
+
+00:06:08.030 --> 00:06:08.040 align:start position:0%
+daily candle or this higher time frame
+ 
+
+00:06:08.040 --> 00:06:11.230 align:start position:0%
+daily candle or this higher time frame
+candle?<00:06:08.960><c> Not</c><00:06:09.240><c> yet.</c><00:06:10.000><c> So,</c><00:06:10.040><c> I</c><00:06:10.120><c> just</c><00:06:10.320><c> continue</c><00:06:11.000><c> to</c>
+
+00:06:11.230 --> 00:06:11.240 align:start position:0%
+candle? Not yet. So, I just continue to
+ 
+
+00:06:11.240 --> 00:06:13.790 align:start position:0%
+candle? Not yet. So, I just continue to
+do<00:06:11.400><c> this</c><00:06:11.720><c> over</c><00:06:12.040><c> and</c><00:06:12.200><c> over</c><00:06:12.920><c> until</c><00:06:13.240><c> I</c><00:06:13.280><c> can</c><00:06:13.480><c> answer</c>
+
+00:06:13.790 --> 00:06:13.800 align:start position:0%
+do this over and over until I can answer
+ 
+
+00:06:13.800 --> 00:06:15.870 align:start position:0%
+do this over and over until I can answer
+the<00:06:13.880><c> question,</c><00:06:14.600><c> yes,</c><00:06:15.040><c> I</c><00:06:15.120><c> think</c><00:06:15.440><c> that</c><00:06:15.600><c> we</c><00:06:15.720><c> have</c>
+
+00:06:15.870 --> 00:06:15.880 align:start position:0%
+the question, yes, I think that we have
+ 
+
+00:06:15.880 --> 00:06:18.270 align:start position:0%
+the question, yes, I think that we have
+formed<00:06:16.200><c> the</c><00:06:16.320><c> wick</c><00:06:16.640><c> of</c><00:06:16.760><c> the</c><00:06:16.840><c> daily</c><00:06:17.160><c> candle.</c><00:06:18.160><c> Now</c>
+
+00:06:18.270 --> 00:06:18.280 align:start position:0%
+formed the wick of the daily candle. Now
+ 
+
+00:06:18.280 --> 00:06:20.310 align:start position:0%
+formed the wick of the daily candle. Now
+here<00:06:18.480><c> we</c><00:06:18.680><c> are</c><00:06:19.000><c> reaching</c><00:06:19.360><c> a</c><00:06:19.440><c> bit</c><00:06:19.800><c> higher</c><00:06:20.120><c> up</c>
+
+00:06:20.310 --> 00:06:20.320 align:start position:0%
+here we are reaching a bit higher up
+ 
+
+00:06:20.320 --> 00:06:22.630 align:start position:0%
+here we are reaching a bit higher up
+into<00:06:20.560><c> this</c><00:06:20.760><c> range.</c><00:06:21.600><c> So,</c><00:06:22.280><c> I</c><00:06:22.360><c> have</c><00:06:22.440><c> a</c><00:06:22.480><c> few</c>
+
+00:06:22.630 --> 00:06:22.640 align:start position:0%
+into this range. So, I have a few
+ 
+
+00:06:22.640 --> 00:06:24.790 align:start position:0%
+into this range. So, I have a few
+options.<00:06:23.360><c> I</c><00:06:23.440><c> can</c><00:06:23.600><c> continue</c><00:06:24.000><c> to</c><00:06:24.080><c> look</c><00:06:24.240><c> for</c><00:06:24.440><c> it</c>
+
+00:06:24.790 --> 00:06:24.800 align:start position:0%
+options. I can continue to look for it
+ 
+
+00:06:24.800 --> 00:06:26.670 align:start position:0%
+options. I can continue to look for it
+or<00:06:24.960><c> say,</c><00:06:25.600><c> "Mhm,</c><00:06:25.680><c> it's</c><00:06:25.880><c> disrespecting</c><00:06:26.520><c> this</c>
+
+00:06:26.670 --> 00:06:26.680 align:start position:0%
+or say, "Mhm, it's disrespecting this
+ 
+
+00:06:26.680 --> 00:06:28.830 align:start position:0%
+or say, "Mhm, it's disrespecting this
+gap."<00:06:27.120><c> And</c><00:06:27.240><c> I</c><00:06:27.320><c> can</c><00:06:27.880><c> just</c><00:06:28.120><c> look</c><00:06:28.320><c> for</c><00:06:28.400><c> the</c><00:06:28.520><c> next</c>
+
+00:06:28.830 --> 00:06:28.840 align:start position:0%
+gap." And I can just look for the next
+ 
+
+00:06:28.840 --> 00:06:32.430 align:start position:0%
+gap." And I can just look for the next
+day.<00:06:29.520><c> Let's</c><00:06:29.680><c> go</c><00:06:29.760><c> ahead</c><00:06:29.960><c> and</c><00:06:30.080><c> continue.</c>
+
+00:06:32.430 --> 00:06:32.440 align:start position:0%
+day. Let's go ahead and continue.
+ 
+
+00:06:32.440 --> 00:06:34.510 align:start position:0%
+day. Let's go ahead and continue.
+So,<00:06:32.560><c> we</c><00:06:32.720><c> have</c><00:06:32.880><c> this</c><00:06:33.040><c> expansion,</c><00:06:34.160><c> another</c>
+
+00:06:34.510 --> 00:06:34.520 align:start position:0%
+So, we have this expansion, another
+ 
+
+00:06:34.520 --> 00:06:37.430 align:start position:0%
+So, we have this expansion, another
+little<00:06:35.040><c> consolidation</c><00:06:36.000><c> or</c><00:06:36.160><c> retracement.</c><00:06:37.280><c> So,</c>
+
+00:06:37.430 --> 00:06:37.440 align:start position:0%
+little consolidation or retracement. So,
+ 
+
+00:06:37.440 --> 00:06:39.110 align:start position:0%
+little consolidation or retracement. So,
+generally<00:06:37.800><c> want</c><00:06:37.960><c> to</c><00:06:38.080><c> see</c><00:06:38.240><c> one</c><00:06:38.400><c> more</c><00:06:38.600><c> high,</c><00:06:39.040><c> and</c>
+
+00:06:39.110 --> 00:06:39.120 align:start position:0%
+generally want to see one more high, and
+ 
+
+00:06:39.120 --> 00:06:41.150 align:start position:0%
+generally want to see one more high, and
+this<00:06:39.200><c> would</c><00:06:39.320><c> be</c><00:06:39.400><c> kind</c><00:06:39.600><c> of</c><00:06:39.680><c> our</c><00:06:39.800><c> last</c><00:06:40.120><c> chance</c>
+
+00:06:41.150 --> 00:06:41.160 align:start position:0%
+this would be kind of our last chance
+ 
+
+00:06:41.160 --> 00:06:43.430 align:start position:0%
+this would be kind of our last chance
+before<00:06:41.400><c> I</c><00:06:41.480><c> give</c><00:06:41.640><c> up</c><00:06:41.840><c> on</c><00:06:41.960><c> the</c><00:06:42.120><c> idea.</c>
+
+00:06:43.430 --> 00:06:43.440 align:start position:0%
+before I give up on the idea.
+ 
+
+00:06:43.440 --> 00:06:45.190 align:start position:0%
+before I give up on the idea.
+But<00:06:43.480><c> you</c><00:06:43.560><c> can</c><00:06:43.680><c> see,</c><00:06:44.080><c> we</c><00:06:44.240><c> sweep</c><00:06:44.600><c> out</c><00:06:44.720><c> that</c><00:06:44.960><c> high.</c>
+
+00:06:45.190 --> 00:06:45.200 align:start position:0%
+But you can see, we sweep out that high.
+ 
+
+00:06:45.200 --> 00:06:47.430 align:start position:0%
+But you can see, we sweep out that high.
+We<00:06:45.360><c> have</c><00:06:45.520><c> a</c><00:06:45.560><c> nice</c><00:06:45.840><c> candle</c><00:06:46.240><c> closure.</c><00:06:47.240><c> So,</c><00:06:47.280><c> this</c>
+
+00:06:47.430 --> 00:06:47.440 align:start position:0%
+We have a nice candle closure. So, this
+ 
+
+00:06:47.440 --> 00:06:49.710 align:start position:0%
+We have a nice candle closure. So, this
+could<00:06:47.560><c> be</c><00:06:47.680><c> something</c><00:06:48.080><c> where</c><00:06:48.200><c> I</c><00:06:48.280><c> say,</c><00:06:48.760><c> "Okay,</c>
+
+00:06:49.710 --> 00:06:49.720 align:start position:0%
+could be something where I say, "Okay,
+ 
+
+00:06:49.720 --> 00:06:51.190 align:start position:0%
+could be something where I say, "Okay,
+if<00:06:49.880><c> we</c><00:06:50.000><c> are</c><00:06:50.120><c> going</c><00:06:50.280><c> to</c><00:06:50.360><c> trade</c><00:06:50.560><c> lower,</c><00:06:50.960><c> this</c><00:06:51.080><c> is</c>
+
+00:06:51.190 --> 00:06:51.200 align:start position:0%
+if we are going to trade lower, this is
+ 
+
+00:06:51.200 --> 00:06:52.990 align:start position:0%
+if we are going to trade lower, this is
+kind<00:06:51.400><c> of</c><00:06:51.480><c> the</c><00:06:51.640><c> last</c><00:06:51.960><c> spot</c><00:06:52.560><c> where</c><00:06:52.640><c> I</c><00:06:52.680><c> look</c><00:06:52.880><c> for</c>
+
+00:06:52.990 --> 00:06:53.000 align:start position:0%
+kind of the last spot where I look for
+ 
+
+00:06:53.000 --> 00:06:54.990 align:start position:0%
+kind of the last spot where I look for
+this<00:06:53.200><c> wick</c><00:06:53.440><c> to</c><00:06:53.600><c> form."</c><00:06:54.400><c> But</c><00:06:54.560><c> how</c><00:06:54.640><c> am</c><00:06:54.760><c> I</c><00:06:54.840><c> going</c>
+
+00:06:54.990 --> 00:06:55.000 align:start position:0%
+this wick to form." But how am I going
+ 
+
+00:06:55.000 --> 00:06:56.909 align:start position:0%
+this wick to form." But how am I going
+to<00:06:55.120><c> confirm</c><00:06:55.560><c> that?</c><00:06:55.960><c> I</c><00:06:56.000><c> need</c><00:06:56.240><c> a</c><00:06:56.320><c> change</c><00:06:56.760><c> in</c><00:06:56.840><c> the</c>
+
+00:06:56.909 --> 00:06:56.919 align:start position:0%
+to confirm that? I need a change in the
+ 
+
+00:06:56.919 --> 00:06:58.550 align:start position:0%
+to confirm that? I need a change in the
+state<00:06:57.120><c> of</c><00:06:57.200><c> delivery.</c>
+
+00:06:58.550 --> 00:06:58.560 align:start position:0%
+state of delivery.
+ 
+
+00:06:58.560 --> 00:07:01.150 align:start position:0%
+state of delivery.
+So,<00:06:58.760><c> a</c><00:06:58.840><c> closure</c><00:06:59.240><c> through</c><00:06:59.720><c> this</c><00:06:59.960><c> area</c><00:07:00.320><c> here.</c>
+
+00:07:01.150 --> 00:07:01.160 align:start position:0%
+So, a closure through this area here.
+ 
+
+00:07:01.160 --> 00:07:02.990 align:start position:0%
+So, a closure through this area here.
+Let's<00:07:01.360><c> see</c><00:07:01.520><c> if</c><00:07:01.680><c> we</c><00:07:01.800><c> get</c><00:07:02.000><c> that.</c>
+
+00:07:02.990 --> 00:07:03.000 align:start position:0%
+Let's see if we get that.
+ 
+
+00:07:03.000 --> 00:07:04.670 align:start position:0%
+Let's see if we get that.
+And<00:07:03.120><c> we</c><00:07:03.240><c> do</c><00:07:03.400><c> get</c><00:07:03.600><c> that.</c><00:07:04.120><c> And</c><00:07:04.200><c> let's</c><00:07:04.360><c> say</c><00:07:04.480><c> this</c>
+
+00:07:04.670 --> 00:07:04.680 align:start position:0%
+And we do get that. And let's say this
+ 
+
+00:07:04.680 --> 00:07:06.350 align:start position:0%
+And we do get that. And let's say this
+doesn't<00:07:05.000><c> look</c><00:07:05.160><c> very</c><00:07:05.400><c> clean</c><00:07:05.680><c> to</c><00:07:05.800><c> you,</c><00:07:06.080><c> you</c><00:07:06.160><c> can</c>
+
+00:07:06.350 --> 00:07:06.360 align:start position:0%
+doesn't look very clean to you, you can
+ 
+
+00:07:06.360 --> 00:07:07.950 align:start position:0%
+doesn't look very clean to you, you can
+always<00:07:06.600><c> adjust</c><00:07:06.960><c> your</c><00:07:07.080><c> time</c><00:07:07.320><c> frames</c><00:07:07.560><c> a</c><00:07:07.600><c> little.</c>
+
+00:07:07.950 --> 00:07:07.960 align:start position:0%
+always adjust your time frames a little.
+ 
+
+00:07:07.960 --> 00:07:09.750 align:start position:0%
+always adjust your time frames a little.
+So,<00:07:08.080><c> I</c><00:07:08.120><c> could</c><00:07:08.240><c> go</c><00:07:08.360><c> to</c><00:07:08.480><c> the</c><00:07:08.560><c> 30-minute</c><00:07:09.080><c> here,</c>
+
+00:07:09.750 --> 00:07:09.760 align:start position:0%
+So, I could go to the 30-minute here,
+ 
+
+00:07:09.760 --> 00:07:11.670 align:start position:0%
+So, I could go to the 30-minute here,
+and<00:07:09.840><c> you</c><00:07:09.880><c> can</c><00:07:10.000><c> see</c><00:07:10.240><c> how</c><00:07:10.400><c> this</c><00:07:10.600><c> is</c><00:07:10.760><c> a</c><00:07:10.840><c> nice</c><00:07:11.320><c> big</c>
+
+00:07:11.670 --> 00:07:11.680 align:start position:0%
+and you can see how this is a nice big
+ 
+
+00:07:11.680 --> 00:07:13.470 align:start position:0%
+and you can see how this is a nice big
+up<00:07:11.840><c> close</c><00:07:12.080><c> candle</c><00:07:12.360><c> here,</c><00:07:12.760><c> and</c><00:07:12.880><c> we</c><00:07:12.960><c> have</c><00:07:13.080><c> closed</c>
+
+00:07:13.470 --> 00:07:13.480 align:start position:0%
+up close candle here, and we have closed
+ 
+
+00:07:13.480 --> 00:07:14.750 align:start position:0%
+up close candle here, and we have closed
+below<00:07:13.840><c> it.</c>
+
+00:07:14.750 --> 00:07:14.760 align:start position:0%
+below it.
+ 
+
+00:07:14.760 --> 00:07:17.630 align:start position:0%
+below it.
+So,<00:07:15.400><c> now</c><00:07:15.640><c> we</c><00:07:15.800><c> have</c><00:07:16.000><c> the</c><00:07:16.120><c> logic</c><00:07:16.640><c> of</c><00:07:17.240><c> if</c><00:07:17.440><c> we</c><00:07:17.560><c> are</c>
+
+00:07:17.630 --> 00:07:17.640 align:start position:0%
+So, now we have the logic of if we are
+ 
+
+00:07:17.640 --> 00:07:19.909 align:start position:0%
+So, now we have the logic of if we are
+looking<00:07:17.960><c> to</c><00:07:18.160><c> trade</c><00:07:18.600><c> this</c><00:07:18.880><c> lower,</c><00:07:19.640><c> we</c><00:07:19.760><c> could</c>
+
+00:07:19.909 --> 00:07:19.919 align:start position:0%
+looking to trade this lower, we could
+ 
+
+00:07:19.919 --> 00:07:22.070 align:start position:0%
+looking to trade this lower, we could
+anticipate<00:07:21.040><c> that</c><00:07:21.200><c> this</c><00:07:21.400><c> would</c><00:07:21.520><c> be</c><00:07:21.640><c> the</c><00:07:21.840><c> high</c>
+
+00:07:22.070 --> 00:07:22.080 align:start position:0%
+anticipate that this would be the high
+ 
+
+00:07:22.080 --> 00:07:23.190 align:start position:0%
+anticipate that this would be the high
+of<00:07:22.160><c> the</c><00:07:22.240><c> day.</c>
+
+00:07:23.190 --> 00:07:23.200 align:start position:0%
+of the day.
+ 
+
+00:07:23.200 --> 00:07:24.590 align:start position:0%
+of the day.
+If<00:07:23.320><c> this</c><00:07:23.480><c> is</c><00:07:23.560><c> not</c><00:07:23.680><c> the</c><00:07:23.800><c> high</c><00:07:23.919><c> of</c><00:07:24.000><c> the</c><00:07:24.080><c> day,</c><00:07:24.440><c> then</c>
+
+00:07:24.590 --> 00:07:24.600 align:start position:0%
+If this is not the high of the day, then
+ 
+
+00:07:24.600 --> 00:07:26.510 align:start position:0%
+If this is not the high of the day, then
+it<00:07:24.720><c> likely</c><00:07:25.080><c> fails.</c><00:07:25.960><c> So,</c><00:07:26.040><c> now</c><00:07:26.160><c> that</c><00:07:26.320><c> I</c><00:07:26.360><c> have</c>
+
+00:07:26.510 --> 00:07:26.520 align:start position:0%
+it likely fails. So, now that I have
+ 
+
+00:07:26.520 --> 00:07:28.710 align:start position:0%
+it likely fails. So, now that I have
+anticipated<00:07:27.160><c> the</c><00:07:27.360><c> wick</c><00:07:27.600><c> to</c><00:07:27.800><c> form,</c><00:07:28.440><c> what</c><00:07:28.600><c> can</c>
+
+00:07:28.710 --> 00:07:28.720 align:start position:0%
+anticipated the wick to form, what can
+ 
+
+00:07:28.720 --> 00:07:31.070 align:start position:0%
+anticipated the wick to form, what can
+we<00:07:28.840><c> do?</c><00:07:29.440><c> We</c><00:07:29.560><c> could</c><00:07:29.760><c> look</c><00:07:29.919><c> to</c><00:07:30.080><c> trade</c><00:07:30.560><c> the</c><00:07:30.720><c> body</c>
+
+00:07:31.070 --> 00:07:31.080 align:start position:0%
+we do? We could look to trade the body
+ 
+
+00:07:31.080 --> 00:07:32.790 align:start position:0%
+we do? We could look to trade the body
+of<00:07:31.200><c> the</c><00:07:31.280><c> candle.</c><00:07:32.240><c> And</c><00:07:32.320><c> that's</c><00:07:32.520><c> why</c><00:07:32.640><c> you'll</c>
+
+00:07:32.790 --> 00:07:32.800 align:start position:0%
+of the candle. And that's why you'll
+ 
+
+00:07:32.800 --> 00:07:34.710 align:start position:0%
+of the candle. And that's why you'll
+hear<00:07:32.960><c> me</c><00:07:33.080><c> say</c><00:07:33.320><c> I</c><00:07:33.400><c> want</c><00:07:33.600><c> to</c><00:07:33.760><c> enter</c><00:07:34.080><c> around</c><00:07:34.600><c> the</c>
+
+00:07:34.710 --> 00:07:34.720 align:start position:0%
+hear me say I want to enter around the
+ 
+
+00:07:34.720 --> 00:07:37.510 align:start position:0%
+hear me say I want to enter around the
+opening<00:07:35.080><c> price.</c><00:07:36.000><c> Let</c><00:07:36.160><c> the</c><00:07:36.280><c> wick</c><00:07:36.480><c> form,</c><00:07:37.240><c> enter</c>
+
+00:07:37.510 --> 00:07:37.520 align:start position:0%
+opening price. Let the wick form, enter
+ 
+
+00:07:37.520 --> 00:07:39.270 align:start position:0%
+opening price. Let the wick form, enter
+around<00:07:37.800><c> the</c><00:07:37.880><c> opening</c><00:07:38.160><c> price,</c><00:07:38.600><c> because</c><00:07:38.960><c> if</c><00:07:39.120><c> you</c>
+
+00:07:39.270 --> 00:07:39.280 align:start position:0%
+around the opening price, because if you
+ 
+
+00:07:39.280 --> 00:07:41.310 align:start position:0%
+around the opening price, because if you
+enter<00:07:39.919><c> around</c><00:07:40.240><c> the</c><00:07:40.360><c> opening</c><00:07:40.600><c> price,</c><00:07:41.080><c> you</c><00:07:41.200><c> can</c>
+
+00:07:41.310 --> 00:07:41.320 align:start position:0%
+enter around the opening price, you can
+ 
+
+00:07:41.320 --> 00:07:43.430 align:start position:0%
+enter around the opening price, you can
+get<00:07:41.520><c> on</c><00:07:41.720><c> side</c><00:07:42.360><c> with</c><00:07:42.520><c> the</c><00:07:42.600><c> expansion</c><00:07:43.200><c> of</c><00:07:43.280><c> that</c>
+
+00:07:43.430 --> 00:07:43.440 align:start position:0%
+get on side with the expansion of that
+ 
+
+00:07:43.440 --> 00:07:45.590 align:start position:0%
+get on side with the expansion of that
+candle<00:07:43.960><c> or</c><00:07:44.080><c> the</c><00:07:44.240><c> big</c><00:07:44.560><c> body.</c>
+
+00:07:45.590 --> 00:07:45.600 align:start position:0%
+candle or the big body.
+ 
+
+00:07:45.600 --> 00:07:47.590 align:start position:0%
+candle or the big body.
+So,<00:07:46.120><c> even</c><00:07:46.400><c> here</c><00:07:46.600><c> just</c><00:07:46.800><c> on</c><00:07:46.920><c> the</c><00:07:47.000><c> hourly,</c><00:07:47.520><c> I</c>
+
+00:07:47.590 --> 00:07:47.600 align:start position:0%
+So, even here just on the hourly, I
+ 
+
+00:07:47.600 --> 00:07:49.430 align:start position:0%
+So, even here just on the hourly, I
+could<00:07:47.760><c> look</c><00:07:47.880><c> to</c><00:07:48.000><c> take</c><00:07:48.160><c> an</c><00:07:48.240><c> entry,</c><00:07:48.720><c> put</c><00:07:48.880><c> my</c><00:07:49.000><c> stop</c>
+
+00:07:49.430 --> 00:07:49.440 align:start position:0%
+could look to take an entry, put my stop
+ 
+
+00:07:49.440 --> 00:07:51.310 align:start position:0%
+could look to take an entry, put my stop
+on<00:07:49.680><c> that</c><00:07:49.840><c> invalidation.</c>
+
+00:07:51.310 --> 00:07:51.320 align:start position:0%
+on that invalidation.
+ 
+
+00:07:51.320 --> 00:07:52.350 align:start position:0%
+on that invalidation.
+And<00:07:51.400><c> here</c><00:07:51.520><c> it</c><00:07:51.600><c> can</c><00:07:51.720><c> make</c><00:07:51.840><c> sense</c><00:07:52.080><c> cuz</c><00:07:52.240><c> I'm</c>
+
+00:07:52.350 --> 00:07:52.360 align:start position:0%
+And here it can make sense cuz I'm
+ 
+
+00:07:52.360 --> 00:07:54.630 align:start position:0%
+And here it can make sense cuz I'm
+getting<00:07:52.640><c> 2R</c><00:07:53.600><c> right</c><00:07:53.720><c> in</c><00:07:53.840><c> towards</c><00:07:54.160><c> this</c><00:07:54.360><c> gap</c>
+
+00:07:54.630 --> 00:07:54.640 align:start position:0%
+getting 2R right in towards this gap
+ 
+
+00:07:54.640 --> 00:07:56.790 align:start position:0%
+getting 2R right in towards this gap
+here.<00:07:55.360><c> Or</c><00:07:55.560><c> I</c><00:07:55.600><c> could</c><00:07:55.800><c> look</c><00:07:55.960><c> for</c><00:07:56.160><c> a</c><00:07:56.240><c> lower</c><00:07:56.560><c> time</c>
+
+00:07:56.790 --> 00:07:56.800 align:start position:0%
+here. Or I could look for a lower time
+ 
+
+00:07:56.800 --> 00:07:58.630 align:start position:0%
+here. Or I could look for a lower time
+frame<00:07:56.960><c> fractal</c><00:07:57.320><c> model,</c><00:07:57.760><c> such</c><00:07:58.000><c> as</c><00:07:58.120><c> a</c><00:07:58.200><c> 4-hour</c>
+
+00:07:58.630 --> 00:07:58.640 align:start position:0%
+frame fractal model, such as a 4-hour
+ 
+
+00:07:58.640 --> 00:08:00.670 align:start position:0%
+frame fractal model, such as a 4-hour
+and<00:07:58.720><c> 15-minute</c><00:07:59.240><c> model,</c><00:07:59.920><c> or</c><00:08:00.080><c> even</c><00:08:00.280><c> the</c><00:08:00.400><c> hourly</c>
+
+00:08:00.670 --> 00:08:00.680 align:start position:0%
+and 15-minute model, or even the hourly
+ 
+
+00:08:00.680 --> 00:08:02.190 align:start position:0%
+and 15-minute model, or even the hourly
+and<00:08:00.840><c> 5-minute</c><00:08:01.280><c> model.</c>
+
+00:08:02.190 --> 00:08:02.200 align:start position:0%
+and 5-minute model.
+ 
+
+00:08:02.200 --> 00:08:04.470 align:start position:0%
+and 5-minute model.
+Let's<00:08:02.360><c> see</c><00:08:02.480><c> what</c><00:08:02.600><c> happens</c><00:08:02.960><c> here.</c>
+
+00:08:04.470 --> 00:08:04.480 align:start position:0%
+Let's see what happens here.
+ 
+
+00:08:04.480 --> 00:08:05.830 align:start position:0%
+Let's see what happens here.
+You<00:08:04.520><c> can</c><00:08:04.640><c> see</c><00:08:04.800><c> we</c><00:08:04.920><c> do</c><00:08:05.040><c> get</c><00:08:05.160><c> that</c><00:08:05.280><c> expansion</c>
+
+00:08:05.830 --> 00:08:05.840 align:start position:0%
+You can see we do get that expansion
+ 
+
+00:08:05.840 --> 00:08:08.190 align:start position:0%
+You can see we do get that expansion
+lower.<00:08:06.480><c> Go</c><00:08:06.680><c> back</c><00:08:06.960><c> and</c><00:08:07.160><c> look</c><00:08:07.280><c> at</c><00:08:07.360><c> this.</c><00:08:07.880><c> Watch</c>
+
+00:08:08.190 --> 00:08:08.200 align:start position:0%
+lower. Go back and look at this. Watch
+ 
+
+00:08:08.200 --> 00:08:10.870 align:start position:0%
+lower. Go back and look at this. Watch
+how<00:08:08.360><c> this</c><00:08:08.680><c> forms</c><00:08:09.240><c> its</c><00:08:09.480><c> wick.</c><00:08:10.200><c> We</c><00:08:10.320><c> form</c><00:08:10.680><c> its</c>
+
+00:08:10.870 --> 00:08:10.880 align:start position:0%
+how this forms its wick. We form its
+ 
+
+00:08:10.880 --> 00:08:13.150 align:start position:0%
+how this forms its wick. We form its
+wick.<00:08:11.800><c> Then</c><00:08:11.920><c> it</c><00:08:12.000><c> goes</c><00:08:12.240><c> ahead</c><00:08:12.600><c> and</c><00:08:12.800><c> flips</c>
+
+00:08:13.150 --> 00:08:13.160 align:start position:0%
+wick. Then it goes ahead and flips
+ 
+
+00:08:13.160 --> 00:08:14.310 align:start position:0%
+wick. Then it goes ahead and flips
+bearish,<00:08:13.600><c> right?</c><00:08:13.840><c> So,</c><00:08:13.919><c> this</c><00:08:14.080><c> is</c><00:08:14.160><c> what</c><00:08:14.240><c> I'm</c>
+
+00:08:14.310 --> 00:08:14.320 align:start position:0%
+bearish, right? So, this is what I'm
+ 
+
+00:08:14.320 --> 00:08:16.310 align:start position:0%
+bearish, right? So, this is what I'm
+saying.<00:08:14.680><c> We</c><00:08:14.840><c> let</c><00:08:15.040><c> the</c><00:08:15.120><c> wick</c><00:08:15.360><c> form.</c><00:08:15.919><c> Now</c><00:08:16.120><c> we</c><00:08:16.240><c> are</c>
+
+00:08:16.310 --> 00:08:16.320 align:start position:0%
+saying. We let the wick form. Now we are
+ 
+
+00:08:16.320 --> 00:08:18.470 align:start position:0%
+saying. We let the wick form. Now we are
+starting<00:08:16.600><c> to</c><00:08:16.800><c> form</c><00:08:17.240><c> the</c><00:08:17.400><c> body</c><00:08:17.680><c> of</c><00:08:17.760><c> the</c><00:08:17.840><c> candle.</c>
+
+00:08:18.470 --> 00:08:18.480 align:start position:0%
+starting to form the body of the candle.
+ 
+
+00:08:18.480 --> 00:08:20.150 align:start position:0%
+starting to form the body of the candle.
+Once<00:08:18.680><c> again,</c><00:08:19.320><c> that's</c><00:08:19.520><c> why</c><00:08:19.600><c> I</c><00:08:19.640><c> want</c><00:08:19.800><c> to</c><00:08:19.840><c> enter</c>
+
+00:08:20.150 --> 00:08:20.160 align:start position:0%
+Once again, that's why I want to enter
+ 
+
+00:08:20.160 --> 00:08:22.390 align:start position:0%
+Once again, that's why I want to enter
+around<00:08:20.760><c> the</c><00:08:20.919><c> opening</c><00:08:21.280><c> price</c><00:08:21.840><c> of</c><00:08:22.000><c> my</c><00:08:22.160><c> higher</c>
+
+00:08:22.390 --> 00:08:22.400 align:start position:0%
+around the opening price of my higher
+ 
+
+00:08:22.400 --> 00:08:23.830 align:start position:0%
+around the opening price of my higher
+time<00:08:22.600><c> frame</c><00:08:22.800><c> candle.</c>
+
+00:08:23.830 --> 00:08:23.840 align:start position:0%
+time frame candle.
+ 
+
+00:08:23.840 --> 00:08:25.470 align:start position:0%
+time frame candle.
+Let's<00:08:24.000><c> see</c><00:08:24.080><c> what</c><00:08:24.200><c> happens</c><00:08:24.520><c> here.</c>
+
+00:08:25.470 --> 00:08:25.480 align:start position:0%
+Let's see what happens here.
+ 
+
+00:08:25.480 --> 00:08:28.390 align:start position:0%
+Let's see what happens here.
+We<00:08:25.560><c> go</c><00:08:25.760><c> in</c><00:08:25.919><c> hit</c><00:08:26.120><c> this.</c><00:08:26.919><c> But,</c><00:08:27.800><c> we</c><00:08:27.880><c> can</c><00:08:28.000><c> go</c><00:08:28.120><c> ahead</c>
+
+00:08:28.390 --> 00:08:28.400 align:start position:0%
+We go in hit this. But, we can go ahead
+ 
+
+00:08:28.400 --> 00:08:30.550 align:start position:0%
+We go in hit this. But, we can go ahead
+and<00:08:28.560><c> do</c><00:08:28.720><c> this</c><00:08:28.919><c> on</c><00:08:29.200><c> any</c><00:08:29.440><c> time</c><00:08:29.760><c> frame,</c><00:08:30.320><c> and</c><00:08:30.440><c> we'll</c>
+
+00:08:30.550 --> 00:08:30.560 align:start position:0%
+and do this on any time frame, and we'll
+ 
+
+00:08:30.560 --> 00:08:32.230 align:start position:0%
+and do this on any time frame, and we'll
+do<00:08:30.680><c> it</c><00:08:30.800><c> again.</c><00:08:31.320><c> But,</c><00:08:31.440><c> we</c><00:08:31.520><c> just</c><00:08:31.760><c> want</c><00:08:31.880><c> to</c><00:08:32.000><c> let</c>
+
+00:08:32.230 --> 00:08:32.240 align:start position:0%
+do it again. But, we just want to let
+ 
+
+00:08:32.240 --> 00:08:33.990 align:start position:0%
+do it again. But, we just want to let
+the<00:08:32.320><c> wick</c><00:08:32.560><c> form,</c><00:08:33.320><c> and</c><00:08:33.400><c> then</c><00:08:33.520><c> we</c><00:08:33.560><c> can</c><00:08:33.719><c> look</c><00:08:33.880><c> to</c>
+
+00:08:33.990 --> 00:08:34.000 align:start position:0%
+the wick form, and then we can look to
+ 
+
+00:08:34.000 --> 00:08:36.190 align:start position:0%
+the wick form, and then we can look to
+trade<00:08:34.320><c> the</c><00:08:34.400><c> body</c><00:08:35.000><c> or</c><00:08:35.159><c> the</c><00:08:35.280><c> expansion</c><00:08:35.919><c> of</c><00:08:36.039><c> that</c>
+
+00:08:36.190 --> 00:08:36.200 align:start position:0%
+trade the body or the expansion of that
+ 
+
+00:08:36.200 --> 00:08:38.190 align:start position:0%
+trade the body or the expansion of that
+candle.<00:08:37.200><c> Now,</c><00:08:37.240><c> if</c><00:08:37.360><c> you</c><00:08:37.440><c> do</c><00:08:37.640><c> have</c><00:08:37.840><c> a</c><00:08:37.919><c> true</c>
+
+00:08:38.190 --> 00:08:38.200 align:start position:0%
+candle. Now, if you do have a true
+ 
+
+00:08:38.200 --> 00:08:40.630 align:start position:0%
+candle. Now, if you do have a true
+expansion<00:08:38.800><c> candle,</c><00:08:39.320><c> what</c><00:08:39.479><c> can</c><00:08:39.640><c> you</c><00:08:39.719><c> do?</c><00:08:40.599><c> You</c>
+
+00:08:40.630 --> 00:08:40.640 align:start position:0%
+expansion candle, what can you do? You
+ 
+
+00:08:40.640 --> 00:08:42.469 align:start position:0%
+expansion candle, what can you do? You
+can<00:08:40.800><c> hold</c><00:08:41.080><c> towards</c><00:08:41.400><c> the</c><00:08:41.520><c> close</c><00:08:41.880><c> of</c><00:08:42.000><c> it</c><00:08:42.240><c> because</c>
+
+00:08:42.469 --> 00:08:42.479 align:start position:0%
+can hold towards the close of it because
+ 
+
+00:08:42.479 --> 00:08:44.590 align:start position:0%
+can hold towards the close of it because
+expansion<00:08:42.919><c> candles</c><00:08:43.280><c> close</c><00:08:43.760><c> in</c><00:08:43.880><c> its</c><00:08:44.080><c> high</c><00:08:44.360><c> or</c>
+
+00:08:44.590 --> 00:08:44.600 align:start position:0%
+expansion candles close in its high or
+ 
+
+00:08:44.600 --> 00:08:46.350 align:start position:0%
+expansion candles close in its high or
+low.<00:08:45.480><c> Well,</c><00:08:45.560><c> let's</c><00:08:45.720><c> get</c><00:08:45.839><c> into</c><00:08:46.000><c> another</c>
+
+00:08:46.350 --> 00:08:46.360 align:start position:0%
+low. Well, let's get into another
+ 
+
+00:08:46.360 --> 00:08:49.070 align:start position:0%
+low. Well, let's get into another
+example<00:08:46.880><c> of</c><00:08:47.400><c> letting</c><00:08:47.839><c> the</c><00:08:48.080><c> wick</c><00:08:48.320><c> form</c><00:08:48.880><c> and</c>
+
+00:08:49.070 --> 00:08:49.080 align:start position:0%
+example of letting the wick form and
+ 
+
+00:08:49.080 --> 00:08:51.350 align:start position:0%
+example of letting the wick form and
+then<00:08:49.280><c> trading</c><00:08:49.800><c> the</c><00:08:50.000><c> body</c><00:08:50.360><c> away.</c><00:08:51.160><c> And</c><00:08:51.280><c> who</c>
+
+00:08:51.350 --> 00:08:51.360 align:start position:0%
+then trading the body away. And who
+ 
+
+00:08:51.360 --> 00:08:52.790 align:start position:0%
+then trading the body away. And who
+knows?<00:08:51.600><c> Let's</c><00:08:51.760><c> go</c><00:08:51.880><c> into</c><00:08:52.080><c> here,</c><00:08:52.280><c> right?</c><00:08:52.480><c> We</c><00:08:52.600><c> had</c>
+
+00:08:52.790 --> 00:08:52.800 align:start position:0%
+knows? Let's go into here, right? We had
+ 
+
+00:08:52.800 --> 00:08:55.190 align:start position:0%
+knows? Let's go into here, right? We had
+that<00:08:53.440><c> hourly</c><00:08:53.760><c> setup.</c><00:08:54.200><c> We</c><00:08:54.280><c> could</c><00:08:54.400><c> go</c><00:08:54.560><c> look</c><00:08:54.800><c> for</c>
+
+00:08:55.190 --> 00:08:55.200 align:start position:0%
+that hourly setup. We could go look for
+ 
+
+00:08:55.200 --> 00:08:56.910 align:start position:0%
+that hourly setup. We could go look for
+this<00:08:55.400><c> 5-minute</c><00:08:56.120><c> and</c><00:08:56.240><c> look</c><00:08:56.360><c> to</c><00:08:56.480><c> trade</c><00:08:56.760><c> the</c>
+
+00:08:56.910 --> 00:08:56.920 align:start position:0%
+this 5-minute and look to trade the
+ 
+
+00:08:56.920 --> 00:08:59.829 align:start position:0%
+this 5-minute and look to trade the
+5-minute<00:08:57.560><c> candle.</c><00:08:58.560><c> So,</c><00:08:58.600><c> right</c><00:08:58.800><c> here,</c><00:08:59.520><c> I</c><00:08:59.600><c> have</c>
+
+00:08:59.829 --> 00:08:59.839 align:start position:0%
+5-minute candle. So, right here, I have
+ 
+
+00:08:59.839 --> 00:09:02.270 align:start position:0%
+5-minute candle. So, right here, I have
+a<00:08:59.960><c> 5-minute</c><00:09:00.600><c> setup.</c><00:09:01.520><c> Let's</c><00:09:01.640><c> go</c><00:09:01.839><c> right</c><00:09:02.040><c> into</c>
+
+00:09:02.270 --> 00:09:02.280 align:start position:0%
+a 5-minute setup. Let's go right into
+ 
+
+00:09:02.280 --> 00:09:04.670 align:start position:0%
+a 5-minute setup. Let's go right into
+here.<00:09:03.120><c> This</c><00:09:03.240><c> is</c><00:09:03.360><c> where</c><00:09:03.480><c> we</c><00:09:03.640><c> open.</c>
+
+00:09:04.670 --> 00:09:04.680 align:start position:0%
+here. This is where we open.
+ 
+
+00:09:04.680 --> 00:09:05.829 align:start position:0%
+here. This is where we open.
+If<00:09:04.760><c> we're</c><00:09:04.880><c> trying</c><00:09:05.080><c> to</c><00:09:05.160><c> trade</c><00:09:05.400><c> this</c><00:09:05.560><c> on</c><00:09:05.680><c> the</c>
+
+00:09:05.829 --> 00:09:05.839 align:start position:0%
+If we're trying to trade this on the
+ 
+
+00:09:05.839 --> 00:09:07.910 align:start position:0%
+If we're trying to trade this on the
+hourly,<00:09:06.480><c> what</c><00:09:06.600><c> do</c><00:09:06.640><c> we</c><00:09:06.760><c> want</c><00:09:06.920><c> to</c><00:09:07.000><c> do?</c><00:09:07.680><c> We</c><00:09:07.760><c> want</c>
+
+00:09:07.910 --> 00:09:07.920 align:start position:0%
+hourly, what do we want to do? We want
+ 
+
+00:09:07.920 --> 00:09:10.190 align:start position:0%
+hourly, what do we want to do? We want
+to<00:09:08.040><c> let</c><00:09:08.280><c> this</c><00:09:08.560><c> wick</c><00:09:08.880><c> form.</c><00:09:09.680><c> Now,</c><00:09:09.760><c> this</c><00:09:09.960><c> isn't</c>
+
+00:09:10.190 --> 00:09:10.200 align:start position:0%
+to let this wick form. Now, this isn't
+ 
+
+00:09:10.200 --> 00:09:12.430 align:start position:0%
+to let this wick form. Now, this isn't
+the<00:09:10.320><c> best</c><00:09:10.680><c> formation</c><00:09:11.320><c> in</c><00:09:11.480><c> generally</c><00:09:11.880><c> prior</c><00:09:12.280><c> to</c>
+
+00:09:12.430 --> 00:09:12.440 align:start position:0%
+the best formation in generally prior to
+ 
+
+00:09:12.440 --> 00:09:14.150 align:start position:0%
+the best formation in generally prior to
+9:30,<00:09:13.120><c> I</c><00:09:13.200><c> want</c><00:09:13.320><c> to</c><00:09:13.400><c> use</c><00:09:13.520><c> the</c><00:09:13.640><c> 15-minute</c>
+
+00:09:14.150 --> 00:09:14.160 align:start position:0%
+9:30, I want to use the 15-minute
+ 
+
+00:09:14.160 --> 00:09:16.350 align:start position:0%
+9:30, I want to use the 15-minute
+candle.<00:09:15.080><c> But,</c><00:09:15.160><c> what</c><00:09:15.280><c> could</c><00:09:15.440><c> I</c><00:09:15.480><c> do?</c>
+
+00:09:16.350 --> 00:09:16.360 align:start position:0%
+candle. But, what could I do?
+ 
+
+00:09:16.360 --> 00:09:17.750 align:start position:0%
+candle. But, what could I do?
+Wait<00:09:16.480><c> until</c><00:09:16.720><c> I</c><00:09:16.760><c> anticipate</c><00:09:17.200><c> that</c><00:09:17.320><c> this</c><00:09:17.520><c> wick</c>
+
+00:09:17.750 --> 00:09:17.760 align:start position:0%
+Wait until I anticipate that this wick
+ 
+
+00:09:17.760 --> 00:09:20.350 align:start position:0%
+Wait until I anticipate that this wick
+has<00:09:17.960><c> formed.</c>
+
+00:09:20.350 --> 00:09:20.360 align:start position:0%
+has formed.
+ 
+
+00:09:20.360 --> 00:09:21.710 align:start position:0%
+has formed.
+And<00:09:20.440><c> what</c><00:09:20.520><c> do</c><00:09:20.600><c> we</c><00:09:20.680><c> have?</c><00:09:21.120><c> We</c><00:09:21.240><c> have</c><00:09:21.360><c> price</c>
+
+00:09:21.710 --> 00:09:21.720 align:start position:0%
+And what do we have? We have price
+ 
+
+00:09:21.720 --> 00:09:23.990 align:start position:0%
+And what do we have? We have price
+reaching<00:09:22.120><c> into</c><00:09:22.480><c> this</c><00:09:22.640><c> gap</c><00:09:22.960><c> right</c><00:09:23.120><c> here,</c><00:09:23.880><c> the</c>
+
+00:09:23.990 --> 00:09:24.000 align:start position:0%
+reaching into this gap right here, the
+ 
+
+00:09:24.000 --> 00:09:26.230 align:start position:0%
+reaching into this gap right here, the
+only<00:09:24.280><c> gap</c><00:09:24.800><c> prior</c><00:09:25.040><c> to</c><00:09:25.200><c> our</c><00:09:25.320><c> previous</c><00:09:25.760><c> protected</c>
+
+00:09:26.230 --> 00:09:26.240 align:start position:0%
+only gap prior to our previous protected
+ 
+
+00:09:26.240 --> 00:09:28.110 align:start position:0%
+only gap prior to our previous protected
+swing.<00:09:27.000><c> So,</c><00:09:27.160><c> this</c><00:09:27.360><c> is</c><00:09:27.480><c> where</c><00:09:27.560><c> I</c><00:09:27.600><c> could</c><00:09:27.800><c> start</c>
+
+00:09:28.110 --> 00:09:28.120 align:start position:0%
+swing. So, this is where I could start
+ 
+
+00:09:28.120 --> 00:09:30.550 align:start position:0%
+swing. So, this is where I could start
+to<00:09:28.240><c> anticipate</c><00:09:28.960><c> that</c><00:09:29.160><c> this</c><00:09:29.440><c> wick</c><00:09:30.280><c> on</c><00:09:30.400><c> this</c>
+
+00:09:30.550 --> 00:09:30.560 align:start position:0%
+to anticipate that this wick on this
+ 
+
+00:09:30.560 --> 00:09:32.870 align:start position:0%
+to anticipate that this wick on this
+higher<00:09:30.839><c> time</c><00:09:31.040><c> frame</c><00:09:31.200><c> candle</c><00:09:31.760><c> has</c><00:09:32.040><c> formed,</c><00:09:32.800><c> and</c>
+
+00:09:32.870 --> 00:09:32.880 align:start position:0%
+higher time frame candle has formed, and
+ 
+
+00:09:32.880 --> 00:09:34.630 align:start position:0%
+higher time frame candle has formed, and
+I<00:09:32.920><c> could</c><00:09:33.080><c> look</c><00:09:33.200><c> to</c><00:09:33.320><c> trade</c><00:09:33.560><c> it</c><00:09:33.640><c> away.</c><00:09:34.520><c> If</c><00:09:34.560><c> I'm</c>
+
+00:09:34.630 --> 00:09:34.640 align:start position:0%
+I could look to trade it away. If I'm
+ 
+
+00:09:34.640 --> 00:09:36.790 align:start position:0%
+I could look to trade it away. If I'm
+very<00:09:34.839><c> confident,</c><00:09:35.680><c> I</c><00:09:35.760><c> could</c><00:09:36.000><c> enter</c><00:09:36.360><c> really</c>
+
+00:09:36.790 --> 00:09:36.800 align:start position:0%
+very confident, I could enter really
+ 
+
+00:09:36.800 --> 00:09:39.110 align:start position:0%
+very confident, I could enter really
+anywhere<00:09:37.360><c> in</c><00:09:37.520><c> here</c><00:09:37.960><c> as</c><00:09:38.120><c> long</c><00:09:38.280><c> as</c><00:09:38.400><c> my</c><00:09:38.520><c> stop</c><00:09:38.880><c> is</c>
+
+00:09:39.110 --> 00:09:39.120 align:start position:0%
+anywhere in here as long as my stop is
+ 
+
+00:09:39.120 --> 00:09:40.870 align:start position:0%
+anywhere in here as long as my stop is
+on<00:09:39.280><c> that</c><00:09:39.520><c> high</c><00:09:40.000><c> and</c><00:09:40.080><c> I</c><00:09:40.160><c> can</c><00:09:40.320><c> look</c><00:09:40.480><c> to</c><00:09:40.560><c> trade</c><00:09:40.800><c> it</c>
+
+00:09:40.870 --> 00:09:40.880 align:start position:0%
+on that high and I can look to trade it
+ 
+
+00:09:40.880 --> 00:09:43.630 align:start position:0%
+on that high and I can look to trade it
+lower.<00:09:41.720><c> Or</c><00:09:41.920><c> I</c><00:09:41.960><c> can</c><00:09:42.160><c> do</c><00:09:42.360><c> what?</c><00:09:43.120><c> Wait</c><00:09:43.280><c> for</c><00:09:43.440><c> that</c>
+
+00:09:43.630 --> 00:09:43.640 align:start position:0%
+lower. Or I can do what? Wait for that
+ 
+
+00:09:43.640 --> 00:09:45.510 align:start position:0%
+lower. Or I can do what? Wait for that
+closure<00:09:44.080><c> through</c>
+
+00:09:45.510 --> 00:09:45.520 align:start position:0%
+closure through
+ 
+
+00:09:45.520 --> 00:09:47.110 align:start position:0%
+closure through
+the<00:09:45.600><c> series</c><00:09:45.920><c> of</c><00:09:46.040><c> up</c><00:09:46.120><c> close</c><00:09:46.320><c> candles</c><00:09:46.680><c> into</c><00:09:47.000><c> that</c>
+
+00:09:47.110 --> 00:09:47.120 align:start position:0%
+the series of up close candles into that
+ 
+
+00:09:47.120 --> 00:09:49.510 align:start position:0%
+the series of up close candles into that
+important<00:09:47.480><c> level</c><00:09:47.960><c> which</c><00:09:48.160><c> forms</c><00:09:48.440><c> a</c><00:09:48.480><c> gap.</c>
+
+00:09:49.510 --> 00:09:49.520 align:start position:0%
+important level which forms a gap.
+ 
+
+00:09:49.520 --> 00:09:51.070 align:start position:0%
+important level which forms a gap.
+Right?<00:09:49.640><c> And</c><00:09:49.760><c> you</c><00:09:49.800><c> can</c><00:09:49.960><c> see</c><00:09:50.760><c> that</c><00:09:50.840><c> is</c><00:09:50.920><c> what</c>
+
+00:09:51.070 --> 00:09:51.080 align:start position:0%
+Right? And you can see that is what
+ 
+
+00:09:51.080 --> 00:09:52.910 align:start position:0%
+Right? And you can see that is what
+forms<00:09:51.320><c> a</c><00:09:51.360><c> new</c><00:09:51.520><c> protected</c><00:09:51.960><c> swing.</c>
+
+00:09:52.910 --> 00:09:52.920 align:start position:0%
+forms a new protected swing.
+ 
+
+00:09:52.920 --> 00:09:54.990 align:start position:0%
+forms a new protected swing.
+And<00:09:52.960><c> then</c><00:09:53.080><c> I</c><00:09:53.160><c> could</c><00:09:53.320><c> take</c><00:09:53.600><c> any</c><00:09:53.840><c> entry</c><00:09:54.200><c> in</c><00:09:54.320><c> here</c>
+
+00:09:54.990 --> 00:09:55.000 align:start position:0%
+And then I could take any entry in here
+ 
+
+00:09:55.000 --> 00:09:56.270 align:start position:0%
+And then I could take any entry in here
+as<00:09:55.120><c> long</c><00:09:55.240><c> as</c><00:09:55.320><c> my</c><00:09:55.440><c> stop</c><00:09:55.760><c> is</c><00:09:55.960><c> near</c><00:09:56.120><c> that</c>
+
+00:09:56.270 --> 00:09:56.280 align:start position:0%
+as long as my stop is near that
+ 
+
+00:09:56.280 --> 00:09:58.510 align:start position:0%
+as long as my stop is near that
+protected<00:09:56.720><c> swing.</c><00:09:57.600><c> And</c><00:09:57.680><c> I</c><00:09:57.720><c> can</c><00:09:57.920><c> look</c><00:09:58.080><c> for</c><00:09:58.240><c> two</c>
+
+00:09:58.510 --> 00:09:58.520 align:start position:0%
+protected swing. And I can look for two
+ 
+
+00:09:58.520 --> 00:09:59.750 align:start position:0%
+protected swing. And I can look for two
+R.
+
+00:09:59.750 --> 00:09:59.760 align:start position:0%
+R.
+ 
+
+00:09:59.760 --> 00:10:01.390 align:start position:0%
+R.
+Right?<00:10:00.320><c> Now,</c><00:10:00.560><c> you</c><00:10:00.760><c> also</c><00:10:01.000><c> want</c><00:10:01.120><c> to</c><00:10:01.160><c> have</c><00:10:01.320><c> the</c>
+
+00:10:01.390 --> 00:10:01.400 align:start position:0%
+Right? Now, you also want to have the
+ 
+
+00:10:01.400 --> 00:10:03.190 align:start position:0%
+Right? Now, you also want to have the
+logic<00:10:01.840><c> of</c><00:10:02.240><c> where</c><00:10:02.520><c> these</c><00:10:02.680><c> higher</c><00:10:02.840><c> time</c><00:10:03.040><c> frame</c>
+
+00:10:03.190 --> 00:10:03.200 align:start position:0%
+logic of where these higher time frame
+ 
+
+00:10:03.200 --> 00:10:04.910 align:start position:0%
+logic of where these higher time frame
+candles<00:10:03.560><c> are</c><00:10:03.640><c> reaching</c><00:10:03.920><c> for</c><00:10:04.400><c> and</c><00:10:04.560><c> do</c><00:10:04.640><c> we</c><00:10:04.760><c> have</c>
+
+00:10:04.910 --> 00:10:04.920 align:start position:0%
+candles are reaching for and do we have
+ 
+
+00:10:04.920 --> 00:10:06.670 align:start position:0%
+candles are reaching for and do we have
+the<00:10:05.080><c> this</c><00:10:05.160><c> range</c><00:10:05.440><c> for</c><00:10:05.560><c> this</c><00:10:05.680><c> target?</c><00:10:06.560><c> Let's</c>
+
+00:10:06.670 --> 00:10:06.680 align:start position:0%
+the this range for this target? Let's
+ 
+
+00:10:06.680 --> 00:10:08.430 align:start position:0%
+the this range for this target? Let's
+see<00:10:06.800><c> how</c><00:10:06.880><c> this</c><00:10:07.080><c> works</c><00:10:07.360><c> out.</c>
+
+00:10:08.430 --> 00:10:08.440 align:start position:0%
+see how this works out.
+ 
+
+00:10:08.440 --> 00:10:09.790 align:start position:0%
+see how this works out.
+There<00:10:08.520><c> we</c><00:10:08.600><c> go.</c><00:10:09.200><c> And</c><00:10:09.280><c> then</c><00:10:09.400><c> we</c><00:10:09.480><c> could</c><00:10:09.600><c> do</c><00:10:09.680><c> the</c>
+
+00:10:09.790 --> 00:10:09.800 align:start position:0%
+There we go. And then we could do the
+ 
+
+00:10:09.800 --> 00:10:11.670 align:start position:0%
+There we go. And then we could do the
+same<00:10:10.040><c> thing</c><00:10:10.240><c> with</c><00:10:10.360><c> this</c><00:10:10.520><c> next</c><00:10:10.760><c> candle.</c><00:10:11.480><c> Do</c><00:10:11.600><c> we</c>
+
+00:10:11.670 --> 00:10:11.680 align:start position:0%
+same thing with this next candle. Do we
+ 
+
+00:10:11.680 --> 00:10:13.190 align:start position:0%
+same thing with this next candle. Do we
+anticipate<00:10:12.120><c> that</c><00:10:12.280><c> this</c><00:10:12.480><c> higher</c><00:10:12.720><c> time</c><00:10:12.880><c> frame</c>
+
+00:10:13.190 --> 00:10:13.200 align:start position:0%
+anticipate that this higher time frame
+ 
+
+00:10:13.200 --> 00:10:14.910 align:start position:0%
+anticipate that this higher time frame
+candle<00:10:13.680><c> has</c><00:10:13.880><c> formed</c><00:10:14.120><c> its</c><00:10:14.280><c> wick?</c><00:10:14.640><c> Well,</c><00:10:14.720><c> once</c>
+
+00:10:14.910 --> 00:10:14.920 align:start position:0%
+candle has formed its wick? Well, once
+ 
+
+00:10:14.920 --> 00:10:16.510 align:start position:0%
+candle has formed its wick? Well, once
+we<00:10:15.040><c> sweep</c><00:10:15.320><c> out</c><00:10:15.440><c> everything</c><00:10:15.800><c> over</c><00:10:15.960><c> here</c><00:10:16.440><c> and</c>
+
+00:10:16.510 --> 00:10:16.520 align:start position:0%
+we sweep out everything over here and
+ 
+
+00:10:16.520 --> 00:10:18.350 align:start position:0%
+we sweep out everything over here and
+then<00:10:16.640><c> get</c><00:10:16.760><c> the</c><00:10:16.840><c> closure</c><00:10:17.240><c> through</c><00:10:17.440><c> here,</c><00:10:18.080><c> yes,</c>
+
+00:10:18.350 --> 00:10:18.360 align:start position:0%
+then get the closure through here, yes,
+ 
+
+00:10:18.360 --> 00:10:20.430 align:start position:0%
+then get the closure through here, yes,
+we<00:10:18.440><c> could</c><00:10:18.680><c> anticipate</c><00:10:19.280><c> that.</c>
+
+00:10:20.430 --> 00:10:20.440 align:start position:0%
+we could anticipate that.
+ 
+
+00:10:20.440 --> 00:10:22.830 align:start position:0%
+we could anticipate that.
+And<00:10:20.880><c> we</c><00:10:21.000><c> get</c><00:10:21.240><c> our</c><00:10:21.400><c> continuation</c><00:10:22.480><c> into</c><00:10:22.760><c> our</c>
+
+00:10:22.830 --> 00:10:22.840 align:start position:0%
+And we get our continuation into our
+ 
+
+00:10:22.840 --> 00:10:25.390 align:start position:0%
+And we get our continuation into our
+target.<00:10:23.800><c> So,</c><00:10:23.960><c> it</c><00:10:24.200><c> is</c><00:10:24.400><c> fractal.</c><00:10:24.960><c> You</c><00:10:25.080><c> can</c><00:10:25.240><c> use</c>
+
+00:10:25.390 --> 00:10:25.400 align:start position:0%
+target. So, it is fractal. You can use
+ 
+
+00:10:25.400 --> 00:10:27.430 align:start position:0%
+target. So, it is fractal. You can use
+it<00:10:25.520><c> on</c><00:10:25.760><c> every</c><00:10:26.080><c> time</c><00:10:26.360><c> frame.</c><00:10:26.840><c> And</c><00:10:26.960><c> this</c><00:10:27.080><c> is</c><00:10:27.240><c> the</c>
+
+00:10:27.430 --> 00:10:27.440 align:start position:0%
+it on every time frame. And this is the
+ 
+
+00:10:27.440 --> 00:10:29.190 align:start position:0%
+it on every time frame. And this is the
+logic<00:10:27.840><c> I</c><00:10:27.920><c> use</c><00:10:28.360><c> when</c><00:10:28.600><c> I'm</c><00:10:28.720><c> looking</c><00:10:29.000><c> for</c><00:10:29.120><c> an</c>
+
+00:10:29.190 --> 00:10:29.200 align:start position:0%
+logic I use when I'm looking for an
+ 
+
+00:10:29.200 --> 00:10:31.790 align:start position:0%
+logic I use when I'm looking for an
+entry.<00:10:30.160><c> So,</c><00:10:30.280><c> yes,</c><00:10:30.560><c> I</c><00:10:30.640><c> use</c><00:10:30.880><c> the</c><00:10:31.080><c> intra</c><00:10:31.400><c> candle</c>
+
+00:10:31.790 --> 00:10:31.800 align:start position:0%
+entry. So, yes, I use the intra candle
+ 
+
+00:10:31.800 --> 00:10:33.550 align:start position:0%
+entry. So, yes, I use the intra candle
+change<00:10:32.080><c> in</c><00:10:32.160><c> the</c><00:10:32.240><c> state</c><00:10:32.440><c> of</c><00:10:32.520><c> delivery</c><00:10:33.360><c> or</c><00:10:33.480><c> the</c>
+
+00:10:33.550 --> 00:10:33.560 align:start position:0%
+change in the state of delivery or the
+ 
+
+00:10:33.560 --> 00:10:35.670 align:start position:0%
+change in the state of delivery or the
+mechanical<00:10:34.200><c> nature</c><00:10:34.720><c> of</c><00:10:35.120><c> if</c><00:10:35.280><c> I</c><00:10:35.360><c> have</c><00:10:35.600><c> a</c>
+
+00:10:35.670 --> 00:10:35.680 align:start position:0%
+mechanical nature of if I have a
+ 
+
+00:10:35.680 --> 00:10:38.150 align:start position:0%
+mechanical nature of if I have a
+protected<00:10:36.160><c> swing,</c><00:10:36.800><c> I</c><00:10:36.880><c> can</c><00:10:37.000><c> put</c><00:10:37.120><c> my</c><00:10:37.240><c> stop</c><00:10:37.880><c> there</c>
+
+00:10:38.150 --> 00:10:38.160 align:start position:0%
+protected swing, I can put my stop there
+ 
+
+00:10:38.160 --> 00:10:40.950 align:start position:0%
+protected swing, I can put my stop there
+and<00:10:38.320><c> take</c><00:10:38.440><c> an</c><00:10:38.560><c> entry.</c><00:10:39.440><c> But</c><00:10:39.600><c> you</c><00:10:39.720><c> could</c><00:10:40.000><c> also</c><00:10:40.839><c> be</c>
+
+00:10:40.950 --> 00:10:40.960 align:start position:0%
+and take an entry. But you could also be
+ 
+
+00:10:40.960 --> 00:10:42.550 align:start position:0%
+and take an entry. But you could also be
+a<00:10:41.000><c> little</c><00:10:41.200><c> bit</c><00:10:41.360><c> more</c><00:10:41.520><c> discretionary</c><00:10:42.320><c> in</c><00:10:42.440><c> your</c>
+
+00:10:42.550 --> 00:10:42.560 align:start position:0%
+a little bit more discretionary in your
+ 
+
+00:10:42.560 --> 00:10:44.510 align:start position:0%
+a little bit more discretionary in your
+approach.<00:10:43.240><c> Once</c><00:10:43.480><c> you</c><00:10:43.560><c> anticipate</c><00:10:43.960><c> this</c><00:10:44.160><c> wick</c>
+
+00:10:44.510 --> 00:10:44.520 align:start position:0%
+approach. Once you anticipate this wick
+ 
+
+00:10:44.520 --> 00:10:45.950 align:start position:0%
+approach. Once you anticipate this wick
+to<00:10:44.640><c> have</c><00:10:44.760><c> formed,</c><00:10:45.240><c> you</c><00:10:45.320><c> can</c><00:10:45.440><c> look</c><00:10:45.600><c> to</c><00:10:45.720><c> get</c><00:10:45.839><c> on</c>
+
+00:10:45.950 --> 00:10:45.960 align:start position:0%
+to have formed, you can look to get on
+ 
+
+00:10:45.960 --> 00:10:48.110 align:start position:0%
+to have formed, you can look to get on
+side<00:10:46.320><c> with</c><00:10:46.480><c> your</c><00:10:46.600><c> stop</c><00:10:46.960><c> on</c><00:10:47.160><c> that.</c><00:10:47.880><c> Let's</c><00:10:48.000><c> get</c>
+
+00:10:48.110 --> 00:10:48.120 align:start position:0%
+side with your stop on that. Let's get
+ 
+
+00:10:48.120 --> 00:10:50.150 align:start position:0%
+side with your stop on that. Let's get
+into<00:10:48.280><c> another</c><00:10:48.520><c> example.</c>
+
+00:10:50.150 --> 00:10:50.160 align:start position:0%
+into another example.
+ 
+
+00:10:50.160 --> 00:10:52.550 align:start position:0%
+into another example.
+So,<00:10:50.200><c> here</c><00:10:50.360><c> we</c><00:10:50.480><c> are</c><00:10:50.680><c> in</c><00:10:50.800><c> this</c><00:10:50.960><c> next</c><00:10:51.320><c> example</c><00:10:52.440><c> and</c>
+
+00:10:52.550 --> 00:10:52.560 align:start position:0%
+So, here we are in this next example and
+ 
+
+00:10:52.560 --> 00:10:54.430 align:start position:0%
+So, here we are in this next example and
+we<00:10:52.640><c> are</c><00:10:52.720><c> trying</c><00:10:53.040><c> to</c><00:10:53.200><c> blend</c><00:10:53.880><c> two</c><00:10:54.120><c> things</c>
+
+00:10:54.430 --> 00:10:54.440 align:start position:0%
+we are trying to blend two things
+ 
+
+00:10:54.440 --> 00:10:56.110 align:start position:0%
+we are trying to blend two things
+together.<00:10:55.360><c> Here</c><00:10:55.400><c> we</c><00:10:55.520><c> have</c><00:10:55.640><c> this</c><00:10:55.800><c> daily</c>
+
+00:10:56.110 --> 00:10:56.120 align:start position:0%
+together. Here we have this daily
+ 
+
+00:10:56.120 --> 00:10:58.870 align:start position:0%
+together. Here we have this daily
+candle.<00:10:57.000><c> We</c><00:10:57.080><c> want</c><00:10:57.280><c> to</c><00:10:57.440><c> let</c><00:10:57.640><c> this</c><00:10:58.080><c> daily</c><00:10:58.400><c> candle</c>
+
+00:10:58.870 --> 00:10:58.880 align:start position:0%
+candle. We want to let this daily candle
+ 
+
+00:10:58.880 --> 00:11:01.430 align:start position:0%
+candle. We want to let this daily candle
+form<00:10:59.120><c> its</c><00:10:59.280><c> wick</c><00:10:59.960><c> or</c><00:11:00.040><c> anticipate</c><00:11:00.720><c> that.</c><00:11:01.360><c> We</c>
+
+00:11:01.430 --> 00:11:01.440 align:start position:0%
+form its wick or anticipate that. We
+ 
+
+00:11:01.440 --> 00:11:02.750 align:start position:0%
+form its wick or anticipate that. We
+also<00:11:01.640><c> want</c><00:11:01.760><c> to</c><00:11:01.839><c> do</c><00:11:01.960><c> that</c><00:11:02.120><c> on</c><00:11:02.200><c> the</c><00:11:02.280><c> lower</c><00:11:02.520><c> time</c>
+
+00:11:02.750 --> 00:11:02.760 align:start position:0%
+also want to do that on the lower time
+ 
+
+00:11:02.760 --> 00:11:04.470 align:start position:0%
+also want to do that on the lower time
+frames.<00:11:03.560><c> Here</c><00:11:03.600><c> you</c><00:11:03.680><c> can</c><00:11:03.800><c> see</c><00:11:03.920><c> we</c><00:11:04.040><c> have</c><00:11:04.160><c> a</c><00:11:04.200><c> very</c>
+
+00:11:04.470 --> 00:11:04.480 align:start position:0%
+frames. Here you can see we have a very
+ 
+
+00:11:04.480 --> 00:11:07.829 align:start position:0%
+frames. Here you can see we have a very
+large<00:11:04.839><c> expansion.</c><00:11:05.839><c> This</c><00:11:06.120><c> is</c><00:11:06.400><c> a</c><00:11:06.600><c> what?</c><00:11:07.240><c> A</c><00:11:07.360><c> slow</c>
+
+00:11:07.829 --> 00:11:07.839 align:start position:0%
+large expansion. This is a what? A slow
+ 
+
+00:11:07.839 --> 00:11:09.390 align:start position:0%
+large expansion. This is a what? A slow
+shallow<00:11:08.200><c> move</c><00:11:08.440><c> against</c><00:11:08.800><c> that,</c><00:11:09.160><c> so</c><00:11:09.320><c> a</c>
+
+00:11:09.390 --> 00:11:09.400 align:start position:0%
+shallow move against that, so a
+ 
+
+00:11:09.400 --> 00:11:12.350 align:start position:0%
+shallow move against that, so a
+retracement.<00:11:10.680><c> Retracements,</c><00:11:11.440><c> we</c><00:11:11.600><c> look</c><00:11:11.800><c> for</c>
+
+00:11:12.350 --> 00:11:12.360 align:start position:0%
+retracement. Retracements, we look for
+ 
+
+00:11:12.360 --> 00:11:14.470 align:start position:0%
+retracement. Retracements, we look for
+fair<00:11:12.560><c> value</c><00:11:12.839><c> gaps.</c><00:11:13.720><c> So,</c><00:11:13.760><c> here</c><00:11:13.920><c> we</c><00:11:14.040><c> reach</c><00:11:14.240><c> into</c>
+
+00:11:14.470 --> 00:11:14.480 align:start position:0%
+fair value gaps. So, here we reach into
+ 
+
+00:11:14.480 --> 00:11:16.390 align:start position:0%
+fair value gaps. So, here we reach into
+a<00:11:14.560><c> fair</c><00:11:14.760><c> value</c><00:11:15.040><c> gap.</c><00:11:15.720><c> We</c><00:11:15.760><c> have</c><00:11:15.960><c> a</c><00:11:16.000><c> candle</c>
+
+00:11:16.390 --> 00:11:16.400 align:start position:0%
+a fair value gap. We have a candle
+ 
+
+00:11:16.400 --> 00:11:18.910 align:start position:0%
+a fair value gap. We have a candle
+closure<00:11:17.080><c> right</c><00:11:17.280><c> into</c><00:11:17.480><c> the</c><00:11:17.560><c> New</c><00:11:17.720><c> York</c><00:11:17.960><c> session.</c>
+
+00:11:18.910 --> 00:11:18.920 align:start position:0%
+closure right into the New York session.
+ 
+
+00:11:18.920 --> 00:11:20.870 align:start position:0%
+closure right into the New York session.
+So,<00:11:19.640><c> if</c><00:11:19.680><c> you</c><00:11:19.760><c> see</c><00:11:19.880><c> my</c><00:11:20.040><c> intraday</c><00:11:20.440><c> reversal</c>
+
+00:11:20.870 --> 00:11:20.880 align:start position:0%
+So, if you see my intraday reversal
+ 
+
+00:11:20.880 --> 00:11:22.910 align:start position:0%
+So, if you see my intraday reversal
+video,<00:11:21.600><c> this</c><00:11:21.760><c> could</c><00:11:21.920><c> set</c><00:11:22.120><c> up</c><00:11:22.280><c> a</c><00:11:22.360><c> New</c><00:11:22.640><c> York</c>
+
+00:11:22.910 --> 00:11:22.920 align:start position:0%
+video, this could set up a New York
+ 
+
+00:11:22.920 --> 00:11:25.190 align:start position:0%
+video, this could set up a New York
+reversal.<00:11:23.800><c> What</c><00:11:23.920><c> are</c><00:11:24.000><c> we</c><00:11:24.120><c> looking</c><00:11:24.440><c> for?</c><00:11:25.160><c> We're</c>
+
+00:11:25.190 --> 00:11:25.200 align:start position:0%
+reversal. What are we looking for? We're
+ 
+
+00:11:25.200 --> 00:11:27.590 align:start position:0%
+reversal. What are we looking for? We're
+looking<00:11:25.480><c> for</c><00:11:25.640><c> the</c><00:11:25.720><c> daily</c><00:11:26.080><c> open,</c><00:11:27.040><c> the</c><00:11:27.200><c> current</c>
+
+00:11:27.590 --> 00:11:27.600 align:start position:0%
+looking for the daily open, the current
+ 
+
+00:11:27.600 --> 00:11:29.750 align:start position:0%
+looking for the daily open, the current
+day<00:11:27.880><c> or</c><00:11:28.040><c> previous</c><00:11:28.440><c> day's</c><00:11:28.680><c> high,</c><00:11:29.480><c> and</c><00:11:29.560><c> then</c><00:11:29.680><c> we</c>
+
+00:11:29.750 --> 00:11:29.760 align:start position:0%
+day or previous day's high, and then we
+ 
+
+00:11:29.760 --> 00:11:31.990 align:start position:0%
+day or previous day's high, and then we
+can<00:11:29.880><c> look</c><00:11:30.000><c> for</c><00:11:30.120><c> time</c><00:11:30.360><c> based</c><00:11:30.600><c> exits</c><00:11:30.920><c> as</c><00:11:31.120><c> well.</c>
+
+00:11:31.990 --> 00:11:32.000 align:start position:0%
+can look for time based exits as well.
+ 
+
+00:11:32.000 --> 00:11:33.910 align:start position:0%
+can look for time based exits as well.
+But<00:11:32.120><c> with</c><00:11:32.320><c> a</c><00:11:32.400><c> candle</c><00:11:32.840><c> to</c><00:11:32.960><c> closure</c><00:11:33.320><c> here,</c><00:11:33.800><c> we</c>
+
+00:11:33.910 --> 00:11:33.920 align:start position:0%
+But with a candle to closure here, we
+ 
+
+00:11:33.920 --> 00:11:35.790 align:start position:0%
+But with a candle to closure here, we
+could<00:11:34.120><c> go</c><00:11:34.280><c> down</c><00:11:34.560><c> to</c><00:11:34.720><c> the</c><00:11:34.880><c> 5-minute</c><00:11:35.440><c> from</c><00:11:35.640><c> the</c>
+
+00:11:35.790 --> 00:11:35.800 align:start position:0%
+could go down to the 5-minute from the
+ 
+
+00:11:35.800 --> 00:11:37.110 align:start position:0%
+could go down to the 5-minute from the
+hourly.
+
+00:11:37.110 --> 00:11:37.120 align:start position:0%
+hourly.
+ 
+
+00:11:37.120 --> 00:11:39.390 align:start position:0%
+hourly.
+And<00:11:37.280><c> what</c><00:11:37.480><c> are</c><00:11:37.600><c> we</c><00:11:37.760><c> looking</c><00:11:38.160><c> for</c><00:11:38.400><c> here?</c><00:11:39.200><c> We've</c>
+
+00:11:39.390 --> 00:11:39.400 align:start position:0%
+And what are we looking for here? We've
+ 
+
+00:11:39.400 --> 00:11:41.750 align:start position:0%
+And what are we looking for here? We've
+had<00:11:39.680><c> our</c><00:11:39.800><c> reversal.</c><00:11:41.000><c> If</c><00:11:41.160><c> we're</c><00:11:41.280><c> looking</c><00:11:41.600><c> for</c>
+
+00:11:41.750 --> 00:11:41.760 align:start position:0%
+had our reversal. If we're looking for
+ 
+
+00:11:41.760 --> 00:11:44.550 align:start position:0%
+had our reversal. If we're looking for
+price<00:11:42.200><c> to</c><00:11:42.360><c> continue</c><00:11:43.080><c> higher</c><00:11:43.440><c> here,</c><00:11:44.160><c> we</c><00:11:44.280><c> want</c>
+
+00:11:44.550 --> 00:11:44.560 align:start position:0%
+price to continue higher here, we want
+ 
+
+00:11:44.560 --> 00:11:47.430 align:start position:0%
+price to continue higher here, we want
+to<00:11:44.720><c> have</c><00:11:45.080><c> the</c><00:11:45.280><c> logic.</c><00:11:46.440><c> Has</c><00:11:46.680><c> this</c><00:11:46.920><c> higher</c><00:11:47.200><c> time</c>
+
+00:11:47.430 --> 00:11:47.440 align:start position:0%
+to have the logic. Has this higher time
+ 
+
+00:11:47.440 --> 00:11:50.230 align:start position:0%
+to have the logic. Has this higher time
+frame<00:11:47.600><c> candle</c><00:11:48.320><c> formed</c><00:11:48.720><c> its</c><00:11:48.960><c> wick</c><00:11:49.240><c> yet?</c><00:11:50.040><c> If</c><00:11:50.160><c> we</c>
+
+00:11:50.230 --> 00:11:50.240 align:start position:0%
+frame candle formed its wick yet? If we
+ 
+
+00:11:50.240 --> 00:11:52.030 align:start position:0%
+frame candle formed its wick yet? If we
+can<00:11:50.400><c> say</c><00:11:50.600><c> yes,</c><00:11:51.000><c> we</c><00:11:51.120><c> can</c><00:11:51.280><c> get</c><00:11:51.440><c> on</c><00:11:51.600><c> side</c><00:11:51.920><c> with</c>
+
+00:11:52.030 --> 00:11:52.040 align:start position:0%
+can say yes, we can get on side with
+ 
+
+00:11:52.040 --> 00:11:54.550 align:start position:0%
+can say yes, we can get on side with
+that.<00:11:52.600><c> If</c><00:11:52.800><c> it</c><00:11:53.040><c> is</c><00:11:53.240><c> no,</c><00:11:53.720><c> we</c><00:11:53.800><c> need</c><00:11:53.960><c> to</c><00:11:54.120><c> wait</c><00:11:54.400><c> for</c>
+
+00:11:54.550 --> 00:11:54.560 align:start position:0%
+that. If it is no, we need to wait for
+ 
+
+00:11:54.560 --> 00:11:56.510 align:start position:0%
+that. If it is no, we need to wait for
+it<00:11:54.680><c> to</c><00:11:54.800><c> form</c><00:11:55.040><c> its</c><00:11:55.200><c> wick,</c><00:11:55.760><c> or</c><00:11:55.920><c> that</c><00:11:56.160><c> is</c><00:11:56.280><c> how</c><00:11:56.400><c> you</c>
+
+00:11:56.510 --> 00:11:56.520 align:start position:0%
+it to form its wick, or that is how you
+ 
+
+00:11:56.520 --> 00:11:58.630 align:start position:0%
+it to form its wick, or that is how you
+get<00:11:56.680><c> stopped</c><00:11:57.080><c> out.</c><00:11:57.680><c> Would</c><00:11:57.800><c> I</c><00:11:57.840><c> trust</c><00:11:58.360><c> taking</c>
+
+00:11:58.630 --> 00:11:58.640 align:start position:0%
+get stopped out. Would I trust taking
+ 
+
+00:11:58.640 --> 00:12:00.830 align:start position:0%
+get stopped out. Would I trust taking
+any<00:11:58.880><c> sort</c><00:11:59.120><c> of</c><00:11:59.280><c> entry</c><00:11:59.600><c> in</c><00:11:59.720><c> here</c><00:12:00.400><c> and</c><00:12:00.520><c> putting</c><00:12:00.720><c> my</c>
+
+00:12:00.830 --> 00:12:00.840 align:start position:0%
+any sort of entry in here and putting my
+ 
+
+00:12:00.840 --> 00:12:03.790 align:start position:0%
+any sort of entry in here and putting my
+stop<00:12:01.400><c> right</c><00:12:01.720><c> on</c><00:12:01.880><c> this</c><00:12:02.320><c> current</c><00:12:02.760><c> wick,</c><00:12:03.200><c> right?</c>
+
+00:12:03.790 --> 00:12:03.800 align:start position:0%
+stop right on this current wick, right?
+ 
+
+00:12:03.800 --> 00:12:05.190 align:start position:0%
+stop right on this current wick, right?
+Cuz<00:12:03.920><c> that</c><00:12:04.040><c> is</c><00:12:04.120><c> what</c><00:12:04.240><c> I'm</c><00:12:04.320><c> seeing.</c><00:12:04.800><c> Do</c><00:12:04.880><c> I</c><00:12:04.920><c> trust</c>
+
+00:12:05.190 --> 00:12:05.200 align:start position:0%
+Cuz that is what I'm seeing. Do I trust
+ 
+
+00:12:05.200 --> 00:12:07.390 align:start position:0%
+Cuz that is what I'm seeing. Do I trust
+that<00:12:05.280><c> this</c><00:12:05.440><c> wick</c><00:12:05.600><c> has</c><00:12:05.760><c> formed?</c><00:12:06.480><c> For</c><00:12:06.600><c> me,</c><00:12:06.960><c> no.</c>
+
+00:12:07.390 --> 00:12:07.400 align:start position:0%
+that this wick has formed? For me, no.
+ 
+
+00:12:07.400 --> 00:12:09.390 align:start position:0%
+that this wick has formed? For me, no.
+We<00:12:07.520><c> have</c><00:12:07.680><c> fair</c><00:12:07.840><c> value</c><00:12:08.080><c> gaps</c><00:12:08.320><c> right</c><00:12:08.520><c> below</c><00:12:08.800><c> it.</c>
+
+00:12:09.390 --> 00:12:09.400 align:start position:0%
+We have fair value gaps right below it.
+ 
+
+00:12:09.400 --> 00:12:10.470 align:start position:0%
+We have fair value gaps right below it.
+So,<00:12:09.440><c> I'm</c><00:12:09.520><c> going</c><00:12:09.640><c> to</c><00:12:09.720><c> need</c><00:12:09.960><c> to</c><00:12:10.120><c> let</c><00:12:10.280><c> that</c>
+
+00:12:10.470 --> 00:12:10.480 align:start position:0%
+So, I'm going to need to let that
+ 
+
+00:12:10.480 --> 00:12:11.990 align:start position:0%
+So, I'm going to need to let that
+continue.
+
+00:12:11.990 --> 00:12:12.000 align:start position:0%
+continue.
+ 
+
+00:12:12.000 --> 00:12:13.910 align:start position:0%
+continue.
+And<00:12:12.120><c> here</c><00:12:12.280><c> you</c><00:12:12.360><c> can</c><00:12:12.480><c> see,</c><00:12:13.160><c> do</c><00:12:13.280><c> I</c><00:12:13.360><c> expect</c><00:12:13.760><c> that</c>
+
+00:12:13.910 --> 00:12:13.920 align:start position:0%
+And here you can see, do I expect that
+ 
+
+00:12:13.920 --> 00:12:16.630 align:start position:0%
+And here you can see, do I expect that
+this<00:12:14.120><c> wick</c><00:12:14.400><c> has</c><00:12:14.560><c> been</c><00:12:14.760><c> formed</c><00:12:15.040><c> yet?</c><00:12:15.760><c> No.</c><00:12:16.520><c> Do</c><00:12:16.600><c> I</c>
+
+00:12:16.630 --> 00:12:16.640 align:start position:0%
+this wick has been formed yet? No. Do I
+ 
+
+00:12:16.640 --> 00:12:18.470 align:start position:0%
+this wick has been formed yet? No. Do I
+expect<00:12:17.000><c> that</c><00:12:17.120><c> this</c><00:12:17.320><c> is</c><00:12:17.480><c> the</c><00:12:17.640><c> low</c><00:12:18.000><c> or</c><00:12:18.120><c> this</c><00:12:18.320><c> wick</c>
+
+00:12:18.470 --> 00:12:18.480 align:start position:0%
+expect that this is the low or this wick
+ 
+
+00:12:18.480 --> 00:12:20.310 align:start position:0%
+expect that this is the low or this wick
+has<00:12:18.640><c> been</c><00:12:18.840><c> formed</c><00:12:19.160><c> yet?</c><00:12:19.600><c> No.</c><00:12:19.920><c> So,</c><00:12:20.080><c> I'm</c><00:12:20.160><c> just</c>
+
+00:12:20.310 --> 00:12:20.320 align:start position:0%
+has been formed yet? No. So, I'm just
+ 
+
+00:12:20.320 --> 00:12:22.590 align:start position:0%
+has been formed yet? No. So, I'm just
+going<00:12:20.440><c> to</c><00:12:20.520><c> keep</c><00:12:20.760><c> continuing</c><00:12:21.440><c> that</c><00:12:22.080><c> until</c><00:12:22.560><c> I</c>
+
+00:12:22.590 --> 00:12:22.600 align:start position:0%
+going to keep continuing that until I
+ 
+
+00:12:22.600 --> 00:12:24.870 align:start position:0%
+going to keep continuing that until I
+can<00:12:22.800><c> answer</c><00:12:23.080><c> that</c><00:12:23.320><c> as</c><00:12:23.520><c> yes.</c>
+
+00:12:24.870 --> 00:12:24.880 align:start position:0%
+can answer that as yes.
+ 
+
+00:12:24.880 --> 00:12:26.270 align:start position:0%
+can answer that as yes.
+Right<00:12:25.040><c> here,</c><00:12:25.240><c> we</c><00:12:25.360><c> have</c><00:12:25.480><c> a</c><00:12:25.520><c> little</c><00:12:26.040><c> candle</c>
+
+00:12:26.270 --> 00:12:26.280 align:start position:0%
+Right here, we have a little candle
+ 
+
+00:12:26.280 --> 00:12:28.230 align:start position:0%
+Right here, we have a little candle
+closure,<00:12:26.880><c> more</c><00:12:27.040><c> of</c><00:12:27.120><c> a</c><00:12:27.160><c> consolidation.</c><00:12:28.160><c> I</c>
+
+00:12:28.230 --> 00:12:28.240 align:start position:0%
+closure, more of a consolidation. I
+ 
+
+00:12:28.240 --> 00:12:30.910 align:start position:0%
+closure, more of a consolidation. I
+still<00:12:28.560><c> can't</c><00:12:28.880><c> trust</c><00:12:29.360><c> that</c><00:12:29.560><c> this</c><00:12:30.000><c> low</c><00:12:30.760><c> would</c>
+
+00:12:30.910 --> 00:12:30.920 align:start position:0%
+still can't trust that this low would
+ 
+
+00:12:30.920 --> 00:12:33.030 align:start position:0%
+still can't trust that this low would
+hold.<00:12:31.760><c> I'm</c><00:12:31.960><c> going</c><00:12:32.200><c> to</c><00:12:32.320><c> wait</c><00:12:32.560><c> for</c><00:12:32.840><c> an</c>
+
+00:12:33.030 --> 00:12:33.040 align:start position:0%
+hold. I'm going to wait for an
+ 
+
+00:12:33.040 --> 00:12:34.550 align:start position:0%
+hold. I'm going to wait for an
+intra-candle<00:12:33.840><c> change</c><00:12:34.160><c> in</c><00:12:34.240><c> the</c><00:12:34.280><c> state</c><00:12:34.520><c> of</c>
+
+00:12:34.550 --> 00:12:34.560 align:start position:0%
+intra-candle change in the state of
+ 
+
+00:12:34.560 --> 00:12:36.150 align:start position:0%
+intra-candle change in the state of
+delivery.<00:12:35.240><c> And</c><00:12:35.320><c> the</c><00:12:35.400><c> whole</c><00:12:35.560><c> reason</c><00:12:35.800><c> I</c><00:12:35.880><c> created</c>
+
+00:12:36.150 --> 00:12:36.160 align:start position:0%
+delivery. And the whole reason I created
+ 
+
+00:12:36.160 --> 00:12:38.110 align:start position:0%
+delivery. And the whole reason I created
+that<00:12:36.280><c> concept</c><00:12:36.960><c> was</c><00:12:37.120><c> to</c><00:12:37.240><c> try</c><00:12:37.440><c> to</c><00:12:37.560><c> mechanically</c>
+
+00:12:38.110 --> 00:12:38.120 align:start position:0%
+that concept was to try to mechanically
+ 
+
+00:12:38.120 --> 00:12:40.590 align:start position:0%
+that concept was to try to mechanically
+define<00:12:38.839><c> this</c><00:12:39.080><c> logic.</c><00:12:40.040><c> So,</c><00:12:40.080><c> what</c><00:12:40.200><c> do</c><00:12:40.240><c> we</c><00:12:40.360><c> have</c>
+
+00:12:40.590 --> 00:12:40.600 align:start position:0%
+define this logic. So, what do we have
+ 
+
+00:12:40.600 --> 00:12:42.390 align:start position:0%
+define this logic. So, what do we have
+right<00:12:40.760><c> here?</c><00:12:41.320><c> We</c><00:12:41.440><c> have</c><00:12:41.640><c> this</c><00:12:41.800><c> fair</c><00:12:41.960><c> value</c><00:12:42.200><c> gap</c>
+
+00:12:42.390 --> 00:12:42.400 align:start position:0%
+right here? We have this fair value gap
+ 
+
+00:12:42.400 --> 00:12:44.950 align:start position:0%
+right here? We have this fair value gap
+here.<00:12:43.080><c> Now,</c><00:12:43.280><c> sweep</c><00:12:43.560><c> out</c><00:12:43.680><c> the</c><00:12:43.800><c> low.</c>
+
+00:12:44.950 --> 00:12:44.960 align:start position:0%
+here. Now, sweep out the low.
+ 
+
+00:12:44.960 --> 00:12:46.590 align:start position:0%
+here. Now, sweep out the low.
+We<00:12:45.040><c> reach</c><00:12:45.280><c> into</c><00:12:45.640><c> this</c><00:12:45.800><c> fair</c><00:12:45.920><c> value</c><00:12:46.160><c> gap</c><00:12:46.480><c> and</c>
+
+00:12:46.590 --> 00:12:46.600 align:start position:0%
+We reach into this fair value gap and
+ 
+
+00:12:46.600 --> 00:12:49.590 align:start position:0%
+We reach into this fair value gap and
+then<00:12:46.760><c> do</c><00:12:46.960><c> what?</c><00:12:47.360><c> We</c><00:12:47.480><c> close</c><00:12:48.040><c> over</c><00:12:48.360><c> this.</c><00:12:49.240><c> So,</c>
+
+00:12:49.590 --> 00:12:49.600 align:start position:0%
+then do what? We close over this. So,
+ 
+
+00:12:49.600 --> 00:12:52.910 align:start position:0%
+then do what? We close over this. So,
+that<00:12:49.800><c> is</c><00:12:50.000><c> forming</c><00:12:50.440><c> what?</c><00:12:51.240><c> A</c><00:12:51.360><c> protected</c><00:12:52.120><c> swing</c>
+
+00:12:52.910 --> 00:12:52.920 align:start position:0%
+that is forming what? A protected swing
+ 
+
+00:12:52.920 --> 00:12:55.910 align:start position:0%
+that is forming what? A protected swing
+inside<00:12:53.440><c> this</c><00:12:53.600><c> candle.</c><00:12:54.640><c> So,</c><00:12:54.760><c> what</c><00:12:55.000><c> happened?</c>
+
+00:12:55.910 --> 00:12:55.920 align:start position:0%
+inside this candle. So, what happened?
+ 
+
+00:12:55.920 --> 00:12:58.270 align:start position:0%
+inside this candle. So, what happened?
+We<00:12:56.000><c> have</c><00:12:56.240><c> a</c><00:12:56.320><c> bullish</c><00:12:56.839><c> anticipation.</c><00:12:57.920><c> We</c><00:12:58.040><c> have</c>
+
+00:12:58.270 --> 00:12:58.280 align:start position:0%
+We have a bullish anticipation. We have
+ 
+
+00:12:58.280 --> 00:13:00.550 align:start position:0%
+We have a bullish anticipation. We have
+this<00:12:58.480><c> short-term</c><00:12:59.080><c> bearish</c><00:12:59.480><c> movement.</c><00:13:00.440><c> And</c>
+
+00:13:00.550 --> 00:13:00.560 align:start position:0%
+this short-term bearish movement. And
+ 
+
+00:13:00.560 --> 00:13:02.430 align:start position:0%
+this short-term bearish movement. And
+now<00:13:00.720><c> we</c><00:13:00.839><c> have</c><00:13:01.080><c> this</c><00:13:01.320><c> bullish</c><00:13:01.960><c> change</c><00:13:02.280><c> in</c><00:13:02.360><c> the</c>
+
+00:13:02.430 --> 00:13:02.440 align:start position:0%
+now we have this bullish change in the
+ 
+
+00:13:02.440 --> 00:13:05.030 align:start position:0%
+now we have this bullish change in the
+state<00:13:02.640><c> of</c><00:13:02.720><c> delivery</c><00:13:03.440><c> inside</c><00:13:03.920><c> the</c><00:13:04.000><c> candle</c><00:13:04.920><c> or</c>
+
+00:13:05.030 --> 00:13:05.040 align:start position:0%
+state of delivery inside the candle or
+ 
+
+00:13:05.040 --> 00:13:06.510 align:start position:0%
+state of delivery inside the candle or
+the<00:13:05.240><c> intra-candle</c><00:13:05.920><c> change</c><00:13:06.160><c> in</c><00:13:06.200><c> the</c><00:13:06.280><c> state</c><00:13:06.480><c> of</c>
+
+00:13:06.510 --> 00:13:06.520 align:start position:0%
+the intra-candle change in the state of
+ 
+
+00:13:06.520 --> 00:13:08.829 align:start position:0%
+the intra-candle change in the state of
+delivery.<00:13:07.560><c> Now,</c><00:13:07.720><c> I</c><00:13:07.800><c> can</c><00:13:07.960><c> anticipate</c><00:13:08.480><c> this</c><00:13:08.680><c> to</c>
+
+00:13:08.829 --> 00:13:08.839 align:start position:0%
+delivery. Now, I can anticipate this to
+ 
+
+00:13:08.839 --> 00:13:11.590 align:start position:0%
+delivery. Now, I can anticipate this to
+continue<00:13:09.440><c> higher.</c><00:13:10.440><c> So,</c><00:13:10.520><c> what</c><00:13:10.680><c> could</c><00:13:10.839><c> I</c><00:13:10.920><c> do?</c><00:13:11.520><c> I</c>
+
+00:13:11.590 --> 00:13:11.600 align:start position:0%
+continue higher. So, what could I do? I
+ 
+
+00:13:11.600 --> 00:13:13.550 align:start position:0%
+continue higher. So, what could I do? I
+could<00:13:11.760><c> look</c><00:13:11.960><c> to</c><00:13:12.040><c> get</c><00:13:12.240><c> on</c><00:13:12.360><c> side</c><00:13:12.680><c> with</c><00:13:12.839><c> that.</c>
+
+00:13:13.550 --> 00:13:13.560 align:start position:0%
+could look to get on side with that.
+ 
+
+00:13:13.560 --> 00:13:15.829 align:start position:0%
+could look to get on side with that.
+Because<00:13:13.880><c> now</c><00:13:14.160><c> that</c><00:13:14.360><c> I</c><00:13:14.400><c> trust</c><00:13:15.080><c> that</c><00:13:15.320><c> this</c><00:13:15.560><c> low</c>
+
+00:13:15.829 --> 00:13:15.839 align:start position:0%
+Because now that I trust that this low
+ 
+
+00:13:15.839 --> 00:13:17.790 align:start position:0%
+Because now that I trust that this low
+should<00:13:16.120><c> hold,</c><00:13:16.920><c> I</c><00:13:17.000><c> can</c><00:13:17.160><c> look</c><00:13:17.280><c> to</c><00:13:17.400><c> trade</c><00:13:17.680><c> it</c>
+
+00:13:17.790 --> 00:13:17.800 align:start position:0%
+should hold, I can look to trade it
+ 
+
+00:13:17.800 --> 00:13:21.150 align:start position:0%
+should hold, I can look to trade it
+higher<00:13:18.400><c> into</c><00:13:19.040><c> our</c><00:13:19.200><c> targets</c><00:13:20.280><c> or</c><00:13:20.520><c> even</c><00:13:20.760><c> the</c><00:13:20.839><c> area</c>
+
+00:13:21.150 --> 00:13:21.160 align:start position:0%
+higher into our targets or even the area
+ 
+
+00:13:21.160 --> 00:13:23.150 align:start position:0%
+higher into our targets or even the area
+I<00:13:21.240><c> marked</c><00:13:21.560><c> up</c><00:13:21.680><c> above</c><00:13:22.040><c> there.</c><00:13:22.800><c> So,</c><00:13:22.920><c> here's</c>
+
+00:13:23.150 --> 00:13:23.160 align:start position:0%
+I marked up above there. So, here's
+ 
+
+00:13:23.160 --> 00:13:25.470 align:start position:0%
+I marked up above there. So, here's
+three<00:13:23.480><c> R</c><00:13:23.880><c> to</c><00:13:24.000><c> the</c><00:13:24.120><c> short-term</c><00:13:24.520><c> targets,</c><00:13:25.320><c> or</c><00:13:25.440><c> I</c>
+
+00:13:25.470 --> 00:13:25.480 align:start position:0%
+three R to the short-term targets, or I
+ 
+
+00:13:25.480 --> 00:13:27.070 align:start position:0%
+three R to the short-term targets, or I
+could<00:13:25.600><c> look</c><00:13:25.760><c> for</c><00:13:26.000><c> even</c>
+
+00:13:27.070 --> 00:13:27.080 align:start position:0%
+could look for even
+ 
+
+00:13:27.080 --> 00:13:29.350 align:start position:0%
+could look for even
+you<00:13:27.120><c> know,</c><00:13:27.480><c> a</c><00:13:27.560><c> 7R</c><00:13:28.200><c> up</c><00:13:28.400><c> there.</c><00:13:28.960><c> So,</c><00:13:29.080><c> let's</c><00:13:29.240><c> see</c>
+
+00:13:29.350 --> 00:13:29.360 align:start position:0%
+you know, a 7R up there. So, let's see
+ 
+
+00:13:29.360 --> 00:13:30.950 align:start position:0%
+you know, a 7R up there. So, let's see
+what<00:13:29.480><c> happens</c><00:13:29.840><c> here.</c>
+
+00:13:30.950 --> 00:13:30.960 align:start position:0%
+what happens here.
+ 
+
+00:13:30.960 --> 00:13:32.030 align:start position:0%
+what happens here.
+You<00:13:31.000><c> can</c><00:13:31.120><c> see</c><00:13:31.320><c> it</c><00:13:31.440><c> marks</c><00:13:31.680><c> it</c><00:13:31.800><c> out</c><00:13:31.920><c> as</c><00:13:32.000><c> a</c>
+
+00:13:32.030 --> 00:13:32.040 align:start position:0%
+You can see it marks it out as a
+ 
+
+00:13:32.040 --> 00:13:33.990 align:start position:0%
+You can see it marks it out as a
+protected<00:13:32.600><c> swing.</c>
+
+00:13:33.990 --> 00:13:34.000 align:start position:0%
+protected swing.
+ 
+
+00:13:34.000 --> 00:13:35.070 align:start position:0%
+protected swing.
+And<00:13:34.160><c> then</c>
+
+00:13:35.070 --> 00:13:35.080 align:start position:0%
+And then
+ 
+
+00:13:35.080 --> 00:13:36.790 align:start position:0%
+And then
+we<00:13:35.120><c> get</c><00:13:35.280><c> a</c><00:13:35.320><c> new</c><00:13:35.480><c> continuation.</c><00:13:36.520><c> And</c><00:13:36.640><c> you</c><00:13:36.680><c> could</c>
+
+00:13:36.790 --> 00:13:36.800 align:start position:0%
+we get a new continuation. And you could
+ 
+
+00:13:36.800 --> 00:13:40.470 align:start position:0%
+we get a new continuation. And you could
+do<00:13:36.920><c> the</c><00:13:37.000><c> same</c><00:13:37.240><c> thing</c><00:13:37.520><c> in</c><00:13:37.680><c> this</c><00:13:37.840><c> candle</c><00:13:38.240><c> here.</c>
+
+00:13:40.470 --> 00:13:40.480 align:start position:0%
+do the same thing in this candle here.
+ 
+
+00:13:40.480 --> 00:13:41.950 align:start position:0%
+do the same thing in this candle here.
+Here<00:13:40.680><c> you</c><00:13:40.800><c> can</c><00:13:40.920><c> see</c><00:13:41.080><c> there's</c><00:13:41.280><c> not</c><00:13:41.520><c> a</c><00:13:41.600><c> clean</c>
+
+00:13:41.950 --> 00:13:41.960 align:start position:0%
+Here you can see there's not a clean
+ 
+
+00:13:41.960 --> 00:13:43.630 align:start position:0%
+Here you can see there's not a clean
+continuation.<00:13:42.880><c> So,</c><00:13:42.920><c> you</c><00:13:43.000><c> may</c><00:13:43.160><c> not</c><00:13:43.360><c> get</c><00:13:43.520><c> on</c>
+
+00:13:43.630 --> 00:13:43.640 align:start position:0%
+continuation. So, you may not get on
+ 
+
+00:13:43.640 --> 00:13:45.870 align:start position:0%
+continuation. So, you may not get on
+side<00:13:43.880><c> with</c><00:13:44.040><c> that.</c><00:13:44.840><c> But</c><00:13:44.920><c> right</c><00:13:45.080><c> here,</c><00:13:45.560><c> we</c><00:13:45.720><c> hit</c>
+
+00:13:45.870 --> 00:13:45.880 align:start position:0%
+side with that. But right here, we hit
+ 
+
+00:13:45.880 --> 00:13:48.150 align:start position:0%
+side with that. But right here, we hit
+our<00:13:46.000><c> TP</c><00:13:46.400><c> there.</c><00:13:47.080><c> Let's</c><00:13:47.240><c> see</c><00:13:47.360><c> if</c><00:13:47.520><c> it</c><00:13:47.640><c> continues</c>
+
+00:13:48.150 --> 00:13:48.160 align:start position:0%
+our TP there. Let's see if it continues
+ 
+
+00:13:48.160 --> 00:13:49.550 align:start position:0%
+our TP there. Let's see if it continues
+to<00:13:48.320><c> these</c><00:13:48.480><c> higher</c><00:13:48.680><c> time</c><00:13:48.880><c> frame</c><00:13:49.040><c> targets</c><00:13:49.440><c> that</c>
+
+00:13:49.550 --> 00:13:49.560 align:start position:0%
+to these higher time frame targets that
+ 
+
+00:13:49.560 --> 00:13:52.070 align:start position:0%
+to these higher time frame targets that
+we<00:13:49.680><c> marked</c><00:13:50.040><c> out.</c>
+
+00:13:52.070 --> 00:13:52.080 align:start position:0%
+we marked out.
+ 
+
+00:13:52.080 --> 00:13:53.790 align:start position:0%
+we marked out.
+And<00:13:52.160><c> there</c><00:13:52.320><c> you</c><00:13:52.400><c> can</c><00:13:52.520><c> see</c><00:13:52.920><c> we</c><00:13:53.040><c> go</c><00:13:53.280><c> and</c><00:13:53.440><c> hit</c><00:13:53.680><c> our</c>
+
+00:13:53.790 --> 00:13:53.800 align:start position:0%
+And there you can see we go and hit our
+ 
+
+00:13:53.800 --> 00:13:56.830 align:start position:0%
+And there you can see we go and hit our
+target.<00:13:54.840><c> So,</c><00:13:55.280><c> going</c><00:13:55.560><c> back,</c><00:13:55.880><c> the</c><00:13:56.080><c> whole</c><00:13:56.440><c> logic</c>
+
+00:13:56.830 --> 00:13:56.840 align:start position:0%
+target. So, going back, the whole logic
+ 
+
+00:13:56.840 --> 00:13:58.910 align:start position:0%
+target. So, going back, the whole logic
+of<00:13:56.960><c> taking</c><00:13:57.280><c> an</c><00:13:57.400><c> entry</c><00:13:57.720><c> here</c><00:13:58.200><c> is</c><00:13:58.400><c> that</c><00:13:58.600><c> it</c><00:13:58.720><c> has</c>
+
+00:13:58.910 --> 00:13:58.920 align:start position:0%
+of taking an entry here is that it has
+ 
+
+00:13:58.920 --> 00:14:01.470 align:start position:0%
+of taking an entry here is that it has
+formed<00:13:59.280><c> its</c><00:13:59.520><c> higher</c><00:13:59.840><c> time</c><00:14:00.120><c> frame</c><00:14:00.400><c> wick.</c><00:14:01.280><c> Once</c>
+
+00:14:01.470 --> 00:14:01.480 align:start position:0%
+formed its higher time frame wick. Once
+ 
+
+00:14:01.480 --> 00:14:03.230 align:start position:0%
+formed its higher time frame wick. Once
+the<00:14:01.560><c> higher</c><00:14:01.800><c> time</c><00:14:02.000><c> frame</c><00:14:02.200><c> wick's</c><00:14:02.440><c> formed,</c><00:14:03.160><c> we</c>
+
+00:14:03.230 --> 00:14:03.240 align:start position:0%
+the higher time frame wick's formed, we
+ 
+
+00:14:03.240 --> 00:14:05.110 align:start position:0%
+the higher time frame wick's formed, we
+want<00:14:03.400><c> that</c><00:14:03.640><c> early</c><00:14:03.920><c> in</c><00:14:04.040><c> the</c><00:14:04.120><c> candle</c><00:14:04.920><c> and</c><00:14:05.040><c> we</c>
+
+00:14:05.110 --> 00:14:05.120 align:start position:0%
+want that early in the candle and we
+ 
+
+00:14:05.120 --> 00:14:06.510 align:start position:0%
+want that early in the candle and we
+want<00:14:05.240><c> to</c><00:14:05.320><c> be</c><00:14:05.360><c> able</c><00:14:05.520><c> to</c><00:14:05.560><c> enter</c><00:14:05.840><c> around</c><00:14:06.360><c> the</c>
+
+00:14:06.510 --> 00:14:06.520 align:start position:0%
+want to be able to enter around the
+ 
+
+00:14:06.520 --> 00:14:08.750 align:start position:0%
+want to be able to enter around the
+opening<00:14:06.880><c> price.</c><00:14:07.680><c> Then</c><00:14:07.800><c> we</c><00:14:07.880><c> can</c><00:14:08.000><c> get</c><00:14:08.160><c> on</c><00:14:08.280><c> side</c>
+
+00:14:08.750 --> 00:14:08.760 align:start position:0%
+opening price. Then we can get on side
+ 
+
+00:14:08.760 --> 00:14:10.950 align:start position:0%
+opening price. Then we can get on side
+with<00:14:09.040><c> an</c><00:14:09.200><c> entry.</c><00:14:10.080><c> Let's</c><00:14:10.240><c> get</c><00:14:10.360><c> into</c><00:14:10.640><c> one</c><00:14:10.800><c> more</c>
+
+00:14:10.950 --> 00:14:10.960 align:start position:0%
+with an entry. Let's get into one more
+ 
+
+00:14:10.960 --> 00:14:12.750 align:start position:0%
+with an entry. Let's get into one more
+example.
+
+00:14:12.750 --> 00:14:12.760 align:start position:0%
+example.
+ 
+
+00:14:12.760 --> 00:14:14.910 align:start position:0%
+example.
+So,<00:14:12.840><c> here</c><00:14:13.000><c> we</c><00:14:13.120><c> are</c><00:14:13.280><c> in</c><00:14:13.440><c> our</c><00:14:13.520><c> final</c><00:14:13.920><c> example.</c>
+
+00:14:14.910 --> 00:14:14.920 align:start position:0%
+So, here we are in our final example.
+ 
+
+00:14:14.920 --> 00:14:16.550 align:start position:0%
+So, here we are in our final example.
+And<00:14:15.000><c> I</c><00:14:15.040><c> wanted</c><00:14:15.280><c> to</c><00:14:15.360><c> give</c><00:14:15.520><c> one</c><00:14:15.640><c> that</c><00:14:15.840><c> isn't</c><00:14:16.240><c> that</c>
+
+00:14:16.550 --> 00:14:16.560 align:start position:0%
+And I wanted to give one that isn't that
+ 
+
+00:14:16.560 --> 00:14:18.870 align:start position:0%
+And I wanted to give one that isn't that
+perfect,<00:14:17.120><c> right?</c><00:14:17.720><c> What</c><00:14:17.800><c> do</c><00:14:17.880><c> we</c><00:14:18.000><c> have?</c><00:14:18.440><c> We</c><00:14:18.600><c> have</c>
+
+00:14:18.870 --> 00:14:18.880 align:start position:0%
+perfect, right? What do we have? We have
+ 
+
+00:14:18.880 --> 00:14:20.510 align:start position:0%
+perfect, right? What do we have? We have
+a<00:14:19.000><c> range.</c><00:14:19.600><c> So,</c><00:14:19.720><c> if</c><00:14:19.840><c> you</c><00:14:19.920><c> can</c><00:14:20.000><c> go</c><00:14:20.120><c> ahead</c><00:14:20.400><c> and</c>
+
+00:14:20.510 --> 00:14:20.520 align:start position:0%
+a range. So, if you can go ahead and
+ 
+
+00:14:20.520 --> 00:14:22.790 align:start position:0%
+a range. So, if you can go ahead and
+mark<00:14:20.800><c> this</c><00:14:21.080><c> out,</c><00:14:21.520><c> we</c><00:14:21.600><c> have</c><00:14:21.840><c> a</c><00:14:21.920><c> range</c><00:14:22.320><c> low</c><00:14:22.680><c> that</c>
+
+00:14:22.790 --> 00:14:22.800 align:start position:0%
+mark this out, we have a range low that
+ 
+
+00:14:22.800 --> 00:14:25.750 align:start position:0%
+mark this out, we have a range low that
+we<00:14:22.880><c> have</c><00:14:23.000><c> taken</c><00:14:23.320><c> out.</c><00:14:23.920><c> We</c><00:14:24.080><c> have</c><00:14:24.320><c> a</c><00:14:24.440><c> range</c><00:14:24.880><c> high.</c>
+
+00:14:25.750 --> 00:14:25.760 align:start position:0%
+we have taken out. We have a range high.
+ 
+
+00:14:25.760 --> 00:14:27.630 align:start position:0%
+we have taken out. We have a range high.
+Now,<00:14:25.840><c> which</c><00:14:26.080><c> way</c><00:14:26.280><c> would</c><00:14:26.480><c> you</c><00:14:26.560><c> be</c><00:14:26.720><c> favoring?</c>
+
+00:14:27.630 --> 00:14:27.640 align:start position:0%
+Now, which way would you be favoring?
+ 
+
+00:14:27.640 --> 00:14:29.510 align:start position:0%
+Now, which way would you be favoring?
+Right?<00:14:27.760><c> Cuz</c><00:14:27.920><c> we</c><00:14:28.040><c> technically</c><00:14:28.680><c> have</c><00:14:29.040><c> a</c><00:14:29.120><c> candle</c>
+
+00:14:29.510 --> 00:14:29.520 align:start position:0%
+Right? Cuz we technically have a candle
+ 
+
+00:14:29.520 --> 00:14:31.870 align:start position:0%
+Right? Cuz we technically have a candle
+to<00:14:29.680><c> closure</c><00:14:30.160><c> bearish</c><00:14:30.960><c> and</c><00:14:31.120><c> we</c><00:14:31.240><c> have</c><00:14:31.440><c> a</c><00:14:31.480><c> candle</c>
+
+00:14:31.870 --> 00:14:31.880 align:start position:0%
+to closure bearish and we have a candle
+ 
+
+00:14:31.880 --> 00:14:34.430 align:start position:0%
+to closure bearish and we have a candle
+to<00:14:32.080><c> closure</c><00:14:32.720><c> bullish.</c><00:14:33.640><c> Well,</c><00:14:33.880><c> I</c><00:14:33.960><c> want</c><00:14:34.120><c> to</c><00:14:34.200><c> zoom</c>
+
+00:14:34.430 --> 00:14:34.440 align:start position:0%
+to closure bullish. Well, I want to zoom
+ 
+
+00:14:34.440 --> 00:14:36.270 align:start position:0%
+to closure bullish. Well, I want to zoom
+out<00:14:34.560><c> to</c><00:14:34.680><c> the</c><00:14:34.800><c> higher</c><00:14:35.040><c> time</c><00:14:35.320><c> frames.</c><00:14:36.120><c> Which</c>
+
+00:14:36.270 --> 00:14:36.280 align:start position:0%
+out to the higher time frames. Which
+ 
+
+00:14:36.280 --> 00:14:37.950 align:start position:0%
+out to the higher time frames. Which
+way's<00:14:36.440><c> the</c><00:14:36.560><c> trend</c><00:14:36.880><c> going</c><00:14:37.160><c> here?</c><00:14:37.720><c> It</c><00:14:37.800><c> is</c>
+
+00:14:37.950 --> 00:14:37.960 align:start position:0%
+way's the trend going here? It is
+ 
+
+00:14:37.960 --> 00:14:39.990 align:start position:0%
+way's the trend going here? It is
+actually<00:14:38.360><c> bullish.</c><00:14:38.960><c> Gold</c><00:14:39.320><c> is</c><00:14:39.520><c> bullish</c><00:14:39.839><c> right</c>
+
+00:14:39.990 --> 00:14:40.000 align:start position:0%
+actually bullish. Gold is bullish right
+ 
+
+00:14:40.000 --> 00:14:42.990 align:start position:0%
+actually bullish. Gold is bullish right
+now.<00:14:40.800><c> And</c><00:14:41.440><c> so,</c><00:14:41.640><c> looking</c><00:14:41.960><c> at</c><00:14:42.080><c> that,</c><00:14:42.760><c> what</c><00:14:42.880><c> would</c>
+
+00:14:42.990 --> 00:14:43.000 align:start position:0%
+now. And so, looking at that, what would
+ 
+
+00:14:43.000 --> 00:14:44.870 align:start position:0%
+now. And so, looking at that, what would
+we<00:14:43.080><c> want</c><00:14:43.240><c> to</c><00:14:43.320><c> wait</c><00:14:43.480><c> for?</c><00:14:44.160><c> Well,</c><00:14:44.360><c> we</c><00:14:44.480><c> would</c><00:14:44.640><c> want</c>
+
+00:14:44.870 --> 00:14:44.880 align:start position:0%
+we want to wait for? Well, we would want
+ 
+
+00:14:44.880 --> 00:14:47.230 align:start position:0%
+we want to wait for? Well, we would want
+to<00:14:45.000><c> see</c><00:14:45.320><c> if</c><00:14:45.560><c> this</c><00:14:45.839><c> forms</c><00:14:46.240><c> a</c><00:14:46.360><c> wick</c><00:14:46.880><c> that</c><00:14:47.000><c> we</c><00:14:47.120><c> can</c>
+
+00:14:47.230 --> 00:14:47.240 align:start position:0%
+to see if this forms a wick that we can
+ 
+
+00:14:47.240 --> 00:14:49.750 align:start position:0%
+to see if this forms a wick that we can
+trust.<00:14:48.120><c> Cuz</c><00:14:48.200><c> if</c><00:14:48.320><c> price</c><00:14:48.640><c> opens</c><00:14:49.000><c> here</c><00:14:49.400><c> and</c><00:14:49.600><c> then</c>
+
+00:14:49.750 --> 00:14:49.760 align:start position:0%
+trust. Cuz if price opens here and then
+ 
+
+00:14:49.760 --> 00:14:52.190 align:start position:0%
+trust. Cuz if price opens here and then
+just<00:14:50.000><c> trades</c><00:14:50.600><c> lower,</c><00:14:51.360><c> it's</c><00:14:51.520><c> not</c><00:14:51.760><c> forming</c><00:14:52.120><c> a</c>
+
+00:14:52.190 --> 00:14:52.200 align:start position:0%
+just trades lower, it's not forming a
+ 
+
+00:14:52.200 --> 00:14:54.030 align:start position:0%
+just trades lower, it's not forming a
+wick<00:14:52.440><c> we</c><00:14:52.520><c> can</c><00:14:52.640><c> trust.</c><00:14:53.400><c> And</c><00:14:53.520><c> then</c><00:14:53.600><c> we</c><00:14:53.680><c> can</c><00:14:53.800><c> just</c>
+
+00:14:54.030 --> 00:14:54.040 align:start position:0%
+wick we can trust. And then we can just
+ 
+
+00:14:54.040 --> 00:14:56.590 align:start position:0%
+wick we can trust. And then we can just
+avoid<00:14:54.560><c> a</c><00:14:54.680><c> loss</c><00:14:55.120><c> there.</c><00:14:55.760><c> But</c><00:14:55.920><c> if</c><00:14:56.040><c> we</c><00:14:56.200><c> have</c><00:14:56.520><c> a</c>
+
+00:14:56.590 --> 00:14:56.600 align:start position:0%
+avoid a loss there. But if we have a
+ 
+
+00:14:56.600 --> 00:14:59.270 align:start position:0%
+avoid a loss there. But if we have a
+nice<00:14:56.920><c> formation</c><00:14:57.960><c> and</c><00:14:58.080><c> a</c><00:14:58.200><c> wick</c><00:14:58.440><c> we</c><00:14:58.520><c> can</c><00:14:58.680><c> trust,</c>
+
+00:14:59.270 --> 00:14:59.280 align:start position:0%
+nice formation and a wick we can trust,
+ 
+
+00:14:59.280 --> 00:15:01.270 align:start position:0%
+nice formation and a wick we can trust,
+then<00:14:59.440><c> we</c><00:14:59.520><c> could</c><00:14:59.680><c> look</c><00:14:59.839><c> to</c><00:15:00.000><c> trade</c><00:15:00.320><c> that</c><00:15:00.560><c> to</c><00:15:01.040><c> the</c>
+
+00:15:01.270 --> 00:15:01.280 align:start position:0%
+then we could look to trade that to the
+ 
+
+00:15:01.280 --> 00:15:03.550 align:start position:0%
+then we could look to trade that to the
+other<00:15:01.520><c> side</c><00:15:01.839><c> of</c><00:15:01.920><c> the</c><00:15:02.040><c> range.</c><00:15:03.160><c> So,</c><00:15:03.280><c> let's</c><00:15:03.480><c> go</c>
+
+00:15:03.550 --> 00:15:03.560 align:start position:0%
+other side of the range. So, let's go
+ 
+
+00:15:03.560 --> 00:15:05.230 align:start position:0%
+other side of the range. So, let's go
+ahead<00:15:03.800><c> and</c><00:15:03.880><c> let</c><00:15:04.040><c> this</c><00:15:04.240><c> form.</c>
+
+00:15:05.230 --> 00:15:05.240 align:start position:0%
+ahead and let this form.
+ 
+
+00:15:05.240 --> 00:15:06.750 align:start position:0%
+ahead and let this form.
+What<00:15:05.280><c> do</c><00:15:05.360><c> we</c><00:15:05.440><c> notice?</c>
+
+00:15:06.750 --> 00:15:06.760 align:start position:0%
+What do we notice?
+ 
+
+00:15:06.760 --> 00:15:08.829 align:start position:0%
+What do we notice?
+We<00:15:06.839><c> initially</c><00:15:07.320><c> have</c><00:15:07.680><c> a</c><00:15:07.800><c> bearish</c><00:15:08.280><c> protected</c>
+
+00:15:08.829 --> 00:15:08.839 align:start position:0%
+We initially have a bearish protected
+ 
+
+00:15:08.839 --> 00:15:10.990 align:start position:0%
+We initially have a bearish protected
+swing<00:15:09.120><c> here.</c><00:15:09.760><c> Now,</c><00:15:09.880><c> like</c><00:15:10.080><c> I</c><00:15:10.160><c> said,</c><00:15:10.680><c> with</c><00:15:10.880><c> the</c>
+
+00:15:10.990 --> 00:15:11.000 align:start position:0%
+swing here. Now, like I said, with the
+ 
+
+00:15:11.000 --> 00:15:12.910 align:start position:0%
+swing here. Now, like I said, with the
+higher<00:15:11.240><c> time</c><00:15:11.480><c> frame</c><00:15:11.640><c> trend,</c><00:15:12.200><c> this</c><00:15:12.480><c> fact</c><00:15:12.800><c> that</c>
+
+00:15:12.910 --> 00:15:12.920 align:start position:0%
+higher time frame trend, this fact that
+ 
+
+00:15:12.920 --> 00:15:14.750 align:start position:0%
+higher time frame trend, this fact that
+we<00:15:13.000><c> have</c><00:15:13.120><c> already</c><00:15:13.360><c> taken</c><00:15:13.680><c> out</c><00:15:13.760><c> the</c><00:15:13.839><c> range</c><00:15:14.160><c> low,</c>
+
+00:15:14.750 --> 00:15:14.760 align:start position:0%
+we have already taken out the range low,
+ 
+
+00:15:14.760 --> 00:15:16.670 align:start position:0%
+we have already taken out the range low,
+we<00:15:14.839><c> have</c><00:15:15.000><c> failure</c><00:15:15.360><c> swings</c><00:15:15.600><c> to</c><00:15:15.680><c> the</c><00:15:15.800><c> highs,</c><00:15:16.600><c> I</c>
+
+00:15:16.670 --> 00:15:16.680 align:start position:0%
+we have failure swings to the highs, I
+ 
+
+00:15:16.680 --> 00:15:18.510 align:start position:0%
+we have failure swings to the highs, I
+would<00:15:16.800><c> be</c><00:15:16.960><c> ignoring</c><00:15:17.520><c> this.</c><00:15:18.160><c> So,</c><00:15:18.280><c> what</c><00:15:18.400><c> do</c><00:15:18.440><c> you</c>
+
+00:15:18.510 --> 00:15:18.520 align:start position:0%
+would be ignoring this. So, what do you
+ 
+
+00:15:18.520 --> 00:15:19.750 align:start position:0%
+would be ignoring this. So, what do you
+want<00:15:18.640><c> to</c><00:15:18.680><c> see?</c><00:15:19.120><c> You</c><00:15:19.200><c> want</c><00:15:19.320><c> to</c><00:15:19.400><c> see</c><00:15:19.520><c> this</c>
+
+00:15:19.750 --> 00:15:19.760 align:start position:0%
+want to see? You want to see this
+ 
+
+00:15:19.760 --> 00:15:22.150 align:start position:0%
+want to see? You want to see this
+invalidated<00:15:20.920><c> and</c><00:15:21.000><c> you</c><00:15:21.040><c> want</c><00:15:21.160><c> to</c><00:15:21.240><c> see</c><00:15:21.440><c> a</c><00:15:21.560><c> new</c>
+
+00:15:22.150 --> 00:15:22.160 align:start position:0%
+invalidated and you want to see a new
+ 
+
+00:15:22.160 --> 00:15:24.110 align:start position:0%
+invalidated and you want to see a new
+bullish<00:15:22.560><c> protected</c><00:15:23.080><c> swing.</c>
+
+00:15:24.110 --> 00:15:24.120 align:start position:0%
+bullish protected swing.
+ 
+
+00:15:24.120 --> 00:15:27.030 align:start position:0%
+bullish protected swing.
+So,<00:15:24.160><c> let's</c><00:15:24.360><c> see</c><00:15:24.480><c> what</c><00:15:24.600><c> happens.</c>
+
+00:15:27.030 --> 00:15:27.040 align:start position:0%
+So, let's see what happens.
+ 
+
+00:15:27.040 --> 00:15:29.190 align:start position:0%
+So, let's see what happens.
+And<00:15:27.160><c> there</c><00:15:27.280><c> you</c><00:15:27.360><c> can</c><00:15:27.520><c> see,</c><00:15:27.800><c> we</c><00:15:28.000><c> get</c><00:15:28.240><c> what?</c><00:15:29.080><c> A</c>
+
+00:15:29.190 --> 00:15:29.200 align:start position:0%
+And there you can see, we get what? A
+ 
+
+00:15:29.200 --> 00:15:31.070 align:start position:0%
+And there you can see, we get what? A
+reach<00:15:29.520><c> into</c><00:15:29.840><c> an</c><00:15:29.920><c> important</c><00:15:30.320><c> level.</c><00:15:30.760><c> We're</c><00:15:30.920><c> in</c>
+
+00:15:31.070 --> 00:15:31.080 align:start position:0%
+reach into an important level. We're in
+ 
+
+00:15:31.080 --> 00:15:33.070 align:start position:0%
+reach into an important level. We're in
+this<00:15:31.240><c> fair</c><00:15:31.440><c> value</c><00:15:31.680><c> gap</c><00:15:31.840><c> here,</c><00:15:32.520><c> and</c><00:15:32.640><c> then</c><00:15:32.760><c> price</c>
+
+00:15:33.070 --> 00:15:33.080 align:start position:0%
+this fair value gap here, and then price
+ 
+
+00:15:33.080 --> 00:15:35.990 align:start position:0%
+this fair value gap here, and then price
+closes<00:15:33.560><c> over</c><00:15:33.760><c> the</c><00:15:33.880><c> series</c><00:15:34.280><c> of</c><00:15:34.400><c> candles</c><00:15:35.320><c> or</c>
+
+00:15:35.990 --> 00:15:36.000 align:start position:0%
+closes over the series of candles or
+ 
+
+00:15:36.000 --> 00:15:37.710 align:start position:0%
+closes over the series of candles or
+this<00:15:36.160><c> candle</c><00:15:36.480><c> right</c><00:15:36.680><c> here</c>
+
+00:15:37.710 --> 00:15:37.720 align:start position:0%
+this candle right here
+ 
+
+00:15:37.720 --> 00:15:39.550 align:start position:0%
+this candle right here
+into<00:15:37.960><c> that</c><00:15:38.120><c> important</c><00:15:38.440><c> level.</c><00:15:39.280><c> Now,</c><00:15:39.400><c> why</c>
+
+00:15:39.550 --> 00:15:39.560 align:start position:0%
+into that important level. Now, why
+ 
+
+00:15:39.560 --> 00:15:41.190 align:start position:0%
+into that important level. Now, why
+would<00:15:39.720><c> I</c><00:15:39.760><c> consider</c><00:15:40.240><c> this</c><00:15:40.440><c> single</c><00:15:40.720><c> candle</c><00:15:41.080><c> in</c>
+
+00:15:41.190 --> 00:15:41.200 align:start position:0%
+would I consider this single candle in
+ 
+
+00:15:41.200 --> 00:15:42.390 align:start position:0%
+would I consider this single candle in
+this<00:15:41.320><c> case</c>
+
+00:15:42.390 --> 00:15:42.400 align:start position:0%
+this case
+ 
+
+00:15:42.400 --> 00:15:44.550 align:start position:0%
+this case
+and<00:15:42.560><c> not</c><00:15:42.960><c> this</c><00:15:43.160><c> whole</c><00:15:43.560><c> range</c><00:15:43.920><c> right</c><00:15:44.120><c> here?</c>
+
+00:15:44.550 --> 00:15:44.560 align:start position:0%
+and not this whole range right here?
+ 
+
+00:15:44.560 --> 00:15:45.950 align:start position:0%
+and not this whole range right here?
+Because<00:15:44.840><c> there</c><00:15:44.960><c> are</c><00:15:45.120><c> times</c><00:15:45.520><c> where</c><00:15:45.680><c> I</c><00:15:45.760><c> will</c>
+
+00:15:45.950 --> 00:15:45.960 align:start position:0%
+Because there are times where I will
+ 
+
+00:15:45.960 --> 00:15:48.190 align:start position:0%
+Because there are times where I will
+look<00:15:46.120><c> for</c><00:15:46.280><c> that.</c><00:15:47.240><c> Well,</c><00:15:47.360><c> if</c><00:15:47.480><c> you</c><00:15:47.560><c> notice,</c>
+
+00:15:48.190 --> 00:15:48.200 align:start position:0%
+look for that. Well, if you notice,
+ 
+
+00:15:48.200 --> 00:15:50.550 align:start position:0%
+look for that. Well, if you notice,
+price<00:15:48.560><c> does</c><00:15:48.840><c> form</c><00:15:49.120><c> a</c><00:15:49.200><c> swing</c><00:15:49.560><c> high</c><00:15:49.840><c> here</c><00:15:50.360><c> on</c>
+
+00:15:50.550 --> 00:15:50.560 align:start position:0%
+price does form a swing high here on
+ 
+
+00:15:50.560 --> 00:15:52.630 align:start position:0%
+price does form a swing high here on
+this<00:15:50.680><c> swing</c><00:15:51.000><c> low.</c><00:15:51.640><c> So,</c><00:15:51.920><c> on</c><00:15:52.080><c> a</c><00:15:52.120><c> lower</c><00:15:52.360><c> time</c>
+
+00:15:52.630 --> 00:15:52.640 align:start position:0%
+this swing low. So, on a lower time
+ 
+
+00:15:52.640 --> 00:15:55.390 align:start position:0%
+this swing low. So, on a lower time
+frame,<00:15:53.160><c> price</c><00:15:54.040><c> forms</c><00:15:54.560><c> structure</c><00:15:55.040><c> here</c><00:15:55.240><c> that</c>
+
+00:15:55.390 --> 00:15:55.400 align:start position:0%
+frame, price forms structure here that
+ 
+
+00:15:55.400 --> 00:15:57.270 align:start position:0%
+frame, price forms structure here that
+we're<00:15:55.560><c> actually</c><00:15:55.920><c> shifting.</c><00:15:56.760><c> All</c><00:15:56.800><c> right,</c><00:15:56.960><c> so</c><00:15:57.160><c> I</c>
+
+00:15:57.270 --> 00:15:57.280 align:start position:0%
+we're actually shifting. All right, so I
+ 
+
+00:15:57.280 --> 00:15:59.510 align:start position:0%
+we're actually shifting. All right, so I
+am<00:15:57.440><c> taking</c><00:15:57.680><c> a</c><00:15:57.720><c> look</c><00:15:57.880><c> at</c><00:15:57.960><c> that,</c><00:15:58.680><c> and</c><00:15:59.080><c> I</c><00:15:59.200><c> would</c>
+
+00:15:59.510 --> 00:15:59.520 align:start position:0%
+am taking a look at that, and I would
+ 
+
+00:15:59.520 --> 00:16:01.590 align:start position:0%
+am taking a look at that, and I would
+use<00:15:59.920><c> this</c><00:16:00.120><c> single</c><00:16:00.440><c> candle.</c><00:16:01.400><c> Now,</c><00:16:01.440><c> if</c><00:16:01.560><c> you</c>
+
+00:16:01.590 --> 00:16:01.600 align:start position:0%
+use this single candle. Now, if you
+ 
+
+00:16:01.600 --> 00:16:03.550 align:start position:0%
+use this single candle. Now, if you
+notice,<00:16:02.280><c> we</c><00:16:02.360><c> can</c><00:16:02.480><c> go</c><00:16:02.560><c> ahead</c><00:16:02.760><c> and</c><00:16:02.920><c> enter</c><00:16:03.360><c> on</c><00:16:03.480><c> the</c>
+
+00:16:03.550 --> 00:16:03.560 align:start position:0%
+notice, we can go ahead and enter on the
+ 
+
+00:16:03.560 --> 00:16:05.950 align:start position:0%
+notice, we can go ahead and enter on the
+close<00:16:03.920><c> through.</c><00:16:04.520><c> We</c><00:16:04.640><c> put</c><00:16:04.880><c> our</c><00:16:05.000><c> stop</c><00:16:05.520><c> on</c><00:16:05.760><c> that</c>
+
+00:16:05.950 --> 00:16:05.960 align:start position:0%
+close through. We put our stop on that
+ 
+
+00:16:05.960 --> 00:16:08.790 align:start position:0%
+close through. We put our stop on that
+wick<00:16:06.240><c> low</c><00:16:06.880><c> that</c><00:16:07.000><c> we</c><00:16:07.120><c> can</c><00:16:07.400><c> anticipate,</c><00:16:08.160><c> right?</c>
+
+00:16:08.790 --> 00:16:08.800 align:start position:0%
+wick low that we can anticipate, right?
+ 
+
+00:16:08.800 --> 00:16:10.910 align:start position:0%
+wick low that we can anticipate, right?
+We<00:16:08.920><c> let</c><00:16:09.200><c> the</c><00:16:09.320><c> wick</c><00:16:09.640><c> form.</c><00:16:10.400><c> Now,</c><00:16:10.520><c> we're</c><00:16:10.720><c> trying</c>
+
+00:16:10.910 --> 00:16:10.920 align:start position:0%
+We let the wick form. Now, we're trying
+ 
+
+00:16:10.920 --> 00:16:12.950 align:start position:0%
+We let the wick form. Now, we're trying
+to<00:16:11.040><c> trade</c><00:16:11.320><c> the</c><00:16:11.400><c> body.</c><00:16:11.920><c> You</c><00:16:12.040><c> see</c><00:16:12.200><c> how</c><00:16:12.320><c> our</c><00:16:12.480><c> entry</c>
+
+00:16:12.950 --> 00:16:12.960 align:start position:0%
+to trade the body. You see how our entry
+ 
+
+00:16:12.960 --> 00:16:15.110 align:start position:0%
+to trade the body. You see how our entry
+is<00:16:13.200><c> near</c><00:16:13.520><c> that</c><00:16:13.720><c> opening</c><00:16:14.040><c> price.</c><00:16:14.800><c> That</c><00:16:14.960><c> is</c>
+
+00:16:15.110 --> 00:16:15.120 align:start position:0%
+is near that opening price. That is
+ 
+
+00:16:15.120 --> 00:16:16.790 align:start position:0%
+is near that opening price. That is
+ideal.<00:16:15.880><c> And</c><00:16:15.960><c> then</c><00:16:16.040><c> we</c><00:16:16.120><c> could</c><00:16:16.200><c> be</c><00:16:16.320><c> looking</c><00:16:16.600><c> for</c>
+
+00:16:16.790 --> 00:16:16.800 align:start position:0%
+ideal. And then we could be looking for
+ 
+
+00:16:16.800 --> 00:16:19.830 align:start position:0%
+ideal. And then we could be looking for
+2R<00:16:17.640><c> or</c><00:16:17.800><c> to</c><00:16:18.000><c> this</c><00:16:18.320><c> range</c><00:16:18.760><c> high.</c>
+
+00:16:19.830 --> 00:16:19.840 align:start position:0%
+2R or to this range high.
+ 
+
+00:16:19.840 --> 00:16:24.430 align:start position:0%
+2R or to this range high.
+So,<00:16:20.000><c> let's</c><00:16:20.120><c> see</c><00:16:20.200><c> what</c><00:16:20.320><c> happens</c><00:16:20.680><c> here.</c>
+
+00:16:24.430 --> 00:16:24.440 align:start position:0%
+ 
+ 
+
+00:16:24.440 --> 00:16:26.710 align:start position:0%
+ 
+And<00:16:24.520><c> there</c><00:16:24.680><c> we</c><00:16:24.800><c> go,</c><00:16:24.920><c> hit</c><00:16:25.160><c> our</c><00:16:25.360><c> range</c><00:16:25.720><c> high</c><00:16:26.520><c> and</c>
+
+00:16:26.710 --> 00:16:26.720 align:start position:0%
+And there we go, hit our range high and
+ 
+
+00:16:26.720 --> 00:16:29.950 align:start position:0%
+And there we go, hit our range high and
+our<00:16:26.880><c> target.</c><00:16:28.160><c> So,</c><00:16:28.680><c> just</c><00:16:29.000><c> in</c><00:16:29.120><c> review,</c><00:16:29.720><c> what</c><00:16:29.880><c> are</c>
+
+00:16:29.950 --> 00:16:29.960 align:start position:0%
+our target. So, just in review, what are
+ 
+
+00:16:29.960 --> 00:16:32.790 align:start position:0%
+our target. So, just in review, what are
+we<00:16:30.080><c> doing?</c><00:16:30.880><c> If</c><00:16:31.000><c> we</c><00:16:31.080><c> are</c><00:16:31.160><c> trying</c><00:16:31.640><c> to</c><00:16:31.839><c> trade</c><00:16:32.680><c> an</c>
+
+00:16:32.790 --> 00:16:32.800 align:start position:0%
+we doing? If we are trying to trade an
+ 
+
+00:16:32.800 --> 00:16:35.270 align:start position:0%
+we doing? If we are trying to trade an
+expansion<00:16:33.400><c> candle</c><00:16:34.040><c> or</c><00:16:34.320><c> any</c><00:16:34.520><c> sort</c><00:16:34.800><c> of</c><00:16:34.920><c> candle</c>
+
+00:16:35.270 --> 00:16:35.280 align:start position:0%
+expansion candle or any sort of candle
+ 
+
+00:16:35.280 --> 00:16:37.350 align:start position:0%
+expansion candle or any sort of candle
+we<00:16:35.400><c> are</c><00:16:35.520><c> looking</c><00:16:35.839><c> for</c><00:16:36.000><c> a</c><00:16:36.040><c> continuation,</c><00:16:37.240><c> we</c>
+
+00:16:37.350 --> 00:16:37.360 align:start position:0%
+we are looking for a continuation, we
+ 
+
+00:16:37.360 --> 00:16:39.630 align:start position:0%
+we are looking for a continuation, we
+want<00:16:37.560><c> to</c><00:16:37.600><c> let</c><00:16:37.800><c> it</c><00:16:38.000><c> form</c><00:16:38.320><c> its</c><00:16:38.520><c> wick</c><00:16:38.800><c> first.</c><00:16:39.560><c> So,</c>
+
+00:16:39.630 --> 00:16:39.640 align:start position:0%
+want to let it form its wick first. So,
+ 
+
+00:16:39.640 --> 00:16:41.190 align:start position:0%
+want to let it form its wick first. So,
+if<00:16:39.720><c> you're</c><00:16:39.839><c> trying</c><00:16:40.080><c> to</c><00:16:40.200><c> trade</c><00:16:40.560><c> this</c><00:16:40.760><c> candle</c>
+
+00:16:41.190 --> 00:16:41.200 align:start position:0%
+if you're trying to trade this candle
+ 
+
+00:16:41.200 --> 00:16:43.630 align:start position:0%
+if you're trying to trade this candle
+right<00:16:41.440><c> here,</c><00:16:42.160><c> what</c><00:16:42.360><c> are</c><00:16:42.440><c> we</c><00:16:42.560><c> trying</c><00:16:42.800><c> to</c><00:16:42.880><c> do?</c>
+
+00:16:43.630 --> 00:16:43.640 align:start position:0%
+right here, what are we trying to do?
+ 
+
+00:16:43.640 --> 00:16:46.710 align:start position:0%
+right here, what are we trying to do?
+Let<00:16:43.920><c> the</c><00:16:44.080><c> wick</c><00:16:44.400><c> form.</c><00:16:45.160><c> We</c><00:16:45.280><c> let</c><00:16:45.520><c> this</c><00:16:45.920><c> wick</c><00:16:46.240><c> form</c>
+
+00:16:46.710 --> 00:16:46.720 align:start position:0%
+Let the wick form. We let this wick form
+ 
+
+00:16:46.720 --> 00:16:48.630 align:start position:0%
+Let the wick form. We let this wick form
+or<00:16:46.920><c> the</c><00:16:47.040><c> anticipation</c><00:16:47.760><c> of</c><00:16:47.920><c> it</c><00:16:48.200><c> using</c><00:16:48.560><c> a</c>
+
+00:16:48.630 --> 00:16:48.640 align:start position:0%
+or the anticipation of it using a
+ 
+
+00:16:48.640 --> 00:16:50.510 align:start position:0%
+or the anticipation of it using a
+protected<00:16:49.120><c> swing,</c><00:16:49.760><c> then</c><00:16:49.920><c> we</c><00:16:50.000><c> can</c><00:16:50.120><c> look</c><00:16:50.280><c> for</c><00:16:50.400><c> an</c>
+
+00:16:50.510 --> 00:16:50.520 align:start position:0%
+protected swing, then we can look for an
+ 
+
+00:16:50.520 --> 00:16:53.030 align:start position:0%
+protected swing, then we can look for an
+entry,<00:16:51.240><c> put</c><00:16:51.400><c> our</c><00:16:51.480><c> stop</c><00:16:51.960><c> on</c><00:16:52.160><c> that</c><00:16:52.360><c> wick</c><00:16:52.800><c> because</c>
+
+00:16:53.030 --> 00:16:53.040 align:start position:0%
+entry, put our stop on that wick because
+ 
+
+00:16:53.040 --> 00:16:54.470 align:start position:0%
+entry, put our stop on that wick because
+if<00:16:53.160><c> the</c><00:16:53.280><c> wick</c><00:16:53.440><c> is</c><00:16:53.600><c> formed,</c><00:16:54.080><c> that</c><00:16:54.240><c> stop</c>
+
+00:16:54.470 --> 00:16:54.480 align:start position:0%
+if the wick is formed, that stop
+ 
+
+00:16:54.480 --> 00:16:56.230 align:start position:0%
+if the wick is formed, that stop
+shouldn't<00:16:54.760><c> get</c><00:16:54.880><c> taken</c><00:16:55.200><c> out.</c><00:16:55.839><c> And</c><00:16:55.920><c> then</c><00:16:56.000><c> we</c><00:16:56.080><c> can</c>
+
+00:16:56.230 --> 00:16:56.240 align:start position:0%
+shouldn't get taken out. And then we can
+ 
+
+00:16:56.240 --> 00:16:58.910 align:start position:0%
+shouldn't get taken out. And then we can
+look<00:16:56.440><c> to</c><00:16:56.880><c> let</c><00:16:57.160><c> price</c><00:16:57.480><c> expand</c><00:16:58.360><c> or</c><00:16:58.480><c> go</c><00:16:58.600><c> hit</c><00:16:58.839><c> our</c>
+
+00:16:58.910 --> 00:16:58.920 align:start position:0%
+look to let price expand or go hit our
+ 
+
+00:16:58.920 --> 00:17:01.350 align:start position:0%
+look to let price expand or go hit our
+TP<00:16:59.560><c> or</c><00:16:59.800><c> our</c><00:16:59.920><c> stop</c><00:17:00.360><c> loss.</c>
+
+00:17:01.350 --> 00:17:01.360 align:start position:0%
+TP or our stop loss.
+ 
+
+00:17:01.360 --> 00:17:02.590 align:start position:0%
+TP or our stop loss.
+Now,<00:17:01.480><c> I</c><00:17:01.560><c> hope</c><00:17:01.760><c> you</c><00:17:01.880><c> found</c><00:17:02.040><c> this</c><00:17:02.280><c> video</c>
+
+00:17:02.590 --> 00:17:02.600 align:start position:0%
+Now, I hope you found this video
+ 
+
+00:17:02.600 --> 00:17:05.630 align:start position:0%
+Now, I hope you found this video
+helpful.<00:17:03.480><c> I</c><00:17:03.560><c> hope</c><00:17:03.800><c> you</c><00:17:03.960><c> understand</c><00:17:04.480><c> the</c><00:17:04.680><c> logic</c>
+
+00:17:05.630 --> 00:17:05.640 align:start position:0%
+helpful. I hope you understand the logic
+ 
+
+00:17:05.640 --> 00:17:06.990 align:start position:0%
+helpful. I hope you understand the logic
+of<00:17:05.800><c> intra-candle</c><00:17:06.360><c> change</c><00:17:06.600><c> in</c><00:17:06.680><c> state</c><00:17:06.920><c> of</c>
+
+00:17:06.990 --> 00:17:07.000 align:start position:0%
+of intra-candle change in state of
+ 
+
+00:17:07.000 --> 00:17:09.870 align:start position:0%
+of intra-candle change in state of
+delivery,<00:17:07.760><c> those</c><00:17:08.000><c> intraday</c><00:17:08.439><c> reversals,</c>
+
+00:17:09.870 --> 00:17:09.880 align:start position:0%
+delivery, those intraday reversals,
+ 
+
+00:17:09.880 --> 00:17:11.189 align:start position:0%
+delivery, those intraday reversals,
+those<00:17:10.000><c> videos</c><00:17:10.240><c> that</c><00:17:10.400><c> I</c><00:17:10.439><c> made</c><00:17:10.680><c> that</c><00:17:10.800><c> I</c><00:17:10.880><c> gave</c><00:17:11.120><c> a</c>
+
+00:17:11.189 --> 00:17:11.199 align:start position:0%
+those videos that I made that I gave a
+ 
+
+00:17:11.199 --> 00:17:12.870 align:start position:0%
+those videos that I made that I gave a
+little<00:17:11.400><c> bit</c><00:17:11.600><c> more</c><00:17:11.920><c> of</c><00:17:12.040><c> a</c><00:17:12.120><c> mechanical</c>
+
+00:17:12.870 --> 00:17:12.880 align:start position:0%
+little bit more of a mechanical
+ 
+
+00:17:12.880 --> 00:17:14.750 align:start position:0%
+little bit more of a mechanical
+approach.<00:17:13.720><c> I'm</c><00:17:13.839><c> trying</c><00:17:14.079><c> to</c><00:17:14.199><c> explain</c><00:17:14.640><c> the</c>
+
+00:17:14.750 --> 00:17:14.760 align:start position:0%
+approach. I'm trying to explain the
+ 
+
+00:17:14.760 --> 00:17:16.870 align:start position:0%
+approach. I'm trying to explain the
+logic<00:17:15.280><c> in</c><00:17:15.360><c> this</c><00:17:15.560><c> video.</c><00:17:16.240><c> So,</c><00:17:16.400><c> I</c><00:17:16.480><c> hope</c><00:17:16.680><c> that</c><00:17:16.800><c> you</c>
+
+00:17:16.870 --> 00:17:16.880 align:start position:0%
+logic in this video. So, I hope that you
+ 
+
+00:17:16.880 --> 00:17:18.750 align:start position:0%
+logic in this video. So, I hope that you
+found<00:17:17.079><c> that</c><00:17:17.240><c> helpful.</c><00:17:17.920><c> If</c><00:17:18.040><c> you</c><00:17:18.120><c> did,</c><00:17:18.560><c> let</c><00:17:18.680><c> me</c>
+
+00:17:18.750 --> 00:17:18.760 align:start position:0%
+found that helpful. If you did, let me
+ 
+
+00:17:18.760 --> 00:17:21.350 align:start position:0%
+found that helpful. If you did, let me
+know<00:17:18.880><c> in</c><00:17:19.000><c> the</c><00:17:19.079><c> comments</c><00:17:19.439><c> section</c><00:17:19.800><c> below.</c><00:17:20.680><c> And</c>
+
+00:17:21.350 --> 00:17:21.360 align:start position:0%
+know in the comments section below. And
+ 
+
+00:17:21.360 --> 00:17:22.949 align:start position:0%
+know in the comments section below. And
+with<00:17:21.520><c> that,</c><00:17:21.839><c> I'll</c><00:17:21.959><c> see</c><00:17:22.120><c> you</c><00:17:22.199><c> guys</c><00:17:22.439><c> in</c><00:17:22.640><c> next</c>
+
+00:17:22.949 --> 00:17:22.959 align:start position:0%
+with that, I'll see you guys in next
+ 
+
+00:17:22.959 --> 00:17:26.439 align:start position:0%
+with that, I'll see you guys in next
+week's<00:17:23.199><c> video.</c><00:17:23.839><c> Have</c><00:17:24.000><c> a</c><00:17:24.040><c> good</c><00:17:24.160><c> one.</c>
+

@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "upHS7SDL9kg",
+    "title": "Targets Using Projections - The Fractal Model",
+    "url": "https://www.youtube.com/watch?v=upHS7SDL9kg",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/upHS7SDL9kg.json"
+  },
+  "stats": {
+    "word_count": 2289,
+    "duration_seconds": 667.84,
+    "segments": 217,
+    "concepts_detected": 3,
+    "candidate_strategies": 1
+  },
+  "concept_mentions": {
+    "Liquidity": 10,
+    "TTrades Fractal Model": 2,
+    "Projection Targets": 2
+  },
+  "spoken_time_references": [
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Projection Target Model",
+      "evidence": [
+        {
+          "start": 195.24,
+          "end": 208.84,
+          "text": "So in this next candle, this next week, we could be looking for price to trade into those liquidity targets using the projections as a confluence. And there you can see we hit our first projection target, as well as liquidity point.",
+          "concepts": [
+            "Liquidity",
+            "Projection Targets"
+          ],
+          "strategies": [
+            "Projection Target Model"
+          ],
+          "score": 17
+        },
+        {
+          "start": 224.2,
+          "end": 237.96,
+          "text": "And there you can see we have hit our targets as well as our projections. But like I said in the PDF, I prefer to use projections as a confluence to a target. But you can also use them alone, as if you do not have liquidity in a certain area, you",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Projection Target Model"
+          ],
+          "score": 12
+        },
+        {
+          "start": 534.08,
+          "end": 546.48,
+          "text": "So then that gives me a confluence to the target for this downside move. And you can see there we go and run out these lows, as well as hit all of these standard deviation projection targets.",
+          "concepts": [
+            "Projection Targets"
+          ],
+          "strategies": [
+            "Projection Target Model"
+          ],
+          "score": 13
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 12.44,
+      "end": 24.28,
+      "text": "In this video we are going to talk about projections, specifically within my fractal model, and how they are used. They are mechanical targets, and I personally use them as a confluence to existing liquidity",
+      "concepts": [
+        "Liquidity",
+        "TTrades Fractal Model"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 43.68,
+      "end": 51.68,
+      "text": "These are just the ones that I use. How do we actually mark out a projection? It's always going to be within candle 2 at the reversal point.",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 108.32,
+      "end": 118.32,
+      "text": "So I will look for liquidity targets in that area to be paired with, and I'm going to use these projections as a confluence. Now let's say we have a large manipulation leg.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 130.92,
+      "end": 141.84,
+      "text": "I'm then going to use the negative one as my target. And I personally love to use this on the hourly chart for the daily range. So now that you understand how to mark out these projections, where they go, let's go",
+      "concepts": [],
+      "strategies": [
+        "Projection Target Model"
+      ],
+      "score": 7
+    },
+    {
+      "start": 195.24,
+      "end": 208.84,
+      "text": "So in this next candle, this next week, we could be looking for price to trade into those liquidity targets using the projections as a confluence. And there you can see we hit our first projection target, as well as liquidity point.",
+      "concepts": [
+        "Liquidity",
+        "Projection Targets"
+      ],
+      "strategies": [
+        "Projection Target Model"
+      ],
+      "score": 17
+    },
+    {
+      "start": 224.2,
+      "end": 237.96,
+      "text": "And there you can see we have hit our targets as well as our projections. But like I said in the PDF, I prefer to use projections as a confluence to a target. But you can also use them alone, as if you do not have liquidity in a certain area, you",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Projection Target Model"
+      ],
+      "score": 12
+    },
+    {
+      "start": 270.36,
+      "end": 281.28,
+      "text": "And then now we have projections for this move. And you notice how the negative two to negative 2.5 is also lining up with this previous day's high, as well as the liquidity to the left.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 315.96,
+      "end": 327.84,
+      "text": "manipulation leg, and then look for targets that align with that. Or if you are lacking targets, projections make a great tool for trading at all time highs or areas where you do not have any liquidity resting.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 534.08,
+      "end": 546.48,
+      "text": "So then that gives me a confluence to the target for this downside move. And you can see there we go and run out these lows, as well as hit all of these standard deviation projection targets.",
+      "concepts": [
+        "Projection Targets"
+      ],
+      "strategies": [
+        "Projection Target Model"
+      ],
+      "score": 13
+    },
+    {
+      "start": 580.6,
+      "end": 593.16,
+      "text": "We have our negative two to negative 2.5 just before that low. Now when this occurs, I like to take my profit at that liquidity point prior to the final target, because a lot of times price will take out this low.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 629.64,
+      "end": 638.32,
+      "text": "Now if price is going to remain in a consolidation, this is where I'm going to want to actually pay attention to this negative one target because it's the liquidity point internal to this range.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 649.4,
+      "end": 656.48,
+      "text": "But we'll see if this high eventually does get taken out. But that is what I would be looking for. The projections are a confluence to this target here.",
+      "concepts": [],
+      "strategies": [
+        "Projection Target Model"
+      ],
+      "score": 8
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.326397+00:00"
+}

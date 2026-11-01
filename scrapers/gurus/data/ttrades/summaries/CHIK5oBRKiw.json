@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "CHIK5oBRKiw",
+    "title": "Change In State Of Delivery [CISD] - Orderblock Formation - ICT Concepts",
+    "url": "https://www.youtube.com/watch?v=CHIK5oBRKiw",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/CHIK5oBRKiw.json"
+  },
+  "stats": {
+    "word_count": 2778,
+    "duration_seconds": 934.12,
+    "segments": 270,
+    "concepts_detected": 7,
+    "candidate_strategies": 4
+  },
+  "concept_mentions": {
+    "Liquidity": 4,
+    "Fair Value Gap": 8,
+    "Order Blocks and Breakers": 15,
+    "Premium and Discount": 1,
+    "CISD": 16,
+    "Projection Targets": 1,
+    "Buyside and Sellside Liquidity": 2
+  },
+  "spoken_time_references": [
+    "New York open"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 455.16,
+          "end": 463.8,
+          "text": "fair value gap. We waited for the change in state of delivery on the hourly chart. And then the next day we had a sweep of buy side liquidity,",
+          "concepts": [
+            "Liquidity",
+            "Fair Value Gap",
+            "CISD",
+            "Buyside and Sellside Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 21
+        }
+      ]
+    },
+    {
+      "name": "Power of Three / AMD",
+      "evidence": [
+        {
+          "start": 764.4,
+          "end": 774.12,
+          "text": "And we'll also mark out the highest body in that accumulation as that is the box setup. And we'll mark out the deviation from this range or the manipulation.",
+          "concepts": [],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 8
+        },
+        {
+          "start": 847.44,
+          "end": 858.2,
+          "text": "So marking out the lowest bodies in that range. Now go ahead and mark out our accumulation or manipulation. Now you want to see this displaced back into the range, which it does.",
+          "concepts": [],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 10
+        }
+      ]
+    },
+    {
+      "name": "CISD Confirmed Swing Entry",
+      "evidence": [
+        {
+          "start": 20.28,
+          "end": 34.0,
+          "text": "At the end, I will combine it with standard deviations and AMD to create an entry model. So here we are in the PDF and what is the change in state of delivery? Well the change in state of delivery is when price goes from bullish to bearish or from",
+          "concepts": [
+            "CISD"
+          ],
+          "strategies": [
+            "CISD Confirmed Swing Entry"
+          ],
+          "score": 12
+        },
+        {
+          "start": 479.52,
+          "end": 492.0,
+          "text": "how do I combine all of this into an entry model? Well, what I focus on is a manipulation, then a change in state of delivery. And then I focus on order blocks and fair value gaps to deliver price to projections.",
+          "concepts": [
+            "Order Blocks and Breakers",
+            "CISD"
+          ],
+          "strategies": [
+            "CISD Confirmed Swing Entry"
+          ],
+          "score": 17
+        },
+        {
+          "start": 648.56,
+          "end": 657.96,
+          "text": "So if I'm looking for the first entry, I'm looking to enter on this change in state of delivery or the order block with my stop on the manipulation,",
+          "concepts": [
+            "Order Blocks and Breakers",
+            "CISD"
+          ],
+          "strategies": [
+            "CISD Confirmed Swing Entry"
+          ],
+          "score": 15
+        }
+      ]
+    },
+    {
+      "name": "Projection Target Model",
+      "evidence": [
+        {
+          "start": 823.64,
+          "end": 833.64,
+          "text": "stop here or up here. In this case, I'm comfortable putting my stop here as we had a sweep. And then I can look to target that original projection.",
+          "concepts": [],
+          "strategies": [
+            "Projection Target Model"
+          ],
+          "score": 7
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 20.28,
+      "end": 34.0,
+      "text": "At the end, I will combine it with standard deviations and AMD to create an entry model. So here we are in the PDF and what is the change in state of delivery? Well the change in state of delivery is when price goes from bullish to bearish or from",
+      "concepts": [
+        "CISD"
+      ],
+      "strategies": [
+        "CISD Confirmed Swing Entry"
+      ],
+      "score": 12
+    },
+    {
+      "start": 100.76,
+      "end": 109.96,
+      "text": "So let's go into the charts and look at a few examples of this. So here we are with our first example and I'm going to go ahead and mark out our buy side liquidity resting above these old highs.",
+      "concepts": [
+        "Liquidity",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 210.96,
+      "end": 223.48,
+      "text": "You can see it takes the order block, respects this fair value gap in here. And now price trades and closes below this candle here, which is now validating it as an order block.",
+      "concepts": [
+        "Fair Value Gap",
+        "Order Blocks and Breakers"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 267.56,
+      "end": 275.64,
+      "text": "can use the change in state of delivery on multiple different time frame. So you can see here we have a daily fair value gap right here, which would be the drawn liquidity.",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap",
+        "CISD"
+      ],
+      "strategies": [],
+      "score": 12
+    },
+    {
+      "start": 455.16,
+      "end": 463.8,
+      "text": "fair value gap. We waited for the change in state of delivery on the hourly chart. And then the next day we had a sweep of buy side liquidity,",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap",
+        "CISD",
+        "Buyside and Sellside Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 21
+    },
+    {
+      "start": 479.52,
+      "end": 492.0,
+      "text": "how do I combine all of this into an entry model? Well, what I focus on is a manipulation, then a change in state of delivery. And then I focus on order blocks and fair value gaps to deliver price to projections.",
+      "concepts": [
+        "Order Blocks and Breakers",
+        "CISD"
+      ],
+      "strategies": [
+        "CISD Confirmed Swing Entry"
+      ],
+      "score": 17
+    },
+    {
+      "start": 520.72,
+      "end": 527.32,
+      "text": "And there is our close below. So that is our change in state of delivery. Now, if I'm looking to take the first entry,",
+      "concepts": [
+        "CISD"
+      ],
+      "strategies": [
+        "CISD Confirmed Swing Entry"
+      ],
+      "score": 10
+    },
+    {
+      "start": 579.64,
+      "end": 592.08,
+      "text": "within a premium of this dealing range here. So above this line here. You can see price is retesting that order block.",
+      "concepts": [
+        "Order Blocks and Breakers",
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 648.56,
+      "end": 657.96,
+      "text": "So if I'm looking for the first entry, I'm looking to enter on this change in state of delivery or the order block with my stop on the manipulation,",
+      "concepts": [
+        "Order Blocks and Breakers",
+        "CISD"
+      ],
+      "strategies": [
+        "CISD Confirmed Swing Entry"
+      ],
+      "score": 15
+    },
+    {
+      "start": 720.52,
+      "end": 730.88,
+      "text": "Once that is confirmed by changing the state of delivery, I can then look for an entry on the order block or fair value gap as price reaches higher to these projection targets and liquidity levels.",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap",
+        "Order Blocks and Breakers",
+        "Projection Targets"
+      ],
+      "strategies": [],
+      "score": 20
+    },
+    {
+      "start": 764.4,
+      "end": 774.12,
+      "text": "And we'll also mark out the highest body in that accumulation as that is the box setup. And we'll mark out the deviation from this range or the manipulation.",
+      "concepts": [],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 8
+    },
+    {
+      "start": 847.44,
+      "end": 858.2,
+      "text": "So marking out the lowest bodies in that range. Now go ahead and mark out our accumulation or manipulation. Now you want to see this displaced back into the range, which it does.",
+      "concepts": [],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 10
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.083697+00:00"
+}

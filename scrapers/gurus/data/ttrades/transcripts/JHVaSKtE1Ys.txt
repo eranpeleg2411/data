@@ -1,0 +1,305 @@
+[00:00] How's it going everyone?
+[00:12] In this video we will be covering stop losses.
+[00:14] Now if you haven't already seen my video on protected swings, go ahead and check that
+[00:18] out first as it is a requirement to understand this video.
+[00:22] So the first thing to understand is what a protected swing is and that is what I covered
+[00:26] in my previous video.
+[00:27] But to review, a protected swing must reach into an important level, which is sweeping
+[00:31] out a low or reaching into a fair value gap.
+[00:34] And then when price closes over the series of down close candles that swept out that
+[00:38] low or into the fair value gap, so the close over right here.
+[00:42] Now that is considered a protected swing and I can trade away from that.
+[00:47] So by understanding what a protected swing is, where can I place my invalidation?
+[00:51] Well I can place my invalidation on that protected swing because if I'm anticipating
+[00:55] price to trade higher and not go to this low, that is where it makes sense to have
+[01:00] my invalidation or my stop loss.
+[01:03] Now in terms of risk to reward, if I cannot get the risk to reward that I want out of
+[01:07] this trade, what do I know about change in the state of delivery or opposing candles
+[01:11] or order blocks here that I want to see the mean threshold of those be respected or 50%.
+[01:17] So if I want to manipulate the risk to reward, what I'll go ahead and do is place my stop
+[01:21] loss at the body.
+[01:22] And you can see I can get to our a bit quicker doing this.
+[01:26] However, I do have to accept the fact that sometimes it will come sweep me out and then
+[01:31] go and hit my TP with this type of stop loss placement.
+[01:36] Now for a final note in the intro in this presentation is that this invalidation presentation
+[01:41] is built off of my model, which is using change in the state of delivery and order blocks.
+[01:46] Other people may use different PD arrays such as breaker blocks, fair value gaps, inversions,
+[01:52] and with this you have to decide where is your invalidation.
+[01:56] Is it a close back above the inversion?
+[01:58] Is it right above the fair value gap candle?
+[02:01] This video is just over my invalidations, but if you use a different PD array, this is something
+[02:06] you have to decide for yourself.
+[02:10] So let's get into trading view and go over a few examples of finding protected swings
+[02:14] and their invalidation.
+[02:16] So you can see here we have a nice V shape reversal here forming a reversal in a consolidation,
+[02:22] which is a continuation signature.
+[02:24] We run out the low in this consolidation.
+[02:27] We have a closure back inside the range.
+[02:29] See this previous candle closing like this.
+[02:32] So with this we could go down to the five minute timeframe since I am on the hourly and look
+[02:36] for that aligned fractal model to the upside.
+[02:39] So down here on the five minute chart, do we have a change in the state of delivery yet?
+[02:45] We do not because we have yet to close over the series of down close candles that made
+[02:50] the low.
+[02:51] So marking out that level, we'd need to wait for that to be closed over to form a protected
+[02:56] low right here.
+[02:58] So let's let that play out.
+[03:00] We do get the closure over.
+[03:02] So now we have a protected low here.
+[03:04] And so zooming out here on the five minute, if we're looking to trade to that previous
+[03:08] day's highs, right?
+[03:09] So we have the Friday high over there.
+[03:11] We could be looking for entries long and tell then.
+[03:15] So what I could do is look to take an entry anywhere in here, but where would I need my
+[03:19] stop?
+[03:20] Well, technically on the protected low and then looking for that high.
+[03:24] So that does give more than two R, which would be valid, or I could look to put it on the
+[03:29] body's low, right?
+[03:31] So from these bodies, find that low in there and do something like that.
+[03:36] Or what I can do is wait for a continuation.
+[03:39] Now what does that look like?
+[03:40] Well, I'm just going to wait for a new protected swing to form.
+[03:44] So let's zoom out a little, let this play forward and see if we can find a new one.
+[03:49] Is this a protected swing?
+[03:51] Not by how I define it, because I need to reach into an important level.
+[03:55] So letting this continue.
+[03:58] Here we go ahead and we're reaching into an important level, which is a fair value gap.
+[04:03] And then we are closing over the down close candles into that important level.
+[04:06] So then this would be a valid entry, putting my stop on the protected low.
+[04:11] And from here, I can look for two R or two trade to that high.
+[04:15] And you can see with this continuation entry, I get better risk to reward than I would with
+[04:19] that reversal entry.
+[04:21] So let's see if this works out, or if there's another entry.
+[04:25] And you can see what happens here.
+[04:27] You reach into another important level or a fair value gap.
+[04:30] Do we close over the down close candles?
+[04:33] No, not yet.
+[04:34] So this is not a valid entry until we get the closure over that level.
+[04:40] Now that we have failed to close over this level, we have made a new low.
+[04:45] I'm not looking for a closure over this level anymore to validate this.
+[04:48] We've now swept a low, which is an important level.
+[04:51] Now we have a new series of down close candles.
+[04:53] And you see how this is also aligning with my continuation with the candle for in the
+[04:58] fractal model.
+[04:59] Let's see what happens.
+[05:03] And right there we get that.
+[05:04] And you can see this is one where if I have my stop at the low, which is the protected
+[05:09] low, I can't get to R to that.
+[05:11] So that is when I could manipulate it to the bodies, or if I can't get to R out of that,
+[05:16] I'm going to look to make to R by taking a limit entry or looking for a retest.
+[05:22] Let's see, get tagged in.
+[05:27] And then it goes and hits that level.
+[05:29] So hopefully that makes sense for viewing this real quick.
+[05:32] We form a protected low.
+[05:33] That means I'm expecting price to trend higher and not return to this low.
+[05:37] However, it didn't provide great risk to reward to this high.
+[05:40] So I can look for continuation entries.
+[05:42] Those will form as we've reached into a fair value gap or sweep out a low and then close
+[05:47] over those down close candles.
+[05:48] So you can see this is our protected low.
+[05:51] Then we form a new protected low right here.
+[05:54] We were traced back into the range.
+[05:56] Those over new protected low.
+[05:59] And we can talk quickly about this.
+[06:01] Why would this be considered into a point of interest?
+[06:04] Well, it has a fair value up here.
+[06:05] But even if it didn't have the fair value up, I'm expecting this low to hold.
+[06:09] So if I'm expecting that low to hold and there's no point of interest in here, that's when
+[06:13] I can use this level here.
+[06:15] So continuing to track that, what do we have here?
+[06:18] Price reaches into this fair value gap closes over here.
+[06:22] This is now a protected low and we continue higher into those highs.
+[06:27] And that is how you track a trend when it is trending.
+[06:30] Let's get into another example.
+[06:32] So here we are in our next example.
+[06:34] We are on ES on the hourly chart.
+[06:36] And you can see I have our daily candles up here.
+[06:38] Now, if you've used what we've learned in my previous videos, if we're expecting price
+[06:42] to form a continuation, right?
+[06:44] Because we have a consolidation and we leave this consolidation.
+[06:48] Where do we want to see that form around or above 50% of the previous candle?
+[06:53] So let's see if we form a reversal in here, let this play ahead.
+[06:58] And you can see we have expansion.
+[07:00] We're consolidating.
+[07:01] So if we're going to consolidate, we want another run of this low and then to form a
+[07:06] swing here, you can see we run out that low and we have a very bullish close here.
+[07:11] So from this, we can go to the five minute, which is our line timeframe with the hourly.
+[07:16] Now down here on the five minute, you can see we have those failure swings at the high,
+[07:19] which is our target.
+[07:21] And we have a nice aggressive move down and aggressive move back up.
+[07:25] So this is expansion met with expansion, which is a reversal.
+[07:29] If we're looking for a protected swing, what would make this a protected swing?
+[07:33] We need to closure through the series of down close candles.
+[07:36] So waiting for that to occur.
+[07:38] Let's see if it does occur.
+[07:40] And you can see it does occur as we get the closure over, zooming back in.
+[07:45] Now this doesn't really make as much sense like I showed previous.
+[07:49] If I want to have my stop all the way on this low, looking to target these highs, right?
+[07:54] Even with targeting these highs, we can't even get to our out of that.
+[08:00] So I'm going to wait for a continuation entry.
+[08:03] Now you can see if I want to have a continuation, it means I'm expecting a higher low to form.
+[08:10] Now where would be the point of interest for that?
+[08:13] Well, I don't have a fair value up.
+[08:14] I don't have a low yet.
+[08:16] So with that, I can mark out point five of this down close candles.
+[08:21] And that would be the area I'm looking to see respected.
+[08:24] So you can see price comes back down into here.
+[08:28] This is valid.
+[08:28] That is in the T spot.
+[08:30] And so this is when I could look for this as a continuation signature.
+[08:36] And you can see we get the close over.
+[08:38] Now, why don't I consider this candle here?
+[08:40] Well, I just view this as the move down in a consolidation.
+[08:43] So I don't really trust a close just over that candle.
+[08:46] I want to see a close over that candle.
+[08:48] So with that, I could look to take an entry.
+[08:51] And I stop on this low.
+[08:52] And that gives me to our, to those highs.
+[08:55] Now let's say I miss this.
+[08:57] Do we have any points of interest?
+[08:59] We do have a fair value gap in here.
+[09:01] If we're going to get a new entry to form.
+[09:05] Here we reach into a fair value gap.
+[09:08] We close through the series of down close candles into that fair value gap.
+[09:12] And that would be a better continuation entry there.
+[09:15] And just give a little better risk to reward.
+[09:17] You can see 3.17 R versus 2.38 either are valid.
+[09:23] And then we get our candle for continuation.
+[09:26] You can see we drop back down.
+[09:27] There is no point of interest in here.
+[09:29] So just using the T spot as the valid point of interest.
+[09:33] Want to see if we can close over that level.
+[09:36] We do.
+[09:37] And then we get a continuation higher.
+[09:39] You can see that last little protected swing in there.
+[09:42] If we clean this up right here.
+[09:45] Why is that one?
+[09:46] Well, we reach into a fair value gap.
+[09:48] We close over those down close candles, which is just one in this case.
+[09:51] And then we take out the high.
+[09:53] So just reviewing this, we had our protected swing.
+[09:56] We form a new one.
+[09:57] And then we are just going to track that higher.
+[10:00] Until we hit our objective, right?
+[10:02] Now I don't want to be looking to take entries after my objective is hit.
+[10:06] Because when are we going to enter a new phase of price?
+[10:08] Well, it would be at highs and lows.
+[10:10] That's where we can form those reversals.
+[10:12] Let's get into another example.
+[10:14] So here we are with our next example.
+[10:15] You can see I've had a consolidation.
+[10:17] We expand out of the consolidation and then back in.
+[10:20] Right.
+[10:21] So if I'm marking that out, have these equal lows right here.
+[10:24] We expand over this high and then we expand back in.
+[10:28] We're currently retesting that previous range high and reaching into this fair value gap.
+[10:33] So if we're anticipating price to trade lower here, what do we want to look for on this lower time frame?
+[10:38] We'll send some on the four hour.
+[10:39] I can go to the 15 and look for a protected swing to form.
+[10:44] So here we are on the 15 minute chart in relation to the four hour.
+[10:48] We have our drawn liquidity down here, right into that fair value gap here.
+[10:51] Or so we've been out this previous high as well.
+[10:54] Now, if we're looking for a protected swing, we want to see this series of up close candles that made this high.
+[11:00] And see if that gets closed below.
+[11:01] Now you see how this is a bit messy in here.
+[11:03] That is when I'm going to ignore those small candles and I'm just going to take this whole move up.
+[11:08] So with that, I'm going to focus on this whole series of candles up.
+[11:11] And then looking for a close below there.
+[11:14] Let's see.
+[11:15] Do we get a close below?
+[11:18] Oh, we made a new high.
+[11:20] So with this, right, we're not focused on this high anymore.
+[11:23] We failed to close below this level before making a new high.
+[11:26] So now we have a sweep of this high.
+[11:29] Where are the series of candles that made that right here?
+[11:32] Have we closed below it?
+[11:33] Yes.
+[11:34] So now I have a protected swing, which gives me an invalidation.
+[11:38] So I'm expecting this high to hold if we are going to continue to trade and trend lower to here.
+[11:44] So that would give me an invalidation.
+[11:46] Can look to enter on the close and do something like that.
+[11:51] Now that would be the reversal entry.
+[11:53] If I'm looking for a continuation, I want to see what I want to see an open high, low close or price reach into a point of interest, form an opposing candle and then trade lower.
+[12:05] Now, if you notice here, why wouldn't I consider this an opposing candle?
+[12:09] Well, we never reach into a fair value gap here or into a point of interest.
+[12:13] It would have had to do something like this and then I would have considered it.
+[12:16] But since it didn't do that, unless it is paired with SMT here, it's not something I'm going to consider and I will miss it.
+[12:23] So let's see if any other continuation forms.
+[12:26] Once again, we're leaving just shy of this fair value gap.
+[12:29] Let's see if we retrace into it.
+[12:31] And we don't before taking out this low.
+[12:35] So this is an example of the reversal does provide an entry, but there are no continuations within my model for a proper framework.
+[12:43] And that is going to happen.
+[12:44] You are going to miss setups.
+[12:46] You are going to miss trades, even if you know where it is going.
+[12:49] Let's get into another example.
+[12:50] So here we are on oil on the hourly chart.
+[12:54] And you can see we have had a nice expansion day and we have been consolidating.
+[12:59] So if we are going to form a reversal off previous day high, that would be the relevant level to see a retracement back into the range.
+[13:06] So you can see here, let's see what happens.
+[13:08] We have a sweep of that and a closure.
+[13:11] Now, if you remember from my protected swings video, we can anticipate this to form a high, but it isn't confirmed until when we get the closure through here.
+[13:20] So we could drop down to the five minute in here and look for an entry or we can wait for this closure through.
+[13:26] Let's go ahead and do both.
+[13:27] Drop down to the five minute here.
+[13:29] So here we are on the five minute and you can see we print a continuation here.
+[13:34] So I could look for an entry in here.
+[13:36] Do I have a protected swing?
+[13:38] Well, I have this high being protected as we've closed through here.
+[13:41] We've reached into this fair value gap.
+[13:43] We have up close candles that are then supported, right?
+[13:47] With oil likes to have these equal highs sometimes.
+[13:50] So if I'm going to take an entry somewhere in here, I would sometimes give it a little bit more room than normal.
+[13:56] And let's see if we can get to our right down into here.
+[14:01] So let's see.
+[14:03] We do go hit our two are right.
+[14:06] And that's a little bit wider of a stop loss.
+[14:08] That's just something with oil.
+[14:09] Sometimes it will come back, sweep out and then go and I just want it to be in the trade.
+[14:14] So you can see that reversal off previous day.
+[14:16] High does work.
+[14:17] Let's go back to our hour here and see what it shows.
+[14:20] So here on the hourly, what do we notice?
+[14:23] We have closed below there.
+[14:24] So do I want to enter right away in here?
+[14:27] No, because we've just had expansion or below lows that can set up either a retracement,
+[14:32] a consolidation or a reversal.
+[14:34] I'm going to let another candle pass.
+[14:36] See what happens.
+[14:38] We're coming back into the range here.
+[14:39] We've closed back inside this previous.
+[14:41] So I can anticipate this high to be taken.
+[14:44] Let's give it another candle.
+[14:46] And here you see we were traced back into that range.
+[14:49] We respect the mean threshold here.
+[14:51] And what else do we notice?
+[14:52] We close back inside the previous candles range.
+[14:56] So with this, I could anticipate a move back lower.
+[14:59] So with this, I'll go back down to the five minute chart.
+[15:02] So rewinding a little, what do we have here on the five minute?
+[15:06] We have that protected high.
+[15:08] Why is that a protected high?
+[15:09] It reaches into that important level on the hourly,
+[15:12] which is this fair value gap here.
+[15:13] And then we sweep out this short term high and we close through the series of up close candles.
+[15:18] Right.
+[15:18] So this is somewhere where I could look to take an entry, right, either on the close.
+[15:23] Or on the retest.
+[15:24] And once again, if I can't really get to our here, right,
+[15:27] without quite a move below the lows, this is where I could manipulate it.
+[15:31] If I have a very aggressive V shape here, I don't want to see it return back to the body.
+[15:35] If it returns up to here, it's likely to take this high as well.
+[15:38] And you can see how I can manipulate that to give me a two R.
+[15:41] That is just below these lows.
+[15:43] So let's let this play out.
+[15:46] There we go.
+[15:47] And we also are seeing a continuation entry.
+[15:53] And there it hits two R. Just to the dot.
+[15:57] So that is an example of going back to our hour here.
+[16:00] I can anticipate this to be a protected swing and look for an entry.
+[16:03] But even if I miss that, I can let it confirm and then look for new swing points that form in that direction.
+[16:09] So I hope you enjoyed this video on stop losses and the review on protected swings.
+[16:14] If you do use different PD arrays, you may have to adjust your invalidations,
+[16:18] but protected swings do apply to all of them.
+[16:21] So with that, I hope you have a great rest of your day and I'll see you guys next time.
+[16:24] Have a good one.

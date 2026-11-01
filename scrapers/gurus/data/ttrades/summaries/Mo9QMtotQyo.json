@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "Mo9QMtotQyo",
+    "title": "How to Confirm Daily Profile (High or Low of Day)",
+    "url": "https://www.youtube.com/watch?v=Mo9QMtotQyo",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/Mo9QMtotQyo.json"
+  },
+  "stats": {
+    "word_count": 5057,
+    "duration_seconds": 1456.16,
+    "segments": 475,
+    "concepts_detected": 5,
+    "candidate_strategies": 3
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 3,
+    "SMT Divergence": 5,
+    "Premium and Discount": 1,
+    "TTrades Fractal Model": 8,
+    "Candle 3 Setup": 2
+  },
+  "spoken_time_references": [
+    "London open",
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "High or Low of Day",
+      "evidence": [
+        {
+          "start": 657.2,
+          "end": 670.32,
+          "text": "Well, I could look to just take an entry with my stop on that high of the day that I think is in. Right. And then looking for my two to three are depending on your targets, or I can use a four hour and 15 minute fractal model.",
+          "concepts": [
+            "TTrades Fractal Model"
+          ],
+          "strategies": [
+            "High or Low of Day"
+          ],
+          "score": 9
+        },
+        {
+          "start": 990.44,
+          "end": 1002.2,
+          "text": "Right. So looking at this SMT, since this is the one that made the higher low, I can focus on that. I could use this hourly candle to closure to potentially confirm the low of the day.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "High or Low of Day"
+          ],
+          "score": 9
+        },
+        {
+          "start": 1281.0,
+          "end": 1292.16,
+          "text": "But now that the chart is basically telling me that it's bearish and we're having a consolidation here, which is a continuation signature. We have an SMT that's basically confirming the high of the day that I can trade away",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "High or Low of Day",
+            "Trend Continuation"
+          ],
+          "score": 15
+        }
+      ]
+    },
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 1262.56,
+          "end": 1272.68,
+          "text": "So we have an SMT forming a continuation in this candle to closure. Right. So what could I look for in this next candle at nine or to trade lower?",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 10
+        },
+        {
+          "start": 1281.0,
+          "end": 1292.16,
+          "text": "But now that the chart is basically telling me that it's bearish and we're having a consolidation here, which is a continuation signature. We have an SMT that's basically confirming the high of the day that I can trade away",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "High or Low of Day",
+            "Trend Continuation"
+          ],
+          "score": 15
+        },
+        {
+          "start": 1348.2,
+          "end": 1357.04,
+          "text": "an entry, I can enter in the close or the retest, put my stop on that high and then look for a continuation lower. If I'm going to take a pre market entry, that's how it looks for me.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        }
+      ]
+    },
+    {
+      "name": "Premium Discount Expansion",
+      "evidence": [
+        {
+          "start": 1181.64,
+          "end": 1190.96,
+          "text": "So if you remember when I talked about invalidation days or using EQ for bias, when we break down through this level, as long as we've remained below it, I can remain bearish.",
+          "concepts": [],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 7
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 163.76,
+      "end": 171.84,
+      "text": "Right. And so I'm just looking for a candle to or a candle three closure ideally at a point of interest but mainly in respect to the daily equilibrium.",
+      "concepts": [
+        "Premium and Discount",
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 213.2,
+      "end": 220.88,
+      "text": "delivery to confirm that high or low of the day. If we are in the lower volatility sessions we're going to want to use those higher time frames.",
+      "concepts": [],
+      "strategies": [
+        "High or Low of Day"
+      ],
+      "score": 8
+    },
+    {
+      "start": 466.72,
+      "end": 474.44,
+      "text": "So now if you can anticipate this to have formed the wick low of the day what can you do now. Well you could look for a fractal model.",
+      "concepts": [
+        "TTrades Fractal Model"
+      ],
+      "strategies": [
+        "High or Low of Day"
+      ],
+      "score": 8
+    },
+    {
+      "start": 657.2,
+      "end": 670.32,
+      "text": "Well, I could look to just take an entry with my stop on that high of the day that I think is in. Right. And then looking for my two to three are depending on your targets, or I can use a four hour and 15 minute fractal model.",
+      "concepts": [
+        "TTrades Fractal Model"
+      ],
+      "strategies": [
+        "High or Low of Day"
+      ],
+      "score": 9
+    },
+    {
+      "start": 712.48,
+      "end": 726.6,
+      "text": "A lot of people will see this move here and get scared. But we just know that our bias remains intact. If this high of the day that we are trading away from remains intact, which it does so we can continue to keep that bearish bias reaching for an expansion lower.",
+      "concepts": [],
+      "strategies": [
+        "High or Low of Day"
+      ],
+      "score": 8
+    },
+    {
+      "start": 972.56,
+      "end": 985.6,
+      "text": "Right. We have SMT. You can see ES doesn't take out the low while NQ does take out the low. So if I was bullish on the day, right, using the higher time frames, what would I want to look for in New York?",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 990.44,
+      "end": 1002.2,
+      "text": "Right. So looking at this SMT, since this is the one that made the higher low, I can focus on that. I could use this hourly candle to closure to potentially confirm the low of the day.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "High or Low of Day"
+      ],
+      "score": 9
+    },
+    {
+      "start": 1103.44,
+      "end": 1113.08,
+      "text": "And also when you are in New York, the volatility does increase. And a lot of times that requires you to use lower timeframes or a lower timeframe fractal model.",
+      "concepts": [
+        "TTrades Fractal Model"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 1262.56,
+      "end": 1272.68,
+      "text": "So we have an SMT forming a continuation in this candle to closure. Right. So what could I look for in this next candle at nine or to trade lower?",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 10
+    },
+    {
+      "start": 1281.0,
+      "end": 1292.16,
+      "text": "But now that the chart is basically telling me that it's bearish and we're having a consolidation here, which is a continuation signature. We have an SMT that's basically confirming the high of the day that I can trade away",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "High or Low of Day",
+        "Trend Continuation"
+      ],
+      "score": 15
+    },
+    {
+      "start": 1348.2,
+      "end": 1357.04,
+      "text": "an entry, I can enter in the close or the retest, put my stop on that high and then look for a continuation lower. If I'm going to take a pre market entry, that's how it looks for me.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    },
+    {
+      "start": 1430.88,
+      "end": 1442.8,
+      "text": "The high of the day is up there, but we are confirming this treating it like the high of the day because we're trying to find a high to trade away from. Once we find these levels, that is where I can look to take entries because I",
+      "concepts": [],
+      "strategies": [
+        "High or Low of Day"
+      ],
+      "score": 8
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:36.531342+00:00"
+}

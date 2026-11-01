@@ -1,0 +1,342 @@
+[00:00] How's it going everyone?
+[00:12] In today's video we are going to learn about how to trade a reversal candle, or candle
+[00:17] 2 within my fractal model.
+[00:19] Let's get into the PDF.
+[00:21] The first thing you have to understand is the difference between an expansion candle
+[00:24] and a reversal candle.
+[00:26] An expansion candle has a small wick on each side and a large body.
+[00:30] That means that price during this given time period trended in one direction.
+[00:34] Now a reversal candle opens, makes a large opposing run to form its wick, and then goes
+[00:40] back towards its opening price before closing.
+[00:42] So if you take a look, when we have a small wick that supports expansion, as price can
+[00:47] continue to trend.
+[00:49] If we have a large wick lower, that doesn't support expansion higher, because price can
+[00:53] only have so much range.
+[00:54] We're not expecting price to go all the way down here to form its lower wick, and then
+[00:58] expand off the screen here.
+[01:00] Small wick supports expansion, large wick doesn't support expansion.
+[01:05] So how do we use what we just learned in the previous slide, and actually apply it?
+[01:09] Well if we're looking to frame a reversal off of this previous candle's high, well I
+[01:13] want to have a small wick, because then price can expand lower.
+[01:18] You see price opens, this forms a large wick, it has a large opposing run.
+[01:23] This doesn't support expansion lower, because I'm not expecting price to open, make a large
+[01:27] opposing run, and then continue to trend down.
+[01:30] That's going to take too much time and too much range.
+[01:32] So here I'm only expecting price to return back to its opening price, or its current
+[01:36] low.
+[01:38] You can see we have a large wick, and then it closes, and then this is the classic setup
+[01:42] of a continuation candle the next time.
+[01:45] You can see this is a reversal candle that leads into a continuation.
+[01:49] Now what happens when we have a small wick?
+[01:51] A small wick can support expansion.
+[01:54] So you see we sweep out this previous candle's high, we don't have a large opposing run.
+[01:58] So this small wick supports expansion lower.
+[02:01] It hasn't made much range, and this allows it to trade much lower.
+[02:06] So if you look at the two types of reversal candles, this is a reversal with an expansion
+[02:10] candle.
+[02:11] This is the one we ideally want to trade as it supports expansion lower and can trend.
+[02:15] Not saying we cannot trade reversal candles with a large wick, we just have to adjust
+[02:19] our targets.
+[02:20] Here with an expansion candle, we can target previous candles lows and standard deviation
+[02:25] projections.
+[02:26] But here with a large wick, I have to adjust my targets, looking back towards that opening
+[02:30] price and the current candles low.
+[02:33] So let's take a look at trading a reversal to expansion candle as that is the most ideal
+[02:37] scenario.
+[02:38] The way we are going to go about this is we're going to mark out that previous candle's
+[02:41] high on the higher timeframe.
+[02:43] We're going to wait for a sweep of that high, a change in the state of delivery, forming
+[02:48] a protected high so I can anticipate this wick to have formed.
+[02:51] Then I can look to trade this reversal lower or look for the continuation that follows.
+[02:56] Let's hop into trading view to go over these various scenarios and various reversal candles
+[03:00] and the opportunities that they present.
+[03:04] So here we are in our first example, and we are on gold daily chart.
+[03:08] Now following my phases of price series, you may notice what we're expecting after we have
+[03:13] a large expansion like this.
+[03:15] We're looking for a new phase of price.
+[03:18] So with that, if we're looking for either a retracement or a reversal, ideally we don't
+[03:22] get caught in a consolidation.
+[03:24] Where are we looking for that to occur?
+[03:26] Well, since this isn't a reversal candle, I'm going to be looking for price to take out
+[03:31] its previous candles high and then form a reversal here to trade lower.
+[03:35] Now if this next candle is going to support expansion, what do we want to see?
+[03:39] We want to see a wick that is small that then we can trade it lower.
+[03:43] Or do we want to see a large wick?
+[03:46] Well, we want to see a small wick if we're going to actually trade that lower because
+[03:49] it allows it to expand.
+[03:51] If we have a large wick, then we're better off either looking back towards the daily
+[03:54] open or trading the following day for a continuation.
+[03:58] Let's drop down to the lower timeframes to see what it looks like.
+[04:02] So here we are in the next candle and you notice we also can use the phases of price
+[04:06] on the hourly chart.
+[04:07] And that's personally my favorite for the daily timeframe.
+[04:10] We have expansion into consolidation.
+[04:13] So if our idea is to trade lower, what do we want to see with consolidation?
+[04:17] Expansion, consolidation, expansion out of this range, met with expansion back in forming
+[04:24] a reversal to then trade it back lower.
+[04:26] So let's see when we engage with this high.
+[04:30] There we see we have expansion into the high and expansion back lower.
+[04:34] That is what's forming that wick there.
+[04:36] Now marking out the series of up close candles there, we can go ahead and move one candle
+[04:41] ahead and my indicator will do so because it now has the early change in the state of
+[04:45] delivery feature, but we have a protected high here now.
+[04:49] So we can anticipate that this daily has formed its wick and it is a small wick which supports
+[04:54] expansion lower.
+[04:56] So where can we look for this to trade to?
+[04:58] We can use the EQ of the previous day for a target or liquidity.
+[05:03] What would liquidity be?
+[05:04] Previous days highs and lows.
+[05:06] So that can be a target as well.
+[05:08] Let's see how this works out.
+[05:12] And you can see there we go and get that expansion lower.
+[05:17] So just to review, what are we looking for?
+[05:20] If we're trying to trade a reversal day, we want to see if it supports expansion.
+[05:24] This candle does as it has a change in the state of delivery in sure day forming a small
+[05:29] wick on the daily timeframe.
+[05:31] This allows it to form its wick early enough into the day to expand throughout the day.
+[05:36] Now if we go and replay this example, and let's say the daily candle looked something
+[05:41] like this, right?
+[05:44] We had a super large wick that already had most of its daily range.
+[05:48] Do we really expect price to expand all the way down here?
+[05:52] Not really because that is such a large range.
+[05:54] So that is why we are looking for that small wick to support expansion.
+[05:58] So here we are in our next example.
+[06:00] And with my fractal model, I'm only looking to trade swing points.
+[06:04] So you can see here we have two swing lows, and we do not have another swing low to trade
+[06:08] off of.
+[06:09] But with that idea in mind and sweeping out a high looking for a new phase of price,
+[06:14] I'm only favoring downside.
+[06:15] So let's drop down to the lower timeframe and see if we can frame a reversal off of
+[06:19] this previous day high.
+[06:21] So here we are at the start of the New York session.
+[06:24] And what do we notice about the daily profile so far?
+[06:27] We have a consolidation into the Asia session.
+[06:30] And then London makes a move higher expanding out of this range.
+[06:35] Now what do we have?
+[06:36] We have a consolidation, right?
+[06:38] We don't get a retracement into this fair value gap to trade it higher.
+[06:41] We are stuck internal to this candle's range.
+[06:45] So with that being said, what do I want to look for?
+[06:47] I want to look for a sweep of a high to trade it back lower.
+[06:52] So taking a look at this, what do we have?
+[06:56] We have this move higher.
+[06:57] Now, what do we notice about this wick?
+[06:59] It's quite a large wick, right?
+[07:01] In terms of the daily profile, we have started to expand away with a larger wick, not forming
+[07:07] that shallow sweep over previous day high to form a reversal lower.
+[07:10] What do we want to look for?
+[07:13] We want to adjust our targets.
+[07:14] This is one of those scenarios of trading a larger wick.
+[07:18] Instead of looking for expansion lower, I'm looking for it back into its daily open.
+[07:23] So using that as a level, and then those session lows, though, as price expands, let's see
+[07:29] what happens.
+[07:30] We go and take out those levels.
+[07:31] Now, it's not that price can't trade lower.
+[07:34] It could go down into this fair value gap down here around the Q of the range.
+[07:39] But when we have a larger wick, my expectations is favoring back towards that daily open in
+[07:44] those session lows, not trying to be greedy and look for a massive move with a wick that
+[07:49] does not support expansion.
+[07:51] So as we let this continue, do we end up getting a move lower?
+[07:54] Nope, we close the day as a reversal candle.
+[07:57] Now in the next day, this is my fractal model where we have a candle to closure, looking
+[08:03] for a continuation lower in the continuation day.
+[08:06] And that is when we can get that continuation down there into that fair value gap.
+[08:11] Now, hopefully what you learn from this example is that when we have a candle with a larger
+[08:15] wick, I want to adjust my expectations from expansion to looking back towards the daily
+[08:21] open or the higher timeframe open for those session lows or those current candle lows,
+[08:26] with using this fractally.
+[08:28] So here we are with our next example.
+[08:30] And if you notice, we are in a range.
+[08:32] How can I tell that?
+[08:33] Well, this previous candle's range encompasses all of the other days following it.
+[08:38] So marking out the range high and the range low, what do we want to look for when trading
+[08:42] a consolidation?
+[08:43] We want to wait for one side of the range to be taken.
+[08:47] Now we have failure swings on both sides.
+[08:49] And you can see that by looking at these higher timeframe candles and how they do not overlap.
+[08:53] Now we'll want to wait for the high or the low of the range to be engaged before looking
+[08:57] for opportunities.
+[08:58] Now let's see what happens.
+[09:01] I wouldn't be interested in this CISD here.
+[09:03] Why there is no relevant level.
+[09:05] We're still consolidating.
+[09:09] Similar thing with that one.
+[09:11] Now we take out the low in the range.
+[09:13] Now there's a few questions I can ask you here.
+[09:15] Yes, we have taken out the low in the range.
+[09:17] And where would we want to trade?
+[09:19] We'd want to trade to this range high, right?
+[09:21] That is the whole idea.
+[09:23] But let's look at the time of this and the range of it and what the higher timeframe candle
+[09:26] looks like here.
+[09:28] We have used most of our daily time, right?
+[09:31] All the way through the New York session, oscillating before running out this low.
+[09:35] So does it really make sense for the afternoon session on oil or gasoline in this case to
+[09:39] rip all the way to these highs?
+[09:40] No, not really, because this candle does not support expansion.
+[09:44] So this is generally where it's ideal to either looking for an intraday high to be taken out.
+[09:49] But if you look, Asia and London have already been taken out.
+[09:52] So we don't have failure swings to target or back towards the daily open.
+[09:56] So is this much range to get a target out of this trade?
+[10:00] Not really, right?
+[10:01] We could go down and look to do something with that.
+[10:03] And let's see how that goes.
+[10:05] But this brings up an important point within the intraday profile.
+[10:08] What am I using to confirm the wicks of the daily candle?
+[10:11] Well, earlier on in the day, I want to use a higher timeframe.
+[10:15] So in Asia, I'm almost specifically only going to use the hourly or 30 minute.
+[10:19] Once I get into London, I'll use the hourly 30 minute or 15.
+[10:23] And once I'm into New York, yes, if the present themselves, I'll use those higher timeframes
+[10:27] like the hourly or 30 minute.
+[10:29] But a lot of times within New York reversal, it's going to be very quick.
+[10:32] And if I wait for that confirmation, my target's already going to be hit or I'll not get on
+[10:36] site.
+[10:37] So specifically in this case here, if I was going to wait for an hourly change in the
+[10:41] state of delivery, where does that occur?
+[10:42] It occurs up here.
+[10:44] And that would be my target for this move, right?
+[10:46] That is by side liquidity.
+[10:47] And that would be a target for this range low to this range high, right?
+[10:51] So this is where it would make sense to drop down to a lower timeframe.
+[10:54] So looking at a five minute, do we have an entry in here?
+[10:58] Well, we have a change in the state of delivery right here.
+[11:02] And then are we going to form a continuation here?
+[11:05] Because we reach into an important level.
+[11:07] I want to see if we form a new protected low.
+[11:11] There we do form a new protected low.
+[11:13] And I could look to take a stab at this.
+[11:16] Now let's talk about why I don't like this.
+[11:18] Now it'd be one thing if we hadn't taken out those overnight session highs, right?
+[11:21] Because then we have those failure swings as targets.
+[11:24] But if we notice the New York session already took out those highs.
+[11:28] We don't really have any low resistance liquidity to be sitting to be taken out.
+[11:32] And I generally want to favor back towards the daily open at that point.
+[11:35] This doesn't really give great risk to reward.
+[11:37] Could we still try it?
+[11:38] Sure, let's see if we can get to our out of it.
+[11:40] You can see how that daily open provides resistance.
+[11:46] And then we do go take this out.
+[11:48] And with that being said, if we go back out and take a look at this for a second.
+[11:52] This daily candle does not support expansion, right?
+[11:55] We have a large wick.
+[11:56] This is a perfect example of when it's better to let this reversal day trade.
+[12:01] And then look for the continuation day following.
+[12:04] And see if that has a small wick that supports expansion.
+[12:07] As we let this trade, what do we have on this next day?
+[12:11] You can see price forms that change in the state of delivery.
+[12:14] And then we get that continuation higher.
+[12:17] You see how this daily candle has a small wick that supports expansion higher.
+[12:22] Versus this candle has a large opposing run, doesn't support expansion.
+[12:26] It just has this reversal for this to continue.
+[12:30] So here we are in our next example and we are looking at GBPUSD.
+[12:34] And if you notice, we've had expansion, we get a retracement, and then another expansion.
+[12:40] Now we have multiple days of expansion here.
+[12:42] We can possibly get one more, but within my model, I cannot look long after my fourth day.
+[12:48] We have an important level resting right here.
+[12:51] So if we are going to hit this key level and form a reversal or a retracement or a consolidation,
+[12:56] or would we expect that to occur off of previous day high?
+[13:00] Let's drop down to our lower timeframe or the hourly chart here and take a look at
+[13:04] what this looks like.
+[13:06] You can see there was a very clean and nice bullish set up here.
+[13:09] But let's focus on this price action up here.
+[13:12] So as we get into the new day, we have expansion consolidation.
+[13:17] We want to see the consolidation ran out.
+[13:20] So we have expansion into this high.
+[13:23] Do we get expansion back lower?
+[13:26] And yes, we do, right?
+[13:27] We have expansion met with expansion, which is what I would consider to be a reversal.
+[13:32] And we also have that change in the state of delivery.
+[13:36] But we could consider this a change in the state of delivery.
+[13:38] We can anticipate this wick to a formed and then look for two R or right back to the EQ
+[13:43] of this range.
+[13:45] Let's see how this works out.
+[13:49] And you can see we get stopped out before it goes and runs to our target.
+[13:54] Now what can we learn from this?
+[13:56] Well, not all entries are going to work out, but we can also learn to use correlated assets.
+[14:01] So by taking a look at the correlated asset or Euro, let's take a look at our daily chart,
+[14:06] right?
+[14:07] Which one is weaker?
+[14:08] Well, GBP ran into its previous day high to form a reversal and into the swing high on
+[14:13] the higher timeframes.
+[14:15] Euro isn't even reaching towards its previous day high, right?
+[14:18] It has a small shallow wick built off of that wick.
+[14:21] So taking a look just on the daily chart, we can see that Euro is weaker.
+[14:25] We can also mark out our SMT.
+[14:28] So we're marking out this high over here.
+[14:30] It's the same as this low over here.
+[14:32] Now if we drag this over to where it ran out our stops, we are nowhere close to that, right?
+[14:37] So there's an SMT here and Euro is weaker.
+[14:40] So if we did the same exact setup, but instead of frame that using the weaker asset and taking
+[14:46] an entry still at midnight there, we can go ahead and take an entry on GBP.
+[14:52] I stop on the same level.
+[14:54] How does that work out?
+[14:55] You can see that is a nice clean and clear setup back into the previous range.
+[15:00] So that is one example of something that is going to fail, right?
+[15:03] And that is normal.
+[15:05] Or you can also learn from it and take a look at those correlated assets for extra confluence.
+[15:11] So here we are in our next example.
+[15:12] And if we go ahead and mark out our daily open, what do we notice about this open high
+[15:16] low close and we can just draw it out.
+[15:19] We opened, we made a low right here, and then we are trading higher.
+[15:24] So currently this is what our daily candle looks like.
+[15:26] And it does have a small wick that supports expansion higher, but we have already expanded,
+[15:31] right?
+[15:32] We've already made most of our daily range.
+[15:33] So this is when I favor shorts back into the range.
+[15:37] So if we are going to get that to occur, then I want to see a swing point or a swing high.
+[15:43] When could that occur?
+[15:44] Well, we have our nine to 10 am candle closure.
+[15:47] We could form it off of our previous candles high.
+[15:50] And Kane, if you are watching this video, this is similar to Kane strategy.
+[15:54] Let's drop down to the five minute.
+[15:56] But let's take a look.
+[15:58] We'll reset our chart view.
+[16:00] And we are marking out that previous candles high.
+[16:02] So that current higher timeframe candles high.
+[16:05] So to frame a reversal here, we'd want to see a sweep of that and then a change in the state
+[16:10] of delivery to look to get onside with a move back towards the daily open.
+[16:14] And once again, we want to adjust our expectations.
+[16:17] We don't expect price to expand all the way up here and then expand all the way down another
+[16:22] 500 points.
+[16:23] We just want to see those session lows and the daily open.
+[16:26] So let's see what happens.
+[16:32] Right there.
+[16:33] We get our closure through.
+[16:34] So here, if we zoom in, we have that hourly candle supporting expansion.
+[16:37] And that is the new four hour candle.
+[16:39] So now the four hour candle has a small wick that supports expansion as well.
+[16:42] If I switch this to a four hour candle, right?
+[16:48] And we'll see that also has a small wick that supports expansion.
+[16:51] And that's also framing a reversal off of its previous candle.
+[16:55] So let's say I wanted to use the four hour and 15 minute model.
+[16:58] I'd be waiting for a closure below there.
+[17:00] We could also watch that.
+[17:02] And we get the closure.
+[17:03] There we go.
+[17:04] And once again, want to be looking for those session lows.
+[17:07] So we'll go ahead and just stay on this timeframe.
+[17:10] You can see it's the same concept.
+[17:12] We're talking about it on the hourly and five minute.
+[17:14] We switched the four hour and 15.
+[17:17] We get that continuation lower back to that daily open.
+[17:21] And did we hit that session lows or the current day low?
+[17:24] Let's see if we do.
+[17:25] We do, right?
+[17:26] So that would be my final target for me.
+[17:29] If we go any further, that's great.
+[17:31] But my expectations aren't for us to go any further, right?
+[17:34] That's the range I am looking for.
+[17:36] So just to review, if we go back to that hourly and five minute model,
+[17:40] we'll put that back up, go to the five minute timeframe.
+[17:44] You take a look at that.
+[17:46] We'll throw on the history.
+[17:50] You can see we formed this change in the state of delivery up here.
+[17:54] And then that allows for continuations following.
+[17:56] Right.
+[17:57] So even if I just don't catch this reversal in candle to that's when I can
+[18:00] trade my fractal model continuations in candle three and candle four.
+[18:05] So with that being said, I hope you found this video helpful.
+[18:08] If you want a video dedicated on candle three, please let me know in the comment
+[18:12] section below and I can likely do that one next.
+[18:15] So I'll see you guys next time.
+[18:17] Have a good one.

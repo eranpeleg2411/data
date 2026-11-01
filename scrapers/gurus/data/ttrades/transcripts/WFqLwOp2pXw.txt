@@ -1,0 +1,327 @@
+[00:00] How's it going everyone?
+[00:12] In this video we are going to talk about consolidations, and this will be part one into a five part
+[00:18] series on the phases of price and how they blend together.
+[00:23] Let's hop into the PDF and get started.
+[00:26] So what is a consolidation?
+[00:28] A consolidation is when price remains internal to a high and a low.
+[00:33] So what does that mean?
+[00:34] It means by marking out a low and marking out a high price remains inside that range
+[00:40] or not taking out the high, not taking out the low or a period of time.
+[00:46] So when does this generally occur?
+[00:48] Well, we can expect it after a large range or when price hits a higher timeframe level.
+[00:55] So price moves from large ranges to small ranges.
+[00:58] So following an expansion, we can get a consolidation, which can either be a continuation signature.
+[01:05] If we have hit a higher timeframe level, such as over here, we expand into a higher timeframe
+[01:10] level and then have a consolidation.
+[01:13] You can see prices remaining internal from a high and a low.
+[01:17] So that is defining the consolidation.
+[01:20] So how do we interact with a consolidation?
+[01:24] Well, I don't want to trade within this range because that is where I'm going to try to guess
+[01:29] if price is going to break lower or break higher, which generally I do not know.
+[01:34] I need to be patient and wait for price to manipulate or take out one side of this range.
+[01:39] So if I am bullish, ideally I want to see price run out the low, but then I can look to trade it higher.
+[01:46] And this is your classic power of three or accumulation, manipulation and then distribution higher.
+[01:53] Now in the bearish example, here you can see we remain internal to this high and to this low.
+[01:59] Price then takes out the high.
+[02:01] And so if my bias is bearish, I can then look to trade that lower.
+[02:04] We have your accumulation, manipulation, distribution.
+[02:09] Now the only time we don't need price to run out the high or the low is if we have SMT.
+[02:14] And that means the correlated asset does run out the consolidation lows.
+[02:18] We can treat it as if it did.
+[02:21] So you can see here, let's say for example, this is NQ and ES did run out the low here.
+[02:27] We have the SMT.
+[02:28] I can treat this as a protected low once closed over because ES ran out the low, even though NQ didn't.
+[02:35] And similar with the bearish scenario, price runs out the highs on a correlated asset,
+[02:40] but not on this current one.
+[02:42] I can use that SMT to anticipate this high remains as we trade lower.
+[02:47] Now there are two types of consolidations that I will look to participate in.
+[02:50] And that will be a continuation or a reversal.
+[02:54] Let's first take a look at the continuation.
+[02:57] You can see we have a large range or an expansion, which leads to a consolidation,
+[03:02] a large range to a small range.
+[03:04] Now with an open drawn liquidity or an objective sitting above this,
+[03:08] I can anticipate price to continue as it has not hit a higher timeframe level.
+[03:13] If we have a consolidation right here and we have all these lows resting,
+[03:18] what would I want to see?
+[03:19] Well, I want to see that manipulation or price running out a low.
+[03:23] You can see price runs into this low, giving us some manipulation.
+[03:27] And then what can we wait for?
+[03:29] Well, if you've seen my protected swings video, I can either look to get onside here,
+[03:33] but a lot of times I prefer to wait for a continuation because what if we don't form a low here
+[03:38] and we just trade lower?
+[03:39] So I can wait for a continuation where we have a closure through this level,
+[03:44] which gives us a change in the state of delivery and look for a continuation higher.
+[03:49] Now the next would be a reversal.
+[03:51] And this is just the opposite.
+[03:53] You can see we have an expansion into a consolidation.
+[03:56] So just the same as the last example.
+[03:59] But what is the difference?
+[04:00] We have hit a higher timeframe objective or higher timeframe level in which I'm
+[04:04] anticipating a reversal to form.
+[04:06] So with that, if I want to see a reversal, we have all these highs.
+[04:10] Want to see the highs ran out a change in the state of delivery.
+[04:14] And then I can look to trade this lower.
+[04:17] Now, what type of PD array goes with consolidation?
+[04:20] And that would be a discount in premium or the equilibrium.
+[04:24] And how do I use this?
+[04:25] Well, if price is consolidating similar to my seek and destroy video, I can use the
+[04:30] equilibrium of this range where if price deviates from this range, I can look to trade
+[04:35] back into the equilibrium.
+[04:37] The price is going to continue to consolidate.
+[04:40] It's just going to return back to that mean or that middle of that range.
+[04:45] Let's get into trading view and go over a few examples.
+[04:50] So here we are in our first example.
+[04:52] And what do we notice here?
+[04:53] We have had expansion lower.
+[04:55] We form a reversal.
+[04:57] So we can mark out our change in the state of delivery here, which is a sweep.
+[05:01] So reaching into an important level in the closure through the series of
+[05:04] down close candles here, you can see we get an expansion back higher here.
+[05:08] We have these three expansion candles.
+[05:11] Now, what do we notice here?
+[05:12] Do we have any confirmed price action?
+[05:14] No, because if we're going to have an expansion retracement and then a continuation,
+[05:20] price would have retraced into this fair value gap, which it did.
+[05:23] But then it would have closed over this level.
+[05:26] With a failure to do so, we are then consolidating.
+[05:30] So we can go ahead and mark out this high and low.
+[05:33] And what do we notice about these?
+[05:35] Is price remaining internal to these?
+[05:37] No.
+[05:37] But it is failing to trade out of it, right?
+[05:40] So it is still consolidating.
+[05:41] I can just readjust to that range high and that range low.
+[05:46] You can see we're trading internal to that range.
+[05:48] It's fairly obvious there.
+[05:50] And so as we let this continue, if we are bullish, what do we want to see?
+[05:55] Well, we've had our change in the state of delivery.
+[05:57] We have an objective open.
+[05:59] So we want to see that range low taken out.
+[06:01] And here I could look to get on side with a fractal model.
+[06:04] We have a candle to closure.
+[06:06] So I could go down to a lower timeframe or the one minute, or I can wait for
+[06:11] a protected swing to form on this timeframe, which would be a closure through
+[06:15] the series of down close candles into that important level, which is that low there.
+[06:20] Let's see if we get the closure over.
+[06:22] We do.
+[06:23] So now this low is protected here.
+[06:25] I'd want to see price traded into this high, through this high.
+[06:28] And let's see if there's any other continuations.
+[06:31] You can see we do get a new retracement.
+[06:35] Now is this going to be a protected low?
+[06:38] Well, we want to see if we get a closure through this.
+[06:41] Now a quick lesson, we do not have a fair value gap or a low to be swept out in here.
+[06:46] So no important level.
+[06:47] That is when I can use 0.5 of this opposing candle here.
+[06:52] You can see how price is respecting that there.
+[06:55] So let's see if we get the closure over.
+[06:57] We do.
+[06:58] Now you want to see price continue higher here.
+[07:01] So let's see.
+[07:06] We do get that continuation.
+[07:07] Now price reaches back into an important level.
+[07:10] We have a series of down close candles.
+[07:12] We do.
+[07:13] Do we close over that?
+[07:15] Not yet.
+[07:17] We do now.
+[07:19] And then I'd want to see this low be protected as we continue to trend higher.
+[07:24] And we do so.
+[07:26] So hopefully that makes sense in combining the protected swings with a consolidation.
+[07:31] We have expansion or a large range leading into a smaller range.
+[07:36] Wait for that manipulation.
+[07:38] Then look to participate.
+[07:40] Right.
+[07:40] Because that is when the trend is going to occur after that manipulation.
+[07:45] So here we are in our next example.
+[07:47] And let's take a look at a few things you can see on our daily chart.
+[07:51] We have taken out the high.
+[07:53] We close back in that's paired with a change in the state of delivery here.
+[07:57] Barish.
+[07:58] So I could be looking for a continuation lower this next day.
+[08:01] Now if we're expecting price to trade and go lower, we want to see what be respected.
+[08:06] The EQ, right?
+[08:07] So this is really where we would want to see the wick form if we're going to go trade to the previous day low.
+[08:13] Now what do we notice about the previous day low?
+[08:15] Or these phases of price here, we have this expansion up.
+[08:19] This whole range.
+[08:21] You can see expansion retracement, right?
+[08:25] And what else do we notice in the opposing viewpoint?
+[08:29] We have a bullish change in the state of delivery.
+[08:32] So there's a few conflicting things here.
+[08:34] Let's let a few more candles play out.
+[08:36] And what do we notice here?
+[08:38] We are respecting the EQ of this change in the state of delivery and we're expanding higher, not respecting this EQ.
+[08:46] Now if this EQ is going to fail, that means the swing point is going to fail,
+[08:50] which can make it our draw on liquidity.
+[08:53] So with that, let's see what happens here.
+[08:58] This isn't telling us a whole lot.
+[09:00] It is just consolidating and see how prices remaining internal or not taking out this high or low.
+[09:07] And now what would we want to see if we are bullish?
+[09:10] We want to see a run of the lows to trade higher.
+[09:13] And if we are bearish, we want to see a run of the highs to trade lower.
+[09:17] So let's see what happens.
+[09:20] Here you can see we run out the lows.
+[09:22] Now what could we wait for?
+[09:23] We could look to get on side here, right?
+[09:25] If we have a strong bias, which I don't, right?
+[09:28] I don't have a great bias here.
+[09:29] So I can then wait for a closure through a series of down close candles into this level,
+[09:35] which then confirms the low and then I can look to trade to this high.
+[09:39] As we let this continue, we don't get the closure over yet.
+[09:42] And there we do.
+[09:44] And this would be a breakout signature as we are now closing over these highs.
+[09:48] So what do we want to see at this high?
+[09:50] We want to see price aggressively move back into the range.
+[09:53] No, because then we're likely to trade lower.
+[09:55] We want to see a retracement or just a continuation higher.
+[09:59] Let's see what happens.
+[10:02] And that is what you want to see, right?
+[10:05] Either a consolidation or a retracement so we can have expansion and then a continuation.
+[10:11] Let's see what happens here.
+[10:13] Is this an opposing candle?
+[10:15] It's not, it never reaches to an important level.
+[10:18] And what do we notice now?
+[10:19] Now we are getting another consolidation for remaining internal to this high and to this low.
+[10:26] And that's more prominent on a lower timeframe, but we will just use this.
+[10:32] And you can see now we have taken out this low, right?
+[10:36] Into a fair value gap, right?
+[10:38] So we have that inducement.
+[10:40] So if we are expecting a continuation to this high, what do we have?
+[10:45] Consolidation.
+[10:46] We sweep the low.
+[10:48] If we're going to respect the EQ of this daily candle, we'd want to see a low form in here to trade higher.
+[10:53] Or we can wait for what?
+[10:55] That confirmation of the closure over the down close candles.
+[11:02] Here you can see we make a new low.
+[11:04] We could use a different level for the change in state delivery or use the whole series.
+[11:10] We react off that EQ and then close over here and expand.
+[11:16] Right. So taking a look at this and reviewing, what do we want to get from this?
+[11:20] Right. We want to see we have a consolidation here.
+[11:24] We wait for the manipulation and then look to trade the expansion consolidation here.
+[11:29] We wait for the manipulation and look to trade the expansion.
+[11:33] Right. And that is why with my fractal model, I'm not looking to catch these lows in here.
+[11:39] Right. I'm waiting for the continuation entries.
+[11:42] I'm letting a low form trading the continuation, letting a low form.
+[11:46] Trading the continuation.
+[11:48] So just review consolidation, wait for the manipulation, trade the expansion,
+[11:53] consolidation, wait for the manipulation, trade the expansion.
+[11:57] Let's get into our next example.
+[11:59] So here we are in our next example and taking a look at this daily chart, you can see price is bullish.
+[12:05] What do we have?
+[12:05] We have price sweeping out a low here, closing through the series of down close candles.
+[12:11] But we have this important level, prices expanding higher, coming back into the range.
+[12:17] If I'm still bullish and I want to trade a reversal day, I'm going to be looking for relevant levels
+[12:22] for price to reverse off of, which would be previous days, highs and lows.
+[12:26] Let's drop into our hourly chart here.
+[12:29] And if we are bullish, what do we want to see?
+[12:31] Well, we would want to see a reversal.
+[12:33] So this example, we're going to talk about a consolidation into a reversal instead of the
+[12:38] continuations like the previous two examples.
+[12:41] So taking a look, let's mark out our previous days low, which is right here.
+[12:46] And what do we notice?
+[12:47] We have a high and a low that price has remained internal to, which is a consolidation.
+[12:54] So letting this play forward, what do we want to see if we want to see a bullish reversal off previous day low?
+[13:01] Well, we have a consolidation, we'd want to see a manipulation of that low and then to trade it higher.
+[13:07] Right.
+[13:08] So let's see what happens.
+[13:11] Here you can see we reach into that low and then we expand out.
+[13:15] This is a nice reaction off previous day low.
+[13:18] Now, what do we want to see?
+[13:19] Well, when this low is confirmed by a closure through here, I then can anticipate this wick to be confirmed.
+[13:27] We get a closure through this level.
+[13:29] We do now anticipate this low to hold or this wick to hold.
+[13:34] Now, what do we know about expansion days?
+[13:36] We have a small wick and a large body.
+[13:39] We have a small wick.
+[13:41] We are in London.
+[13:42] So if we have a London reversal, we could anticipate what?
+[13:46] A New York continuation higher.
+[13:49] So let's see if there is any important levels that get formed.
+[13:53] Here we have a fair value gap.
+[13:56] Let's see if price reaches back into this level.
+[13:59] It does.
+[14:00] We form a swing out of this level.
+[14:02] We do.
+[14:03] So this would be a valid fractal model where I could look long or I could look
+[14:06] at what a continuation entry from this propulsion block or the continuation.
+[14:15] In here, we do get that as we continue higher.
+[14:19] Now, if you notice, we have a very bullish day.
+[14:22] We're disrespecting the equilibrium, which means this swing is likely to fail.
+[14:27] So that would be our drawn liquidity.
+[14:29] So we'd want to see that go and be hit.
+[14:32] So let's see what happens.
+[14:34] Here we are consolidating right towards the end of the day.
+[14:38] And we are moving lower.
+[14:39] Now, we reach into an important level.
+[14:42] If we're going to get a continuation from here, I'd want to see a closure through this level.
+[14:47] Do we get that?
+[14:49] We have to move higher.
+[14:51] And no, we do not get that.
+[14:53] So what do we notice about this?
+[14:54] If we cannot get this, what does it mean?
+[14:57] Price is remaining internal from these highs here and from these lows.
+[15:03] So what would I want to see?
+[15:04] Well, this would be now a continuation signature.
+[15:08] Here's a consolidation that forms a reversal.
+[15:11] Here's a consolidation where I want to see a manipulation of the low to continue higher.
+[15:17] As we let this play out, here we take the low out.
+[15:20] And let's see if we can close over this level or get a continuation.
+[15:28] And we're really struggling to get over that level.
+[15:30] Let's see if we do.
+[15:32] We do.
+[15:32] So now I'd expect this low to remain intact as we trade towards these equal highs and
+[15:37] ideally into this swing high.
+[15:42] And there we do expand higher.
+[15:44] So this was a great example of a reversal off previous day low with a small wick,
+[15:48] which allows for expansion.
+[15:50] But most importantly, a consolidation, which forms a reversal.
+[15:54] And then here's a consolidation that forms a continuation.
+[15:58] So here we are in our last example for this video.
+[16:02] And what do we notice?
+[16:03] We have our daily chart here on USDJPY.
+[16:06] It sweeps out the high, closes back in.
+[16:09] Is that paired with a change in the state of delivery?
+[16:11] It is.
+[16:13] So I'm expecting price to trade lower this next day.
+[16:16] So what do I notice as we go into this day?
+[16:21] Price is pretty lethargic, right?
+[16:23] It's just hanging around.
+[16:24] So if we're taking a look, price hasn't traded below this low and
+[16:29] price hasn't traded above this high.
+[16:31] So we are just sitting in a range and see how many hours is this?
+[16:38] 18 hours we are in a range.
+[16:41] And what do we notice?
+[16:42] We are bearish and we run out a high.
+[16:44] Do I need to catch this high to trade it lower?
+[16:46] No.
+[16:47] Could I anticipate a reversal?
+[16:49] Yes, but I prefer to trade continuations so I can wait for that.
+[16:53] You can see we have a nice reaction off of this high.
+[16:57] Not closing over, continuing lower.
+[17:00] We create a fair value gap and we still have these equal lows here.
+[17:07] Here now price reaches into that fair value gap.
+[17:10] And what do we notice here?
+[17:12] Into a fair value gap, closure through the up close candles, in this case one,
+[17:17] into that important level.
+[17:19] And then I'd want to see price trade lower.
+[17:21] This is where I could look to take an entry on the open, put my stop there.
+[17:25] So I have two hours to that low.
+[17:26] I don't.
+[17:27] Can extend it a little for two R.
+[17:30] And let's see what happened.
+[17:33] There we go.
+[17:33] Hit two R.
+[17:34] As we get a continuation lower or expansion day, you can see the multiple
+[17:39] other continuations that do exist in these areas.
+[17:44] Now, I hope you found this video helpful.
+[17:46] This will be part one in the series on my phases of price.
+[17:50] So we will then cover expansions for tracements and reversals and then blending
+[17:55] them all together.
+[17:56] But I hope you understand consolidations a little bit better now and how to go
+[18:01] about participating in them, waiting for that manipulation to occur.
+[18:05] So you're not trying to trade within the range, getting stopped out or
+[18:08] anticipating that breakout.
+[18:10] So as always, be patient.
+[18:12] Hope you have a great rest of your day and I'll see you guys next time.
+[18:15] Have a good one.

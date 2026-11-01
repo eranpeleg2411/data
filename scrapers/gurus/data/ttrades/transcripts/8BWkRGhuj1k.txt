@@ -1,0 +1,546 @@
+[00:00] I was going everyone and welcome to my final video in the phases of price series.
+[00:15] So this video we are going to discuss how to blend all the phases of price together.
+[00:20] So let's get into the PDF.
+[00:22] So if you watched my first four videos in this series, you should have a good understanding
+[00:26] of the individual phases of price expansion, retracement, consolidation and reversal.
+[00:32] But how do they actually all blend together?
+[00:34] Well let's go ahead and simplify this.
+[00:36] So what do we actually want to focus on?
+[00:38] Well, it's going to always start with expansion.
+[00:41] So if we are going from expansion into retracement, that is a continuation signature.
+[00:46] And we'd want to see expansion from that retracement.
+[00:49] So you have expansion retracement into another expansion.
+[00:54] Now if we have expansion into consolidation, that can be a continuation or a reversal signature,
+[01:00] depending on if we manipulate or breakout of the range.
+[01:03] So when we go expansion to consolidation, we're looking for another expansion, which
+[01:08] will either be that manipulation or a breakout for a continuation.
+[01:12] Now if we go from expansion met with expansion, that is a reversal, then we are looking for
+[01:17] price to continue in that direction after the reversal.
+[01:20] So in the form a reversal, we want to look for a continuation or that expansion following
+[01:25] when we have this expansion again in each one of these phases, then we're just going
+[01:29] to restart the process.
+[01:31] So with this, I designed a flow chart.
+[01:33] So let's go over that.
+[01:34] We are always going to start with expansion.
+[01:36] So this is where we are going to begin.
+[01:38] If we go ahead and walk through the scenarios, we can have expansion into retracement, in
+[01:43] which case we expand again in the same direction from here, we will then repeat the process
+[01:48] coming back up to expansion and looking for that new phase.
+[01:52] If we have expansion into consolidation, that's when we can either get that manipulation,
+[01:57] which is expansion opposite.
+[01:59] And then we can see expansion met with that expansion forming a reversal.
+[02:03] And then we go into a new phase, or we can have expansion consolidation and then an expansion
+[02:08] again, which is a breakout.
+[02:10] Now if we have expansion met with expansion, that is a reversal.
+[02:15] And that's where I come back up to this flow chart and then look for the next phase of
+[02:18] price.
+[02:19] So let's take a look at this flow chart with the given scenarios.
+[02:22] So here you can see we have expansion.
+[02:25] And then what do we have?
+[02:26] We have a retracement.
+[02:28] So we have expansion, retracement.
+[02:30] I want to see a continuation.
+[02:32] So another expansion again in that same direction.
+[02:36] Now if we have expansion into consolidation, that's where we can get a continuation or
+[02:41] a reversal.
+[02:42] So you can see we have expansion down into a consolidation.
+[02:46] And in this case, we break out of that consolidation.
+[02:49] So we get expansion in the same direction.
+[02:51] And then I want to look for the next phase of price.
+[02:53] Here we retrace and then continue lower.
+[02:56] So we break out of that range.
+[02:58] Here you can see we have expansion consolidation.
+[03:02] And then we get expansion opposite.
+[03:04] So expansion consolidation expansion.
+[03:07] Is this met with expansion or a retracement?
+[03:10] We have expansion opposite.
+[03:11] So that is a reversal expansion consolidation expansion opposite met with expansion forming
+[03:18] this lower timeframe reversal.
+[03:20] And then we have that continuation or that expansion following when we have expansion
+[03:25] met with an expansion or I discussed in the previous video, that is a reversal.
+[03:28] So you can see we expand higher.
+[03:31] That is met with expansion lower.
+[03:33] And that is a reversal.
+[03:34] And I would go into using expansion and finding the next phase of price.
+[03:39] So what does that look like with blending all the phases of price together?
+[03:42] Here you can see we have expansion lower.
+[03:44] Then I'm getting into a new phase of price.
+[03:47] Is it going to be consolidation retracement or a reversal or expansion against?
+[03:52] Here you can see we get a slow shallow move higher.
+[03:55] And then we go in close below that series of up close candles.
+[03:58] So that is a retracement.
+[04:00] So we have expansion retracement.
+[04:03] I'd want to see another expansion or a continuation of this move.
+[04:07] Here you can see we expand the lower and we get a consolidation.
+[04:11] So I'm looking, do I have an expansion over the high when I can look for a reversal to
+[04:16] trade it lower?
+[04:17] Or do I have a breakout of that low?
+[04:19] Here you can see we have a consolidation and then we expand below that low.
+[04:23] But then I want to see, do we retrace consolidate or reverse?
+[04:27] Here you can see we have a little consolidation.
+[04:30] We manipulate the low and then expand higher.
+[04:32] So this is a reversal expansion met with expansion.
+[04:36] That's going to form a higher timeframe.
+[04:37] Wick.
+[04:38] Now we have expansion.
+[04:40] I want to see, do we get a retracement consolidation or reversal?
+[04:44] Here you can see we get three down candles.
+[04:46] That would be either a retracement or a reversal.
+[04:48] If I don't know, I can let some more candles print to tell me.
+[04:52] Here you can see on this next closure, we get a nice bullish candle.
+[04:55] So I can anticipate this to be a expansion into retracement to continue higher with a
+[05:00] new expansion.
+[05:02] And once we close over those series of down close candles into an important level, we
+[05:06] create a protected low that I can trade away from.
+[05:08] So now we have expansion, new phase of price.
+[05:11] We have consolidation.
+[05:13] What do we get this time?
+[05:15] We get a manipulation or an expansion against the move.
+[05:18] So we go expansion, consolidation, expansion against.
+[05:23] This is met with expansion against as well.
+[05:26] And that is a reversal.
+[05:27] And from that reversal, we expand higher.
+[05:30] So we get that continuation move.
+[05:31] So let's get into the charts and go over a few examples of this in trading view.
+[05:36] So here we are in our first example.
+[05:38] And before we begin, I'm on the hourly chart as that is what I tend to use with
+[05:42] the daily closures and my daily bias.
+[05:45] I want to blend the phases of price with a daily bias because that then allows me
+[05:50] to determine what I actually want to see.
+[05:53] So for instance, here we have expansion into consolidation.
+[05:57] If I was bearish, then I want to see a manipulation of the highs to trade it lower
+[06:00] because I am bullish.
+[06:01] I want to see a manipulation of the lows to trade it higher or a breakout of the
+[06:05] highs, a retracement and then a continuation.
+[06:08] So that is why it's important to blend with your daily bias.
+[06:12] But let's get into this example.
+[06:13] So we have expansion and then a consolidation.
+[06:16] So we want to wait for expansion in one direction.
+[06:20] Here you can see we get expansion into this low and expansion out.
+[06:25] Now I can anticipate this move and trade this.
+[06:28] However, if I'm not in this move before these highs are taken, I'm going to want
+[06:31] to wait for a continuation signature.
+[06:33] If I'm trying to treat this higher, so we have expansion.
+[06:37] Do we get a retracement in which case I can find a protected swing, a continuation
+[06:41] entry to trade it higher.
+[06:42] Do we get a consolidation in which case I can look for a manipulation of the low
+[06:46] to trade it higher similar to this, or do we get a reversal in which case this low
+[06:51] is anticipated to get taken out.
+[06:52] So with a few candles, we have expansion met with expansion.
+[06:57] So this is a higher timeframe, as you can see here, and I'd want to see this
+[07:00] low taken out now.
+[07:01] As you can see, if we are expanding, I don't want to see price for trace that
+[07:05] much. I just want to see it go.
+[07:06] So letting this play forward.
+[07:09] Here you can see we go and take out this low and we never get that closure over
+[07:13] the down close candles for a continuation signature.
+[07:16] Now I'm not going to just switch my bias because of this.
+[07:18] I'm still bullish as I determined earlier in the day.
+[07:22] So if we have expansion through a low, I'd want to see what the only
+[07:27] way to form a reversal is to get expansion opposite.
+[07:30] And there we do get expansion opposite.
+[07:33] So we have expansion met with an expansion, which is a reversal.
+[07:37] So now I'd want to see a continuation higher.
+[07:42] And there we do get a continuation higher at the new day.
+[07:46] So letting this continue.
+[07:48] What do we have now?
+[07:50] We have expansion into what?
+[07:52] A consolidation, right?
+[07:53] We are not going anywhere.
+[07:54] We are stuck inside this candle's range here.
+[07:58] So let's see what happens.
+[08:01] Here we expand through this high, but what happens?
+[08:04] Do we get a retracement, a consolidation or a reversal?
+[08:08] You can see how we are taking out this previous high, not respecting the
+[08:12] previous EQ or this opposing candle.
+[08:14] So expansion met with an expansion.
+[08:18] I'm anticipating this to be a reversal to at least go take out this consolidation
+[08:21] low, and then we can look and see what it looks like to trade it lower.
+[08:26] And you can see it fails to push back higher, showing its weakness.
+[08:30] And then we are running for this low here.
+[08:33] You can see how we have expansion consolidation.
+[08:37] We have that expansion in line with this current trend met with an expansion,
+[08:42] which is a reversal in that continuation.
+[08:45] So let's see.
+[08:47] You can see we get a lower timeframe retracement into a fair value yet.
+[08:50] That's all that is, but we continue to expand lower.
+[08:55] Now we have a nice candle closure here, but there is no change in the state of
+[08:59] delivery yet, right?
+[09:00] I want to pair this with the daily open, high, low close.
+[09:03] So taking a look at this, we are doing what?
+[09:07] We have had expansion now into a consolidation.
+[09:11] So taking a look at this consolidation, let's see what occurs.
+[09:17] And you'll see why continuation days are generally easier.
+[09:20] But here you can see we take out the low.
+[09:23] Are we going to trade the high?
+[09:24] Well, I want to see if we close through the series of down close candles.
+[09:29] You can see how I'm blending the protected swings with the phases of
+[09:32] price and the daily of closures.
+[09:35] And you can see we test this level numerous times, but we never can close
+[09:39] over it and we are actually sweeping and getting some reversals in the other
+[09:44] direction.
+[09:45] So there we get an expansion lower retracement expansion.
+[09:51] Right.
+[09:51] So this is the most clear part of this move here into the late New York session.
+[09:55] So if we go ahead and just remove all these drawings here, you can see we had
+[09:59] expansion, a consolidation.
+[10:01] We failed to manipulate this low and traded higher.
+[10:04] So it just fell lower.
+[10:05] So expansion, is this going to be met with a retracement into this fair value?
+[10:13] In which case it can trade lower.
+[10:14] Is this going to consolidate?
+[10:16] In which case we can look for a high to trade it lower or a low to trade it higher,
+[10:21] or it can just break out like that.
+[10:24] Right.
+[10:25] Or are we going to get expansion met with expansion in a reversal?
+[10:30] We don't know until we get a few candle closures.
+[10:33] And right there we have expansion met with an expansion.
+[10:36] You can see we're still in this daily candle.
+[10:38] I want to pair it with the basis of price, the daily candle closures and
+[10:42] protected swings.
+[10:44] Now you can see we're getting that change in the state of delivery.
+[10:47] Has this daily candle closed?
+[10:50] Yes, it did.
+[10:51] So now we have what a daily candle closure that tells us a reversal, a change in
+[10:55] the state of delivery that tells us reversal, as well as paired with that
+[10:58] expansion met with an expansion, which is also saying reversal.
+[11:02] So if we want to see a continuation here, what do we want to see?
+[11:06] We want to see either a consolidation to then run the low trade hire consolidation
+[11:11] to break out or a retracement to trade it higher.
+[11:15] When is this invalidated?
+[11:17] This idea.
+[11:17] Well, if we have expansion met with expansion, then this low gets taken out.
+[11:22] So let's see what happens.
+[11:25] We get a nice slow shallow move that is then paired with the
+[11:30] intraday change in the state of delivery.
+[11:32] And I can look to trade this higher.
+[11:35] You can see we go from expansion retracement.
+[11:38] What do we look for after retracement expansion?
+[11:41] The letting this continue.
+[11:44] And you now have that daily closure.
+[11:46] So expansion, we're now looking for a new phase of price.
+[11:50] Once again, if we're expecting a continuation signature because of the
+[11:53] daily closure outside the range, I really want to see a retracement to
+[11:58] continue higher or a consolidation to run out the low and then try to hire.
+[12:03] If we frame a reversal off previous day high, that then invalidates it for me.
+[12:08] It is not aligned with my bias.
+[12:12] So you can see we get a nice slow shallow move lower.
+[12:16] And if you take a look, we have expansion here.
+[12:18] That's that fake move met with expansion also pairing with the closure.
+[12:23] Once again, you see how the daily bias, the phases of the price, the equilibrium,
+[12:27] the closures, protected swings, they all line up to say long here.
+[12:32] So letting this continue, we get an expansion.
+[12:35] Now let's take another look at this.
+[12:37] If we are going to continue this trade higher, where is our target?
+[12:41] This high.
+[12:42] And knowing that we'd ideally want to see price continue until there, because as
+[12:46] we learned about in our reversal video, reversals occur at highs and lows that
+[12:51] are relevant.
+[12:51] So I'm not expecting price to just reverse here.
+[12:54] So let's see what happens.
+[12:56] We can see here, we have a retracement into a fair value.
+[12:59] Yep.
+[12:59] Do we close over this?
+[13:02] If we do, we can anticipate this low to hold as it trades higher.
+[13:06] And you can see it's taking a long time to close over this.
+[13:10] So that point, it is consolidation.
+[13:12] So instead of looking for that, I then shift my focus to looking for a low to
+[13:17] be ran out.
+[13:18] So for me, price can just expand higher through here, right?
+[13:22] But I'm demanding a run of a low if I'm trying to get long in here.
+[13:29] And you can see, does it ever sweep out these lows?
+[13:32] No.
+[13:33] So there's nothing for me to get on side with there.
+[13:36] And in this case, this may be a move that I just miss.
+[13:39] I'm not going to catch this long because it doesn't formally protect its swing for
+[13:42] me.
+[13:43] There's a few things you can do intraday.
+[13:45] You can see it's not very clean.
+[13:46] This is something that my system prevents me from catching, but that's fine
+[13:49] because I can catch these clean easy continuation moves.
+[13:53] Now, taking a look here, we're going to go ahead and replay.
+[13:56] We go take out this high.
+[13:57] Now, why do I want to align my daily closures with the phases of price?
+[14:02] Well, our phases of price say, Hey, we took out a high.
+[14:05] We took out this short term high as well.
+[14:07] And we have a change in the state of delivery.
+[14:10] This is a reversal, right?
+[14:12] Well, yes, it would be.
+[14:14] But for me, I'm waiting for the daily closure to also align similar to how we
+[14:18] did down here.
+[14:19] And what does this save me from?
+[14:21] It saves me from moves like this where, yes, we had this reversal, but it's not
+[14:25] paired with the daily closure, right?
+[14:26] I'm trying to trade the reversal versus the continuation.
+[14:29] When I let this daily closure align, now what do I notice?
+[14:33] Now I have that true change in the state of delivery.
+[14:36] And I'm looking for a continuation lower expansion met with an expansion.
+[14:40] That's forming that daily wick.
+[14:42] We have the change in the state of delivery expansion lower.
+[14:45] I'm looking for a continuation lower now.
+[14:47] What do we have?
+[14:49] We have a retracement back up into this range here.
+[14:52] And this is something I'm not a big fan of because we already swept out the
+[14:55] previous day low, but I'm still bearish.
+[14:57] Now I don't want to see price trade over the EQ.
+[14:59] So really this is the last area that I want to see price form a high end or
+[15:04] it's invalid for me.
+[15:06] I'm viewing this as expansion, still a retracement.
+[15:09] Let's see if we can expand again.
+[15:12] No, we don't, we get an invalidation.
+[15:14] So this move I'm wrong on.
+[15:16] It's something I'm not going to catch because it doesn't align with my
+[15:18] daily bias and the phases of price never told me there was a reversal in here.
+[15:23] Right.
+[15:23] We have expansion.
+[15:24] We just consolidate in here.
+[15:26] Now clearing up the charts, we have a new daily closure.
+[15:29] And what does that say?
+[15:30] It says it's a candle to closure.
+[15:31] I can anticipate a continuation looking at these phases of price here.
+[15:36] Right.
+[15:36] We have this expansion up.
+[15:38] Is this a retracement?
+[15:39] Yes, but does it for me protected swing?
+[15:41] No.
+[15:42] That means it's then a consolidation.
+[15:45] Well, if I'm looking for this next day to trade higher, I want to see the run
+[15:48] of a consolidation low to trade it higher.
+[15:51] So that would be expansion consolidation expansion against met with expansion
+[15:57] to trade a tire.
+[16:00] Here you can see we run out that low.
+[16:02] A very slow move, but it does go take out that previous day high.
+[16:06] Do we get a continuation following this?
+[16:08] Well, look for a protected swing in here.
+[16:10] Do we have one?
+[16:10] We have a sweep of this low.
+[16:12] Close here, but want to see a low formed in here without taking this.
+[16:15] If we're going to go trade to this high over here, let's see what happens.
+[16:21] We do get that.
+[16:23] So you can see, I don't need to always be correct.
+[16:27] This day I was wrong on, I let the daily closure and then the phases of price
+[16:32] realign me and then I can use protected swings, closures, EQ, all of those concepts
+[16:37] I've talked about on my YouTube channel to realign with the phases of price
+[16:41] and the direction that price is going.
+[16:43] Now I will also use the phases of price on the daily chart to align myself
+[16:48] and wait for the correct daily closures.
+[16:50] So you can see here, what did we have?
+[16:52] We have this reversal.
+[16:53] We have expansion lower through low met with expansion higher.
+[16:57] You can see this fair value gap and we have a consolidation.
+[17:00] What do we do?
+[17:01] We run out the low and the consolidation.
+[17:03] We trade it.
+[17:04] We run out the low and the consolidation.
+[17:07] We trade to the high and the consolidation.
+[17:09] So we have this expansion into a high.
+[17:12] Are we going to get a new phase of price?
+[17:14] Well, we'd get a retracement, a reversal or consolidation.
+[17:18] At first, this can look like either a retracement or reversal over this next
+[17:22] day stays inside bar.
+[17:24] Now this is a consolidation.
+[17:26] So with a consolidation, I can let another daily candle print and tell me what.
+[17:31] Okay, we just swept the high and the consolidation.
+[17:33] I can look to trade this into the low with a consolidation or lower to these
+[17:37] failure swings below.
+[17:39] Now this is when I can drop down to the hourly chart and look to blend this with
+[17:43] the phases of price.
+[17:44] So here on the hourly chart, you can see we sweep out this high.
+[17:48] And what does that met with expansion met with an expansion, a nice V shape
+[17:53] reversal for in that higher timeframe, WIC.
+[17:55] So marking out the change in the state of delivery.
+[17:58] What would we want to see in here to trade it lower?
+[18:01] Well, into the new day, we'd want to see open high, low, close, right?
+[18:06] Expansion, retracement, continuation, right?
+[18:09] So expansion, retracement, expansion.
+[18:12] As we let this get in here, and then go ahead and go to before our chart.
+[18:17] Cause you can also profile the day with that.
+[18:19] You can see we have expansion lower.
+[18:21] I want to see a retracement.
+[18:24] And what do we notice with this candle here?
+[18:26] It is sweeping out the previous failing to close above.
+[18:31] So that's a candle to closure.
+[18:33] And if we're going to the hourly chart and see that's where we're starting
+[18:37] to get a reversal, right?
+[18:39] So with this, I can drop down to the 15 minute chart and we'll go ahead
+[18:42] and use my model.
+[18:44] So going into this day, you can see we have a daily candle.
+[18:47] We have expansion.
+[18:49] This is a very shallow, slow move higher back into the range.
+[18:53] Expansion, retracement.
+[18:55] I want to see in another expansion.
+[18:57] This four hour candle tells me that it is reversing.
+[19:00] And I can look for the next one to trade it lower with this.
+[19:03] I'm just going to use my indicator and you can see it plots out the reversal
+[19:07] there. But if I remove all these drawings here, you can see this is what it plots.
+[19:11] I have a change in the state delivery.
+[19:13] I have expansion met with expansion that's forming that wick.
+[19:16] And then I want to see a reversal in a continuation lower in here.
+[19:21] So this is where I could look to get on side with the move and put my stop on
+[19:24] this high and I can look for two R at a minimum, or I have projection targets.
+[19:29] Or we can talk about it after the move occurs.
+[19:31] Let's see.
+[19:33] We do get this move lower.
+[19:36] Do we hit our TP?
+[19:37] There we go.
+[19:39] But if we are anticipating the daily chart, we go back to the daily or we can go
+[19:43] to the hourly, we're anticipating this daily candle to expand lower.
+[19:47] Where are we going to go to our previous days low or previous days lows?
+[19:52] So with that, I could also extend my targets to there and get a further risk
+[19:58] to reward trade.
+[19:59] But going back to our 15 minute chart, that's what it looks like there is
+[20:04] blending the four hour and 15 minute model with the daily.
+[20:07] So you can see we use the daily candle with the closure, the phase of the
+[20:10] price to say I wanted a short, we go into the hourly chart.
+[20:14] See, we have a V shape reversal here and look at the phase of the price.
+[20:18] We have expansion.
+[20:19] I'm expecting this to retrace.
+[20:21] And if I'm correct, get a continuation lower here on the hourly, and then I can
+[20:25] go to the 15 minute or my preferred entry timeframe and then wait for my model
+[20:30] to occur to get on side with that bias.
+[20:33] And you can see how we blend all of those things together.
+[20:37] Well, let's take a look at blending the phases of price on the daily chart to get
+[20:40] a bias with a daily closure and then finding a lower timeframe entry with that.
+[20:45] And the phases of price intraday.
+[20:47] So you can see here we have had expansion higher.
+[20:50] Now we are in a consolidation.
+[20:53] I'm working out the high and the low of the consolidation.
+[20:56] If I am still bullish, which I am, I want to see a run of the low to trade higher
+[20:59] or a breakout of the high retracement to continue higher.
+[21:04] So you can see we do get a reversal off this high.
+[21:06] It doesn't really go anywhere, right?
+[21:07] It can't get a closure below this previous low.
+[21:12] And you can see it's a bit messy in there.
+[21:14] Here we finally do get a nice little closure off that high.
+[21:16] So we could look to see this trade to this low that we are looking for.
+[21:20] And there we go trade to this low.
+[21:22] So is there opportunities in here to trade lower?
+[21:24] Yes, we could trade lower on this day or on this reversal day.
+[21:28] But if I want to align it with my bias on the higher timeframes, I'm
+[21:31] waiting for this low to get taken out to then trade this higher.
+[21:35] So looking for that to trade higher, we do get that.
+[21:38] Now, if you look here, we have expansion through a range high.
+[21:42] I could look for a new phase of price.
+[21:44] So either a retracement, a reversal or a consolidation on this first day, I could
+[21:49] be looking for that with the daily closure.
+[21:51] It fails on this next day.
+[21:53] I could be looking for the same thing, either a retracement back into the fair
+[21:57] value gap to continue higher or a reversal.
+[22:00] Let's see what happens.
+[22:02] There we go.
+[22:02] We do get that retracement into this fair value gap here.
+[22:06] So if we have expansion retracement with the daily closure, I'm expecting an expansion.
+[22:13] Again, it could look to get on side there.
+[22:16] Now we have expansion through these highs.
+[22:19] I could be looking for a retracement here.
+[22:22] What happens?
+[22:23] It just trades higher.
+[22:24] Right.
+[22:24] Now at this point, we are expanding.
+[22:27] I want to see a new phase of price.
+[22:29] So I want to see a retracement reversal or a consolidation.
+[22:33] Ideally, retracement or reversal as that is where I can get inside.
+[22:36] Here you can see we take our previous day high close inside.
+[22:39] I can be looking short on the next day.
+[22:42] This is where I can drop down to my hourly chart for example here.
+[22:45] And you can see it is a bit messy with the gap, but not everything is going to be perfect.
+[22:50] But if we take a look, we have a short term high here gets taken out.
+[22:54] We can use this whole series up as they change in the state of delivery.
+[22:59] And we have expansion, a little retracement expansion again.
+[23:03] So if we're anticipating price to continue lower, what do we want to see?
+[23:07] Ideally a shallow move higher to then trade it short in the following day.
+[23:12] But let's see.
+[23:14] You can see we open, we have a nice slow move higher.
+[23:17] Right.
+[23:18] That's what we want to see generally.
+[23:22] And see, this is trading a bit higher than we generally want, but we did have a
+[23:26] stronger close on the previous day.
+[23:28] So it's not that deep of a move.
+[23:31] And we can take a look and we are starting to get a nice little reversal here.
+[23:35] We can check the four hour chart.
+[23:37] And what do we notice?
+[23:38] We have price sweeping out this previous high and then closing in.
+[23:42] And then closing back lower.
+[23:43] So at this 10 a.m.
+[23:44] candle, we could be looking for short setups.
+[23:47] Let's go to my 15 minute chart and we'll pull up my indicator.
+[23:50] And so you can see at this four hour candle closure here, we have a bearish bias.
+[23:55] We're assuming this to be a retracement on the higher time frame right here to
+[23:59] expand back lower.
+[24:01] So we want to mark out our protected swings.
+[24:03] Where are those?
+[24:05] Well, we have a new one right here because of the SMT on this high here.
+[24:11] There.
+[24:13] And you can see that if we go ahead and shift to NQ, you can see how it is taken
+[24:17] out that high.
+[24:18] But with that, I now have a protected swing.
+[24:21] I have an area I'm looking for price to trade.
+[24:23] This is where I can take an entry.
+[24:25] I can take my entry in here, want to put my stop on a protected swing.
+[24:28] Now this gives me not very great risk to reward.
+[24:31] I can still use the bodies here to give me two R because I don't anticipate it
+[24:35] to trade higher than the bodies there.
+[24:38] Let this continue out.
+[24:39] We do hit to our, and we go quite a bit lower, but that is my minimum requirement
+[24:44] for a trade.
+[24:45] So just to review, we can go back out to our daily chart here.
+[24:49] You can see we have price expanding away, looking to trade it back into the range.
+[24:55] We have price closing back inside the previous day high, which gives us a bias
+[24:59] for this next day.
+[25:00] We can go to our four hour chart.
+[25:03] You can see on the four hour chart, it's pretty clear here.
+[25:05] We have expansion, a retracement, and a lower time frame.
+[25:09] We have a lower time frame, a retracement, looking for a new expansion again.
+[25:13] When can that be determined?
+[25:15] Well, we can determine that when we get a bearish closure on the four hour chart.
+[25:19] So bringing our charts back, we can go to the 15 minute chart, and that's where
+[25:23] we can align it with the higher timeframe phases of price, the closures, the
+[25:27] EQ, protected swings, really everything to align top down, looking for this to
+[25:33] trade lower.
+[25:34] Now with this, we had a great target at the daily open, those session lows, but
+[25:37] though you can get pretty great risk to reward out of something like that, but
+[25:41] a minimum two R would put you right about there.
+[25:44] Now, before I end this video, I do want to talk about an example in which
+[25:48] case I'm not using the daily and the hourly or the four hour.
+[25:51] It is a fractal concept.
+[25:53] So I can use lower timeframes.
+[25:55] So in this case, my higher timeframe will be the hourly instead of the daily.
+[25:59] Instead of the hourly chart, I'll use the five minute chart for my
+[26:02] intraday price action or that lower timeframe price action.
+[26:05] You can see we are trending down.
+[26:07] We have expansion, retracement, expansion, retracement, right?
+[26:13] We're getting these slow shallow moves back up.
+[26:15] So when would I want to align myself with this?
+[26:17] Well, ideally I want to be trading those expansion phases.
+[26:21] But I want to wait for the retracement to end.
+[26:23] And then once the expansion begins, that's when I want to get on side.
+[26:26] Now, how do I personally do that?
+[26:28] I wait for my higher timeframe closure to align with that.
+[26:32] Then when I have that change in the state of delivery paired with it,
+[26:35] that's telling me that price has reversed or exiting the retracement phase
+[26:39] and entering that new expansion.
+[26:41] So let's take a look here.
+[26:43] You can see we do get that closure.
+[26:46] We have the change in the state of delivery.
+[26:48] I'm now anticipating this retracement to have ended in a new expansion to occur.
+[26:52] And you can see there we get a move lower.
+[26:55] Now, an important thing to note, if we are going to get a reversal here,
+[26:59] what do we want to see?
+[27:00] Expansion into a low, we would want to see expansion met back at this low.
+[27:06] That would create a reversal to trade it higher.
+[27:08] Now, if we get a retracement or a failure to go back into this range,
+[27:12] that's when we can get a new expansion lower.
+[27:15] Expansion retracement, expansion or a consolidation.
+[27:19] Those are both continuation signatures.
+[27:22] But you can see, what do we notice there?
+[27:24] A very shallow retracement.
+[27:25] We can't go back in this range, a bearish closure.
+[27:28] And now we can get this continuation back lower.
+[27:32] And you can see we're hitting these expansion targets.
+[27:34] Now, hopefully this video helped.
+[27:36] If there is anything that isn't clear, please leave a comment in the comment
+[27:39] section below and I'll do my best to get back to you or use that feedback for a
+[27:44] future video to clarify things.
+[27:46] But with that said, I hope we have a great rest of your day and I'll see you guys
+[27:49] next time.
+[27:49] Have a good one.

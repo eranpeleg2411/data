@@ -1,0 +1,297 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "8BWkRGhuj1k",
+    "title": "The Phases of Price Action: A Blueprint for Market Movement",
+    "url": "https://www.youtube.com/watch?v=8BWkRGhuj1k",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/8BWkRGhuj1k.json"
+  },
+  "stats": {
+    "word_count": 5357,
+    "duration_seconds": 1670.32,
+    "segments": 546,
+    "concepts_detected": 6,
+    "candidate_strategies": 4
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 3,
+    "SMT Divergence": 1,
+    "Premium and Discount": 1,
+    "Protected Swing": 12,
+    "Projection Targets": 1,
+    "Daily Bias": 5
+  },
+  "spoken_time_references": [
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 397.2,
+          "end": 406.08,
+          "text": "Do we get a retracement in which case I can find a protected swing, a continuation entry to trade it higher. Do we get a consolidation in which case I can look for a manipulation of the low",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "Protected Swing Invalidation"
+          ],
+          "score": 18
+        },
+        {
+          "start": 658.56,
+          "end": 671.16,
+          "text": "expansion met with an expansion, which is also saying reversal. So if we want to see a continuation here, what do we want to see? We want to see either a consolidation to then run the low trade hire consolidation",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 7
+        },
+        {
+          "start": 1219.6,
+          "end": 1230.6,
+          "text": "I'm expecting this to retrace. And if I'm correct, get a continuation lower here on the hourly, and then I can go to the 15 minute or my preferred entry timeframe and then wait for my model",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 7
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 1445.24,
+          "end": 1457.72,
+          "text": "Well, we have a new one right here because of the SMT on this high here. There. And you can see that if we go ahead and shift to NQ, you can see how it is taken",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 10
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 397.2,
+          "end": 406.08,
+          "text": "Do we get a retracement in which case I can find a protected swing, a continuation entry to trade it higher. Do we get a consolidation in which case I can look for a manipulation of the low",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "Protected Swing Invalidation"
+          ],
+          "score": 18
+        },
+        {
+          "start": 1463.24,
+          "end": 1471.44,
+          "text": "This is where I can take an entry. I can take my entry in here, want to put my stop on a protected swing. Now this gives me not very great risk to reward.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 13
+        }
+      ]
+    },
+    {
+      "name": "Premium Discount Expansion",
+      "evidence": [
+        {
+          "start": 488.68,
+          "end": 498.08,
+          "text": "You can see how we are taking out this previous high, not respecting the previous EQ or this opposing candle. So expansion met with an expansion.",
+          "concepts": [],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 6
+        },
+        {
+          "start": 738.84,
+          "end": 751.4,
+          "text": "That's that fake move met with expansion also pairing with the closure. Once again, you see how the daily bias, the phases of the price, the equilibrium, the closures, protected swings, they all line up to say long here.",
+          "concepts": [
+            "Premium and Discount",
+            "Protected Swing",
+            "Daily Bias"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 20
+        },
+        {
+          "start": 1527.72,
+          "end": 1537.48,
+          "text": "EQ, protected swings, really everything to align top down, looking for this to trade lower. Now with this, we had a great target at the daily open, those session lows, but",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 12
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 338.4,
+      "end": 350.24,
+      "text": "And before we begin, I'm on the hourly chart as that is what I tend to use with the daily closures and my daily bias. I want to blend the phases of price with a daily bias because that then allows me",
+      "concepts": [
+        "Daily Bias"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 397.2,
+      "end": 406.08,
+      "text": "Do we get a retracement in which case I can find a protected swing, a continuation entry to trade it higher. Do we get a consolidation in which case I can look for a manipulation of the low",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Trend Continuation",
+        "Protected Swing Invalidation"
+      ],
+      "score": 18
+    },
+    {
+      "start": 564.72,
+      "end": 573.84,
+      "text": "Well, I want to see if we close through the series of down close candles. You can see how I'm blending the protected swings with the phases of price and the daily of closures.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 658.56,
+      "end": 671.16,
+      "text": "expansion met with an expansion, which is also saying reversal. So if we want to see a continuation here, what do we want to see? We want to see either a consolidation to then run the low trade hire consolidation",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 7
+    },
+    {
+      "start": 738.84,
+      "end": 751.4,
+      "text": "That's that fake move met with expansion also pairing with the closure. Once again, you see how the daily bias, the phases of the price, the equilibrium, the closures, protected swings, they all line up to say long here.",
+      "concepts": [
+        "Premium and Discount",
+        "Protected Swing",
+        "Daily Bias"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 20
+    },
+    {
+      "start": 914.28,
+      "end": 922.48,
+      "text": "So this move I'm wrong on. It's something I'm not going to catch because it doesn't align with my daily bias and the phases of price never told me there was a reversal in here.",
+      "concepts": [
+        "Daily Bias"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 936.8,
+      "end": 941.72,
+      "text": "We have this expansion up. Is this a retracement? Yes, but does it for me protected swing?",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 962.32,
+      "end": 969.96,
+      "text": "A very slow move, but it does go take out that previous day high. Do we get a continuation following this? Well, look for a protected swing in here.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 987.32,
+      "end": 1001.0,
+      "text": "This day I was wrong on, I let the daily closure and then the phases of price realign me and then I can use protected swings, closures, EQ, all of those concepts I've talked about on my YouTube channel to realign with the phases of price",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 1445.24,
+      "end": 1457.72,
+      "text": "Well, we have a new one right here because of the SMT on this high here. There. And you can see that if we go ahead and shift to NQ, you can see how it is taken",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 10
+    },
+    {
+      "start": 1463.24,
+      "end": 1471.44,
+      "text": "This is where I can take an entry. I can take my entry in here, want to put my stop on a protected swing. Now this gives me not very great risk to reward.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 1527.72,
+      "end": 1537.48,
+      "text": "EQ, protected swings, really everything to align top down, looking for this to trade lower. Now with this, we had a great target at the daily open, those session lows, but",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 12
+    }
+  ],
+  "generated_at": "2026-09-01T19:33:36.807284+00:00"
+}

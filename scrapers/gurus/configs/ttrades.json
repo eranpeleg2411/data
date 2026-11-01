@@ -1,0 +1,44 @@
+{
+  "keywords": [
+    "ttrades fractal model",
+    "ttfm",
+    "candle 2 closure",
+    "candle 3",
+    "candle 4",
+    "psp",
+    "protected swing",
+    "change in state of delivery",
+    "cisd",
+    "intracandle cisd",
+    "ic-cisd",
+    "fair value gap",
+    "fvg",
+    "order block",
+    "buyside",
+    "sellside",
+    "premium",
+    "discount",
+    "equilibrium",
+    "projection",
+    "daily bias"
+  ],
+  "concept_patterns": {
+    "TTrades Fractal Model": "\\bttrades fractal model\\b|\\bttfm\\b|\\bfractal model\\b",
+    "Candle 2 Closure": "\\bcandle\\s*2\\s*closure\\b|\\bcandle two closure\\b",
+    "Candle 3 Setup": "\\bcandle\\s*3\\b|\\bcandle three\\b",
+    "Candle 4 Setup": "\\bcandle\\s*4\\b|\\bcandle four\\b",
+    "Protected Swing": "\\bprotected swings?\\b|\\bprotected highs?\\b|\\bprotected lows?\\b",
+    "PSP Confirmation": "\\bpsp\\b|\\bconfirm(?:ing)? swing points?\\b",
+    "CISD": "\\bchange in state of delivery\\b|\\bcisd\\b|\\bic[-\\s]?cisd\\b",
+    "Projection Targets": "\\bprojection targets?\\b|\\btargets? using projections?\\b|\\bprice targets?\\b",
+    "Daily Bias": "\\bdaily bias\\b|\\bmechanical framework\\b",
+    "Buyside and Sellside Liquidity": "\\bbuyside\\b|\\bsellside\\b|\\bbuy side\\b|\\bsell side\\b"
+  },
+  "strategy_patterns": {
+    "Fractal Candle 2 Closure Entry": "\\bcandle\\s*2\\s*closure\\b.{0,220}\\b(?:entry|setup|model|confirm|confirmation)\\b|\\b(?:entry|setup|model|confirm|confirmation)\\b.{0,220}\\bcandle\\s*2\\s*closure\\b",
+    "CISD Confirmed Swing Entry": "\\b(?:cisd|change in state of delivery|ic[-\\s]?cisd)\\b.{0,220}\\b(?:swing|entry|confirmation|confirm|reversal)\\b|\\b(?:swing|entry|confirmation|confirm|reversal)\\b.{0,220}\\b(?:cisd|change in state of delivery|ic[-\\s]?cisd)\\b",
+    "Protected Swing Invalidation": "\\bprotected swings?\\b.{0,220}\\b(?:invalidat(?:e|ion)|stop|trend|entry)\\b|\\b(?:invalidat(?:e|ion)|stop|trend|entry)\\b.{0,220}\\bprotected swings?\\b",
+    "Projection Target Model": "\\b(?:projection|projections)\\b.{0,220}\\b(?:target|take profit|tp|expansion)\\b|\\b(?:target|take profit|tp|expansion)\\b.{0,220}\\b(?:projection|projections)\\b",
+    "Premium Discount Expansion": "\\b(?:premium|discount|equilibrium|eq)\\b.{0,220}\\b(?:expansion|entry|target|bias)\\b|\\b(?:expansion|entry|target|bias)\\b.{0,220}\\b(?:premium|discount|equilibrium|eq)\\b"
+  }
+}

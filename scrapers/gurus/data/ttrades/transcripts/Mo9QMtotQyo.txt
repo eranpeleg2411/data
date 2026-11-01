@@ -1,0 +1,475 @@
+[00:00] How's it going everyone and welcome back to another video.
+[00:14] In this video we are going to talk about understanding daily profile or intraday reversals.
+[00:20] Essentially how do you confirm the wick of the daily candle or confirming the higher day
+[00:24] or lower day.
+[00:25] So the way I'm going to confirm the wick of the daily candle or in this case if we
+[00:30] are bullish we want to see price open make a low and then trade higher.
+[00:35] How do I understand when this low has been formed or when the low of the daily candle
+[00:40] has been formed and then I can look to trade it away.
+[00:43] I'm going to either use candle closures or a change in the state of delivery.
+[00:48] So let's talk about each.
+[00:49] So when can I use a change in the state of delivery.
+[00:52] I can use a change in the state of delivery within any session.
+[00:55] But with that I want to adjust the time frame I use based off the volatility.
+[01:01] Asia is less volatile than New York.
+[01:03] So I'm going to use a higher time frame.
+[01:05] So if I'm looking for this wick to form an Asia I'm going to focus on an hourly change
+[01:10] in the state of delivery to confirm that high or low of day on the daily candle or that
+[01:15] wick.
+[01:16] Once that forms then I could look to trade it away.
+[01:19] Now if I'm looking for London to form the high or low of the day there is a little bit
+[01:23] more volatility than Asia during London.
+[01:26] So I can use a slightly lower time frame.
+[01:28] So this would be using a 15 minute or 30 minute change in the state of delivery.
+[01:32] Now you might ask can't I also use an hourly change in the state of delivery.
+[01:36] Yes you can always use a higher time frame change in the state of delivery.
+[01:40] It just doesn't always occur.
+[01:42] For instance if we go to New York this is where I can use a five minute or 15 minute
+[01:46] change in the state of delivery because price is very volatile and fast around the New York
+[01:51] stock market open.
+[01:52] It doesn't mean you can't use an hourly change in the state of delivery if it has already
+[01:56] occurred.
+[01:57] It's just generally given the volatility if you wait for that hourly change in the state
+[02:01] of delivery price will leave you behind.
+[02:04] So that's how I would use a change in the state of delivery to confirm that high a day
+[02:08] or low a day.
+[02:09] But I can also use candle closures right we can have this change in the state of delivery
+[02:13] but it could also use a closure.
+[02:15] So how do I go about using that as you've seen in my previous video.
+[02:19] You can use multiple different time frames for this such as the seven hour but I want
+[02:23] to use the four hour or one hour generally.
+[02:26] Now if I'm in Asia or London or even New York I would prefer to use the four hour candle
+[02:32] specifically in the early parts of the day because the volatility is lower.
+[02:37] I can use a four hour candle closure paired with my lower time frame fractal model to confirm
+[02:42] that low a day or high a day.
+[02:43] Right.
+[02:44] And so I'm just looking for a candle to or a candle three closure ideally at a point
+[02:48] of interest but mainly in respect to the daily equilibrium.
+[02:51] And then I can look to trade that away.
+[02:54] Now once I'm into New York the volatility has increased and that's where I can use a
+[02:58] lower time frame candle closure.
+[03:00] They're really in New York and this is generally with a New York manipulation.
+[03:05] I can use an hourly candle closure sometimes even a 30 but generally an hourly closure
+[03:11] find a candle to closure or candle three closure at a point of interest and then look to trade
+[03:15] that away.
+[03:16] Generally what this looks like is some sort of opposing move at 9 30 then 10 a.m. opens
+[03:22] that 9 to 10 a.m. candle is a candle to closure and we can look to trade the 10 a.m. C 3 candle.
+[03:29] So just to go back in review we can use a candle closure or a change in the state of
+[03:33] delivery to confirm that high or low of the day.
+[03:35] If we are in the lower volatility sessions we're going to want to use those higher time
+[03:39] frames.
+[03:40] Right so in Asia I want to use an hourly change in the state of delivery or a four hour candle
+[03:45] closure in London.
+[03:47] I'd want to use that in 15 or in 30 CST or a four hour candle closure in New York.
+[03:53] That's really where we can adjust it and we can use some lower time frames for candle
+[03:56] closures such as the hourly or the four hour for candle closure or the five minute and 15
+[04:01] minute for a change in the state of delivery.
+[04:03] Let's get into trading view and go over a few examples of this.
+[04:06] So here we are in our first example and you can see we have a candle to closure here on
+[04:11] the daily chart and a nice V shape reversal and then a consolidation.
+[04:15] We have these failure swings on the high but everything is set up here for a bullish move.
+[04:20] But what are we looking for.
+[04:22] We are trying to let this daily candle reach down open low form its wick right and then
+[04:28] it can flip and then go bullish right.
+[04:30] So we're just wanting to let price come down here.
+[04:34] Tell us that it's formed its daily wick and then we can look to trade it higher.
+[04:39] So if you remember we are either going to do this using a change in the state of delivery
+[04:44] based off the session or a candle closure.
+[04:47] So I'm just going to continue right.
+[04:49] I'm on the hourly chart here.
+[04:51] Do I think that this daily candle is formed its wick.
+[04:53] Do I think this low is in.
+[04:55] No I'm going to go ahead continue along.
+[04:58] Do I think this daily candle has formed its wick.
+[05:01] No right and it's a little bit of a deeper run.
+[05:03] We don't want to see it close below the EQ.
+[05:06] Do I trust that this has formed its daily wick.
+[05:08] Now you might see this candle closure here and say yeah but for me I'm not really going
+[05:13] to trust this doji candle here after a large move down.
+[05:17] This is expansion.
+[05:18] This is more of a consolidation.
+[05:20] I'm not going to trust an hourly candle closure here in the early parts of the day or near
+[05:25] Asia.
+[05:26] We're going to let this continue and see that's a retracement.
+[05:32] Do we make a new low.
+[05:33] We do right now I'm going to trust this candle closure right and still no right.
+[05:38] We're in London now right approaching London open but no I'm not going to trust this because
+[05:43] it's just hard to trust an hourly candle closure that early into the day right.
+[05:48] I want to have more confirmation from a four hour candle closure.
+[05:52] So let's take a look at the four hour candle closure right.
+[05:54] I don't trust that.
+[05:56] Right.
+[05:57] That's not convincing.
+[05:58] So going back to the hourly I just need to let another candle form.
+[06:01] I don't trust this wick has formed on the daily candle.
+[06:06] And then right here now we have another candle to closure.
+[06:09] This one is a little bit more convincing but I'm still not going to trust that until
+[06:13] I have you know a four hour candle closure or an hourly or lower time frame change in
+[06:18] the state of delivery here.
+[06:19] I could possibly go to the 30 minute and look for a change in the state of delivery.
+[06:23] That is possible here because we are in London so we could do that and see if we get that.
+[06:29] Right.
+[06:30] And we do take out the low and have this change in the state of delivery.
+[06:34] So this is the first possible time where I could say hey there's potential for this
+[06:39] to form the low of the day.
+[06:42] But normally I want to pair that with other confluences.
+[06:44] So let's go back out to the hourly time frame.
+[06:47] We have a nice candle to closure here on the hourly.
+[06:49] Take a look at the four hour has it closed yet.
+[06:54] We got away for six.
+[06:56] So I could potentially consider the low of the day with that 30 minute change in the
+[06:59] state of delivery.
+[07:00] If I want more confirmation in the earlier part of the day what am I going to be looking
+[07:03] for that four hour candle closure or the hourly change in the state of delivery.
+[07:07] Those are my favorite for pre New York.
+[07:10] So what do we have here.
+[07:12] We don't close over that yet.
+[07:13] And we have one more hour until that four hour candle closure.
+[07:16] So let's give it one more hour.
+[07:17] What do we have.
+[07:18] We have this closure over.
+[07:20] Let's check the four hour chart.
+[07:22] We have a four hour candle to closure.
+[07:24] As you can see here.
+[07:26] So now what do we have.
+[07:27] Now we have that four hour candle closure and hourly change in the state of delivery.
+[07:32] So both of those are checked off.
+[07:34] Now I have a lot more confirmation that this low could be the wick low of the daily candle.
+[07:40] Then I did right at that low.
+[07:42] And so you can see how we use that candle closure plus the change in the state delivery.
+[07:46] So now if you can anticipate this to have formed the wick low of the day what can you
+[07:51] do now.
+[07:52] Well you could look for a fractal model.
+[07:54] So right here we have four hour candle closure.
+[07:56] We could go to the 15 minute timeframe and look to trade this higher right with this
+[08:01] continuation that's formed right here.
+[08:03] Or we could also just enter on this higher timeframe here.
+[08:07] So we could go ahead and enter on this hourly timeframe.
+[08:10] I stop on the low of the day and then look for two are maybe that's too far of a target
+[08:15] you want to be targeting around the daily open.
+[08:16] And that's where you could use the lower timeframe for the 15 minute for this continuation in
+[08:21] here.
+[08:22] Right.
+[08:22] And that will get you to our right around that daily open.
+[08:25] But either of those can work and either are possible as we let this play ahead.
+[08:29] What happens we get a nice move higher into those failure swings on the side.
+[08:34] So what can we learn from this.
+[08:36] We want to ask ourselves as we go throughout the day has the daily candle formed its wick.
+[08:42] That's the one question to remember.
+[08:44] So we go through this.
+[08:45] There's nothing we can trust yet.
+[08:47] We have a little bit of confirmation here in London with a 30 minute change in the state
+[08:50] of delivery.
+[08:51] But it's not until we get this hourly change in the state of delivery and that four hour
+[08:55] candle closure here where we could say, Hey, if the daily candle is going to form its wick
+[09:00] here and we're going to remain bullish, this is where it would be.
+[09:03] Right.
+[09:03] And that is where you can look to get on side or look to trade.
+[09:07] Right.
+[09:07] Because we want to let the wick form and then look to trade the body of the candle or that
+[09:12] expansion following.
+[09:14] So let's get into another example.
+[09:16] So here we are in another example.
+[09:18] You can see we have a nice candle to closure here on the daily chart.
+[09:22] This is not yet paired with a change in the state of delivery, but we do have a nice V
+[09:26] shape.
+[09:26] Right.
+[09:27] We have a fair value gap here and a fair value gap here.
+[09:30] But without that change in the state of delivery, we're going to need that intraday confirmation.
+[09:34] So if we are bearish, what do we want to see price open trade higher form its daily wick.
+[09:41] Right.
+[09:41] We want to see this wick form and then some sort of confirmation that confirms that wick
+[09:45] for us.
+[09:46] And then we can look to trade it away and lower.
+[09:49] So let's get into this.
+[09:51] We're just going to ask ourselves that same question.
+[09:53] Do I trust that this has formed its daily wick?
+[09:56] Well, the fact that we don't even have a wick yet.
+[09:58] No, so I can't do anything.
+[10:01] Right.
+[10:01] Do I trust this has formed its daily wick?
+[10:03] Nope.
+[10:04] So I'm going to let another candle print.
+[10:06] I'm just going to keep doing this until I have some sort of confirmation.
+[10:10] Now we are in Asia here.
+[10:12] So what are my options?
+[10:14] I can look for an hourly change in the state of delivery or a four hour candle closure.
+[10:19] It's really unlikely we're going to get that hourly change in the state of delivery.
+[10:22] Because it's all the way down there, but we could look to see if we get a four hour candle closure.
+[10:27] Let's see here.
+[10:28] Right.
+[10:29] Do I trust that this has formed its wick yet?
+[10:31] Well, we are starting to get an aggressive move lower, right?
+[10:34] Expansion candles.
+[10:36] So what could I look for that?
+[10:37] If I'm in Asia, my only options are what?
+[10:40] Four hour candle closure or hourly change in the state of delivery.
+[10:44] Here you can see we do actually have that four hour candle closure.
+[10:48] So I could use this and consider it a potential high of the day or this forming the wick high.
+[10:54] So what would I want to do if I'm looking to trade that?
+[10:57] Well, I could look to just take an entry with my stop on that high of the day that I think is in.
+[11:02] Right.
+[11:02] And then looking for my two to three are depending on your targets, or I can use a four hour and 15 minute fractal model.
+[11:10] Right.
+[11:10] And we have what do we have the change in the state of delivery right there and then look for a continuation lower.
+[11:17] So either of those would work, but the whole point of this video is trying to explain when the high or low of the day has formed.
+[11:25] We have lots of other videos on entries.
+[11:27] Let's see what happens.
+[11:29] Right.
+[11:29] And we get this move lower.
+[11:31] So either would have worked.
+[11:33] You see how that four hour candle closure in Asia can potentially form the high or low of the day.
+[11:39] You can see we get a retracement move back up.
+[11:42] We're closer into New York now.
+[11:44] And so we could be looking for continuations in that direction.
+[11:48] And this is where bias and profile comes into line.
+[11:52] A lot of people will see this move here and get scared.
+[11:55] But we just know that our bias remains intact.
+[11:57] If this high of the day that we are trading away from remains intact, which it does so we can continue to keep that bearish bias reaching for an expansion lower.
+[12:06] So this is an example of a four hour candle closure in Asia forming that high of day.
+[12:12] So here we are in another example.
+[12:15] Once again, the candle to closure.
+[12:16] This one we have a change in the state of delivery.
+[12:19] And what do we notice?
+[12:20] We've already kind of formed another continuation here.
+[12:23] So what are we not wanting to see?
+[12:25] We don't want to see price trade over this high, right?
+[12:28] Because that'd be invalidating this area here and that's not bearish anymore.
+[12:33] So we want to see price open, make some sort of high.
+[12:36] And then we can look to trade it away.
+[12:37] Once again, what are we going to ask ourselves?
+[12:39] Has the daily wick formed?
+[12:42] So I do not think that yet.
+[12:43] We don't really have any wick there.
+[12:45] So it's hard for me to trust it unless we break lower and then get another continuation, which we can talk about.
+[12:52] Right here, I still don't trust anything.
+[12:55] We haven't even formed a daily wick.
+[12:56] So there's nothing to be looking for in here.
+[13:00] What time frame are we approaching?
+[13:02] We're working our way into London here.
+[13:06] And what do we have?
+[13:07] We reach into this fair value gap right here, right?
+[13:09] Which is where we want to see that wick high form, right?
+[13:12] Because we don't want to see it break through 50% of these opposing candles or invalidate our idea.
+[13:19] And we have a candle to closure here.
+[13:21] Now, I generally, like I said, don't use hourly candle to closures earlier into the day.
+[13:26] I want to see an hourly change in the state of delivery or a four hour candle closure.
+[13:30] What are we going to wait for?
+[13:32] Hourly change in the state of delivery.
+[13:35] Let's see what happens.
+[13:37] We get that closure through.
+[13:39] So now I could ask myself, do I think that the daily wick has formed?
+[13:43] And I could say yes, because I have that structure on the lower time frame to tell me that I think this wick has formed.
+[13:49] So I could look to either get on side on this time frame or look to a lower time frame fractal model in line with that.
+[13:56] And now since we have six a.m. opening, we could also check out the four hour candle here.
+[14:01] What do we have?
+[14:02] We also have a four hour candle to closure.
+[14:05] So we could also trade this on the 15 minute time frame.
+[14:08] So we have that confirmation again, an hourly change in the state of delivery with a four hour candle closure.
+[14:14] Go back to that hourly time frame just to view it.
+[14:17] So we could anticipate this to hold if we're going to continue to trade this lower.
+[14:21] Letting that expand, we get that expansion lower.
+[14:25] You can see how that six to 10 a.m. candle has that expansion lower.
+[14:29] If you go to the 15 minute, that's a four hour and 15 minute fractal model.
+[14:33] So if we go ahead, switch our settings here to automatic, you'll switch to the four hour and 15 minute model.
+[14:40] And you can see what do we do before my continuation right in there.
+[14:44] And so that is a potential to sell off there.
+[14:47] So let's get into another example.
+[14:49] Now I quickly want to talk about why bias is so important.
+[14:54] If you have a wrong bias, you can mechanically confirm the wick high or wick low of the day and still be wrong.
+[15:01] So for instance, here, if you are bearish, right, what do we have?
+[15:04] We have London sweeping out the high or many change in the state of delivery.
+[15:09] It's valid if you're bearish to trust this high to remain and look for it to continue lower.
+[15:15] Right. Because in London, we can look for that hourly change in the state of delivery
+[15:19] or a four hour candle closure, right, which we also have.
+[15:23] Right. And so it's valid to be bearish, you know, expecting that high to remain.
+[15:28] Now, if you have the wrong bias, right, which you can see it's wrong here on the higher time frame, you do get the low taken out.
+[15:36] Right. So it was the correct bias to the current days low.
+[15:39] But when you have the wrong bias, it's going to get ran out.
+[15:42] So that is a quick lesson that I wanted to talk about because you may not be doing anything wrong on the lower time frames here.
+[15:50] It's just that your bias was wrong and that's okay.
+[15:52] You just have to accept that you're not always going to be right all the time.
+[15:56] But let's use this example to also talk about what can you do in New York?
+[16:01] Right. And so here you can see we have more of a consolidation.
+[16:05] We have this range.
+[16:06] I gets taken out.
+[16:08] It goes to the range low.
+[16:09] And what do we also have at that range low?
+[16:12] Right. We have SMT.
+[16:13] You can see ES doesn't take out the low while NQ does take out the low.
+[16:19] So if I was bullish on the day, right, using the higher time frames, what would I want to look for in New York?
+[16:26] Well, since New York is a lot faster, I can use an hourly candle closure.
+[16:30] Right.
+[16:30] So looking at this SMT, since this is the one that made the higher low, I can focus on that.
+[16:36] I could use this hourly candle to closure to potentially confirm the low of the day.
+[16:42] Right.
+[16:43] Or in this case, NQ took it out.
+[16:45] So NQ is forming its low, but an area to trade away from.
+[16:49] So I can look for that.
+[16:51] Now, if you notice, if I wait for that four hour closure, right.
+[16:55] It's already expanded quite a bit.
+[16:57] Yes, it continues.
+[16:58] But if I wait for that four hour closure or this hourly change in the state of delivery, a lot of times I'm a little late for the move.
+[17:05] In this case, it did come back and retest that area.
+[17:08] But that's what I'm trying to explain.
+[17:10] New York brings volatility.
+[17:11] We can use the lower time frames.
+[17:13] So here I could use the hourly candle closure, look for a lower time frame fractal model there.
+[17:18] Or I can also look for a 15 minute change in the state of delivery, right.
+[17:22] Or a five minute change in the state of delivery.
+[17:24] Here it's actually not super clean, right.
+[17:26] So maybe I will go to the five minute, see if it cleans up the structure.
+[17:30] It does.
+[17:31] Right.
+[17:31] And so this would be that hourly and five minute fractal model.
+[17:34] Let's go ahead and rewind it so it makes a bit more sense.
+[17:38] Turn this on automatic.
+[17:41] And you can see, right, that candle to closure, we reach lower.
+[17:45] We then form a continuation and I could look to trade that higher.
+[17:49] Now, that's what I'm going to do.
+[17:51] If the 15 minute isn't clean, right, I can either refine it down with a candle closure
+[17:55] in a lower timeframe, or I could go up a timeframe and see if the 30 minute sorts
+[17:59] it out a little bit better.
+[18:00] Right.
+[18:00] In this case, New York is so fast that if you notice that you're waiting for this
+[18:04] closure, it's almost already to those highs.
+[18:07] But this is just an example and a little lesson that bias does matter.
+[18:11] Right.
+[18:12] It's going to matter within the intraday profile.
+[18:15] And that was just a lesson that bias does matter.
+[18:17] Right.
+[18:17] You can be completely right in how you mechanically confirm the high or low
+[18:21] a day, but just be wrong on your bias.
+[18:23] And also when you are in New York, the volatility does increase.
+[18:27] And a lot of times that requires you to use lower timeframes or a lower
+[18:31] timeframe fractal model.
+[18:33] So for instance, in that example, we're using an hourly candle closure, five
+[18:38] minute change in the state of delivery, or a 15 minute change in the state
+[18:41] delivery.
+[18:41] Let's get into another example.
+[18:43] So now that we've gone over most every example, using an Asia higher, low
+[18:48] day, London, higher, low day, and even one of a New York high or low of day.
+[18:53] Let's take a look at today's example, because it's quite complex.
+[18:56] So those previous examples are pretty straightforward, but not every day is
+[19:00] going to be straightforward.
+[19:02] Right.
+[19:02] So let's take a look at today.
+[19:04] What do we have and what do we have when we get into the New York session?
+[19:08] Let's go ahead.
+[19:09] We'll rewind it here and take a look.
+[19:12] Right.
+[19:13] If we were bullish on today, what would we want to see?
+[19:15] We'd want to see price open, respect the EQ, right?
+[19:18] Probably get a shallow sweep of that.
+[19:21] Confirm the low of the day and then look to trade it higher.
+[19:24] But what do we notice?
+[19:25] Price opens and immediately breaks down.
+[19:28] And this is what I was talking about in the previous example is I can't
+[19:32] really trust this high right away to trade away from, but once it breaks down, I
+[19:36] can then trust that the bias has been invalidated to the bullish side and I
+[19:40] can trade it lower.
+[19:41] So if you remember when I talked about invalidation days or using EQ for
+[19:45] bias, when we break down through this level, as long as we've remained below
+[19:49] it, I can remain bearish.
+[19:51] So here we have this breakdown.
+[19:53] If I'm wanting to confirm the high or low of the day, which we have up there, but
+[19:57] if I'm wanting to confirm a higher low to trade away from, in this case, a high,
+[20:02] what am I going to want to look for?
+[20:04] Well, in London, right?
+[20:05] I could look for a continuation.
+[20:08] I'm not going to use a candle closure in London.
+[20:10] So I could wait for this change in the state of delivery or continuation to form.
+[20:15] And what am I looking for a closure through there?
+[20:18] Do we get that?
+[20:19] No, and it takes too long.
+[20:21] So this is becoming a consolidation.
+[20:23] You may remember this from why my, why continuations fail video.
+[20:27] Right.
+[20:28] And what are we looking for?
+[20:29] A sweep of this high, right?
+[20:31] Because if this is a consolidation, we want to see a sweep of a high to trade it
+[20:35] lower.
+[20:36] So if that's what we're looking for into New York, what are we looking for?
+[20:39] Ideally an hourly candle closure or a 15 minute or five minute change in the
+[20:43] state of delivery.
+[20:44] So as we let this approach, what do we have?
+[20:48] We have this move that fails to reach up to there.
+[20:50] Now this is okay.
+[20:52] It's the weakest asset.
+[20:54] If we go ahead and take a look at ES, ES is taking out that same high.
+[20:58] But what does that mean?
+[20:59] It means that we have an SMT here.
+[21:02] So we have an SMT forming a continuation in this candle to closure.
+[21:08] Right.
+[21:08] So what could I look for in this next candle at nine or to trade lower?
+[21:12] Right.
+[21:13] And so this is an example where it's hard to trust this high of the day early on.
+[21:18] Right.
+[21:18] At least for me, I would not catch this move.
+[21:21] But now that the chart is basically telling me that it's bearish and we're
+[21:24] having a consolidation here, which is a continuation signature.
+[21:27] We have an SMT that's basically confirming the high of the day that I can trade away
+[21:32] from, right?
+[21:32] A high of the session, something like that.
+[21:35] So with this, I'd want to let the, you know, either open print, right?
+[21:39] So if I'm on the 15 minute chart here, if I'm taking entries pre open, I usually
+[21:44] want to use the 15 minute chart that allows me to not get, you know, so sucked
+[21:48] into the lower timeframes.
+[21:49] So I could wait for a 15 minute closure below here and see if that happens before
+[21:53] nine 30.
+[21:54] Right.
+[21:55] And then I could put my stop on the high, or I could wait for nine 30 to open and
+[21:59] print and then look to get on side on something like a five minute timeframe.
+[22:04] Right.
+[22:04] So if we go take a look at the five minute timeframe here, let's go ahead and
+[22:07] mark out nine 30.
+[22:08] It's right in there.
+[22:09] So we want to let nine 30 print and then look to trade it lower if we can.
+[22:15] Right.
+[22:15] So why wouldn't I trust this right here?
+[22:17] Well, I'm not trusting these five minute entries pre market because a lot of times
+[22:21] they get swept out, right?
+[22:22] I want to use the 15 minute.
+[22:24] Now, if the 15 minute closes below here, it's very possible that if I want to take
+[22:28] an entry, I can enter in the close or the retest, put my stop on that high and then
+[22:32] look for a continuation lower.
+[22:34] If I'm going to take a pre market entry, that's how it looks for me.
+[22:37] If I'm looking for a lower timeframe entry, I'm going to look after the open rate.
+[22:41] So how does that work on the 15?
+[22:44] It works out pretty well.
+[22:45] Right.
+[22:45] Let's go back, take a look at the five minute.
+[22:48] How does that work?
+[22:49] Right.
+[22:50] When the five minute, I want to let it open.
+[22:52] See if we have a new continuation here.
+[22:54] You can see very fast.
+[22:56] This is maybe where I dropped down to something like a three minute.
+[22:59] Right.
+[23:00] And we have that closure through.
+[23:01] I could look for that entry, but it's quite a large stop loss.
+[23:03] So maybe I let a new continuation form.
+[23:06] Right.
+[23:08] And right there, do we get a closure below this level?
+[23:12] We do.
+[23:13] Then I could look for a new continuation somewhere in here.
+[23:15] I stop above that high looking for two or right.
+[23:19] And that's a breakdown type of entry.
+[23:24] So let's see what happens.
+[23:26] Right there.
+[23:27] Another entry formed.
+[23:28] Basically two more entries to wait for that new candle open right there.
+[23:32] Take this secondary entry as well.
+[23:35] Basically any of those entries work once we're trending, but the whole idea of
+[23:39] this video is not about entries.
+[23:41] What is it about confirming higher low of day and confirming highs and lows that
+[23:47] we can trade away from.
+[23:48] So this is not technically the high of the day.
+[23:50] The high of the day is up there, but we are confirming this treating it like
+[23:54] the high of the day because we're trying to find a high to trade away from.
+[23:59] Once we find these levels, that is where I can look to take entries because I
+[24:02] have somewhere to trade away from.
+[24:05] I hope this video was helpful.
+[24:06] If you have any questions, comments, leave them in the comment section below and
+[24:10] I'll get to them when I can.
+[24:12] But with that, thanks for watching, like and subscribe, and I'll see you guys in the next one.

@@ -1,0 +1,184 @@
+{
+  "trader": "Trades Guru",
+  "sources": [
+    "https://www.youtube.com/playlist?list=PLG0H_9sqa_FU"
+  ],
+  "videos": [
+    {
+      "id": "CqMIh-Vvhbg",
+      "title": "Intro To TTrades Fractal Model [Indicator & Settings]",
+      "url": "https://www.youtube.com/watch?v=CqMIh-Vvhbg",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "NqSbvqDKML0",
+      "title": "The Only Points of Interest That Actually Matter For Trading",
+      "url": "https://www.youtube.com/watch?v=NqSbvqDKML0",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "U8xH2dEgH5A",
+      "title": "Liquidity: Buyside & Sellside - ICT Concepts",
+      "url": "https://www.youtube.com/watch?v=U8xH2dEgH5A",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "ZVUDpCyvxfQ",
+      "title": "Understanding Fair Value Gaps (FVG) - ICT Concepts",
+      "url": "https://www.youtube.com/watch?v=ZVUDpCyvxfQ",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "DMUiDBnTYc8",
+      "title": "Order Blocks Simplified - ICT Concepts",
+      "url": "https://www.youtube.com/watch?v=DMUiDBnTYc8",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "CHIK5oBRKiw",
+      "title": "Change In State Of Delivery [CISD] - Orderblock Formation - ICT Concepts",
+      "url": "https://www.youtube.com/watch?v=CHIK5oBRKiw",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "IPZjNI1B5a0",
+      "title": "You Are Using Discount and Premium Wrong! - EQ For Expansions",
+      "url": "https://www.youtube.com/watch?v=IPZjNI1B5a0",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "LKNQDAdId4s",
+      "title": "Master Candlestick Wicks - The Key To Catching Reversals",
+      "url": "https://www.youtube.com/watch?v=LKNQDAdId4s",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "-ocfPuD_oqE",
+      "title": "How To Use SMT Divergence - TTrades Fractal Model",
+      "url": "https://www.youtube.com/watch?v=-ocfPuD_oqE",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "ZAEgtvsD-qQ",
+      "title": "Using PSP to Confirm Swing Points (TTFM)",
+      "url": "https://www.youtube.com/watch?v=ZAEgtvsD-qQ",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "upHS7SDL9kg",
+      "title": "Targets Using Projections - The Fractal Model",
+      "url": "https://www.youtube.com/watch?v=upHS7SDL9kg",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "tyoxl1l-6iI",
+      "title": "Candle 2 Closure: The Foundation of TTrades Fractal Model",
+      "url": "https://www.youtube.com/watch?v=tyoxl1l-6iI",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "qdQYhePcvGE",
+      "title": "TTrades Fractal Model - Trading Candle 3",
+      "url": "https://www.youtube.com/watch?v=qdQYhePcvGE",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "5fnFOh5YuM0",
+      "title": "TTrades Fractal Model - Trading Candle 4",
+      "url": "https://www.youtube.com/watch?v=5fnFOh5YuM0",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "vn1RYjhJUnQ",
+      "title": "Validating Swing Points Using Lower Timeframe Confirmation (CISD)",
+      "url": "https://www.youtube.com/watch?v=vn1RYjhJUnQ",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "ubCe509_JLY",
+      "title": "Timeframe Alignment: How To Align Timeframes For Expansion",
+      "url": "https://www.youtube.com/watch?v=ubCe509_JLY",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "SF61vCsBl1A",
+      "title": "TTrades Ideal Formation - High Probability Swing Points",
+      "url": "https://www.youtube.com/watch?v=SF61vCsBl1A",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "-wr4xATE37g",
+      "title": "Protected Swings – Understanding Trend and Invalidations",
+      "url": "https://www.youtube.com/watch?v=-wr4xATE37g",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "Vo2n47RjjMo",
+      "title": "Intracandle CISD (IC-CISD) - Improve Your Entries",
+      "url": "https://www.youtube.com/watch?v=Vo2n47RjjMo",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "RX8vtP3PLYk",
+      "title": "Let The Wick Form, Trade The Body (Stop Getting Stopped Out)",
+      "url": "https://www.youtube.com/watch?v=RX8vtP3PLYk",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "JHVaSKtE1Ys",
+      "title": "Stop Losses in Trading: Know When You're Wrong",
+      "url": "https://www.youtube.com/watch?v=JHVaSKtE1Ys",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "CKltGYiesHA",
+      "title": "Quit Moving Your Stop Loss Before You Know This (Trailing Stop Loss)",
+      "url": "https://www.youtube.com/watch?v=CKltGYiesHA",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "A4NasIa371c",
+      "title": "How to Set Price Targets Using the Fractal Model",
+      "url": "https://www.youtube.com/watch?v=A4NasIa371c",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "g3oDYq4P9ZE",
+      "title": "ICT Daily Bias - The Only Video You Will Ever Need!",
+      "url": "https://www.youtube.com/watch?v=g3oDYq4P9ZE",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    },
+    {
+      "id": "-KKuZb5Z5aU",
+      "title": "Easy Daily Bias - Mechanical Framework",
+      "url": "https://www.youtube.com/watch?v=-KKuZb5Z5aU",
+      "upload_date": "unknown",
+      "channel": "TTrades"
+    }
+  ],
+  "updated_at": "2026-09-01T16:04:19.564773+00:00"
+}

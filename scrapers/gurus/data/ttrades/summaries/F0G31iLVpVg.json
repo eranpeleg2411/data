@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "F0G31iLVpVg",
+    "title": "How To Trade Retracement - Phases Of Price",
+    "url": "https://www.youtube.com/watch?v=F0G31iLVpVg",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/F0G31iLVpVg.json"
+  },
+  "stats": {
+    "word_count": 3480,
+    "duration_seconds": 1075.24,
+    "segments": 359,
+    "concepts_detected": 7,
+    "candidate_strategies": 4
+  },
+  "concept_mentions": {
+    "Liquidity": 2,
+    "Fair Value Gap": 15,
+    "SMT Divergence": 1,
+    "Power of Three": 1,
+    "TTrades Fractal Model": 2,
+    "Candle 3 Setup": 1,
+    "Protected Swing": 17
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 989.68,
+          "end": 997.84,
+          "text": "reversal. So if price is going to reverse from here, what does that mean? Our protected low is likely not safe and becomes the draw on liquidity.",
+          "concepts": [
+            "Liquidity",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 15
+        }
+      ]
+    },
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 515.0,
+          "end": 526.08,
+          "text": "Because if you remember from our consolidation video, if we're expecting a continuation, in this case, we are bullish, we'd want to see what? Consolidation and manipulation of the low to then trade higher.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 7
+        },
+        {
+          "start": 597.52,
+          "end": 610.12,
+          "text": "We didn't get a sweep right here to look to get on side with the first short. We didn't get a retracement into a fair value gap here for a continuation. This could have provided an entry, but it's a bit late into the move and below lows.",
+          "concepts": [
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 12
+        }
+      ]
+    },
+    {
+      "name": "Power of Three / AMD",
+      "evidence": [
+        {
+          "start": 704.08,
+          "end": 715.52,
+          "text": "We have an expansion away expansion down. So that's your accumulation manipulation distribution. So looking at this, my indicator is saying I'm looking for a higher timeframe wick to",
+          "concepts": [
+            "Power of Three"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 13
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 105.2,
+          "end": 113.28,
+          "text": "entry model within here. So you can see we have a candle to closure, you can look for my fractal model down there, or I can let a protected swing form out of this area.",
+          "concepts": [
+            "TTrades Fractal Model",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 14
+        },
+        {
+          "start": 185.2,
+          "end": 199.2,
+          "text": "That is what you want to see out of a retracement. And then once again, we could look for an entry down here on this candle to closure or we could wait for price to close over the series of down close candles forming a protected swing.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 13
+        },
+        {
+          "start": 258.24,
+          "end": 271.44,
+          "text": "So as we look at this here, we could look for an entry when, well, we have a candle closure here. So my model could form right here, or I can wait for what? A protected swing to form.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 11
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 61.8,
+      "end": 74.64,
+      "text": "But one thing I want to point out is if you've seen my high resistance versus low resistance liquidity video, what do we want to see on these highs here? We want to see failure swings, and that allows us to, once a low forms and we're trading",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 105.2,
+      "end": 113.28,
+      "text": "entry model within here. So you can see we have a candle to closure, you can look for my fractal model down there, or I can let a protected swing form out of this area.",
+      "concepts": [
+        "TTrades Fractal Model",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 14
+    },
+    {
+      "start": 185.2,
+      "end": 199.2,
+      "text": "That is what you want to see out of a retracement. And then once again, we could look for an entry down here on this candle to closure or we could wait for price to close over the series of down close candles forming a protected swing.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 203.4,
+      "end": 217.72,
+      "text": "And you can see we go from what expansion retracement into a new expansion following that reversal. And you can see where is that formed in a fair value gap. Yes, it digs a bit deeper, but you can see how the bodies respect.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 258.24,
+      "end": 271.44,
+      "text": "So as we look at this here, we could look for an entry when, well, we have a candle closure here. So my model could form right here, or I can wait for what? A protected swing to form.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 11
+    },
+    {
+      "start": 421.16,
+      "end": 428.8,
+      "text": "We now close below here. Protected swing now. So now if this gets violated, this trend is over.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 10
+    },
+    {
+      "start": 597.52,
+      "end": 610.12,
+      "text": "We didn't get a sweep right here to look to get on side with the first short. We didn't get a retracement into a fair value gap here for a continuation. This could have provided an entry, but it's a bit late into the move and below lows.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 623.96,
+      "end": 632.96,
+      "text": "If it was perfect, something like this would occur, right? Reach into a fair value gap, sweeping out the consolidation lows, the formation of a protected swing and then could trade it higher.",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 704.08,
+      "end": 715.52,
+      "text": "We have an expansion away expansion down. So that's your accumulation manipulation distribution. So looking at this, my indicator is saying I'm looking for a higher timeframe wick to",
+      "concepts": [
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 13
+    },
+    {
+      "start": 793.56,
+      "end": 803.52,
+      "text": "So we can consider that an SMT. And then it is valid to look for long setups. Now, if we're tracking our protected swings, which is important, we have one right here",
+      "concepts": [
+        "SMT Divergence",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 866.32,
+      "end": 876.36,
+      "text": "And what do we have now a new protected swing? We can go ahead and track that. So if we get long from anywhere down here, I have a new spot for my stop loss to trail",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 11
+    },
+    {
+      "start": 989.68,
+      "end": 997.84,
+      "text": "reversal. So if price is going to reverse from here, what does that mean? Our protected low is likely not safe and becomes the draw on liquidity.",
+      "concepts": [
+        "Liquidity",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 15
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:36.980162+00:00"
+}

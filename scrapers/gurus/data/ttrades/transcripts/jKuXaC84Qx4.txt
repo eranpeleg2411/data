@@ -1,0 +1,269 @@
+[00:00] How's it going everyone and welcome back to another video.
+[00:14] Here we are going to talk about trading the invalidation of my bias.
+[00:17] So you have heard me talk a lot about candle 2 or candle 3 closures and having that daily
+[00:23] bias.
+[00:24] But how do we actually trade that bias if the bias is wrong?
+[00:27] And that is what we are going to talk about in today's video.
+[00:30] So in this video, we are going to pretend like we have a daily bullish bias.
+[00:34] And that is what we're going to go into each of these examples and then
+[00:37] understand the invalidations that can occur.
+[00:40] Now, within my model, I only approach invalidations of my bias in two ways.
+[00:44] That would be an opposing setup that forms for the invalidation of the EQ.
+[00:49] Any other way that a invalidation forms, I'm not interested in trading the other
+[00:53] way. These are the only two scenarios.
+[00:56] So here you can see we have the anticipation for a bullish bias up and
+[01:01] through previous day as we expect a continuation.
+[01:05] But what happens?
+[01:06] Price opens immediately trades higher into that previous day high and then forms
+[01:11] a reaction.
+[01:12] We are manipulating off of this high or forming a reversal.
+[01:15] If that is confirmed on the lower timeframe, then I can look to trade this back
+[01:19] into the range or to the other side of the range, depending on how large this
+[01:24] wick is. If we have a small wick that supports expansion to this current low,
+[01:28] or if we have a large wick, I'm looking back in towards the opening price or the
+[01:33] EQ of the previous candle.
+[01:35] Now, the other way I invalidate a trade is if price is closing below on the
+[01:40] aligned timeframe, the EQ of our previous candle.
+[01:44] So here you can see price opens as a shallow wick, which supports expansion
+[01:48] lower and then is trading below the EQ of this higher timeframe candle and closing
+[01:53] below it on the lower timeframe.
+[01:55] Let's go take a look at this with a lower timeframe picture.
+[01:58] So here we're going to take a look at the invalidation of the EQ.
+[02:01] So here you can see we have a bullish trend.
+[02:03] We're going into the next day bullish price opens, makes a high, a change in the
+[02:08] state of delivery, but most importantly, phases of price around that EQ.
+[02:13] We have expansion below the EQ and then what we retrace back up.
+[02:17] And what do we do?
+[02:18] We have a retracement into a fair value up and we're looking like we're going to
+[02:22] trade lower, right?
+[02:23] So this is an invalidation of a setup because of how price traded, right?
+[02:28] We have a reversal at this high here, expansion retracement, and we're
+[02:32] invalidating that EQ.
+[02:34] So what can I do?
+[02:35] I can look in that area there and look for a continuation lower looking for
+[02:40] candle to or candle three closures and looking to trade that lower.
+[02:44] Now, the other way I invalidate a bias is that opposing formation, right?
+[02:48] So this would be a candle to forming against me.
+[02:52] So you can see that's generally when we open up near our previous day high or
+[02:56] previous day low, here we open up, sweep that previous day high out.
+[03:00] We have a change in the state of delivery.
+[03:02] And I can be looking for that move back lower back to liquidity resting inside
+[03:07] that previous day's range or the previous day low, depending on the size of the wick.
+[03:13] So what am I going to do here?
+[03:14] Once that opposing setup has formed or that change in the state of delivery, then
+[03:18] I would seek a continuation or a candle to or candle three closure looking to
+[03:23] trade that the other way.
+[03:25] Now, just to review, those are the only two types of invalidations that I will
+[03:29] look to trade price can consolidate and invalidate my bias, but those do not set
+[03:34] up trades in the opposite direction.
+[03:36] These are the only ways that I'll look to trade.
+[03:38] And once again, that is an opposing setup that will form, which is candle to
+[03:42] forming in the other direction or the invalidation of an EQ, which is really
+[03:46] just the setup is failing.
+[03:48] And I can anticipate it to trade the other way.
+[03:51] So let's get into trading view and go over a few examples of this.
+[03:54] So here we are in our first example.
+[03:55] And you can see we have taken out a relevant low here on the daily timeframe,
+[04:00] as well as forming a candle to closure with a very strong bullish closure.
+[04:05] We're going to the hourly timeframe.
+[04:07] We have a change in the state of delivery.
+[04:09] It's valid to be looking for an upside move in this following day.
+[04:13] You can see we print this T spot here, and then we're forming a continuation
+[04:18] to go higher.
+[04:19] Now let's see if we get this move higher.
+[04:24] And you can see we are really struggling to form any sort of bullish expansion here.
+[04:29] We have a continuation right here, which should hold price if we were going to
+[04:33] trend higher.
+[04:34] But what do we notice about this continuation as we zoom in?
+[04:37] It is getting disrespected.
+[04:39] But now not only do we have a bearish change in the state of delivery with
+[04:43] SMT off a previous day high, but we're also invalidating this continuation
+[04:48] where we should not see price return to if we're going to remain in a bullish trend.
+[04:53] But now it's safe to say that we have formed what?
+[04:56] A reversal off of a previous day high.
+[04:59] So instead of price opening up and forming a low or the wick of the daily candle
+[05:03] to then trade higher, we are opening high first.
+[05:07] So what we can do is get a better look is go to the 30 minute time frame around
+[05:11] open, but down here on the 30 minute time frame, what do we notice about our daily
+[05:15] candle?
+[05:15] We did have that open high first, which is a bearish sign.
+[05:19] We have a 30 minute change in the state of delivery right here.
+[05:23] Now we have taken out the short term low.
+[05:24] We want to see the reaction we get here, but it's important to know what else.
+[05:29] We have a candle to closure on the four hour here, which says if we were going
+[05:33] to get a candle three continuation, we can get that or open.
+[05:36] So what do we notice?
+[05:38] We trade higher.
+[05:39] Are we still respecting this area?
+[05:41] Yes.
+[05:41] What we would need some bearish price action or a new continuation to trust this.
+[05:47] And what do we notice after this close?
+[05:48] We have formed a new continuation here on the 30.
+[05:52] So going into the open, it's reasonable to expect that because of the hourly
+[05:56] timeframe, we have what?
+[05:58] We have formed a SMT off this previous day high, as well as a new continuation on
+[06:03] the 30 minute.
+[06:04] We could look to see this trade lower.
+[06:07] We could look to take an entry here, put our stop on this high and look back
+[06:11] into the range.
+[06:12] Now, what did we learn about in the PDF in terms of targets?
+[06:15] So let's go to the hourly timeframe here.
+[06:18] In terms of targets, what can we be targeting?
+[06:20] We can look back to the EQ or to the previous day low.
+[06:24] So that could be our targets.
+[06:25] So let's see how that works out.
+[06:27] You can see we do hit that EQ.
+[06:29] And then we go ahead and we're reaching for that previous day low.
+[06:32] And that's where we are at currently.
+[06:34] But just to review, if we're going to have an invalidation of a daily framework,
+[06:39] it's either going to occur by invalidating the EQ or a reversal forming off
+[06:43] previous day high, or essentially a candle to in the opposing direction.
+[06:48] So you see how we are forming this candle to in the opposite direction.
+[06:51] Generally, I want to see that paired with an SMT or some sort of continuation.
+[06:56] So at the time we did have an SMT with YM, YM ran higher.
+[07:00] So we formed an SMT here, but we have a continuation entry that provides
+[07:05] a framework to trade that invalidation.
+[07:08] So even if I'm trading a reversal or an invalidation, I'm still looking for a
+[07:12] continuation. Let's get into another example.
+[07:15] So here we are in our next example.
+[07:17] And what do we have?
+[07:18] We have a candle to closure here, as well as that is paired with an SMT off of this low.
+[07:24] So it would be valid to be looking for price to trade higher in this following day.
+[07:28] Let's go down to the hourly timeframe.
+[07:31] You can see we have a nice V shaped reversal here.
+[07:33] So we could be looking for price to trade higher as long as we run out this
+[07:37] consolidation low and then trade through the highs.
+[07:41] Let's see what happens.
+[07:43] You can see we do reach into this low into this fair value gap.
+[07:47] And then we are looking for a continuation over this level here.
+[07:52] Now, what do we notice about this continuation?
+[07:54] It's taking so long to form that, that this is just becoming a consolidation.
+[07:59] Let's see how we trade around this previous day high.
+[08:03] Here you can see we reach into that previous day high.
+[08:05] We want to look at the phases of price here because this is where we would form
+[08:09] an invalidation if it's going to occur.
+[08:12] What do we have on this next candle?
+[08:14] We have an SMT and a change in the state of delivery off of the previous day high.
+[08:19] Now you see how we are forming accumulation, manipulation.
+[08:23] And we can see a distribution to lower.
+[08:26] Now the whole idea behind an invalidation trade within the fractal model is
+[08:30] if we're not going to form a swing point and trade higher, well, then what is
+[08:33] going to fail?
+[08:34] This swing is going to fail.
+[08:36] And if that swing fails, we now have candle to slow as our draw on liquidity.
+[08:41] But now we have a change in the state of delivery.
+[08:43] We can anticipate a price to move lower here.
+[08:46] So we can either trade this reversal here or what else can we do?
+[08:49] We can look for a continuation to form as well.
+[08:54] And it's quite choppy in there, but we do get a move lower to that draw on
+[08:57] liquidity.
+[08:59] So just to review, if we are looking to trade a invalidation trade, we have to
+[09:03] one have a proper framework or a proper setup that then fails.
+[09:08] And by fails, it either forms an opposing setup off a previous day high or low, or
+[09:13] it is disrespecting the EQ.
+[09:15] So you notice we have that step one, we form that reversal off previous day high.
+[09:20] And then it also helps that we get the closure below the EQ signaling for a
+[09:24] continuation lower into this low.
+[09:26] So here we are in our next example, and we are on gasoline futures.
+[09:30] You can see we have a nice V shape reversal with a candle to closure on the
+[09:34] daily looking into this next candle.
+[09:37] If we're looking for a continuation higher, what do we want to see?
+[09:40] Open low into this area, a continuation to form and to trade higher into the
+[09:45] failure swings above.
+[09:47] Let's see what happens.
+[09:50] You notice we're not respecting this EQ.
+[09:52] Now we can still get a bullish reaction out of it.
+[09:54] And EQ does not mean it's automatically going to fail.
+[09:58] Right.
+[09:58] It just means that it's unlikely to expand, or we need to see more
+[10:02] confirmation pretty quickly.
+[10:04] Let's see what happens.
+[10:06] You can see we're just failing to form any reaction or continuation out of this area.
+[10:11] And now we're forming a bearish setup.
+[10:13] So what are we seeing?
+[10:15] We're forming bearish opposing candles and we're closing below the EQ, which
+[10:19] means we're likely to reach for this previous day low.
+[10:23] What do we see?
+[10:24] We form another continuation, in which case we could look to get on
+[10:27] side and then we go ahead and run out that low.
+[10:30] So this is an example of where we don't take out our previous day high, but we
+[10:34] just disrespect the EQ and never form a bullish continuation, which sets up a
+[10:39] bearish framework to trade this into that candle to low.
+[10:43] So here we are in our next example.
+[10:45] And what do we have?
+[10:45] We have a nice V shape reversal.
+[10:47] A very strong close into the highs and a bullish candle to closure on the daily.
+[10:52] So what would we want to see?
+[10:53] We would want to see price open trade lower into a point of interest, which we
+[10:57] have a nice fair value gap right here.
+[10:59] Respect the EQ and trade higher.
+[11:01] Let's see what happens.
+[11:03] But here you can see we're in that point of interest.
+[11:05] Let's see if we can get a reaction out of here to form a continuation.
+[11:11] And you can see we are consolidating.
+[11:13] That does not look good for a reversal to continue higher here.
+[11:16] And now you can see we are getting a very aggressive closure below the EQ.
+[11:21] Now, once again, it doesn't mean that price can't reverse here and then trade higher.
+[11:26] It's just once price reaches beyond that EQ, it's not a small wick anymore.
+[11:30] Mechanically, it's less likely to expand.
+[11:33] So for instance, if we form a low here, price can expand higher.
+[11:37] If we went ahead and formed a low here, then we're kind of fighting that daily
+[11:41] candle to get back towards the daily open and the liquidity around it.
+[11:45] So generally, I prefer to trade the continuations though.
+[11:47] So let's see if we can see where this is going to go.
+[11:51] Well, it expands disrespects this.
+[11:53] Does it get bought back up?
+[11:54] No.
+[11:55] So we can anticipate a continuation lower into where that candle to low.
+[12:00] And there you can see we get a failed candle to because we can't form a bullish
+[12:04] setup and thus it is just a bearish setup.
+[12:07] But for our next example, we're going to go back one day.
+[12:10] And what do we notice?
+[12:11] We have a candle to closure and we do get a continuation into this previous day low.
+[12:16] Now, what do we notice about this previous day low?
+[12:18] We get a nice V shape reaction.
+[12:20] We're forming a reversal candle here.
+[12:22] Now, if we're going to form a reversal off of this previous low, where could we
+[12:26] look for price to trade back to the EQ?
+[12:29] And does it do that?
+[12:31] It does, right?
+[12:32] Now we're closing over the EQ or disrespecting it.
+[12:34] So we could look for price to trade to this swing high.
+[12:37] Now, like I said, this isn't a hundred percent thing.
+[12:39] You can see we're not always going to reach for that previous high, especially
+[12:43] if a correlated asset like dollar here on USDJPY takes it out.
+[12:47] But just because you see a closure through the EQ or an invalidation trade occurring
+[12:52] doesn't mean it's always going to go hit the targets, right?
+[12:55] You have to have that discernment.
+[12:57] Although most of these examples have been on the daily time frame, this is a fractal
+[13:02] concept as my fractal model is.
+[13:04] Here you can see we have expansion, a consolidation.
+[13:07] We run out the low with a candle to closure.
+[13:10] So we could be looking higher in this next month.
+[13:14] Let's go down to the daily time frame.
+[13:16] So here we are on the daily time frame.
+[13:17] We have that confirmation.
+[13:19] As we let this play ahead, where would we want to see price react from?
+[13:23] Well, we didn't get a very strong closure.
+[13:25] We need price to react or run out this low into a fair value gap, right?
+[13:30] And then start to trade higher here.
+[13:31] So this is really our one opportunity for price to trade higher here.
+[13:36] Let's see what happens.
+[13:38] You can see we immediately disrespect that and then close below.
+[13:41] Closing below the EQ here means that we could be looking for price to go where
+[13:45] to fail or to reach for these lows.
+[13:48] Now it's not always going to occur.
+[13:49] We have to watch the phases of price.
+[13:52] If this gets bought back up, it can go higher once again.
+[13:55] Right.
+[13:55] It's not an all or nothing thing.
+[13:58] Let's see what happens.
+[13:59] We do get that continuation into that low.
+[14:02] I hope you learned something from this video.
+[14:04] If you did, please consider liking and subscribing.
+[14:07] And just in summary, you need to have a valid fractal model to then have an invalidation.
+[14:12] You can't just trade an invalidation without a model forming.
+[14:16] But don't try to just pattern trade this.
+[14:18] Use some context.
+[14:19] Use some higher timeframe trend and be safe.
+[14:22] Have a good one.

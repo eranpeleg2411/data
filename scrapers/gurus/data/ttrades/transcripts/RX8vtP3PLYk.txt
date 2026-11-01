@@ -1,0 +1,343 @@
+[00:00] How's it going everyone, and welcome back to another video.
+[00:14] In this video, we are going to talk about letting the wick form, and then trading the
+[00:18] body.
+[00:19] And this is the logic I use on every time frame to align for expansion, as well as get
+[00:23] my entries.
+[00:24] It is also the logic behind my intra-candle change in the state of delivery concept.
+[00:30] Let's get into the PDF.
+[00:31] Now the first thing you have to understand is what is a change in the state of delivery
+[00:35] or a protected swing.
+[00:37] A protected swing is when price reaches an important level, which would be a high, low,
+[00:42] or a fair value gap, and then closes through this series of candles into that important
+[00:46] level.
+[00:47] So here in a bullish change in the state of delivery, price reaches into an important
+[00:50] level, which is sweeping out this previous low, and then closes through this series of
+[00:55] downclosed candles that form that low.
+[00:57] So that is a shift in trend from bearish to bullish.
+[01:01] And likewise in this bearish example, we have a bullish trend here, price reaches into this
+[01:07] previous high, and then price closes through the series of upclosed candles into that important
+[01:11] level.
+[01:12] That is a shift from bullish to bearish, and then price trends that way.
+[01:17] Now yes, we use this change in the state of delivery to show a shift of trend at the higher
+[01:22] time frame point of a reversal or candle closure.
+[01:25] So we are confirming those swing formations with it, but that is not what this video is
+[01:29] about.
+[01:30] This video is about looking for that confirmation in the continuation candle.
+[01:36] So here you can see, we do have a higher time frame candle to closure.
+[01:40] And yes, we want to check for a lower time frame change in the state of delivery to show
+[01:44] that we have that confirmation, this swing point has formed or the reversal has formed.
+[01:49] But what is the logic we are using to get on side in this higher time frame candle?
+[01:54] Once we have the understanding it should be bullish.
+[01:56] So what are we waiting for?
+[01:58] Why not just take an entry right away?
+[01:59] Well, I want the market to show me that it actually wants to trade away because price
+[02:03] could just open and drop right through the low.
+[02:06] So I'm waiting for a higher low or a new protected swing.
+[02:10] So with the expectation to trade higher, we want to let this bullish wick form.
+[02:16] That is the logic behind the intra candle change in the state of delivery to form this
+[02:20] wick in the higher time frame candle.
+[02:22] We have to have some short term or small bearish movement and then a shift back into bullish
+[02:28] movement to form a swing low.
+[02:30] So once we anticipate that this wick has formed, then we can look to trade it higher.
+[02:35] Now how am I going to do that?
+[02:36] An intra candle change in the state of delivery or a new protected swing in this continuation
+[02:42] candle.
+[02:43] So here you can see price reaches into an important level, which is this fair value
+[02:47] gap.
+[02:48] This closes through the series of candles that made that low in the important level.
+[02:51] So now I can anticipate this to be a protected swing.
+[02:54] If this is a protected swing and that is the low of this higher time frame candle, then
+[02:59] I'd want to see it hold if we are truly going to expand higher.
+[03:02] So here you can see we have that protected swing.
+[03:04] And now I have that anticipation for price to trade higher.
+[03:08] This is where I could then look to take an entry or get on side as I've anticipated
+[03:12] this to have formed its low and we should continue this trend higher.
+[03:16] And there you can see we do get the expansion.
+[03:19] So the whole goal and whole lesson I want you to learn within this video is when I'm
+[03:24] looking for an entry, I'm not just taking any random trade.
+[03:27] I'm asking myself, did this higher time frame candle form its wick yet?
+[03:31] If I can answer that yes, then I can look for an entry.
+[03:34] If that answer is no, then there is no protected swing or anything to trade away from and I
+[03:39] need to wait until I can say yes to that question.
+[03:42] Let's get into trading view and go over some examples of this.
+[03:46] So here we are with our first example.
+[03:48] You can see we do have a candle to closure with SMT, a nice V shape reversal.
+[03:53] But what do we notice about this price is aggressively coming back into this range.
+[03:57] So it doesn't have a very nice bearish closure here.
+[04:00] But if we look towards this correlated asset or yes, you can see we have that SMT on the
+[04:05] high. We have a nice V shape.
+[04:07] And here we are more in a consolidation or a retracement.
+[04:10] So as long as we remain in respect to this gap here, we could look for price to trade
+[04:14] lower. Now, what is this video trying to teach you?
+[04:18] Our whole goal is to look at this candle and determine when we think that its wick has
+[04:23] formed. We don't want to try to trade short prior to the wick forming, because if we try
+[04:28] to do that, let's say we try to enter short right here before the wick has formed, right?
+[04:33] What is going to happen?
+[04:35] We are going to get stopped out and we're going to be the liquidity for the wick to form.
+[04:39] So we want to wait until we can answer yes to that question.
+[04:43] So I'll just sit here. After each closure, I'm going to ask myself, do I think that this
+[04:48] wick has formed? We'll take a look here.
+[04:50] Do I trust that this high shouldn't get taken out?
+[04:53] No. So I'm going to let it continue forward.
+[04:57] You can see, do I answer that question again the same way?
+[05:00] Yes, I don't trust that this has formed the wick of the higher timeframe candle.
+[05:05] And right here, a very shallow sweep into this gap.
+[05:08] And you can see we can't close below there.
+[05:10] We're trying to consolidate here.
+[05:11] So once again, no, I don't think that we have formed the wick of the candle.
+[05:16] Now this looks like a pretty decent formation.
+[05:19] We do have a shallow wick, but because of this little gap up, let's see what it looks
+[05:22] like on a slightly lower timeframe, like the 30 minute here.
+[05:26] I'm 30 minute here.
+[05:27] What do I see?
+[05:28] I see that we are just really consolidating.
+[05:31] I would have wanted to see if this was going to be a reversal, an actual sweep
+[05:35] into that high, right?
+[05:37] So I got a little too close to that high forming equal highs.
+[05:40] So it's hard for me to say, yes, I trust that this wick has formed.
+[05:44] I'm going to let another candle form.
+[05:47] And who knows, right?
+[05:49] If it has formed its wick, then it will form a new continuation in here.
+[05:53] And then we can look to trade it.
+[05:54] But until that, we need to let this continue to form.
+[05:57] And you can see now here, we are reaching back up towards this high.
+[06:01] We have this little consolidation range.
+[06:03] Do I think that this is the wick of the daily candle or this higher time from candle?
+[06:07] Not yet.
+[06:08] So I just continue to do this over and over until I can answer the question.
+[06:13] Yes, I think that we have formed the wick of the daily candle.
+[06:17] Now here we are reaching a bit higher up into this range.
+[06:20] So I have a few options.
+[06:22] I can continue to look for it or say, it's disrespecting this gap and I can
+[06:26] just look for the next day.
+[06:28] Let's go ahead and continue.
+[06:31] So we have this expansion, another little consolidation or retracement.
+[06:36] So generally want to see one more high.
+[06:38] And this would be kind of our last chance before I give up on the idea.
+[06:42] You can see we sweep out that high.
+[06:44] We have a nice candle closure.
+[06:46] So this could be something where I say, okay, if we are going to trade lower,
+[06:50] this is kind of the last spot where I look for this wick to form.
+[06:53] But how am I going to confirm that?
+[06:55] I need a change in the state of delivery.
+[06:57] So a closure through this area here.
+[07:00] Let's see if we get that.
+[07:02] And we do get that.
+[07:03] And let's say this doesn't look very clean to you.
+[07:05] You can always adjust your timeframes a little so I could go to the 30 minute
+[07:08] here and you can see how this is a nice big up close candle here and we have
+[07:12] closed below it.
+[07:14] So now we have the logic of if we are looking to trade this lower, we could
+[07:19] anticipate that this would be the high of the day.
+[07:22] If this is not the high of the day, then it likely fails.
+[07:25] But now that I have anticipated the wick to form, what can we do?
+[07:28] We could look to trade the body of the candle.
+[07:31] And that's why you'll hear me say I want to enter around the opening price.
+[07:34] Let the wick form enter around the opening price, because if you enter
+[07:38] around the opening price, you can get on the side with the expansion of that
+[07:42] candle or the big body.
+[07:44] So even here, just on the hourly, I could look to take an entry, put my stop
+[07:48] on that invalidation.
+[07:50] And here it can make sense because I'm getting to our right in towards this
+[07:53] gap here, or I could look for a lower timeframe fractal model such as a
+[07:56] four hour and 15 minute model, or even the hourly and five minute model.
+[08:00] Let's see what happens here.
+[08:03] You can see we do get that expansion lower.
+[08:05] Go back and look at this.
+[08:06] Watch how this forms its wick.
+[08:08] We form its wick.
+[08:10] Then it goes ahead and flips bearish, right?
+[08:12] So this is what I'm saying.
+[08:13] We let the wick form.
+[08:14] Now we are starting to form the body of the candle.
+[08:17] Once again, that's what we're going to do.
+[08:19] That's why I want to enter around the opening price of my higher timeframe
+[08:22] candle.
+[08:23] Let's see what happens here.
+[08:25] We go and hit this, but we can go ahead and do this on any timeframe and
+[08:30] we'll do it again, but we just want to let the wick form.
+[08:33] And then we can look to trade the body or the expansion of that candle.
+[08:37] Now, if you do have a true expansion candle, what can you do?
+[08:40] You can hold towards the close of it because expansion candles close in its
+[08:44] high or low, but let's get into another example of letting the wick form
+[08:48] and then trading the body away.
+[08:51] And who knows, let's go into here, right?
+[08:52] We had that hourly setup.
+[08:54] We could go look for this five minute and look to trade the five minute candle.
+[08:58] So right here, I have a five minute setup.
+[09:01] Let's go right into here.
+[09:03] This is where we open.
+[09:04] If we're trying to trade this on the hourly, what do we want to do?
+[09:07] We want to let this wick form.
+[09:09] Now this isn't the best formation in generally prior to 930.
+[09:13] I want to use the 15 minute candle, but what could I do?
+[09:16] Wait until I anticipate that this wick has formed.
+[09:19] And what do we have?
+[09:20] We have price reaching into this gap right here.
+[09:23] The only gap prior to our previous protected swing.
+[09:26] So this is where I could start to anticipate that this wick on this
+[09:30] higher timeframe candle has formed and I could look to trade it away.
+[09:33] If I'm very confident, I could enter really anywhere in here as long as my
+[09:38] stop is on that high and I can look to trade it lower or I can do what?
+[09:42] Wait for that closure through.
+[09:44] The series of up close candles into that important level, which forms a gap.
+[09:49] Right.
+[09:49] And you can see that's what forms a new protected swing.
+[09:52] And then I could take any entry in here as long as my stop is near that
+[09:56] protected swing and I can look for two are right.
+[10:00] Now you also want to have the logic of where these higher timeframe candles
+[10:03] are reaching for and do we have this range for this target?
+[10:06] Let's see how this works out.
+[10:08] There we go.
+[10:09] And then we could do the same thing with this next candle.
+[10:11] Do we anticipate that this higher timeframe candle has formed its wick?
+[10:14] Well, once we sweep out everything over here and then get the closure through here.
+[10:18] Yes, we could anticipate that.
+[10:20] And we get our continuation into our target.
+[10:23] So it is fractal.
+[10:25] You can use it on every timeframe.
+[10:26] And this is the logic I use when I'm looking for an entry.
+[10:30] So yes, I use the inter candle change in the state of delivery or the
+[10:33] mechanical nature of if I have a protected swing, I can put my stop there and take
+[10:38] an entry, but you could also be a little bit more discretionary in your approach.
+[10:43] Once you anticipate this wick to a formed, you can look to get on side with your
+[10:46] stop on that.
+[10:47] Let's get into another example.
+[10:50] So here we are in this next example, and we are trying to blend two things together.
+[10:55] Here we have this daily candle.
+[10:56] We want to let this daily candle form its wick or anticipate that.
+[11:01] We also want to do that on the lower timeframes.
+[11:03] You can see we have a very large expansion.
+[11:05] This is a what?
+[11:07] A slow shallow move against that.
+[11:09] So a retracement retracement.
+[11:11] We look for fair value gaps.
+[11:13] So here we reach into a fair value gap.
+[11:15] We have a candle closure right into the New York session.
+[11:18] So if you see my intraday reversal video, this could set up a New York reversal.
+[11:23] What are we looking for?
+[11:25] We're looking for the daily open the current day or previous days high.
+[11:29] And then we can look for time based exits as well.
+[11:31] But with a candle to closure here, we could go down to the five minute from the hourly.
+[11:37] And what are we looking for here?
+[11:39] We've had our reversal.
+[11:40] If we're looking for price to continue higher here, we want to have the logic
+[11:46] as this higher timeframe candle formed its wick yet.
+[11:50] If we can say yes, we can get on side with that.
+[11:52] If it is no, we need to wait for it to form its wick or that is how you get stopped out.
+[11:57] Would I trust taking any sort of entry in here and putting my stop right on this current wick?
+[12:03] Right.
+[12:03] Because that is what I'm saying.
+[12:04] Do I trust that this week has formed for me?
+[12:06] No, we have fair value gaps right below it.
+[12:09] So I'm going to need to let that continue.
+[12:12] And here you can see, do I expect that this wick has been formed yet?
+[12:15] No, do I expect that this is the low or this wick has been formed yet?
+[12:19] No, so I'm just going to keep continuing that until I can answer that as yes.
+[12:24] Right here, we have a little candle closure, more of a consolidation.
+[12:28] I still can't trust that this low would hold.
+[12:31] I'm going to wait for an inch or candle change in the state of delivery.
+[12:35] And the whole reason I created that concept was to try to mechanically define this logic.
+[12:40] So what do we have right here?
+[12:41] We have this fair value gap here.
+[12:43] You know, sweep out the low.
+[12:44] We reach into this fair value gap and then do what?
+[12:47] We close over this.
+[12:49] So that is forming what?
+[12:51] A protected swing inside this candle.
+[12:54] So what happened?
+[12:55] We have a bullish anticipation.
+[12:57] We have this short term bearish movement.
+[13:00] And now we have this bullish change in the state of delivery inside the candle.
+[13:04] Or the intra candle change in the state of delivery.
+[13:07] Now I can anticipate this to continue higher.
+[13:10] So what could I do?
+[13:11] I could look to get on side with that because now that I trust that this low
+[13:15] should hold, I can look to trade it higher into our targets or even the area I
+[13:21] marked up above there.
+[13:22] So here's three are to the short term targets, or I could look for even, you
+[13:27] know, a seven are up there.
+[13:28] So let's see what happens here and see it marks it out as a protected swing.
+[13:34] And then we get a new continuation and you could do the same thing in this candle here.
+[13:40] Here you can see there's not a clean continuation.
+[13:42] So you may not get on side with that.
+[13:44] But right here, we hit our TP there.
+[13:47] Let's see if it continues to these higher timeframe targets that we marked out.
+[13:52] And there you can see we go and hit our target.
+[13:54] So going back, the whole logic of taking an entry here is that is formed.
+[13:59] It's higher timeframe wick.
+[14:01] Once the higher timeframe wicks formed, we want that early in the candle and we
+[14:05] want to be able to enter around the opening price, then we can get on side
+[14:08] with an entry.
+[14:10] Let's get into one more example.
+[14:12] So here we are in a final example.
+[14:14] And I wanted to give one that isn't that perfect, right?
+[14:17] What do we have?
+[14:18] We have a range.
+[14:19] So if you can go ahead and mark this out, we have a range low that we have taken
+[14:23] out, we have a range high.
+[14:25] Now, which way would you be favoring?
+[14:27] Right.
+[14:27] Cause we technically have a candle to closure bearish and we have a candle
+[14:31] to closure bullish.
+[14:33] Well, I want to zoom out to the higher timeframes, which way is the trend going
+[14:37] here? It is actually bullish.
+[14:39] Gold is bullish right now.
+[14:40] And so looking at that, what would we want to wait for?
+[14:44] Well, we would want to see if this forms a wick that we can trust because if
+[14:48] price opens here and then just trades lower, it's not forming a wick we can
+[14:52] trust and then we can just avoid a loss there.
+[14:55] But if we have a nice formation and a wick we can trust, then we could look
+[14:59] to trade that to the other side of the range.
+[15:03] So let's go ahead and let this form.
+[15:05] What do we notice?
+[15:06] We initially have a bearish protected swing here.
+[15:09] Now, like I said, with the higher timeframe trend, this fact that we have
+[15:13] already taken out the range low, we have failure swings to the highs.
+[15:16] I would be ignoring this.
+[15:18] So what do you want to see?
+[15:19] You want to see this invalidated and you want to see a new bullish protected
+[15:23] swing.
+[15:24] So let's see what happens.
+[15:26] And there you can see we get what a reach into an important level.
+[15:30] We're in this fair value up here.
+[15:32] And then price closes over the series of candles or this candle right here
+[15:37] into that important level.
+[15:38] Now, why would I consider this single candle in this case and not this whole
+[15:43] range right here?
+[15:44] Because there are times where I will look for that.
+[15:46] Well, if you notice price does form a swing high here on this swing low.
+[15:51] So on a lower timeframe, price forms structure here that we
+[15:55] were actually shifting.
+[15:56] Right.
+[15:56] So I am taking a look at that and I would use this single candle.
+[16:00] Now, if you notice, we can go ahead and enter on the close through.
+[16:04] We put our stop on that wick low that we can anticipate, right?
+[16:08] We let the wick form.
+[16:10] Now we're trying to trade the body.
+[16:11] You see how our entry is near that opening price that is ideal.
+[16:15] And then we could be looking for two or or to this range high.
+[16:19] So let's see what happens here.
+[16:20] And there we go.
+[16:21] Hit our range high and our target.
+[16:24] So just in review, what are we doing?
+[16:27] If we are trying to trade an expansion candle or any sort of candle, we are
+[16:32] looking for a continuation.
+[16:33] We want to let it form its wick first.
+[16:36] So if we're trying to trade this candle right here, what are we trying to do?
+[16:40] Let the wick form.
+[16:41] We let this wick form or the anticipation of it using a protected swing.
+[16:46] Then we can look for an expansion candle.
+[16:48] Using a protected swing.
+[16:49] Then we can look for an entry, put our stop on that wick, because if the wick
+[16:53] is formed, that stop shouldn't get taken out.
+[16:55] And then we can look to let price expand or go hit our TP or our stop loss.
+[17:01] Now, I hope you found this video helpful.
+[17:03] I hope you understand the logic of inter candle change in the state of delivery.
+[17:07] Those intraday reversals, those videos that I made that I give a little bit more
+[17:12] of a mechanical approach.
+[17:13] I'm trying to explain the logic in this video.
+[17:16] So I hope that you found that helpful.
+[17:17] If you did, let me know in the comment section below.
+[17:20] And with that, I'll see you guys in next week's video.
+[17:23] Have a good one.

@@ -1,0 +1,141 @@
+[00:00] How's it going everyone and welcome back to another video. In this video we are going
+[00:14] to be talking about targets within the fractal model. Let's get into the PDF. So when determining
+[00:20] targets within the fractal model, it's actually quite simple. What you are going to do is
+[00:25] whatever timeframe you are on for entry and whatever higher timeframe you are referencing,
+[00:29] we are just going to focus on the higher timeframe. By looking at the higher timeframe
+[00:33] candles, that is how you are going to get relevant levels for targets. So you can see
+[00:38] here we have a candle to closure candle three looking to expand. What is our target? Well,
+[00:44] it's just going to be these previous candles lows. So what does that actually look like?
+[00:49] Here you can see with a candle to closure or a candle three closure. What are our targets?
+[00:54] Well, here you can see candle ones high as well as the previous candles high as well
+[00:59] as previous candles highs that are not shown on this diagram. Similar here on the bearer
+[01:04] setup previous candles lows. So candle one low and the previous lows here. Now, what
+[01:11] is the goal of using higher timeframe targets? Well, this is telling you where you can hold
+[01:15] your trade to. So for example, here, if I was on the hourly and five minute fractal model
+[01:21] here, here I have an hourly candle to closure, we had our five minute change in the state
+[01:25] of delivery inside this wick and looking to trade this candle three continuation higher,
+[01:30] we get our intro candle change in the state of delivery. And we can be looking for price
+[01:33] to trade higher here, where to? Well, we can look on this timeframe and see the targets.
+[01:38] We have a target here as well as a target here. Now that is a great trade alone. But
+[01:43] what can we do if we align these targets together or look up to a higher timeframe? Here you
+[01:48] can see with the daily candle shown here on the left, we're actually in a candle three
+[01:53] expansion on the daily. So we can use that candle one target or the previous candles targets to
+[01:59] look for this trade to extend to this allows me to take a trade looking for my initial or
+[02:06] short term targets, but then hold runners to these higher timeframe objectives. This is how
+[02:10] you get better RR out of the same trade. So let's go into trading view and go over a few
+[02:16] examples of this. So here we are in our first example. And what do we have? We have a candle
+[02:21] two closure here on the higher timeframe. And that is also paired with an hourly change in
+[02:27] this to the delivery. Since we're on the daily, we will be using the hourly according to the
+[02:31] timeframe alignment that I use. So if we're looking for a target on this move lower here,
+[02:37] right, looking for this candle three to expand lower, what can we look for? We can just mark out
+[02:42] our previous lows, right, which would be this low down here, as well as this low down here. So
+[02:49] applying those to the lower timeframe, what do we have? We have this low right here, and then
+[02:53] this low right here. Now I can go ahead and check this by turning on my indicator, turning it back
+[02:59] on, did we mark out the correct targets? And we did, right? So if we look, we're looking for this
+[03:05] previous low and this previous low as targets. And so let's see what happens. We'll go ahead and
+[03:09] remove the drawings and let this play out. You can see, price makes a high, expands lower, it
+[03:17] hits its first target, do we get a retracement or a reversal? No, we get a consolidation, which is a
+[03:22] continuation signature, and we trade lower. So just review, make your targets super simple. If
+[03:28] you're on an intraday timeframe, or using the hourly chart, focus on those previous days highs
+[03:33] and lows. So here on the daily and hourly chart, I'm going to be looking at those previous days,
+[03:38] highs or lows in a bearish model, it will be lows, we mark out our previous lows, and that will be
+[03:44] our target for this move lower. So here we are in another example, we have expansion down, taking
+[03:51] out some lows, and expansion back up. So we could be looking for this to trade higher. What do we
+[03:57] have? We have a candle to closure at a point of interest. So we have this fair value up here,
+[04:02] price has taken out the low and close back above it. So we could be looking for this to trade
+[04:08] higher. Now before we go to the lower timeframe, what would be our targets here? Well, we know
+[04:14] if we go to the lower timeframe, we're going to be using the higher timeframes for our targets. So
+[04:18] we have this high here. Now why am I not making out this previous high? Well, it already got taken
+[04:23] out here. If we would have had this high higher up, well, then we could have marked it out as another
+[04:28] target. But since it's already taken out, we just have this level here. Now that is what we have
+[04:34] for our short term targets, our higher timeframe targets can also be our previous highs. So you
+[04:39] can see these highs over here. Why would I mark those out? Well, on a higher timeframe, if we go
+[04:44] to the weekly from the daily here, that's going to be a swing low. And then that will be our
+[04:48] previous highs. So we're always going to be focused on swing highs and lows or previous candles,
+[04:54] highs and lows as targets. We go down to the hourly chart here and zooming in here, you can see it
+[05:00] marks out our previous high, or this candle one high in this case, as our target. As we let this
+[05:08] play ahead, you can see we hit our target. And if we go through this target, then we can go look
+[05:13] for us to trade to what those weekly targets, right, because it is a fractal concept, you can
+[05:18] trade on multiple different time frames. We're going out to the weekly, you can see the swing
+[05:22] point here on the weekly, and then when it reverses, where is the targets that swing high,
+[05:27] right? So we're always focused on swing highs and swing lows in the market. So we can go for
+[05:33] another example, right here, we have a swing low forming right here, what is going to be our target,
+[05:39] our swing high, or right here. So if we go down to something like the four hour time frame here,
+[05:44] you can see down here on the four hour time frame, that low that we marked out, and then our
+[05:48] previous high is a target. And that once again, it's very simple, it's just going to be a reference
+[05:54] to the higher time frame using time frame alignment, and that swing high will be your target. So if
+[06:00] we're going to see this trade higher, where do we want to see it go to its target? And there you
+[06:06] can see we go and hit our target. Let's get into another example. So here we are on a daily,
+[06:12] and let's go over a few examples of just finding swing points and their targets. So what do we
+[06:17] notice here, we have a candle three closure, because candle two didn't close back above this
+[06:21] level, but then candle three engulfed it. So where would be the target on this, while we find candle
+[06:27] two is low, this is where we are trading away from what is to the left and we mark out the highs.
+[06:32] So that is our target for this move. And we hit that. Now we can wait for a new swing point,
+[06:38] we don't have anything, we just have a consolidation, we trade higher, here we have a new
+[06:42] swing point, what's going to be our target on this, well, candle two, this is where we are
+[06:47] trading away from, what are we looking to trade towards? Well, these are going to be our targets,
+[06:51] our previous lows, that's our candle one, and then our previous low, and then you can continue to
+[06:57] mark out previous lows, right, those are all going to be targets, especially equal lows like that.
+[07:02] So that all gets taken, we retrace back up, there's no valid fractal formation in here,
+[07:08] here we get another candle to closure, where would be the target on this one? Well, candle one,
+[07:14] we've already taken out the low, right, but we have these previous lows as targets. So you guys
+[07:20] see what's going on here, every time we have a valid swing point, we just look to the previous
+[07:25] candles, mark out their high, or their low, and that's the target. So what do we notice here,
+[07:30] we run out this whole range, we have a candle to closure. So what is going to be our targets on
+[07:36] this one, and pause the video if you have to, and practice marking it out. But we have our
+[07:41] previous highs, right, that's a previous high, this is a previous high, this is a previous high.
+[07:47] Now, why am I not marking out this high here? Well, it's already been taken out. So I'm focusing
+[07:52] on those highs that haven't been taken out. So now we have these targets for the move up,
+[07:57] let's see what happens. And there we take out all those targets. So once again, keep your targets
+[08:03] very simple, whatever timeframe you're trading, if you're trading intraday, I like to focus on the
+[08:08] daily chart. But whatever the higher timeframe reference is, those are going to be your targets,
+[08:13] focus on those previous highs and lows. So let's take a look at this example here. What do we have?
+[08:19] We have price reaching into a fair value gap over here, the candle to closure. So where would be
+[08:25] the targets in this move lower, our previous lows, right, and those are equal lows, which form a fair
+[08:31] value gap. So that's a nice target. Here, we form a new swing, what becomes the target there,
+[08:38] right here, and right here, right, and we don't go reach up to this final target, and that's fine,
+[08:44] we don't expect it to do that all in one day, that's too much daily range. We want to see how
+[08:49] it closes, it closes really weak right here, forming a new candle to so then what becomes our target
+[08:55] for this move, we would expect to reach for this low. Now, what is the one point in which case,
+[09:00] we don't need to see price reach for this target, when there's SMT, or a correlated asset takes out
+[09:08] this low. So if we take a look at silver here, because we're on gold, you can see silver took
+[09:13] out this target. So that allows us to say that the target has been hit or has an SMT. So cleaning up
+[09:20] the drawings once again, with this move higher, backed with SMT, what are we looking for, or what
+[09:26] are we looking to target the previous highs. So we can mark out those highs there as targets,
+[09:32] and go down to the lower timeframe. So down here on the lower timeframe, we can go ahead and remove
+[09:36] the drawings, and you can see those targets will remain there, because my indicator is going to go
+[09:41] ahead and mark those out for us. So let's see what happens now. We want to wait for this WIC to form
+[09:47] intraday. And what do we have? We have price open, low, taking out all this consolidation
+[09:53] into this gap. This protected swing right here is holding that level. And then we have a little
+[09:59] consolidation and sweep with a candle to closure. So zooming in here, what would be our target on
+[10:06] our lower timeframe fractal here. And this is what I'm talking about when I'm combining or
+[10:10] aligning timeframes together. We have this candle to here. So we have candle one high, that would be
+[10:16] a short term target. But what is our higher timeframe targets up here, right? Let's go ahead
+[10:21] and mark those out. And then we'll go to the lower timeframe. So marking those out, let's go down to
+[10:26] the five minute timeframe. So down here on the five minute timeframe, we can go ahead and remove
+[10:31] these drawings because the indicator will mark it out. And we're a bit late to this. But what do
+[10:35] we have? We have a protected swing or a continuation that forms right here in candle three, which could
+[10:42] have been our entry, right? Now on this entry here, we'd be wanting to get to R to this short term
+[10:48] target, right? So we could either adjust the entry a little to get that to R, or what can we do? We
+[10:53] can look for these targets above here, or those higher timeframe targets we marked out. This is
+[10:59] how you get really high risk to reward moves is when you can take off a portion of your position
+[11:04] at your short term target, and then hold a runner to see if it can go to our higher timeframe target.
+[11:11] Let's see what happens here. Here you can see candle four, we go and hit our short term target.
+[11:17] So this is where I could take profit on this intraday move. And then I could hold runners to
+[11:21] see if what if we did get a trend and we can reach towards those higher timeframe targets. So letting
+[11:27] this go. You can see price does reach up to those higher timeframe targets. So if I was going to
+[11:37] let a runner go, this is where I can get a very nice move on a runner. Now, why and how does this
+[11:43] work? Well, let's go back to our hourly timeframe. If you are catching a lower timeframe fractal,
+[11:49] inside a higher timeframe fractal, and this is what I'm talking about when I'm saying trading C
+[11:54] three inside a C three, this is candle three on the daily timeframe, we are looking for this to
+[11:59] expand. If I align that with a candle three on the lower timeframe, looking for that to expand,
+[12:04] I can catch that move intraday and then hold to see if this move goes to the higher timeframe targets.
+[12:11] And here you can see it did. So if we go back to the lower timeframe here and rewind, you can see
+[12:17] that's where you can get really good risk to reward trades, because this runner is going to go hit
+[12:23] in this case, one to 11 or even one to 16, which is really great risk to reward for a runner. So
+[12:30] going back out to the hourly timeframe here, let's see what happens because what is our
+[12:34] higher timeframe target right there. So going back to our daily chart where it all started,
+[12:39] what do we have? We have a swing point. And why was this our target? Because that is our candle one
+[12:47] high, as well as our previous highs. So I hope you found this video helpful. If you did, please
+[12:53] consider liking and subscribing and go check this out for yourself in your own charts. See if you
+[12:58] can practice finding targets on your chart. I'll see you guys next week. Have a good one.

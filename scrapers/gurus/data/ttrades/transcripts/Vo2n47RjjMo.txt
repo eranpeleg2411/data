@@ -1,0 +1,278 @@
+[00:00] I was going to talk about Intracandle CISD, or the change in the state of delivery inside
+[00:20] a candle, so IC CISD.
+[00:23] This is a concept that I created when I was forming my model to mechanically define the
+[00:28] formation of a WIC.
+[00:30] So let's get into the video.
+[00:32] So first you have to understand what a change in the state of delivery is, and that is a
+[00:36] shift in trend.
+[00:38] We use that by finding the level that hit a point of interest, so interacting with a
+[00:42] fair value gap, a high or a low, and then price closing over the series of candles into that
+[00:48] point of interest.
+[00:49] So here you can see with a bullish change in the state of delivery, price reaches, takes
+[00:53] out this low, and then closes over the series of down close candles that took out this low
+[00:58] showing a shift in trend or a change in the state of delivery.
+[01:01] Likewise with this bearish scenario, it reaches into a high, price closes through the series
+[01:06] of up close candles showing the change in trend and price shifts from bullish to bearish.
+[01:12] Now previously I have taught the reversal change in the state of delivery to confirm
+[01:16] a swing point, so we look for that change in the state of delivery to form at a reversal
+[01:20] point, but here we are going to look at it for a continuation to form a WIC.
+[01:25] So what do I mean by that?
+[01:26] If we have a candle through closure here, we have that reversal change in the state of
+[01:30] delivery on the aligned timeframe.
+[01:33] We're anticipating this candle three to open, make a low, and then expand higher.
+[01:38] So how did I come up with to mechanically define the formation of this WIC being completed?
+[01:42] And that is a intra-candle change in the state of delivery.
+[01:45] So I'm looking for inside this candle, the trend to be bearish to go form its lower
+[01:49] WIC, and then when that trend shifts from bearish to bullish, that is where I'm looking
+[01:54] for that change in the state of delivery inside that candle or the ICCISD.
+[01:59] And then I'll look to trade that continuation higher or letting the WIC form and then trading
+[02:03] the body.
+[02:04] So here you can see this candle opens up.
+[02:06] It has a short term bearish trend as it's forming its lower WIC on candle three here,
+[02:11] and then I'm letting that WIC form.
+[02:14] Mechanically how do I do that?
+[02:15] I wait for a continuation to form.
+[02:17] Since this continuation forms a protected swing, then I can anticipate this WIC to be
+[02:22] dropped.
+[02:23] So this is the intra-candle change in the state of delivery.
+[02:26] Inside this candle, there was a bearish trend.
+[02:29] It shifts to bullish.
+[02:30] And now we are realigned with our direction that we are looking to trade anticipating this
+[02:34] higher timeframe WIC to form and to remain intact as we continue higher.
+[02:39] So that is what the intra-candle change in the state of delivery is.
+[02:43] Let's go into trading view so we can go over a few examples of this.
+[02:46] So here we are in our first example.
+[02:48] You can see we have a candle to closure here.
+[02:51] We have a valid change in the state of delivery.
+[02:54] And what do we have?
+[02:55] We have a new continuation that has formed prior to the open of the new candle.
+[02:59] So we would want to see this high remain if price is going to trade lower.
+[03:03] But if we're opening up right here, where would we want to see price react right here
+[03:08] in this fair value gap?
+[03:10] So we'd want to see price do what?
+[03:12] Have some sort of bullish trend to form its upper WIC, have an intra-candle change in the
+[03:16] state of delivery, and then get a continuation lower.
+[03:20] So let's see what happens.
+[03:23] Here you can see it's a bit choppy.
+[03:25] We're moving up into that point of interest.
+[03:27] And we do have a nice candle to closure here.
+[03:29] But what are we looking for?
+[03:30] We're looking for that confirmation of the intra-candle change in the state of delivery.
+[03:35] So here you can see we hit a valid point of interest by sweeping out a high here as well
+[03:39] as into this fair value gap.
+[03:41] And what do we do?
+[03:42] We have a closure through the series of up close candles into that point of interest.
+[03:47] And we have a valid intra-candle change in the state of delivery.
+[03:51] So what does that mean?
+[03:52] That means that if I'm considering this a protected high intra-day, that means this
+[03:57] WIC high on the daily chart since we're on the hourly, which is aligned, should remain
+[04:01] intact if we're going to trade lower.
+[04:04] So what can I do to actually act on this?
+[04:06] Well, I could either look to position myself here on the hourly prior to New York, or now
+[04:11] that I have an area to trade away from, I can look for lower timeframe bearish entry
+[04:16] models lower here.
+[04:17] Let's see what happens.
+[04:18] Here you can see we get that expansion lower.
+[04:21] So you can see how letting the WIC form on that continuation candle, letting that intra-candle
+[04:27] change in the state of delivery form, and then looking to trade this lower.
+[04:32] So this is a pretty good example of that intra-candle change in the state of delivery, forming the
+[04:38] WIC, and then looking to trade the body lower into the targets below.
+[04:41] And my indicator does a good job of showing those targets, which are just those previous
+[04:45] days lows.
+[04:46] Let's get into another example.
+[04:48] So here we are in another example.
+[04:50] And what do we notice here?
+[04:52] We have a nice candle to closure.
+[04:53] It's quite bearish.
+[04:54] We have a nice V shape reversal.
+[04:57] And we just opened in candle three.
+[04:59] We have nice failure swing targets below.
+[05:01] So what are we looking for?
+[05:02] Or what are we asking ourselves?
+[05:04] Has candle three formed its WIC yet?
+[05:07] Well, where do we want to see it form?
+[05:08] Well, that's where the T spot is.
+[05:10] And do we have a point of interest right there?
+[05:12] We do.
+[05:13] So we can mark that out.
+[05:14] This is ideally where we want to see price trade into.
+[05:17] Why would I not want to see price trade into this gap up here?
+[05:20] Well, that's too high up.
+[05:21] I don't want to see it trade that high because then it's less likely to expand.
+[05:25] So what are we waiting for?
+[05:27] An intra-candle change in the state of delivery.
+[05:30] Have we gotten that yet?
+[05:31] No, because price has yet to close below this level.
+[05:34] So I don't know if this WIC has formed yet.
+[05:36] And here you can see price has closed below this level.
+[05:39] So now with the intra-candle change in the state of delivery, inside candle three,
+[05:44] I can anticipate that this high is protected and that means that this higher
+[05:47] timeframe WIC should form.
+[05:49] So if the WIC has formed, we can look to trade the body away.
+[05:52] But then I could look to take an entry on either the retest or the close.
+[05:55] It might stop either on the bodies or the high.
+[05:57] In this case, I'll probably use the bodies so I can get around two R to the slow.
+[06:02] And then I want to see if this gets a continuation lower.
+[06:05] Now, once this forms, I'm also able to look for new continuations within this candle.
+[06:11] Here you can see we do get a nice drop through that low.
+[06:14] Do we get a continuation off of this?
+[06:16] Well, what do we want to look for a new continuation to form?
+[06:19] What do we have price reaching into a fair value gap?
+[06:23] Have a new continuation that formed.
+[06:26] So I could also look for a continuation there.
+[06:28] But for me, since we already take out a lot of these lows, I prefer this first entry.
+[06:32] Let's see what it would look like on the second entry.
+[06:35] In this case, let's zoom out.
+[06:37] Let's see what our targets would be.
+[06:39] Ideally, I'd want to target into these lows.
+[06:41] So I would probably look for a retest entry just to see if I can get two R out of this.
+[06:46] So let's see what happens if I can get to our right there.
+[06:50] We'll see if we get filled.
+[06:53] And it looks like it would just miss us, but you do get a continuation lower.
+[06:57] So just to review this example, what are we looking for?
+[07:01] Well, by going back up here, we have a candle to closure.
+[07:05] So we have a bias for this candle.
+[07:07] Then we're just trying to see when this wick has formed.
+[07:10] So we let it open at this candle.
+[07:12] We couldn't say that the wick has formed.
+[07:13] We can't trust that this next candle.
+[07:16] We also can't trust that on this next candle.
+[07:18] When we get the close through, it's showing that this candle has opened, made its high
+[07:22] and informed a protected swing, which I can trade away from looking for this continuation lower.
+[07:29] So here we are in another example.
+[07:31] And what do we have?
+[07:32] We have a candle to closure.
+[07:33] We have a candle to closure with a change in the state of delivery.
+[07:37] And we have displaced lower and we are opening up in candle three.
+[07:42] What are we going to look for?
+[07:44] We're going to want to ask ourselves as this wick formed yet.
+[07:47] Now, mechanically, we can just wait for that inter candle change in the state of delivery.
+[07:51] Have we formed that yet?
+[07:52] No, because we'd need to close below here.
+[07:55] We make a new high, which gives us a valid point of interest.
+[07:58] What would we need to close below this level here?
+[08:01] So let's see if that forms now.
+[08:04] And it does.
+[08:05] So you can see here is our first inter candle change in the state of delivery, the
+[08:09] continuation inside this higher time from candle, which forms the wick.
+[08:13] And then we could look to trade that lower.
+[08:15] And here you can see because of how it forms, it gives great risk to reward to our previous
+[08:20] day low.
+[08:20] So I can get right around to our at that low.
+[08:23] Let's see if that works out.
+[08:25] And you can see it does hit our two are right there.
+[08:28] So just to say once again, what are we looking for?
+[08:31] We're looking for that continuation inside the continuation candle to form the wick of
+[08:36] the higher time frame candle.
+[08:38] Get into another example.
+[08:40] So here we are with a candle to closure.
+[08:42] And you can see we have a V shape reversal and SMT as shown by my indicator.
+[08:47] And we are in candle three.
+[08:49] If we're looking to trade candle three, what do we want to do?
+[08:52] We want to let the wick form and then trade the body of that candle.
+[08:56] Do we have a point of interest?
+[08:57] We have a fair value up right here in the T spot.
+[09:00] Let's see if price reaches into that.
+[09:03] The price immediately goes lower into a target here.
+[09:06] Let's see if we get a retracement or a reversal.
+[09:09] Here we get a little consolidation and a move up into that point of interest.
+[09:13] Now with the ICC ISD, it is ideal to have this form in the beginning of the candle.
+[09:19] So this candle can really expand lower.
+[09:21] Here you can see we have taken most of the candles time and quite a bit range, right?
+[09:26] We make a move lower, move higher and now a move lower again to form.
+[09:30] So if we do form this change in the state of delivery, intra candle or the
+[09:33] ICC ISD, right?
+[09:35] It's ideal to wait for the next candle to trade this.
+[09:38] And here you can see we do get that.
+[09:40] Why would we want to wait for the next candle?
+[09:42] Because we get a new candle with new range.
+[09:45] We now have another hour for this candle to expand.
+[09:48] So here I could look to take this entry, either put my stop here, put it on the
+[09:52] high and look for two are, or I could also wait for what?
+[09:56] A new intra candle change in the state of delivery or the wick formation of candle
+[10:00] four, in this case, we'll just take an entry there, see if it will work out.
+[10:04] We'll look for a retest entry so we can get decent risk to reward.
+[10:07] And there you can see we do get that retest entry and a move lower.
+[10:11] So what can we learn from this example?
+[10:13] It's more ideal if the intra candle change in the state of delivery happens
+[10:17] early into the candle so it can expand.
+[10:19] If it happens towards the end of the candle and it's still valid, then I'm
+[10:23] going to be looking for the next candle to have that expansion as it gives new range.
+[10:28] So here we are in another example.
+[10:30] You can see we have a candle to closure and we are opening up right with a
+[10:33] point of interest right here.
+[10:35] So ideally, what would we want to see price open, make a high?
+[10:39] This is a short term or a lower timeframe bullish trend, shift that trend with an
+[10:44] intra candle change in the state of delivery and then get a continuation lower.
+[10:48] Once again, it's ideal if it forms early into the candle, so it can trend lower.
+[10:52] Let's see what happens.
+[10:55] And here you can see we reach into that point of interest.
+[10:57] Do we get the closure?
+[10:58] Not yet.
+[10:59] And if you've seen my continuation video, ideally we get it on this next
+[11:03] candle or if it spends too long consolidating, then it could fail.
+[11:07] Let's see.
+[11:09] And there we get that continuation.
+[11:10] So I could look to take a short setup, put my stop on the high and look for a
+[11:14] continuation lower.
+[11:16] If that doesn't give me a good rest to reward, I can always look for a little
+[11:19] bit of a retest to get to our and you can see we form a new continuation and
+[11:24] does this trend lower.
+[11:26] Takes a bit of time, but it does.
+[11:29] So you can see how that protected swing inside candle three here forms the wick
+[11:34] high of that candle three.
+[11:36] And the same thing here with candle four, you can see candle four.
+[11:40] What does it do?
+[11:41] Reach into a point of interest or a fair value gap.
+[11:44] Price closing over this level.
+[11:46] That confirms the wick of candle four right there.
+[11:49] And then it gets that continuation lower.
+[11:51] So there's not just an inter candle change in the state of delivery in candle
+[11:54] three, but it's also in candle four.
+[11:58] So let's go ahead and zoom out to the daily chart and see if we can find one
+[12:01] more example.
+[12:02] So we'll wait for a candle to closure on the daily.
+[12:05] And let's see.
+[12:07] There we found one.
+[12:08] Let's go in here and see if we can find an inter candle change in the state of
+[12:12] delivery.
+[12:13] So here we have a candle to closure.
+[12:16] Right.
+[12:16] We have a bit of a range.
+[12:19] And what are we looking for?
+[12:20] Well, we'd want to see price reach into a point of interest.
+[12:23] If price is opening up here, what is our point of interest running out these
+[12:27] lows here?
+[12:28] So let's see what happens.
+[12:31] It runs out the highest first goes aggressively against our bias.
+[12:35] And that's okay.
+[12:36] Right.
+[12:36] You can either invalidate your bias.
+[12:38] I wouldn't invalidate my bias because it's not a reversal off a previous day high,
+[12:43] but I'd want to wait for a new continuation.
+[12:45] So I either need this to get bought up rather quickly to form a candle three
+[12:49] closure and then look for that to trade higher, or I need some sort of
+[12:52] consolidation and new sweep because I need a new point of interest.
+[12:57] You can see that is more of a consolidation.
+[12:59] Really hard to trust this level here.
+[13:01] So I'd need another sweep.
+[13:03] And who knows, maybe this one will fail.
+[13:06] And there you can see, we do get that aggressive move out.
+[13:09] So now what do we have?
+[13:10] We have a continuation that has formed inside our candle three.
+[13:15] So now I've anticipate that this wick has formed on the daily timeframe.
+[13:19] So I could look to trade it higher.
+[13:21] What is my target that daily high there?
+[13:24] So ideally putting my stop on the low and being able to get to our two that
+[13:29] high, which is right around every test entry.
+[13:31] So we'll see if we get tagged in.
+[13:34] And if not, we don't, and we don't get tagged in it.
+[13:37] And that's okay.
+[13:37] Right.
+[13:38] We could look for a higher timeframe target.
+[13:40] That's okay.
+[13:41] I was looking for two are to this short term target.
+[13:44] Now I hope you enjoyed this video and it taught you how to let the wick form and
+[13:48] then trade the body.
+[13:49] And if you don't have the patience to let that wick form, then generally you
+[13:53] become the wick.

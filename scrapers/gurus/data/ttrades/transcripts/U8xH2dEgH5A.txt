@@ -1,0 +1,141 @@
+[00:00] How's it going everyone?
+[00:11] This video is going to cover liquidity, buy side and sell side liquidity, and we will
+[00:16] mainly be focused on old highs and old lows as well as equal highs and equal lows.
+[00:22] Before we get into anything, the first thing we need to understand is swing points in the
+[00:25] market because this is how we determine where liquidity is resting.
+[00:30] So over here we have a swing low and how do we determine if we have a swing low?
+[00:36] Well we have a low right here with a higher low to the left and a higher low to the right
+[00:42] and that makes this a swing low.
+[00:45] Similarly over here we have a high with a lower high on the left and a lower high on
+[00:52] the right that makes this a swing high.
+[00:55] Now to understand why this is important we have to understand the psychology of traders.
+[01:00] If someone was to get long in this area here they're likely to put their stop on this swing
+[01:06] low.
+[01:07] Similarly over here if they're going to get short they're likely to put their stop on
+[01:11] this swing high.
+[01:13] With that understanding we know that there are sell stops resting under here and buy
+[01:18] stops resting above here.
+[01:21] With the sell stops resting below here we call this sell side liquidity and with the
+[01:25] buy stops resting above here we call this buy side liquidity.
+[01:30] Smart money will look to pair orders below these lows and above these highs.
+[01:34] So let's get into the charts and look at some examples.
+[01:37] We are now going to practice identifying these swing points or buy side and sell side liquidity.
+[01:43] So looking at this four hour chart here where are the obvious highs and lows?
+[01:49] We have a low right here.
+[01:51] This would be sell side liquidity.
+[01:53] As you notice we have a low with a higher low and a higher low on each side.
+[02:00] We have a high right here with a lower high on each side.
+[02:04] So this would be our buy side liquidity.
+[02:08] Now if you notice what did we just put in?
+[02:11] We put in another swing point because we have a high with a lower high on each side.
+[02:17] So this would be considered buy side liquidity.
+[02:21] Moving this forward and seeing price takes out this high.
+[02:28] So now I'm not worried about buy side liquidity here and it now moves to over here because
+[02:35] we have a high with a lower high on this side and I'm anticipating a new lower high on this
+[02:41] side.
+[02:42] Right.
+[02:43] So lower high here.
+[02:44] Similarly, now we just took out this low over here and now we have a low with a higher low
+[02:53] on each side letting this continue and focusing on these swing points.
+[02:59] Just put in a new one there.
+[03:03] That gets taken out.
+[03:07] Another swing here since this didn't take out this previous low.
+[03:12] Those are now relatively equal those and so those are just outside of the liquidity together.
+[03:20] Now take out this high and if we put in a lower high on this side, this will become
+[03:26] our buy side liquidity, which it does.
+[03:30] Now we have buy side resting here.
+[03:38] We take that out.
+[03:41] And if you notice, we do put in a new swing low right here.
+[03:44] I'm going to focus on the really obvious highs and lows on the outside of the range.
+[03:51] There we go.
+[03:52] We go reach all the way up to this high now.
+[03:54] Now if we put in a swing up here, we will have new buy side liquidity, which we do now
+[04:02] have buy side liquidity resting here.
+[04:11] Now we put in a swing low and this is reaching for that buy side up there.
+[04:22] And now that is taken, if we put in a swing low, now this becomes our buy side liquidity
+[04:30] and you can see how this continues.
+[04:33] The next thing we are going to look at are two types of liquidity and those are old highs
+[04:38] and lows and relatively equal highs and lows.
+[04:41] And so I have them marked out on the chart here from the previous example.
+[04:45] You can look like this where you have two different swing points that are relatively
+[04:49] equal or very close together, forming relatively equal highs or lows or lows in this case.
+[04:56] Or when you have highs that are all clustered together like this, those are relatively equal
+[05:01] highs.
+[05:03] These old highs and old lows just refer to a previous high or low where a single swing
+[05:08] point stands out like that.
+[05:11] Next thing we're going to talk about are liquidity levels that I always have marked out on my
+[05:15] chart or at least know where they are located.
+[05:18] And the first one would be previous weeks high and low.
+[05:21] So if we look at this previous week, here is a Tuesday low and here is Thursday high
+[05:29] and why I mark these out is it's a pretty easy draw on liquidity or a way to frame
+[05:34] a reversal.
+[05:35] So looking at this, we take this previous week's high back into this fair value gap
+[05:41] and then from here, what do we do?
+[05:45] We expand higher.
+[05:46] That is something I always have marked out on my chart.
+[05:49] The next liquidity level I always have marked out on my chart, previous day high and previous
+[05:54] day low.
+[05:55] I can either frame a reversal or use it as a draw.
+[05:59] And in this case here, you can see it was used as a draw and previous day high was taken
+[06:04] out before expanding higher.
+[06:06] The last levels of liquidity I always have marked out on my chart are session highs and
+[06:11] lows.
+[06:12] So in this case shown, I have a session high and low, one session high and low, and these
+[06:17] can be used to frame a narrative, a draw or a reversal as well.
+[06:22] Let's take a look at some examples here and how using session highs and lows can work
+[06:27] out.
+[06:28] So if you notice here, we have our Asia session low that's already been taken, but above us,
+[06:33] we have Asia session high, London session high and London session low all have not been
+[06:39] reached.
+[06:40] So as we go into New York open, we get a move up, we take that London session high, reach
+[06:47] for midnight.
+[06:50] We end up taking that Asia session high as well.
+[06:54] Now do we get a nice break of structure?
+[06:57] Not really yet.
+[06:58] There we get some displacement down.
+[07:04] Looking in here, do we have any sort of setup?
+[07:07] We do have a five minute pair of value gap here.
+[07:14] And we reach back into it.
+[07:15] A nice respect to that.
+[07:17] No body closes even in the fair value gap.
+[07:21] And then where do we go for or where is our target?
+[07:24] Well we still have equal lows from London session sitting right there.
+[07:30] Here is another five minute pair value gap.
+[07:36] And there we reach our London session low.
+[07:38] So you can see how just using these liquidity levels, Asia high and low, London session high
+[07:45] and low, New York can be framed off of that.
+[07:48] So let's go ahead to the next day.
+[07:51] So looking at this next day, we will also mark out our previous day high and low right
+[07:57] here and right here.
+[07:59] And we'll go ahead and watch this day play out from Asia.
+[08:02] So right here, you can see Asia high being created, being taken.
+[08:08] Now we get London session.
+[08:09] Let's see what happens.
+[08:12] And there we go.
+[08:13] So we take our London session low and Asian session low.
+[08:18] No real displacement below here.
+[08:19] Let's see what happens.
+[08:21] We start to get displacement up.
+[08:23] We have a five minute pair value gap here.
+[08:26] See if that gets tagged.
+[08:29] It does get tagged.
+[08:30] Now where would I want to be targeting here?
+[08:32] Well either these liquidity levels here or London session high.
+[08:39] London session high gets tagged.
+[08:41] We base around midnight.
+[08:43] No closes below.
+[08:45] End up sweeping this low.
+[08:47] Now if we are going to go somewhere else, we've already taken session highs and lows,
+[08:53] but what do we have previous day high and low?
+[08:56] And so as we start to expand up, we get a move to the previous day high.
+[09:02] So taking out that liquidity level, displacement over it, and then we continue higher.
+[09:10] So hopefully that shows you how to use liquidity and what important liquidity levels you can
+[09:16] mark out if you don't know what to mark out.
+[09:19] The indicator used in this video is free and I will link it in the description below.
+[09:24] Also wanted to let you guys know that I did start a free discord.
+[09:27] So if you want to check that out, the link will be in the description as well.
+[09:31] And I'll do my best to have a PDF document of this video out in the description before
+[09:37] it releases.
+[09:38] But besides that, if you did enjoy this video, please give it a like and subscribe.
+[09:42] I hope you have a great rest of your day.
+[09:44] See ya.

@@ -1,0 +1,222 @@
+[00:00] How's it going everyone?
+[00:12] This is going to be a video over SMT within the fractal model.
+[00:15] Now it is important to note that SMT is not used to force yourself upon a model, but it
+[00:21] is used as a confluence within the model.
+[00:24] So I'm not going to randomly use SMT and then try to find a model within that, but I'm
+[00:29] going to first find a model and then see if it has SMT for extra confluence.
+[00:34] Let's get into the PDF.
+[00:36] So what is SMT?
+[00:37] SMT is a divergence between correlated markets.
+[00:41] So for instance, if I have the S&P 500 here or ES and NASDAQ here, those are correlated
+[00:47] markets.
+[00:48] They should be moving in the same direction.
+[00:50] However, if they have a difference in structure, so for instance here, the S&P makes a higher
+[00:56] high while the NASDAQ makes a lower low, that would be a divergence between correlated
+[01:03] markets, also known as an SMT.
+[01:06] And that is what we can use to give confluence to a reversal.
+[01:10] So that is what an SMT is.
+[01:12] How do we use it within the fractal model?
+[01:15] Within the fractal model, and this is what it looks like on a lower timeframe, I'm going
+[01:18] to be looking for a model.
+[01:20] So a candle to or a candle three closure paired with a change in the state of delivery on
+[01:24] a lower timeframe, and then referencing that correlated market to see if it has an SMT.
+[01:29] So here you can see we have a candle to closure.
+[01:33] We have a lower timeframe change in the state of delivery.
+[01:36] Only once I have a model that has formed, do I look at the correlated market here?
+[01:40] You can see I can look at the correlated market and it has formed a lower high while
+[01:45] we have formed a higher high.
+[01:46] So I can go ahead and mark out that SMT on the lower timeframe or as well on the higher
+[01:51] timeframe, and that can give me a confluence to this reversal forming.
+[01:55] And that will be an SMT between candle one and candle two.
+[01:59] Now we can also have an SMT between candle two and candle three, which is a continuation
+[02:05] SMT.
+[02:06] So this is a reversal SMT forming the reversal.
+[02:09] This is a continuation SMT as it's within the continuation.
+[02:14] So here you can see once again, we have a candle to closure, a change in the state of
+[02:18] delivery on the lower timeframe, a valid model before we are looking for SMT.
+[02:23] Then we go ahead and take a look.
+[02:25] We don't have SMT between candle one and candle two, but we can still keep watching the correlated
+[02:29] market here when we go to form this continuation.
+[02:32] What do we do?
+[02:33] We don't take out the high, but on a correlated market, we do take out the high.
+[02:38] So that is an SMT between candle two and candle three or a continuation that can give us a
+[02:44] confluence to trade this continuation lower interest that this candle to can hold.
+[02:50] Now we can also get a double SMT or an SMT between candle one and two and between two
+[02:56] and three.
+[02:57] So we have this reversal SMT, but we also have this continuation SMT.
+[03:02] Now once again, it's important that you don't just randomly look for SMTs.
+[03:06] You need to have an actual model that is the foundation.
+[03:10] And then you look for an SMT as a confluence.
+[03:13] So let's get into trading view and go over a few examples.
+[03:17] So here we are in our first example, and you can see we have a candle to closure with a
+[03:22] change in the state of delivery.
+[03:24] And then we have a reversal SMT or an SMT with YM.
+[03:28] This is on NQ from candle two to candle one.
+[03:32] That gives us an extra confirmation that this can reverse here and we can get an expansion
+[03:36] lower in candle three.
+[03:39] Now why am I not looking at this candle to in a bullish scenario?
+[03:43] Well, because if we follow the low, find the high, we have not closed through the series
+[03:47] of down close candles.
+[03:48] So it is only valid to look short in this scenario.
+[03:52] So let's see what happens here.
+[03:56] You can see we do get that sell off to our targets, and then we get a continuation in
+[04:01] candle four.
+[04:02] Let's continue ahead and see if we can find another example.
+[04:07] So here we have a candle to closure bullish, but let's see if it works out.
+[04:11] There is no SMT between candle one and candle two does SMT form between candle two and candle
+[04:16] three.
+[04:17] Well, as we let this play ahead, it does not, it invalidates the T spot and then takes out
+[04:23] the low.
+[04:24] Now here we have an SMT and you can see ES and YM have not taken out this low, while
+[04:29] NQ has.
+[04:30] But like I said, I don't want to randomly use SMT without context.
+[04:34] So I'm going to wait for the candle closure.
+[04:38] And here you can see we make a new low, and then it will update the SMT.
+[04:42] It is in replay.
+[04:43] So it will be a bit delayed, but we have a change in the state of delivery with SMT.
+[04:48] Once again, let's wait for the closure.
+[04:51] So here we have a closure now, right?
+[04:52] So a candle to closure with a change in the state of delivery.
+[04:56] And now this SMT with YM or this reversal is valid to look for long setups.
+[05:03] Let's see what happens.
+[05:06] We do trade higher into our previous target, right?
+[05:09] This range high, and we trade higher on reversal SMTs.
+[05:13] We want to first wait for a model or a framework.
+[05:16] You can trade candle to, but I prefer to look for a continuation and candle three.
+[05:20] So that would be a candle to closure with a change in the state of delivery.
+[05:24] And then I'll look for a SMT.
+[05:27] So that is a divergence between the assets.
+[05:29] So you can see here we are in on NQ, in which case NQ took out this previous low.
+[05:34] But if we go to YM here, you'll notice YM does not take out this previous low.
+[05:39] And you can see how it shows that SMT there.
+[05:41] So taking a look at YM, what is YM here?
+[05:44] This is actually a case where YM is a continuation SMT or an SMT between candle three and candle
+[05:51] two.
+[05:52] It is a bit messy.
+[05:53] And that's why I would prefer to take a look at this on NQ and focus on the reversal SMT
+[05:59] as this candle three gives a much cleaner expansion.
+[06:02] Let's get into another example.
+[06:04] Now one quick example here, I did say that I do prefer to trade the continuation in candle
+[06:09] three and candle four, but I know many of you like to trade the reversal in candle two.
+[06:14] So how do we use SMT with that?
+[06:16] Well, first you're going to need a candle that actually supports expansion.
+[06:19] And that's what I mean by finding a setup that is valid before you look for SMT.
+[06:24] Here you can see if we are reversing off of our previous days high, we do have a small
+[06:28] wick which supports expansion.
+[06:31] We have a change in the state of delivery.
+[06:32] And then you can see that reversal SMT, the gold has this SMT with gold Euro, gold pound
+[06:38] here and that supports expansion lower.
+[06:40] So if you want to use SMT on candle two or within the reversal candle before the closure,
+[06:48] it has to support expansion lower.
+[06:50] Let's see how this works out.
+[06:52] Get that expansion to the EQ, it fails the EQ and then takes out that previous lows or
+[06:57] those targets down there.
+[06:59] So hopefully that makes sense.
+[07:00] If you are going to trade the reversal, you need to have the proper framework for it.
+[07:06] So here we are in another example.
+[07:08] And this is what I want to show you with it needs to have a proper framework first before
+[07:12] you look for SMT.
+[07:13] If we're taking a look at this asset here, gold, you can see we do have a candle to closure.
+[07:18] Do we have an hourly change in the state of delivery?
+[07:20] I find the high, I find a series of candles that made that high, we have yet to close
+[07:24] below this level.
+[07:26] So we don't have a change in the state of delivery yet.
+[07:29] So when looking at correlated assets, yes, I have an SMT here as the correlated asset
+[07:34] has made a lower high, well, gold has made a higher high, but I do not care about that
+[07:39] SMT because I'm not finding SMT and then applying a framework to it.
+[07:44] I'm finding a framework and then applying SMT to that.
+[07:48] So what would I need to wait for?
+[07:50] I would need to wait for an hourly change in the state of delivery.
+[07:53] You can see we do get that change in the state of delivery.
+[07:56] Then it marks out the SMT, right?
+[07:58] So you notice we have to have the proper framework before we can look for an SMT.
+[08:03] There we do get expansion into the low, a retracement and then a continuation into that
+[08:08] further low.
+[08:09] There are more advanced things to do if you do want to trade like this, but it just becomes
+[08:13] a lot more difficult than it needs to be.
+[08:15] So I like to keep it simple.
+[08:17] If my model has not formed, I do not look for SMT yet.
+[08:21] Here we are on NQ.
+[08:23] We have a candle to closure on the daily.
+[08:26] We have an SMT and a change in the state of delivery.
+[08:29] So we have a valid model to be looking lower here.
+[08:33] Let's see what happens.
+[08:35] We open low first and then we trade higher and invalidate this setup.
+[08:40] So what does this mean?
+[08:41] Just because you see a valid setup and an SMT doesn't mean that it's going to work.
+[08:46] You still need that intraday confirmation.
+[08:48] That price is going to either open, form a new protected swing and trade lower or open,
+[08:54] make a new protected swing and then trade lower.
+[08:57] If we look at how we formed intraday here or the daily profile, we open low first and
+[09:02] then expanded higher invalidating that EQ, thus invalidating the possibility for me to
+[09:08] look for a bearish expansion.
+[09:10] So just because you see SMT doesn't mean everything's going to work.
+[09:14] Nothing works 100% of the time.
+[09:17] So here we are in our next example.
+[09:18] We are on USD CAD.
+[09:20] So I would be looking for the dollar for SMT.
+[09:23] Here you can see we have a candle to closure.
+[09:26] We have an hourly change in the state of delivery.
+[09:29] There is no reversal SMT or SMT between candle one and two.
+[09:33] So the only way that we look for an SMT is between the correlated asset, right on the
+[09:39] continuation.
+[09:40] Let's see what happens.
+[09:44] Here you can see now dollar has taken out this previous high.
+[09:49] So there is an SMT between this current day's high and the previous day high with dollar.
+[09:55] So this is a continuation SMT showing that if we have the intraday confirmation, there's
+[10:00] more confluence to see this to trade lower.
+[10:03] You can see we reverse and we get a continuation lower into the targets below.
+[10:09] So the difference between a reversal SMT and a continuation SMT is a reversal SMT would
+[10:15] form at the reversal or candle one and candle two.
+[10:19] A continuation SMT is an SMT between candle two and candle three or on the lower time
+[10:25] frames, this high and this high here, which is marked out via my indicator.
+[10:29] So let's take a look at another example.
+[10:32] So here's another example of a continuation SMT.
+[10:35] So you can see we have a candle to closure.
+[10:38] It is still a bullish closure.
+[10:40] So we want to wait for more confirmation intraday just because I don't have as much confidence
+[10:45] in this setup.
+[10:46] So let's let this play forward.
+[10:48] And you can see yes and NQ are already taking out this previous high.
+[10:54] So does that tell us we want to trade this lower?
+[10:57] No, not yet.
+[10:58] We still need that intraday confirmation or for a reversal to form.
+[11:01] And here you can see we get a sweep of this little consolidation, a nice candle to closure.
+[11:09] And that is an intraday reversal.
+[11:12] And we're using this continuation SMT as a confluence for this move or seeing that YM
+[11:18] hasn't taken out its previous day high while yes and NQ have.
+[11:22] Let's see how this works out.
+[11:23] We get a continuation lower.
+[11:25] So you can see in just review a continuation SMT is showing that the other assets.
+[11:30] So if we go to yes or NQ, you can see that they are above their previous days high while
+[11:36] YM is not above that previous day high.
+[11:39] And there is a divergence at an important level.
+[11:42] Here we are in our final example.
+[11:44] And this is an example of a double SMT.
+[11:47] Now, what is that?
+[11:49] That is when we have a reversal between candle to and candle one or that reversal SMT in a
+[11:54] reversal between candle to and candle three or that continuation SMT.
+[11:59] And you can see this price action here is quite messy.
+[12:02] And so having these double SMTs in terms of participating in this price or even looking
+[12:07] for a setup.
+[12:09] So let's see what happens.
+[12:10] Once again, this alone does not mean that I'm looking for a setup.
+[12:14] I want to see that intraday confirmation or the wick high of the daily form before I can
+[12:19] trade away from it.
+[12:20] And here you can see intraday, we form a new continuation SMT right there.
+[12:25] So I could look for price to trade lower from here, or I could go down to a lower time frame
+[12:30] and look for a further continuation.
+[12:32] But there is where we would get to our, let's see if we can get that.
+[12:36] We do.
+[12:37] And you can see we got a further continuation as we traded back up into this fair value gap
+[12:42] and then formed another continuation out of that.
+[12:44] So even if we miss the intraday reversal, we could have got the continuation towards London
+[12:50] or even into early New York before we expand lower.
+[12:54] Now I hope this video was helpful and you understand what a reversal versus a continuation
+[13:00] SMT looks like within my fractal model and what a double SMT looks like.
+[13:05] Once again, I want you to remember, you don't just look for an SMT and then randomly apply
+[13:10] it to a model.
+[13:12] You first want to have an actual framework and a model you are looking for, then look
+[13:16] to apply that SMT.
+[13:17] But with that said, I hope you enjoyed and I'll see you guys next week.
+[13:21] Have a good one.

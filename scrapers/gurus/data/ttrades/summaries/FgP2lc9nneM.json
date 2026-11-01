@@ -1,0 +1,267 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "FgP2lc9nneM",
+    "title": "The Best Timeframe for TTrades Fractal Model (Simple)",
+    "url": "https://www.youtube.com/watch?v=FgP2lc9nneM",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/FgP2lc9nneM.json"
+  },
+  "stats": {
+    "word_count": 3593,
+    "duration_seconds": 997.32,
+    "segments": 320,
+    "concepts_detected": 7,
+    "candidate_strategies": 4
+  },
+  "concept_mentions": {
+    "Liquidity": 2,
+    "Fair Value Gap": 12,
+    "TTrades Fractal Model": 3,
+    "Candle 3 Setup": 20,
+    "Protected Swing": 5,
+    "CISD": 1,
+    "Daily Bias": 3
+  },
+  "spoken_time_references": [
+    "10 AM"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 114.28,
+          "end": 122.36,
+          "text": "And then we'd only look to trade this third expansion candle if the drawn liquidity has yet to be met. So from here, we're going to look at the London reversal.",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 10
+        }
+      ]
+    },
+    {
+      "name": "High or Low of Day",
+      "evidence": [
+        {
+          "start": 843.32,
+          "end": 855.32,
+          "text": "So we can look to trade on the open of candle for my stop on the low and then look for two or where can we be looking for this or higher timeframe targets, right? Which would be this high of day.",
+          "concepts": [],
+          "strategies": [
+            "High or Low of Day"
+          ],
+          "score": 6
+        }
+      ]
+    },
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 343.72,
+          "end": 351.56,
+          "text": "So now that all my timeframes are aligned, I can look for this continuation entry. My entry is at the market of the new open. My stop is at that protected low.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 12
+        },
+        {
+          "start": 414.56,
+          "end": 423.64,
+          "text": "to trade that continuation higher. And this is how you align all of those timeframes together. The easiest expansions occur when you trade candle three on multiple different timeframes.",
+          "concepts": [
+            "Candle 3 Setup"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 12
+        },
+        {
+          "start": 784.44,
+          "end": 792.32,
+          "text": "Here is a continuation right there as price reaches into the fair value gap, closes over. You could trade that higher, but we're more interested in trading those",
+          "concepts": [
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 13
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 836.32,
+          "end": 843.32,
+          "text": "We form a continuation. We have a new protected swing in candle three. So that is giving us a new invalidation.",
+          "concepts": [
+            "Candle 3 Setup",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 14
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 19.8,
+      "end": 30.36,
+      "text": "for a swing point and the 15 minute timeframe for entry. So let's get into the PDF and then go into a few trading view examples. So the first step is to have a clear daily bias.",
+      "concepts": [
+        "Daily Bias"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 35.12,
+      "end": 42.64,
+      "text": "get that daily bias. So ideally I'm going to be looking for a point of interest, either a low, a high or a fair value gap.",
+      "concepts": [
+        "Fair Value Gap",
+        "Daily Bias"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 114.28,
+      "end": 122.36,
+      "text": "And then we'd only look to trade this third expansion candle if the drawn liquidity has yet to be met. So from here, we're going to look at the London reversal.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 10
+    },
+    {
+      "start": 155.44,
+      "end": 167.72,
+      "text": "Where would that be out of a point of interest? So you can see how price sweeps out all the lows to its left into a fair value gap has a nice V shape reversal and a change in the state of delivery inside this candle.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 222.76,
+      "end": 236.0,
+      "text": "reversed in this candle and we can anticipate price to expand higher in the next candle. We can see into this fair value gap above and higher. So now that we have a daily bias and looking in candle three for a move higher, we can",
+      "concepts": [
+        "Fair Value Gap",
+        "Candle 3 Setup",
+        "Daily Bias"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 343.72,
+      "end": 351.56,
+      "text": "So now that all my timeframes are aligned, I can look for this continuation entry. My entry is at the market of the new open. My stop is at that protected low.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 372.04,
+      "end": 387.16,
+      "text": "If we go ahead and remove these drawings here, you can see we also get another continuation in this candle for it's not as clean, but we do have a nice open low. And then we trade higher before we close and we take out all of these targets over here.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 8
+    },
+    {
+      "start": 414.56,
+      "end": 423.64,
+      "text": "to trade that continuation higher. And this is how you align all of those timeframes together. The easiest expansions occur when you trade candle three on multiple different timeframes.",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 620.72,
+      "end": 632.52,
+      "text": "I want to align multiple expansion candles in one direction. Now, the easiest way to do that is to trade a daily candle three with a four hour candle three and then a protected swing on the 15 minute chart.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 784.44,
+      "end": 792.32,
+      "text": "Here is a continuation right there as price reaches into the fair value gap, closes over. You could trade that higher, but we're more interested in trading those",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 836.32,
+      "end": 843.32,
+      "text": "We form a continuation. We have a new protected swing in candle three. So that is giving us a new invalidation.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 14
+    },
+    {
+      "start": 913.32,
+      "end": 924.32,
+      "text": "But then we can go down to the 15 minute timeframe and do what look for a continuation in that candle three. Here you can see we get that continuation and that provides an entry into this trend",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 12
+    }
+  ],
+  "generated_at": "2026-09-01T19:40:15.223501+00:00"
+}

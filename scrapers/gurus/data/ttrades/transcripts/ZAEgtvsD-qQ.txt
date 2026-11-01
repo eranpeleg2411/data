@@ -1,0 +1,143 @@
+[00:00] I was going to everyone and welcome back to another video.
+[00:13] In this video we are going to talk about PSP.
+[00:16] I have received a lot of requests for this video following the update of my indicator,
+[00:20] so let's get into the video.
+[00:21] As we've talked about before in my SMT video, correlated markets should have the same structure.
+[00:27] So you can see here with some higher time from candles, this candle took out the previous
+[00:31] candles high and closed back inside forming a candle to closure.
+[00:35] This candle took out the previous high and closed back inside also forming a candle to
+[00:39] closure.
+[00:40] We know that SMT is when there is a divergence between these assets, so one asset would
+[00:45] not take out the high while the other would.
+[00:47] So what is a PSP?
+[00:49] A PSP is when we still have that same structure, but one candle is closing a different color.
+[00:56] This is just like a little SMT clue or a little divergence between the closures of these candles.
+[01:03] So when you see correlated assets with different candle closures, that is what a PSP is.
+[01:09] Now where do I actually look for a PSP?
+[01:12] I'm only going to look for a PSP within a valid fractal model, so either with a candle
+[01:17] 2 or a candle 3 closure, I will be looking for one.
+[01:21] I'm simply going to use the PSP as a confirmation, adding more confluence to an existing model,
+[01:27] not trying to use it to form a model.
+[01:30] So there are two types of PSP that I look for.
+[01:33] That will be a candle one PSP and a candle two PSP.
+[01:37] A candle one PSP is within an existing model.
+[01:40] So here you can see we have a candle to closure candle one closes a different color than its
+[01:46] correlated asset.
+[01:47] Right here.
+[01:48] A down close candle, the correlated market or correlated asset has a bullish green candle.
+[01:54] Those are different.
+[01:55] So that would be a candle one PSP.
+[01:58] A candle to PSP is when the correlated market closes a different color on candle to.
+[02:04] So here in candle one, you can see they are both up close candles.
+[02:08] But in candle to here, we have a bearish candle paired with a bullish candle.
+[02:13] So that is what a PSP is.
+[02:16] Now you can also combine this with SMT.
+[02:19] So here you can see we have that same structure of a candle to PSP.
+[02:23] And then we have the SMT.
+[02:25] Once again, these are all just confluences to be used within an existing model.
+[02:29] I'm not trying to use these concepts alone to frame a trade.
+[02:33] I'm only using it within an existing fractal model as extra confluence between correlated
+[02:39] assets.
+[02:41] So now that you understand what it looks like, let's go hop into Trading View and go over
+[02:44] a few examples of this.
+[02:46] So here we are in our first example, and we have ES and NQ here.
+[02:51] Now with correlated assets, I can use for Aztec, the S&P or the Dow Jones.
+[02:57] I use all three personally.
+[02:58] But what do we notice here?
+[03:00] We have a candle to closure, right on either asset here.
+[03:04] And then we are forming another candle to closure here.
+[03:07] So we have in a model forming a valid fractal model.
+[03:11] What do we notice about candle one here?
+[03:13] This is a green candle and this is a black candle, right?
+[03:17] So there is a difference in the closures between these.
+[03:20] So this is a candle one PSP because within this fractal model, this candle to closure,
+[03:26] there is a difference in candle closures here.
+[03:29] This is bearish.
+[03:30] This is bullish.
+[03:31] Now, if we check YM here, we can also notice that we have a candle to PSP as this is a
+[03:38] bullish candle.
+[03:39] This is a bearish candle.
+[03:41] So let's go into NQ here.
+[03:43] We'll go ahead and put on my indicator and go down to the aligned timeframe.
+[03:47] And after we let this print, what do we get?
+[03:49] We have a candle to closure.
+[03:51] And you can see we have a PSP on candle one and on candle two.
+[03:56] So it gets displayed that way.
+[03:57] I can hover over it, see that this with ESN, YM here and just with YM here.
+[04:02] And what would we then look for?
+[04:04] Or how do I actually use that?
+[04:06] It's just an additional confluence to a model.
+[04:09] It can help give me confidence in trading away from these levels.
+[04:12] What would we look for?
+[04:14] Just like in my previous video or the intra candle change in the state delivery price
+[04:18] opens, forms a high, now forms a new protected swing.
+[04:22] So that is our intra candle change in the state delivery that gives us a stop loss.
+[04:26] And then we could look to get on side with this move lower for the expansion
+[04:30] candle and candle three, right?
+[04:33] And as we continue lower, let's let this candle finish.
+[04:37] And there we go.
+[04:38] We get a nice expansion lower with new protected swings.
+[04:42] A PSP is very simple.
+[04:44] It is just a difference in closures between assets.
+[04:47] So here on Nasdaq, if this is a bearish candle and it has a PSP, that means YM
+[04:53] here closed bullish, right?
+[04:55] And so we take a look at this candle.
+[04:56] It is bullish there.
+[04:58] And if we go back to NQ, if this is bullish here, it shows PSP.
+[05:03] That means these assets here closed bearish, but it's just a difference in the
+[05:07] closures between assets.
+[05:10] So here we are in another example of what PSP is.
+[05:14] You can see we are on the daily and hourly chart.
+[05:16] We have Nasdaq here on the left and the Dow on the right.
+[05:20] Now we're always going to focus on these higher timeframe candles, right?
+[05:23] We're not trying to really look for PSP.
+[05:25] Just in all these random little candles, we want it to be aligned with a fractal
+[05:28] model using these higher timeframe candles.
+[05:31] So what do we notice?
+[05:32] We have a candle to closure.
+[05:33] We have a change in the state of delivery.
+[05:35] Everything is valid for a fractal model here.
+[05:38] That is when we can then look for a PSP.
+[05:41] So what do I have on this candle to let me look at the same candle to on this
+[05:45] correlated asset, it is closing bullish while this one is closing bearish.
+[05:50] So that is a PSP.
+[05:52] Now you notice I also have a PSP here on candle one.
+[05:55] What does that mean?
+[05:56] It means here on YM, there will be a bullish closure.
+[06:00] You can see on that candle one, that same timeframe candle.
+[06:03] We have a bullish closure while this one is bearish.
+[06:07] So what could that give us?
+[06:09] We don't have SMT up here at the reversal, but that can give us an extra
+[06:13] confluence of a reversal using PSP.
+[06:16] So as we let this continue ahead, you can see we form a new protected swing.
+[06:24] And you can see why I'm is now taking out this previous high on candle to, so we
+[06:29] get that continuation SMT that is printing.
+[06:31] We have a new protected swing and we trend lower.
+[06:34] So you can see this fractal model.
+[06:37] We need everything to be valid.
+[06:39] That's CISD.
+[06:40] Everything has to form.
+[06:42] Then we look for PSP.
+[06:43] I'm not going to randomly look for PSP unless it is in an existing model.
+[06:48] So here we are in our final example.
+[06:50] I know this is a short video, but there isn't really too much to talk about.
+[06:53] It's a fairly simple concept once you learn it.
+[06:56] And so we don't need a super long video explaining this.
+[06:59] So it is fractal though.
+[07:01] So here we are on the daily and monthly model.
+[07:03] And you can see we have a PSP here on candle to why is that?
+[07:08] Well, by taking a look at this same time frame candle, what do I mean?
+[07:12] The June candle right here closed bearish.
+[07:15] If we look at the June candle on why I'm here, it closed bullish.
+[07:19] Right.
+[07:19] And you can see that by hovering over in it.
+[07:21] So we have a candle to closure, right?
+[07:24] It's not very great price action in here.
+[07:26] So this SMT and the PSP really help with the confluence and then a new
+[07:31] protected swing where we get this breakout lower into the previous monthly lows.
+[07:36] So this is a very simple example, but I wanted to show you that it is fractal
+[07:40] and you can use it on any time frames as long as there is a valid existing
+[07:44] fractal model with that.
+[07:45] I hope you enjoyed this video.
+[07:47] I'll see you guys in the next one.
+[07:49] Have a good one.

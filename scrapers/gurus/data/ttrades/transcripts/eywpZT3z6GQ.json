@@ -1,0 +1,1649 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "eywpZT3z6GQ",
+    "title": "TTrades Scalping Model - Simple Day Trading Strategy",
+    "url": "https://www.youtube.com/watch?v=eywpZT3z6GQ",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "model": "small",
+  "device": "cpu",
+  "language": "en",
+  "text": "How's it going everyone? In this video we are going to talk about scalping using the t-trades fractal model. We'll talk about how to use higher time frame analysis, time frame alignment, all the way from bias to entry. Let's get into the PDF. So for scalping we still want to align with a higher time frame candle. Now generally this is always going to be the daily time frame but for scalping we're using much lower time frames so we're going to focus on the hourly chart. So we want to be able to anticipate where this next hourly candle is going to go. The easiest way to do that is to have a candle to closure on the hourly or a candle three closure and be able to anticipate an expansion candle that follows. So here you can see we have a fair value gap, internal liquidity to external liquidity, a candle to closure. We have a bullish bias for this next candle. Now using that hourly bias we're going to find a 15 minute swing point. Now simply we are looking for the swing point that forms the hourly low and then looking for a candle to closure there where we can anticipate expansion. Now inside that expansion candle on the 15 minute or where we are expecting price to expand to then we're going to look for a 15 minute and one minute fractal model. So here we have a candle to closure. We have a change in the state of delivery. Then we can be looking for a continuation to allow the wick of this candle three on the 15 minute to form its wick. And then we can be waiting for a continuation on the one minute timeframe to form the wick of the higher timeframe candle and from there look to get on side. And so what are we actually doing here? We are trading the body of the hourly candle using a 15 minute and one minute fractal model. So let's get into trading view and go over a few examples of this. So here we are in our first example. It is important to know we're in a daily bullish trend on gold here. And what do we have? We have expansion into a consolidation. Now a consolidation is a continuation signature to me. So I'd be more interested in a sweep of the low to go higher versus a sweep of a high to go lower. And we also have this gap that's overlapping that. So if we're taking a look at it, this is a good point of interest or a move higher. Now we're on the hourly chart because we want to have an hourly bias before we go down and look for a 15 minute swing and a one minute entry. So as we let this continue, what do we have? We have a candle to closure off of this low. So taking a look at this with context, we have an hourly sweep here opposing the order flow. This is where we can look for a move higher in this next candle and even the next candle. But let's take a look and see if we have a 15 minute swing point. So taking a look here, we do not have a 15 minute swing point that I am willing to trade. I could trade this technically in candle for, but I'm going to wait for a valid swing point within my model. And you see, we go ahead and take the highs before we can get on side with that. And that is okay. It's less ideal. But what do I want to be looking for? Are we going to form a reversal at this high? Or are we going to get a retracement to continue higher consolidation? In which case we can repeat the process we just went over. So what am I going to do to do that? This candle tells me reversal or retracement, right? Very aggressive move back in. I want to give it another candle. And here you can see now we have a 15 minute swing point and it is filling both of these fair value gaps right here. So we have a small wick on the hourly timeframe, which supports expansion. And if we go back to the hourly timeframe, yes, we did not close the greatest here, but we identified that this is not a reversal off the high, the lower timeframes or the 15 minute swing point is forming the wick of this hourly candle. So when we go back to the 15 minute timeframe, we can use this as a candle to closure that close back inside the previous candles low. Well, then we can go down to the one minute. And so from here, we are going to be looking to trade the 15 minute and one minute fractal model in line with this hourly open, low, high clothes or bullish expansion candle. Let's go ahead and remove all these drawings and clear it up. We have some pretty clean highs right here. Let's see how we could get on side. You can see we open up, we have the confirmation and we reach into a fair value gap here. So I'd be looking for what a continuation entry. Now, do we get that closure over? No, let's see if we get a closure over on the next candle or so if we can get that, or if we're going to make a new low and we do get that closure over. So this is something I'd be willing to take an entry on, put my stop on the low and then be looking for two are. Now I'm not too concerned about not taking profit here, but I am willing to see how price reacts in this area. If I do not want that risk to reward, I could look for a retest, right? And then look to get to our to the high. It just depends on what you want to do. Do you want to be in the trade or are you willing to let this trade leave you? Let's see. You can see we get a consolidation. We trade higher and we do hit our two are there. So just review, we're trading an hourly expansion candle. You need the bias or the narrative for this hourly candle to expand. And then you're looking to align a 15 minute and one minute fractal model with that. And that's how you're scalping with context. Then we're just going to use protected swings, which I've taught about in multiple other YouTube videos to get on side with this move higher. Let's get into another example. So here we are in our next example on why am on the hourly chart. If you notice, we have expansion down in a very shallow move against into a fair value up here. And we have some equal lows resting below, right? This fair value up as well as this low right here. So this gives us context for this candle closure right here, this candle to closure to be able to trade it lower in this candle three. So if we're anticipating the hourly to expand lower, what can we then do? Go down to the 15 minute timeframe. Here you can see we're on the 15 minute timeframe. We have a nice expansion and this is getting bought back up. So we want to see that this fair value gap holds right here. It's very small. Let's see if we get a candle closure that aligns with that. And we do right. Take out this candle with no wick. We have a candle to closure. And now what do we have? We have a candle to closure. So we have a candle three on the 15 minute also aligning with a candle three on the hourly. So we can go down to the one minute timeframe and see if we can get on side with this move lower. So here we are. Let's see if there's anything that sets up as we let this print. We don't want to see price trade above this area. So we'd want to see price trade into this fair value up or see if we can get an open high low close. Let's see what happens. And you can see price doesn't trade into our point of interest before trading lower. So this is something that I would miss here. And could I trade it below the lows? Sure. But it's just not something I prefer to do. Right. Because this is where we can get a new phase of price. Let's see where our targets are all the way down here. But is a option. If I wanted to, I could trade this continuation into these lows here. But this is generally the entry I want to see. Let's see how this works out. If we get stopped out or it works out. And you can see it takes its sweet time. But we do finally get that move lower on the continuation. Now this would have been the A plus entry. If we could have gotten something that looked a little bit like this, where we have a candle, it digs its wick up into there and then a continuation lower. We didn't get that. So then once we take out these short term lows, we have to look for the phases of price. Is this a reversal? No. That is a retracement. So then that is a valid continuation to look for a trade lower. And that's why it's important to notice your higher timeframe targets. If we weren't looking for this higher timeframe target, we most likely would have not looked for this trade as it had already traded below the short term lows. But just to review, we have an hourly swing point and then I'm looking to trade the continuation inside that candle three or inside that candle four. Did you do that? I'll go down to the 15 minute timeframe and look for a swing point. So you can see getting entry into that candle three. And this one could have even provided another entry. As you can see, we have another swing point in there. If I go down to the one minute, do we have another entry? Well, we possibly could have traded this in here, right? This continuation right here as it breaks down and that could have been another possibility for an entry. So let's get into another example. So here we are in one more example. And what do we have? We have this little consolidation range, which we had taken out the low and then we have expanded through the high. And once again, when we're at the high of a consolidation range and we are bullish, we want to see, do we form a reversal here or do we have a retracement or a consolidation? A retracement or a consolidation is a continuation signature. So if you're bullish, you want to see that. What do we have? We have this gap here, right? An hourly gap, so hourly internal to external and we could be looking to trade this higher. Now opening up candle three on the hourly at noon, then we would want to be going down to the 15 minute timeframe. Now, do we have a swing point going into this? Yes, right? We have what? This candle to closure wasn't super great, but then we have another candle to closure right here. Now, this alone, I would not trust as a candle to closure as it is a bearish candle. But when candle three prints and engulfs all of these candles right here or this candle in the body, you're there. I'm then now trusting that as long as the EQ is respected here, we can trade this higher because it's the open of a new hourly candle. So we want to see open low, high close of the hourly and the same thing on the 15 minute. So we can drop down to the one minute timeframe. But down here on the one minute timeframe, we'll remove all of our drawings to clear it up. And what do we have? You know, we have a bit of a model forming in both directions, but going into this new higher timeframe candle, you notice how we already have a protected swing going into the open. This means we can anticipate that this low should hold before the open of the new higher time frame candle. And that makes sense because it's below the EQ. So I could position at the open of the new higher time frame candle and look for two are that way. How else could we have do this? Well, we could do it by waiting for a continuation in that new higher time frame candle. Let's see how both of these work out. So here you can see we open up. We're reaching into this fair value up here and filling this one up here as well. Do we form a continuation? Let's see. Right. And there you go and see, we do form a continuation. I was replaying it a bit quickly, but you could use either level here. So either entering on this close through with your stop there, looking for two are, which gives relatively the same entry, or you could look for the retest as well. Let's see how this works out. You can see there, both TPs would have hit. So just to review, we have an hourly candle three, in which case we're expecting expansion. Then we're looking for a swing point on the lower time frame. Here we have a candle for continuation, right? And we have a protected swing right at the end of candle three. So either of these entries would work and you can trade that higher. And just to see it on the hourly, you're trading the 15 minute and one minute swing point inside the wick or what's forming the wick of this higher timeframe expansion candle from internal to external on the hourly chart. Now, in our final example here, this is going to be an advanced version of this, where you can actually trade the reversal candles. If you want to, it's just more complex and takes a deeper understanding of open high, low, close and wick size. So I will show this example, but for the majority of people, I would say, don't really focus on this example. So you can see here, we've had expansion down and a consolidation, right? We've remained internal to this range for quite some time. By taking out the range high, we could be looking to the range low. Now we're coming up on 930. So we will go down to the 15 minute timeframe. And our whole goal is to watch how the open plays and then see if that's supported by the hourly candle and the 15 minute candle. So there's a few ways to approach it. We can one, let open play out, which here it is. And you can see we're having that 15 minute change in the state of delivery here. Or we can go down and look inside this, but mainly the hourly is supporting expansion to the downside. So with this bearish candle, three closure, I could be looking into this lower timeframe. And then what am I looking for? A continuation right here. We have a fair value gap. So we can go ahead and mark that out. And a continuation right here. And then you can see we have another fair value gap and a new continuation right here. So we're opening up candle three with a protected swing right there. So we could be looking for an entry on the open. I could put my stop on that protected swing and then looking for two are or the other side of the consolidation, which is quite a bit lower. Let's see what happens. And there you can see we do hit two are now the main thing I want to show here is if we go back to right before we hit our TP, this hourly candle supports expansion and it's supported by a 930. Right. It has a small opposing run creates this protected swing and trades away. So when you get this 15 minute closure, right, this is the reversal candle on the hourly, which is more advanced. It's harder to trade, but everything is aligned. This supports expansion lower. This supports expansion lower and I'm trading a continuation. Now, if we go back to the 15 minute timeframe, you can see we can take our target right in there or look for these consolidation lows like so. And that is an example of a more advanced entry because you are trading candle to here, which is a lot more difficult. But with that, I hope you enjoyed this video. If you did, please consider liking and subscribing. And if you want access to the free PDF shown here today, please visit my website. It's linked in the description below and you can access all the materials there. I'll see you guys next time. Have a good one.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "text": "How's it going everyone?"
+    },
+    {
+      "id": 1,
+      "start": 12.0,
+      "end": 16.72,
+      "text": "In this video we are going to talk about scalping using the t-trades fractal model."
+    },
+    {
+      "id": 2,
+      "start": 16.72,
+      "end": 20.9,
+      "text": "We'll talk about how to use higher time frame analysis, time frame alignment, all the way"
+    },
+    {
+      "id": 3,
+      "start": 20.9,
+      "end": 23.44,
+      "text": "from bias to entry."
+    },
+    {
+      "id": 4,
+      "start": 23.44,
+      "end": 24.68,
+      "text": "Let's get into the PDF."
+    },
+    {
+      "id": 5,
+      "start": 24.68,
+      "end": 28.72,
+      "text": "So for scalping we still want to align with a higher time frame candle."
+    },
+    {
+      "id": 6,
+      "start": 28.72,
+      "end": 32.68,
+      "text": "Now generally this is always going to be the daily time frame but for scalping we're using"
+    },
+    {
+      "id": 7,
+      "start": 32.68,
+      "end": 36.52,
+      "text": "much lower time frames so we're going to focus on the hourly chart."
+    },
+    {
+      "id": 8,
+      "start": 36.52,
+      "end": 40.92,
+      "text": "So we want to be able to anticipate where this next hourly candle is going to go."
+    },
+    {
+      "id": 9,
+      "start": 40.92,
+      "end": 45.64,
+      "text": "The easiest way to do that is to have a candle to closure on the hourly or a candle three"
+    },
+    {
+      "id": 10,
+      "start": 45.64,
+      "end": 49.32,
+      "text": "closure and be able to anticipate an expansion candle that follows."
+    },
+    {
+      "id": 11,
+      "start": 49.32,
+      "end": 54.28,
+      "text": "So here you can see we have a fair value gap, internal liquidity to external liquidity,"
+    },
+    {
+      "id": 12,
+      "start": 54.28,
+      "end": 55.76,
+      "text": "a candle to closure."
+    },
+    {
+      "id": 13,
+      "start": 55.76,
+      "end": 58.24,
+      "text": "We have a bullish bias for this next candle."
+    },
+    {
+      "id": 14,
+      "start": 58.24,
+      "end": 62.56,
+      "text": "Now using that hourly bias we're going to find a 15 minute swing point."
+    },
+    {
+      "id": 15,
+      "start": 62.56,
+      "end": 67.48,
+      "text": "Now simply we are looking for the swing point that forms the hourly low and then looking"
+    },
+    {
+      "id": 16,
+      "start": 67.48,
+      "end": 71.32,
+      "text": "for a candle to closure there where we can anticipate expansion."
+    },
+    {
+      "id": 17,
+      "start": 71.32,
+      "end": 75.36,
+      "text": "Now inside that expansion candle on the 15 minute or where we are expecting price to"
+    },
+    {
+      "id": 18,
+      "start": 75.36,
+      "end": 80.24,
+      "text": "expand to then we're going to look for a 15 minute and one minute fractal model."
+    },
+    {
+      "id": 19,
+      "start": 80.24,
+      "end": 82.04,
+      "text": "So here we have a candle to closure."
+    },
+    {
+      "id": 20,
+      "start": 82.04,
+      "end": 84.08,
+      "text": "We have a change in the state of delivery."
+    },
+    {
+      "id": 21,
+      "start": 84.08,
+      "end": 88.2,
+      "text": "Then we can be looking for a continuation to allow the wick of this candle three on"
+    },
+    {
+      "id": 22,
+      "start": 88.2,
+      "end": 90.52,
+      "text": "the 15 minute to form its wick."
+    },
+    {
+      "id": 23,
+      "start": 90.52,
+      "end": 94.24,
+      "text": "And then we can be waiting for a continuation on the one minute timeframe to form the wick"
+    },
+    {
+      "id": 24,
+      "start": 94.24,
+      "end": 97.84,
+      "text": "of the higher timeframe candle and from there look to get on side."
+    },
+    {
+      "id": 25,
+      "start": 97.84,
+      "end": 99.6,
+      "text": "And so what are we actually doing here?"
+    },
+    {
+      "id": 26,
+      "start": 99.6,
+      "end": 105.64,
+      "text": "We are trading the body of the hourly candle using a 15 minute and one minute fractal model."
+    },
+    {
+      "id": 27,
+      "start": 105.64,
+      "end": 109.24,
+      "text": "So let's get into trading view and go over a few examples of this."
+    },
+    {
+      "id": 28,
+      "start": 109.24,
+      "end": 111.56,
+      "text": "So here we are in our first example."
+    },
+    {
+      "id": 29,
+      "start": 111.56,
+      "end": 115.48,
+      "text": "It is important to know we're in a daily bullish trend on gold here."
+    },
+    {
+      "id": 30,
+      "start": 115.48,
+      "end": 116.48,
+      "text": "And what do we have?"
+    },
+    {
+      "id": 31,
+      "start": 116.48,
+      "end": 120.0,
+      "text": "We have expansion into a consolidation."
+    },
+    {
+      "id": 32,
+      "start": 120.0,
+      "end": 122.96,
+      "text": "Now a consolidation is a continuation signature to me."
+    },
+    {
+      "id": 33,
+      "start": 122.96,
+      "end": 128.2,
+      "text": "So I'd be more interested in a sweep of the low to go higher versus a sweep of a high"
+    },
+    {
+      "id": 34,
+      "start": 128.2,
+      "end": 129.2,
+      "text": "to go lower."
+    },
+    {
+      "id": 35,
+      "start": 129.2,
+      "end": 132.28,
+      "text": "And we also have this gap that's overlapping that."
+    },
+    {
+      "id": 36,
+      "start": 132.28,
+      "end": 137.28,
+      "text": "So if we're taking a look at it, this is a good point of interest or a move higher."
+    },
+    {
+      "id": 37,
+      "start": 137.28,
+      "end": 141.52,
+      "text": "Now we're on the hourly chart because we want to have an hourly bias before we go down"
+    },
+    {
+      "id": 38,
+      "start": 141.52,
+      "end": 144.88,
+      "text": "and look for a 15 minute swing and a one minute entry."
+    },
+    {
+      "id": 39,
+      "start": 144.88,
+      "end": 147.68,
+      "text": "So as we let this continue, what do we have?"
+    },
+    {
+      "id": 40,
+      "start": 147.68,
+      "end": 150.72,
+      "text": "We have a candle to closure off of this low."
+    },
+    {
+      "id": 41,
+      "start": 150.72,
+      "end": 155.0,
+      "text": "So taking a look at this with context, we have an hourly sweep here opposing the order"
+    },
+    {
+      "id": 42,
+      "start": 155.0,
+      "end": 156.0,
+      "text": "flow."
+    },
+    {
+      "id": 43,
+      "start": 156.0,
+      "end": 160.36,
+      "text": "This is where we can look for a move higher in this next candle and even the next candle."
+    },
+    {
+      "id": 44,
+      "start": 160.36,
+      "end": 164.48,
+      "text": "But let's take a look and see if we have a 15 minute swing point."
+    },
+    {
+      "id": 45,
+      "start": 164.48,
+      "end": 168.84,
+      "text": "So taking a look here, we do not have a 15 minute swing point that I am willing to trade."
+    },
+    {
+      "id": 46,
+      "start": 169.16,
+      "end": 173.96,
+      "text": "I could trade this technically in candle for, but I'm going to wait for a valid swing point"
+    },
+    {
+      "id": 47,
+      "start": 173.96,
+      "end": 175.2,
+      "text": "within my model."
+    },
+    {
+      "id": 48,
+      "start": 175.2,
+      "end": 180.28,
+      "text": "And you see, we go ahead and take the highs before we can get on side with that."
+    },
+    {
+      "id": 49,
+      "start": 180.28,
+      "end": 181.56,
+      "text": "And that is okay."
+    },
+    {
+      "id": 50,
+      "start": 181.56,
+      "end": 182.56,
+      "text": "It's less ideal."
+    },
+    {
+      "id": 51,
+      "start": 182.56,
+      "end": 184.52,
+      "text": "But what do I want to be looking for?"
+    },
+    {
+      "id": 52,
+      "start": 184.52,
+      "end": 187.0,
+      "text": "Are we going to form a reversal at this high?"
+    },
+    {
+      "id": 53,
+      "start": 187.0,
+      "end": 191.0,
+      "text": "Or are we going to get a retracement to continue higher consolidation?"
+    },
+    {
+      "id": 54,
+      "start": 191.0,
+      "end": 194.36,
+      "text": "In which case we can repeat the process we just went over."
+    },
+    {
+      "id": 55,
+      "start": 194.36,
+      "end": 196.12,
+      "text": "So what am I going to do to do that?"
+    },
+    {
+      "id": 56,
+      "start": 196.12,
+      "end": 198.88,
+      "text": "This candle tells me reversal or retracement, right?"
+    },
+    {
+      "id": 57,
+      "start": 198.88,
+      "end": 200.2,
+      "text": "Very aggressive move back in."
+    },
+    {
+      "id": 58,
+      "start": 200.2,
+      "end": 202.72,
+      "text": "I want to give it another candle."
+    },
+    {
+      "id": 59,
+      "start": 202.72,
+      "end": 208.0,
+      "text": "And here you can see now we have a 15 minute swing point and it is filling both of these"
+    },
+    {
+      "id": 60,
+      "start": 208.0,
+      "end": 210.24,
+      "text": "fair value gaps right here."
+    },
+    {
+      "id": 61,
+      "start": 210.24,
+      "end": 214.12,
+      "text": "So we have a small wick on the hourly timeframe, which supports expansion."
+    },
+    {
+      "id": 62,
+      "start": 214.12,
+      "end": 219.12,
+      "text": "And if we go back to the hourly timeframe, yes, we did not close the greatest here, but"
+    },
+    {
+      "id": 63,
+      "start": 219.12,
+      "end": 224.24,
+      "text": "we identified that this is not a reversal off the high, the lower timeframes or the 15"
+    },
+    {
+      "id": 64,
+      "start": 224.76,
+      "end": 227.6,
+      "text": "minute swing point is forming the wick of this hourly candle."
+    },
+    {
+      "id": 65,
+      "start": 227.6,
+      "end": 232.44,
+      "text": "So when we go back to the 15 minute timeframe, we can use this as a candle to closure that"
+    },
+    {
+      "id": 66,
+      "start": 232.44,
+      "end": 235.08,
+      "text": "close back inside the previous candles low."
+    },
+    {
+      "id": 67,
+      "start": 235.08,
+      "end": 237.88,
+      "text": "Well, then we can go down to the one minute."
+    },
+    {
+      "id": 68,
+      "start": 237.88,
+      "end": 242.44,
+      "text": "And so from here, we are going to be looking to trade the 15 minute and one minute fractal"
+    },
+    {
+      "id": 69,
+      "start": 242.44,
+      "end": 248.8,
+      "text": "model in line with this hourly open, low, high clothes or bullish expansion candle."
+    },
+    {
+      "id": 70,
+      "start": 248.8,
+      "end": 251.56,
+      "text": "Let's go ahead and remove all these drawings and clear it up."
+    },
+    {
+      "id": 71,
+      "start": 251.56,
+      "end": 253.68,
+      "text": "We have some pretty clean highs right here."
+    },
+    {
+      "id": 72,
+      "start": 253.72,
+      "end": 255.92,
+      "text": "Let's see how we could get on side."
+    },
+    {
+      "id": 73,
+      "start": 255.92,
+      "end": 262.16,
+      "text": "You can see we open up, we have the confirmation and we reach into a fair value gap here."
+    },
+    {
+      "id": 74,
+      "start": 262.16,
+      "end": 265.28,
+      "text": "So I'd be looking for what a continuation entry."
+    },
+    {
+      "id": 75,
+      "start": 265.28,
+      "end": 267.6,
+      "text": "Now, do we get that closure over?"
+    },
+    {
+      "id": 76,
+      "start": 267.6,
+      "end": 271.88,
+      "text": "No, let's see if we get a closure over on the next candle or so if we can get that,"
+    },
+    {
+      "id": 77,
+      "start": 271.88,
+      "end": 276.28,
+      "text": "or if we're going to make a new low and we do get that closure over."
+    },
+    {
+      "id": 78,
+      "start": 276.28,
+      "end": 280.64,
+      "text": "So this is something I'd be willing to take an entry on, put my stop on the low and then"
+    },
+    {
+      "id": 79,
+      "start": 280.64,
+      "end": 283.04,
+      "text": "be looking for two are."
+    },
+    {
+      "id": 80,
+      "start": 283.04,
+      "end": 287.16,
+      "text": "Now I'm not too concerned about not taking profit here, but I am willing to see how price"
+    },
+    {
+      "id": 81,
+      "start": 287.16,
+      "end": 288.72,
+      "text": "reacts in this area."
+    },
+    {
+      "id": 82,
+      "start": 288.72,
+      "end": 292.64,
+      "text": "If I do not want that risk to reward, I could look for a retest, right?"
+    },
+    {
+      "id": 83,
+      "start": 292.64,
+      "end": 294.88,
+      "text": "And then look to get to our to the high."
+    },
+    {
+      "id": 84,
+      "start": 294.88,
+      "end": 296.36,
+      "text": "It just depends on what you want to do."
+    },
+    {
+      "id": 85,
+      "start": 296.36,
+      "end": 300.2,
+      "text": "Do you want to be in the trade or are you willing to let this trade leave you?"
+    },
+    {
+      "id": 86,
+      "start": 300.2,
+      "end": 301.2,
+      "text": "Let's see."
+    },
+    {
+      "id": 87,
+      "start": 301.2,
+      "end": 303.4,
+      "text": "You can see we get a consolidation."
+    },
+    {
+      "id": 88,
+      "start": 303.4,
+      "end": 306.64,
+      "text": "We trade higher and we do hit our two are there."
+    },
+    {
+      "id": 89,
+      "start": 306.64,
+      "end": 310.16,
+      "text": "So just review, we're trading an hourly expansion candle."
+    },
+    {
+      "id": 90,
+      "start": 310.16,
+      "end": 315.0,
+      "text": "You need the bias or the narrative for this hourly candle to expand."
+    },
+    {
+      "id": 91,
+      "start": 315.0,
+      "end": 319.12,
+      "text": "And then you're looking to align a 15 minute and one minute fractal model with that."
+    },
+    {
+      "id": 92,
+      "start": 319.12,
+      "end": 322.04,
+      "text": "And that's how you're scalping with context."
+    },
+    {
+      "id": 93,
+      "start": 322.04,
+      "end": 325.2,
+      "text": "Then we're just going to use protected swings, which I've taught about in multiple other"
+    },
+    {
+      "id": 94,
+      "start": 325.2,
+      "end": 328.96,
+      "text": "YouTube videos to get on side with this move higher."
+    },
+    {
+      "id": 95,
+      "start": 328.96,
+      "end": 329.96,
+      "text": "Let's get into another example."
+    },
+    {
+      "id": 96,
+      "start": 329.96,
+      "end": 335.16,
+      "text": "So here we are in our next example on why am on the hourly chart."
+    },
+    {
+      "id": 97,
+      "start": 335.16,
+      "end": 340.36,
+      "text": "If you notice, we have expansion down in a very shallow move against into a fair value"
+    },
+    {
+      "id": 98,
+      "start": 340.36,
+      "end": 341.36,
+      "text": "up here."
+    },
+    {
+      "id": 99,
+      "start": 341.36,
+      "end": 343.8,
+      "text": "And we have some equal lows resting below, right?"
+    },
+    {
+      "id": 100,
+      "start": 343.8,
+      "end": 346.84,
+      "text": "This fair value up as well as this low right here."
+    },
+    {
+      "id": 101,
+      "start": 346.84,
+      "end": 352.48,
+      "text": "So this gives us context for this candle closure right here, this candle to closure to be able"
+    },
+    {
+      "id": 102,
+      "start": 352.48,
+      "end": 355.86,
+      "text": "to trade it lower in this candle three."
+    },
+    {
+      "id": 103,
+      "start": 355.86,
+      "end": 360.16,
+      "text": "So if we're anticipating the hourly to expand lower, what can we then do?"
+    },
+    {
+      "id": 104,
+      "start": 360.16,
+      "end": 362.0,
+      "text": "Go down to the 15 minute timeframe."
+    },
+    {
+      "id": 105,
+      "start": 362.4,
+      "end": 365.48,
+      "text": "Here you can see we're on the 15 minute timeframe."
+    },
+    {
+      "id": 106,
+      "start": 365.48,
+      "end": 368.68,
+      "text": "We have a nice expansion and this is getting bought back up."
+    },
+    {
+      "id": 107,
+      "start": 368.68,
+      "end": 371.72,
+      "text": "So we want to see that this fair value gap holds right here."
+    },
+    {
+      "id": 108,
+      "start": 371.72,
+      "end": 372.72,
+      "text": "It's very small."
+    },
+    {
+      "id": 109,
+      "start": 372.72,
+      "end": 376.32,
+      "text": "Let's see if we get a candle closure that aligns with that."
+    },
+    {
+      "id": 110,
+      "start": 376.32,
+      "end": 377.52,
+      "text": "And we do right."
+    },
+    {
+      "id": 111,
+      "start": 377.52,
+      "end": 378.96,
+      "text": "Take out this candle with no wick."
+    },
+    {
+      "id": 112,
+      "start": 378.96,
+      "end": 380.44,
+      "text": "We have a candle to closure."
+    },
+    {
+      "id": 113,
+      "start": 380.44,
+      "end": 382.24,
+      "text": "And now what do we have?"
+    },
+    {
+      "id": 114,
+      "start": 382.24,
+      "end": 384.2,
+      "text": "We have a candle to closure."
+    },
+    {
+      "id": 115,
+      "start": 384.2,
+      "end": 388.84,
+      "text": "So we have a candle three on the 15 minute also aligning with a candle three on the hourly."
+    },
+    {
+      "id": 116,
+      "start": 388.88,
+      "end": 393.36,
+      "text": "So we can go down to the one minute timeframe and see if we can get on side with this move"
+    },
+    {
+      "id": 117,
+      "start": 393.36,
+      "end": 394.36,
+      "text": "lower."
+    },
+    {
+      "id": 118,
+      "start": 394.36,
+      "end": 395.36,
+      "text": "So here we are."
+    },
+    {
+      "id": 119,
+      "start": 395.36,
+      "end": 399.84,
+      "text": "Let's see if there's anything that sets up as we let this print."
+    },
+    {
+      "id": 120,
+      "start": 399.84,
+      "end": 403.12,
+      "text": "We don't want to see price trade above this area."
+    },
+    {
+      "id": 121,
+      "start": 403.12,
+      "end": 407.12,
+      "text": "So we'd want to see price trade into this fair value up or see if we can get an open"
+    },
+    {
+      "id": 122,
+      "start": 407.12,
+      "end": 409.08,
+      "text": "high low close."
+    },
+    {
+      "id": 123,
+      "start": 409.08,
+      "end": 410.08,
+      "text": "Let's see what happens."
+    },
+    {
+      "id": 124,
+      "start": 412.08,
+      "end": 416.96,
+      "text": "And you can see price doesn't trade into our point of interest before trading lower."
+    },
+    {
+      "id": 125,
+      "start": 417.0,
+      "end": 419.32,
+      "text": "So this is something that I would miss here."
+    },
+    {
+      "id": 126,
+      "start": 419.32,
+      "end": 421.48,
+      "text": "And could I trade it below the lows?"
+    },
+    {
+      "id": 127,
+      "start": 421.48,
+      "end": 422.48,
+      "text": "Sure."
+    },
+    {
+      "id": 128,
+      "start": 422.48,
+      "end": 424.32,
+      "text": "But it's just not something I prefer to do."
+    },
+    {
+      "id": 129,
+      "start": 424.32,
+      "end": 425.32,
+      "text": "Right."
+    },
+    {
+      "id": 130,
+      "start": 425.32,
+      "end": 427.84,
+      "text": "Because this is where we can get a new phase of price."
+    },
+    {
+      "id": 131,
+      "start": 427.84,
+      "end": 430.44,
+      "text": "Let's see where our targets are all the way down here."
+    },
+    {
+      "id": 132,
+      "start": 430.44,
+      "end": 431.44,
+      "text": "But is a option."
+    },
+    {
+      "id": 133,
+      "start": 431.44,
+      "end": 435.92,
+      "text": "If I wanted to, I could trade this continuation into these lows here."
+    },
+    {
+      "id": 134,
+      "start": 435.92,
+      "end": 438.6,
+      "text": "But this is generally the entry I want to see."
+    },
+    {
+      "id": 135,
+      "start": 438.6,
+      "end": 439.6,
+      "text": "Let's see how this works out."
+    },
+    {
+      "id": 136,
+      "start": 439.6,
+      "end": 441.44,
+      "text": "If we get stopped out or it works out."
+    },
+    {
+      "id": 137,
+      "start": 447.36,
+      "end": 449.44,
+      "text": "And you can see it takes its sweet time."
+    },
+    {
+      "id": 138,
+      "start": 449.44,
+      "end": 453.12,
+      "text": "But we do finally get that move lower on the continuation."
+    },
+    {
+      "id": 139,
+      "start": 453.12,
+      "end": 455.28,
+      "text": "Now this would have been the A plus entry."
+    },
+    {
+      "id": 140,
+      "start": 455.28,
+      "end": 459.76,
+      "text": "If we could have gotten something that looked a little bit like this, where we have a candle,"
+    },
+    {
+      "id": 141,
+      "start": 459.76,
+      "end": 463.64,
+      "text": "it digs its wick up into there and then a continuation lower."
+    },
+    {
+      "id": 142,
+      "start": 463.64,
+      "end": 464.68,
+      "text": "We didn't get that."
+    },
+    {
+      "id": 143,
+      "start": 464.68,
+      "end": 468.96,
+      "text": "So then once we take out these short term lows, we have to look for the phases of price."
+    },
+    {
+      "id": 144,
+      "start": 468.96,
+      "end": 469.96,
+      "text": "Is this a reversal?"
+    },
+    {
+      "id": 145,
+      "start": 469.96,
+      "end": 470.96,
+      "text": "No."
+    },
+    {
+      "id": 146,
+      "start": 470.96,
+      "end": 471.96,
+      "text": "That is a retracement."
+    },
+    {
+      "id": 147,
+      "start": 471.96,
+      "end": 475.8,
+      "text": "So then that is a valid continuation to look for a trade lower."
+    },
+    {
+      "id": 148,
+      "start": 476.2,
+      "end": 479.48,
+      "text": "And that's why it's important to notice your higher timeframe targets."
+    },
+    {
+      "id": 149,
+      "start": 479.48,
+      "end": 483.2,
+      "text": "If we weren't looking for this higher timeframe target, we most likely would have not looked"
+    },
+    {
+      "id": 150,
+      "start": 483.2,
+      "end": 487.44,
+      "text": "for this trade as it had already traded below the short term lows."
+    },
+    {
+      "id": 151,
+      "start": 487.44,
+      "end": 492.6,
+      "text": "But just to review, we have an hourly swing point and then I'm looking to trade the continuation"
+    },
+    {
+      "id": 152,
+      "start": 492.6,
+      "end": 495.72,
+      "text": "inside that candle three or inside that candle four."
+    },
+    {
+      "id": 153,
+      "start": 495.72,
+      "end": 496.72,
+      "text": "Did you do that?"
+    },
+    {
+      "id": 154,
+      "start": 496.72,
+      "end": 499.84,
+      "text": "I'll go down to the 15 minute timeframe and look for a swing point."
+    },
+    {
+      "id": 155,
+      "start": 499.84,
+      "end": 503.08,
+      "text": "So you can see getting entry into that candle three."
+    },
+    {
+      "id": 156,
+      "start": 503.08,
+      "end": 505.36,
+      "text": "And this one could have even provided another entry."
+    },
+    {
+      "id": 157,
+      "start": 505.36,
+      "end": 507.44,
+      "text": "As you can see, we have another swing point in there."
+    },
+    {
+      "id": 158,
+      "start": 507.44,
+      "end": 510.68,
+      "text": "If I go down to the one minute, do we have another entry?"
+    },
+    {
+      "id": 159,
+      "start": 510.68,
+      "end": 514.24,
+      "text": "Well, we possibly could have traded this in here, right?"
+    },
+    {
+      "id": 160,
+      "start": 514.24,
+      "end": 519.64,
+      "text": "This continuation right here as it breaks down and that could have been another possibility"
+    },
+    {
+      "id": 161,
+      "start": 519.64,
+      "end": 521.16,
+      "text": "for an entry."
+    },
+    {
+      "id": 162,
+      "start": 521.16,
+      "end": 522.92,
+      "text": "So let's get into another example."
+    },
+    {
+      "id": 163,
+      "start": 522.92,
+      "end": 525.32,
+      "text": "So here we are in one more example."
+    },
+    {
+      "id": 164,
+      "start": 525.32,
+      "end": 526.32,
+      "text": "And what do we have?"
+    },
+    {
+      "id": 165,
+      "start": 526.32,
+      "end": 531.16,
+      "text": "We have this little consolidation range, which we had taken out the low and then we have"
+    },
+    {
+      "id": 166,
+      "start": 531.16,
+      "end": 533.2,
+      "text": "expanded through the high."
+    },
+    {
+      "id": 167,
+      "start": 533.2,
+      "end": 537.44,
+      "text": "And once again, when we're at the high of a consolidation range and we are bullish, we"
+    },
+    {
+      "id": 168,
+      "start": 537.44,
+      "end": 542.84,
+      "text": "want to see, do we form a reversal here or do we have a retracement or a consolidation?"
+    },
+    {
+      "id": 169,
+      "start": 542.84,
+      "end": 546.64,
+      "text": "A retracement or a consolidation is a continuation signature."
+    },
+    {
+      "id": 170,
+      "start": 546.64,
+      "end": 548.92,
+      "text": "So if you're bullish, you want to see that."
+    },
+    {
+      "id": 171,
+      "start": 548.92,
+      "end": 549.92,
+      "text": "What do we have?"
+    },
+    {
+      "id": 172,
+      "start": 549.92,
+      "end": 551.64,
+      "text": "We have this gap here, right?"
+    },
+    {
+      "id": 173,
+      "start": 551.64,
+      "end": 558.04,
+      "text": "An hourly gap, so hourly internal to external and we could be looking to trade this higher."
+    },
+    {
+      "id": 174,
+      "start": 558.04,
+      "end": 563.28,
+      "text": "Now opening up candle three on the hourly at noon, then we would want to be going down"
+    },
+    {
+      "id": 175,
+      "start": 563.28,
+      "end": 564.88,
+      "text": "to the 15 minute timeframe."
+    },
+    {
+      "id": 176,
+      "start": 564.88,
+      "end": 567.96,
+      "text": "Now, do we have a swing point going into this?"
+    },
+    {
+      "id": 177,
+      "start": 567.96,
+      "end": 568.96,
+      "text": "Yes, right?"
+    },
+    {
+      "id": 178,
+      "start": 568.96,
+      "end": 569.96,
+      "text": "We have what?"
+    },
+    {
+      "id": 179,
+      "start": 569.96,
+      "end": 574.6,
+      "text": "This candle to closure wasn't super great, but then we have another candle to closure"
+    },
+    {
+      "id": 180,
+      "start": 574.6,
+      "end": 575.6,
+      "text": "right here."
+    },
+    {
+      "id": 181,
+      "start": 575.6,
+      "end": 580.28,
+      "text": "Now, this alone, I would not trust as a candle to closure as it is a bearish candle."
+    },
+    {
+      "id": 182,
+      "start": 580.28,
+      "end": 584.84,
+      "text": "But when candle three prints and engulfs all of these candles right here or this candle"
+    },
+    {
+      "id": 183,
+      "start": 584.84,
+      "end": 586.44,
+      "text": "in the body, you're there."
+    },
+    {
+      "id": 184,
+      "start": 586.44,
+      "end": 591.76,
+      "text": "I'm then now trusting that as long as the EQ is respected here, we can trade this higher"
+    },
+    {
+      "id": 185,
+      "start": 591.76,
+      "end": 594.28,
+      "text": "because it's the open of a new hourly candle."
+    },
+    {
+      "id": 186,
+      "start": 594.28,
+      "end": 598.68,
+      "text": "So we want to see open low, high close of the hourly and the same thing on the 15 minute."
+    },
+    {
+      "id": 187,
+      "start": 598.68,
+      "end": 601.24,
+      "text": "So we can drop down to the one minute timeframe."
+    },
+    {
+      "id": 188,
+      "start": 601.24,
+      "end": 605.04,
+      "text": "But down here on the one minute timeframe, we'll remove all of our drawings to clear"
+    },
+    {
+      "id": 189,
+      "start": 605.04,
+      "end": 606.04,
+      "text": "it up."
+    },
+    {
+      "id": 190,
+      "start": 606.04,
+      "end": 607.04,
+      "text": "And what do we have?"
+    },
+    {
+      "id": 191,
+      "start": 607.04,
+      "end": 611.8,
+      "text": "You know, we have a bit of a model forming in both directions, but going into this new"
+    },
+    {
+      "id": 192,
+      "start": 611.88,
+      "end": 616.88,
+      "text": "higher timeframe candle, you notice how we already have a protected swing going into"
+    },
+    {
+      "id": 193,
+      "start": 616.88,
+      "end": 617.88,
+      "text": "the open."
+    },
+    {
+      "id": 194,
+      "start": 617.88,
+      "end": 622.24,
+      "text": "This means we can anticipate that this low should hold before the open of the new higher"
+    },
+    {
+      "id": 195,
+      "start": 622.24,
+      "end": 623.24,
+      "text": "time frame candle."
+    },
+    {
+      "id": 196,
+      "start": 623.24,
+      "end": 626.24,
+      "text": "And that makes sense because it's below the EQ."
+    },
+    {
+      "id": 197,
+      "start": 626.24,
+      "end": 631.56,
+      "text": "So I could position at the open of the new higher time frame candle and look for two"
+    },
+    {
+      "id": 198,
+      "start": 631.56,
+      "end": 632.56,
+      "text": "are that way."
+    },
+    {
+      "id": 199,
+      "start": 632.56,
+      "end": 634.16,
+      "text": "How else could we have do this?"
+    },
+    {
+      "id": 200,
+      "start": 634.16,
+      "end": 639.6,
+      "text": "Well, we could do it by waiting for a continuation in that new higher time frame candle."
+    },
+    {
+      "id": 201,
+      "start": 639.6,
+      "end": 641.16,
+      "text": "Let's see how both of these work out."
+    },
+    {
+      "id": 202,
+      "start": 641.6,
+      "end": 643.6,
+      "text": "So here you can see we open up."
+    },
+    {
+      "id": 203,
+      "start": 644.6,
+      "end": 648.8,
+      "text": "We're reaching into this fair value up here and filling this one up here as well."
+    },
+    {
+      "id": 204,
+      "start": 649.2,
+      "end": 650.68,
+      "text": "Do we form a continuation?"
+    },
+    {
+      "id": 205,
+      "start": 651.12,
+      "end": 652.12,
+      "text": "Let's see."
+    },
+    {
+      "id": 206,
+      "start": 653.68,
+      "end": 653.88,
+      "text": "Right."
+    },
+    {
+      "id": 207,
+      "start": 653.88,
+      "end": 656.2,
+      "text": "And there you go and see, we do form a continuation."
+    },
+    {
+      "id": 208,
+      "start": 656.56,
+      "end": 659.8,
+      "text": "I was replaying it a bit quickly, but you could use either level here."
+    },
+    {
+      "id": 209,
+      "start": 660.16,
+      "end": 665.64,
+      "text": "So either entering on this close through with your stop there, looking for two are, which"
+    },
+    {
+      "id": 210,
+      "start": 665.64,
+      "end": 669.52,
+      "text": "gives relatively the same entry, or you could look for the retest as well."
+    },
+    {
+      "id": 211,
+      "start": 669.88,
+      "end": 670.96,
+      "text": "Let's see how this works out."
+    },
+    {
+      "id": 212,
+      "start": 672.0,
+      "end": 678.52,
+      "text": "You can see there, both TPs would have hit."
+    },
+    {
+      "id": 213,
+      "start": 678.96,
+      "end": 685.04,
+      "text": "So just to review, we have an hourly candle three, in which case we're expecting expansion."
+    },
+    {
+      "id": 214,
+      "start": 685.44,
+      "end": 688.88,
+      "text": "Then we're looking for a swing point on the lower time frame."
+    },
+    {
+      "id": 215,
+      "start": 689.28,
+      "end": 692.4,
+      "text": "Here we have a candle for continuation, right?"
+    },
+    {
+      "id": 216,
+      "start": 692.4,
+      "end": 695.04,
+      "text": "And we have a protected swing right at the end of candle three."
+    },
+    {
+      "id": 217,
+      "start": 695.56,
+      "end": 698.68,
+      "text": "So either of these entries would work and you can trade that higher."
+    },
+    {
+      "id": 218,
+      "start": 699.04,
+      "end": 703.36,
+      "text": "And just to see it on the hourly, you're trading the 15 minute and one minute swing"
+    },
+    {
+      "id": 219,
+      "start": 703.36,
+      "end": 708.96,
+      "text": "point inside the wick or what's forming the wick of this higher timeframe expansion"
+    },
+    {
+      "id": 220,
+      "start": 708.96,
+      "end": 712.24,
+      "text": "candle from internal to external on the hourly chart."
+    },
+    {
+      "id": 221,
+      "start": 712.72,
+      "end": 716.72,
+      "text": "Now, in our final example here, this is going to be an advanced version of this,"
+    },
+    {
+      "id": 222,
+      "start": 717.04,
+      "end": 719.12,
+      "text": "where you can actually trade the reversal candles."
+    },
+    {
+      "id": 223,
+      "start": 719.16,
+      "end": 723.84,
+      "text": "If you want to, it's just more complex and takes a deeper understanding of open"
+    },
+    {
+      "id": 224,
+      "start": 723.84,
+      "end": 725.52,
+      "text": "high, low, close and wick size."
+    },
+    {
+      "id": 225,
+      "start": 725.96,
+      "end": 729.92,
+      "text": "So I will show this example, but for the majority of people, I would say, don't"
+    },
+    {
+      "id": 226,
+      "start": 729.92,
+      "end": 731.52,
+      "text": "really focus on this example."
+    },
+    {
+      "id": 227,
+      "start": 731.96,
+      "end": 735.48,
+      "text": "So you can see here, we've had expansion down and a consolidation, right?"
+    },
+    {
+      "id": 228,
+      "start": 735.48,
+      "end": 738.8,
+      "text": "We've remained internal to this range for quite some time."
+    },
+    {
+      "id": 229,
+      "start": 739.28,
+      "end": 742.64,
+      "text": "By taking out the range high, we could be looking to the range low."
+    },
+    {
+      "id": 230,
+      "start": 743.08,
+      "end": 744.56,
+      "text": "Now we're coming up on 930."
+    },
+    {
+      "id": 231,
+      "start": 744.84,
+      "end": 747.0,
+      "text": "So we will go down to the 15 minute timeframe."
+    },
+    {
+      "id": 232,
+      "start": 747.36,
+      "end": 751.68,
+      "text": "And our whole goal is to watch how the open plays and then see if that's"
+    },
+    {
+      "id": 233,
+      "start": 751.68,
+      "end": 754.44,
+      "text": "supported by the hourly candle and the 15 minute candle."
+    },
+    {
+      "id": 234,
+      "start": 755.12,
+      "end": 756.72,
+      "text": "So there's a few ways to approach it."
+    },
+    {
+      "id": 235,
+      "start": 756.92,
+      "end": 760.2,
+      "text": "We can one, let open play out, which here it is."
+    },
+    {
+      "id": 236,
+      "start": 760.28,
+      "end": 763.4,
+      "text": "And you can see we're having that 15 minute change in the state of delivery here."
+    },
+    {
+      "id": 237,
+      "start": 764.08,
+      "end": 769.6,
+      "text": "Or we can go down and look inside this, but mainly the hourly is supporting"
+    },
+    {
+      "id": 238,
+      "start": 769.6,
+      "end": 771.12,
+      "text": "expansion to the downside."
+    },
+    {
+      "id": 239,
+      "start": 771.52,
+      "end": 775.72,
+      "text": "So with this bearish candle, three closure, I could be looking into this lower"
+    },
+    {
+      "id": 240,
+      "start": 775.72,
+      "end": 776.32,
+      "text": "timeframe."
+    },
+    {
+      "id": 241,
+      "start": 776.68,
+      "end": 777.96,
+      "text": "And then what am I looking for?"
+    },
+    {
+      "id": 242,
+      "start": 778.28,
+      "end": 780.08,
+      "text": "A continuation right here."
+    },
+    {
+      "id": 243,
+      "start": 780.08,
+      "end": 781.04,
+      "text": "We have a fair value gap."
+    },
+    {
+      "id": 244,
+      "start": 781.04,
+      "end": 782.56,
+      "text": "So we can go ahead and mark that out."
+    },
+    {
+      "id": 245,
+      "start": 785.44,
+      "end": 787.44,
+      "text": "And a continuation right here."
+    },
+    {
+      "id": 246,
+      "start": 787.84,
+      "end": 792.76,
+      "text": "And then you can see we have another fair value gap and a new continuation right here."
+    },
+    {
+      "id": 247,
+      "start": 792.96,
+      "end": 795.76,
+      "text": "So we're opening up candle three with a protected swing right there."
+    },
+    {
+      "id": 248,
+      "start": 795.88,
+      "end": 798.32,
+      "text": "So we could be looking for an entry on the open."
+    },
+    {
+      "id": 249,
+      "start": 798.36,
+      "end": 802.44,
+      "text": "I could put my stop on that protected swing and then looking for two are or"
+    },
+    {
+      "id": 250,
+      "start": 802.44,
+      "end": 805.6,
+      "text": "the other side of the consolidation, which is quite a bit lower."
+    },
+    {
+      "id": 251,
+      "start": 806.0,
+      "end": 806.96,
+      "text": "Let's see what happens."
+    },
+    {
+      "id": 252,
+      "start": 811.04,
+      "end": 814.2,
+      "text": "And there you can see we do hit two are now the main thing I want to"
+    },
+    {
+      "id": 253,
+      "start": 814.2,
+      "end": 818.76,
+      "text": "show here is if we go back to right before we hit our TP, this hourly candle"
+    },
+    {
+      "id": 254,
+      "start": 818.8,
+      "end": 821.88,
+      "text": "supports expansion and it's supported by a 930."
+    },
+    {
+      "id": 255,
+      "start": 822.28,
+      "end": 822.52,
+      "text": "Right."
+    },
+    {
+      "id": 256,
+      "start": 822.52,
+      "end": 826.76,
+      "text": "It has a small opposing run creates this protected swing and trades away."
+    },
+    {
+      "id": 257,
+      "start": 827.04,
+      "end": 831.28,
+      "text": "So when you get this 15 minute closure, right, this is the reversal candle on the"
+    },
+    {
+      "id": 258,
+      "start": 831.28,
+      "end": 832.76,
+      "text": "hourly, which is more advanced."
+    },
+    {
+      "id": 259,
+      "start": 832.76,
+      "end": 835.64,
+      "text": "It's harder to trade, but everything is aligned."
+    },
+    {
+      "id": 260,
+      "start": 835.68,
+      "end": 837.36,
+      "text": "This supports expansion lower."
+    },
+    {
+      "id": 261,
+      "start": 837.6,
+      "end": 840.76,
+      "text": "This supports expansion lower and I'm trading a continuation."
+    },
+    {
+      "id": 262,
+      "start": 841.76,
+      "end": 845.12,
+      "text": "Now, if we go back to the 15 minute timeframe, you can see we can take our"
+    },
+    {
+      "id": 263,
+      "start": 845.12,
+      "end": 849.32,
+      "text": "target right in there or look for these consolidation lows like so."
+    },
+    {
+      "id": 264,
+      "start": 849.84,
+      "end": 855.16,
+      "text": "And that is an example of a more advanced entry because you are trading candle"
+    },
+    {
+      "id": 265,
+      "start": 855.16,
+      "end": 857.68,
+      "text": "to here, which is a lot more difficult."
+    },
+    {
+      "id": 266,
+      "start": 858.44,
+      "end": 860.52,
+      "text": "But with that, I hope you enjoyed this video."
+    },
+    {
+      "id": 267,
+      "start": 860.72,
+      "end": 863.24,
+      "text": "If you did, please consider liking and subscribing."
+    },
+    {
+      "id": 268,
+      "start": 863.44,
+      "end": 867.8,
+      "text": "And if you want access to the free PDF shown here today, please visit my website."
+    },
+    {
+      "id": 269,
+      "start": 867.8,
+      "end": 871.48,
+      "text": "It's linked in the description below and you can access all the materials there."
+    },
+    {
+      "id": 270,
+      "start": 872.0,
+      "end": 872.8,
+      "text": "I'll see you guys next time."
+    },
+    {
+      "id": 271,
+      "start": 872.96,
+      "end": 873.48,
+      "text": "Have a good one."
+    }
+  ],
+  "created_at": "2026-09-01T19:46:17.727243+00:00"
+}

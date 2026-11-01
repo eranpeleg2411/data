@@ -1,0 +1,1337 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "Kf4c41_qO1s",
+    "title": "Higher Timeframe Analysis For Trading - Aligning Expansion Candles",
+    "url": "https://www.youtube.com/watch?v=Kf4c41_qO1s",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "model": "small",
+  "device": "cpu",
+  "language": "en",
+  "text": "How's it going everyone? In this video we are going to talk about aligning candles for expansion, or aligning expansion candles, because when a true trend occurs, all candles are aligned in the same direction. Let's get into the PDF. The first thing you have to understand is how Wixize plays a role in if candles support expansion or not. Candles that support expansion will have a small wick and a large body. Candles that don't support expansion will have a large wick or a large opposing run. Now I have a full video dedicated to this if you want to check it out, it will be linked in the description below. But if you take a look here, in a bullish scenario we want to see price open, have a small wick formed early into the candle, and then price can trend higher throughout the duration of the candle. If price has a large opposing run or opens and spends a long time making its opposing run, then it can't really trend, right? It's going to go return back towards its opening price or its current candles high. So when I say a candle supports expansion, it means it has a small wick which allows it to expand in one direction. Now the goal is to align expansion candles on multiple timeframes. So for example here you can see there are three timeframes expansion candles that are aligned together. Now I generally prefer to have at a minimum two expansion candles aligned. So for example, if this was a daily candle and a four hour candle, then that would be enough for me to trade a 15 minute timeframe. But it is preferred if on an intraday timeframe such as a five minute or a three minute that I align all those timeframes together. So a daily a four hour and an hourly or a 30 minute timeframe. And you notice these all have small wicks. So they all support expansion higher. Then when we have structure that aligns with the idea that is when a trend can occur. So what does that actually look like? Here we'll take a look at an example and for visualization sake pretend this is the daily and the four hour timeframe and this is the 15 minute timeframe. You can see this daily candle has a small wick. It has opened, it has formed a low and now it is looking like it can trend higher. And that is why it's important to have a bias. I have a bias that this is going to go higher. Then going down to the four hour timeframe, why would I not want to trade this candle? Well this has a large wick so it doesn't support expansion. When this candle to close, then I can look to trade the expansion in candle three. Once it forms a small wick, you can see it opens, it trades lower, forms a protected swing or the wick of this higher time from candle. And then this is when trend can occur because we have the structure aligned with multiple timeframes that both support expansion. Now this is going to be the easiest of the scenarios aligning a higher timeframe with a candle three and then finding a continuation entry. But you can also do this for reversal trades. Here you can see in a similar scenario, we have price forming a small wick on the daily timeframe here. We go down to our intermediate timeframe and we have also a small wick forming a reversal and we have a protected swing. At this point, all timeframes are aligned for an expansion. It's just a reversal trade and it's a bit harder to anticipate. So taking a look at this last example, we want to align all of these timeframes for expansion. So you can see the daily supports expansion because it has a small wick. Now taking a look here, would we want to trade this four hour candle? No, because it opens and trades higher first and does not support expansion. I'd want to wait for the open of the new candle before I look to get on side with that. And then that's when I could look to trade swing points. Now the easiest way to approach expansion alignment is going to be looking to trade candle threes on multiple timeframes. So for example, if I go back to this slide here, I would want to trade a daily candle three or that continuation and then trade a higher timeframe candle three and then look for a continuation order block within all of that. The most simple way will be to trade a candle three on multiple timeframes. Let's go into trading view and go over a few examples of this. Now before we get into this example, I want to show how I have my indicator layout set up for this visualization of expansion alignment. So what I'm going to do is have a daily power of three indicator set up here. So taking a look at that. I'm going to have that offset at 15. And so that will just put this to the right side of this. And there's many free ones you can look for. If you type in higher timeframe power of three, you'll find one from two degrees. The next thing I'll do is use my fractal model indicator. So you can see here I use my fractal model indicator and I have it set to the four hour and 15 minute chart as I'm on the four hour and 15 minute. So what this will allow me to do is see the daily, the four hour and the 15 all at the same time. But if we go ahead and zoom into this example here, we can see that we have had what a candle to closure on the four hour timeframe with a nice V shape reversal off of our previous high over here. And we have not ran out our consolidation lows yet. So what is this? This is a candle with a large wick. It does not support expansion. So would I have wanted to trade it right here in the reversal candle? No. I'm going to wait for the next candle because if it has a small wick and it supports expansion. Now why would I be looking for price to trend because the daily has a small wick, right? Price opens. It does not make a relevant low. It makes a high. It has a change in the state of delivery. So I could be looking for this to trend lower the daily and the four hour candles both support expansion here. If we can form a continuation. So as we let this play ahead, what do we have? We have price sweeping out a high into a fair value up, which is a point of interest and then forming a continuation. But now that we have a protected swing in this higher timeframe candle, I've anticipated that this wick has formed and then price can continue to trend lower. That's where I could look to take an entry, but my stops there and then look for two are. Let's see how this works out. We do come back up. We would have gotten filled on a retest entry and then we start to trade lower. Now let's take a look at this. If this is an expansion candle and this is an expansion candle, we expect them to close near their lows. So we could look to see price continue to trend. So here you can see we have expansion. This isn't showing a reversal, right? That's a retracement. So we can expect this to continue lower and then we do get this trend lower and you can see these small wicks support expansion lower small wick expansion, small wick expansion. Even when we open this next candle, we have price open trade into this protected swing makes a small wick and then we form a new continuation there. And what happens? It has a small wick and it can continue to expand the lower. So just to review, if we want to find expansion or a trend, I want to find where higher timeframe candles all support expansion in the same direction. And I'm going to align structure with that in the form of protected swings or continuation order blocks. And that's where you can get price to continue or trend. Now let's say I wanted to take a look at the exact same example here, but instead of viewing it on the daily four hour and 15 minute, I wanted to view it on something like the five minute timeframe. This is where I could look for three timeframes to align for expansion. So if you notice here, I have the hourly timeframe set up here, the four hour and the daily. Now let's first talk about why this is important to align them all together. Then we'll talk about how you could set up the indicator to show this. So if we want all timeframes to align, does it make sense to be entering in here? No, because if we take a look, our candle here on the hourly is not set up for expansion. Right. It is a reversal candle. So it doesn't make sense to be looking to trade it here. Instead, I'd want to wait for the next candle as that can support expansion. Right. Cause this would be the candle three. And this is a good example of trading candle three on multiple timeframes. Here we have a daily candle three, a four hour candle, three and an hourly candle, three. You can see that's when the trend really gets going here because it is a continuation on all timeframes by definition. That is just a trend. So how would you actually set up this indicator? Well, it's the same thing with the daily timeframe. It's just you're going to offset it quite a bit more. I do mine at 32. And then I'm going to set up a four hour and 15 minute fractal model. I'll leave these checked, but then offset it 17 and have the rest of the settings besides these marked here turned off. And what this will do is show the higher timeframe, EQ and those things I want to see, like the opening price right here, but none of the other things. It won't clutter the chart. And then what I will do is I'll have this set on the five a minute and hourly. And then I'll have everything else turned on. I will leave that one completely set up and that will show my lower timeframe structure. And this is what allows me to see the daily, the four hour and the hourly all on the same timeframe and still get that visualization. I can see the EQ of the four hour timeframe here. I can see the EQ of the hourly. I can see the fractal model on multiple different timeframes. And then that's where I can get a setup where I can see all the expansion candles being aligned together. So let's go over another example of this. So here we are in our next example. And we're going to go into this with a bullish bias. Now let's talk through each timeframe and what you can pull from the higher timeframe chart here. If you're taking a look, if we're bullish, does this candle here on the daily support expansion to the upside? No, because it has a large opposing run. But what does that mean? Are we expecting price to expand here on the daily timeframe? No. So what are we looking to target back towards the daily open, which is marked with this faint line here, or the intraday highs. So knowing that on the daily timeframe, we know we're not looking for a massive move. We're looking back towards the daily open. Now I want to take a look. Does the four hour candle here support expansion? No, because it is a bearish candle right open, small wick, and then trading lower. Does this hourly support expansion higher? No. So this is where I'm going to want to wait for that 10 a.m. to get a new higher timeframe candle here on the four hour and on the hourly timeframe. You can see we do trade higher. Sure, you could pick the bottom if you want. That's just not in my strategy. Now, if you notice, this candle is a reversal candle. It's not quite a candle to closure as it doesn't close in here, but it does have a nice large wick that we can use to frame off of it to the upside. Here we do have a candle to closure on the hourly timeframe. So if we pair that with a change in the state of delivery, then we could be looking long. Now, once again, you're starting to see this is a candle three on multiple different timeframes. Now, this one is opposing the daily candle as it is not open low high close, it's open high low. So we do want to take more conservative targets. Let's see here. We get the change in the state of delivery, and then we start to trade higher. And you can see how this is set up for expansion here on a few different candles as we are aligning with the higher timeframe or the four hour timeframe. So this four hour timeframe supports this lower timeframe swing to the upside. And where do we see this go back towards the daily open? And we get a little bit of consolidation. So you can see just to review the daily doesn't support expansion, but we do have multiple timeframes that still support expansion for this lower timeframe setup. So if you learn nothing else from this video, be sure to just check out the higher timeframes. Do they support a trend in one direction or not? Because at the end of the day, you can have a great lower timeframe structure, but if it's not aligned with the higher timeframe trend, it's unlikely to work out. But I hope you found some value in this video. If you did, please consider liking and subscribing, and I'll see you guys next week. Have a good one.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 12.0,
+      "text": "How's it going everyone?"
+    },
+    {
+      "id": 1,
+      "start": 12.0,
+      "end": 16.76,
+      "text": "In this video we are going to talk about aligning candles for expansion, or aligning expansion"
+    },
+    {
+      "id": 2,
+      "start": 16.76,
+      "end": 22.08,
+      "text": "candles, because when a true trend occurs, all candles are aligned in the same direction."
+    },
+    {
+      "id": 3,
+      "start": 22.08,
+      "end": 24.2,
+      "text": "Let's get into the PDF."
+    },
+    {
+      "id": 4,
+      "start": 24.2,
+      "end": 27.76,
+      "text": "The first thing you have to understand is how Wixize plays a role in if candles support"
+    },
+    {
+      "id": 5,
+      "start": 27.76,
+      "end": 29.6,
+      "text": "expansion or not."
+    },
+    {
+      "id": 6,
+      "start": 29.6,
+      "end": 33.84,
+      "text": "Candles that support expansion will have a small wick and a large body."
+    },
+    {
+      "id": 7,
+      "start": 33.84,
+      "end": 38.0,
+      "text": "Candles that don't support expansion will have a large wick or a large opposing run."
+    },
+    {
+      "id": 8,
+      "start": 38.0,
+      "end": 42.0,
+      "text": "Now I have a full video dedicated to this if you want to check it out, it will be linked"
+    },
+    {
+      "id": 9,
+      "start": 42.0,
+      "end": 43.64,
+      "text": "in the description below."
+    },
+    {
+      "id": 10,
+      "start": 43.64,
+      "end": 47.6,
+      "text": "But if you take a look here, in a bullish scenario we want to see price open, have a"
+    },
+    {
+      "id": 11,
+      "start": 47.6,
+      "end": 51.72,
+      "text": "small wick formed early into the candle, and then price can trend higher throughout the"
+    },
+    {
+      "id": 12,
+      "start": 51.72,
+      "end": 53.68,
+      "text": "duration of the candle."
+    },
+    {
+      "id": 13,
+      "start": 53.68,
+      "end": 59.04,
+      "text": "If price has a large opposing run or opens and spends a long time making its opposing"
+    },
+    {
+      "id": 14,
+      "start": 59.04,
+      "end": 61.16,
+      "text": "run, then it can't really trend, right?"
+    },
+    {
+      "id": 15,
+      "start": 61.16,
+      "end": 66.24,
+      "text": "It's going to go return back towards its opening price or its current candles high."
+    },
+    {
+      "id": 16,
+      "start": 66.24,
+      "end": 70.12,
+      "text": "So when I say a candle supports expansion, it means it has a small wick which allows"
+    },
+    {
+      "id": 17,
+      "start": 70.12,
+      "end": 72.36,
+      "text": "it to expand in one direction."
+    },
+    {
+      "id": 18,
+      "start": 72.36,
+      "end": 76.2,
+      "text": "Now the goal is to align expansion candles on multiple timeframes."
+    },
+    {
+      "id": 19,
+      "start": 76.2,
+      "end": 80.4,
+      "text": "So for example here you can see there are three timeframes expansion candles that are"
+    },
+    {
+      "id": 20,
+      "start": 80.4,
+      "end": 81.4,
+      "text": "aligned together."
+    },
+    {
+      "id": 21,
+      "start": 81.4,
+      "end": 86.16,
+      "text": "Now I generally prefer to have at a minimum two expansion candles aligned."
+    },
+    {
+      "id": 22,
+      "start": 86.16,
+      "end": 90.48,
+      "text": "So for example, if this was a daily candle and a four hour candle, then that would be"
+    },
+    {
+      "id": 23,
+      "start": 90.48,
+      "end": 92.92,
+      "text": "enough for me to trade a 15 minute timeframe."
+    },
+    {
+      "id": 24,
+      "start": 92.92,
+      "end": 97.28,
+      "text": "But it is preferred if on an intraday timeframe such as a five minute or a three minute that"
+    },
+    {
+      "id": 25,
+      "start": 97.28,
+      "end": 99.2,
+      "text": "I align all those timeframes together."
+    },
+    {
+      "id": 26,
+      "start": 99.2,
+      "end": 103.8,
+      "text": "So a daily a four hour and an hourly or a 30 minute timeframe."
+    },
+    {
+      "id": 27,
+      "start": 103.8,
+      "end": 106.16,
+      "text": "And you notice these all have small wicks."
+    },
+    {
+      "id": 28,
+      "start": 106.16,
+      "end": 108.36,
+      "text": "So they all support expansion higher."
+    },
+    {
+      "id": 29,
+      "start": 108.36,
+      "end": 113.24,
+      "text": "Then when we have structure that aligns with the idea that is when a trend can occur."
+    },
+    {
+      "id": 30,
+      "start": 113.24,
+      "end": 114.88,
+      "text": "So what does that actually look like?"
+    },
+    {
+      "id": 31,
+      "start": 114.88,
+      "end": 118.28,
+      "text": "Here we'll take a look at an example and for visualization sake pretend this is the"
+    },
+    {
+      "id": 32,
+      "start": 118.28,
+      "end": 122.36,
+      "text": "daily and the four hour timeframe and this is the 15 minute timeframe."
+    },
+    {
+      "id": 33,
+      "start": 122.36,
+      "end": 124.72,
+      "text": "You can see this daily candle has a small wick."
+    },
+    {
+      "id": 34,
+      "start": 124.72,
+      "end": 129.08,
+      "text": "It has opened, it has formed a low and now it is looking like it can trend higher."
+    },
+    {
+      "id": 35,
+      "start": 129.08,
+      "end": 131.16,
+      "text": "And that is why it's important to have a bias."
+    },
+    {
+      "id": 36,
+      "start": 131.16,
+      "end": 133.88,
+      "text": "I have a bias that this is going to go higher."
+    },
+    {
+      "id": 37,
+      "start": 133.88,
+      "end": 137.88,
+      "text": "Then going down to the four hour timeframe, why would I not want to trade this candle?"
+    },
+    {
+      "id": 38,
+      "start": 137.88,
+      "end": 141.52,
+      "text": "Well this has a large wick so it doesn't support expansion."
+    },
+    {
+      "id": 39,
+      "start": 141.56,
+      "end": 146.36,
+      "text": "When this candle to close, then I can look to trade the expansion in candle three."
+    },
+    {
+      "id": 40,
+      "start": 146.36,
+      "end": 152.0,
+      "text": "Once it forms a small wick, you can see it opens, it trades lower, forms a protected"
+    },
+    {
+      "id": 41,
+      "start": 152.0,
+      "end": 154.76,
+      "text": "swing or the wick of this higher time from candle."
+    },
+    {
+      "id": 42,
+      "start": 154.76,
+      "end": 160.0,
+      "text": "And then this is when trend can occur because we have the structure aligned with multiple"
+    },
+    {
+      "id": 43,
+      "start": 160.0,
+      "end": 162.76,
+      "text": "timeframes that both support expansion."
+    },
+    {
+      "id": 44,
+      "start": 162.76,
+      "end": 166.84,
+      "text": "Now this is going to be the easiest of the scenarios aligning a higher timeframe with"
+    },
+    {
+      "id": 45,
+      "start": 166.84,
+      "end": 169.96,
+      "text": "a candle three and then finding a continuation entry."
+    },
+    {
+      "id": 46,
+      "start": 170.4,
+      "end": 172.92,
+      "text": "But you can also do this for reversal trades."
+    },
+    {
+      "id": 47,
+      "start": 172.92,
+      "end": 177.28,
+      "text": "Here you can see in a similar scenario, we have price forming a small wick on the daily"
+    },
+    {
+      "id": 48,
+      "start": 177.28,
+      "end": 178.28,
+      "text": "timeframe here."
+    },
+    {
+      "id": 49,
+      "start": 178.28,
+      "end": 183.56,
+      "text": "We go down to our intermediate timeframe and we have also a small wick forming a reversal"
+    },
+    {
+      "id": 50,
+      "start": 183.56,
+      "end": 185.48,
+      "text": "and we have a protected swing."
+    },
+    {
+      "id": 51,
+      "start": 185.48,
+      "end": 188.32,
+      "text": "At this point, all timeframes are aligned for an expansion."
+    },
+    {
+      "id": 52,
+      "start": 188.32,
+      "end": 190.8,
+      "text": "It's just a reversal trade and it's a bit harder to anticipate."
+    },
+    {
+      "id": 53,
+      "start": 190.8,
+      "end": 195.64,
+      "text": "So taking a look at this last example, we want to align all of these timeframes for expansion."
+    },
+    {
+      "id": 54,
+      "start": 195.64,
+      "end": 199.44,
+      "text": "So you can see the daily supports expansion because it has a small wick."
+    },
+    {
+      "id": 55,
+      "start": 199.8,
+      "end": 202.96,
+      "text": "Now taking a look here, would we want to trade this four hour candle?"
+    },
+    {
+      "id": 56,
+      "start": 202.96,
+      "end": 207.12,
+      "text": "No, because it opens and trades higher first and does not support expansion."
+    },
+    {
+      "id": 57,
+      "start": 207.12,
+      "end": 211.12,
+      "text": "I'd want to wait for the open of the new candle before I look to get on side with that."
+    },
+    {
+      "id": 58,
+      "start": 211.12,
+      "end": 214.16,
+      "text": "And then that's when I could look to trade swing points."
+    },
+    {
+      "id": 59,
+      "start": 214.16,
+      "end": 218.48,
+      "text": "Now the easiest way to approach expansion alignment is going to be looking to trade"
+    },
+    {
+      "id": 60,
+      "start": 218.48,
+      "end": 220.84,
+      "text": "candle threes on multiple timeframes."
+    },
+    {
+      "id": 61,
+      "start": 220.84,
+      "end": 225.4,
+      "text": "So for example, if I go back to this slide here, I would want to trade a daily candle"
+    },
+    {
+      "id": 62,
+      "start": 225.4,
+      "end": 230.04,
+      "text": "three or that continuation and then trade a higher timeframe candle three and then look"
+    },
+    {
+      "id": 63,
+      "start": 230.04,
+      "end": 233.16,
+      "text": "for a continuation order block within all of that."
+    },
+    {
+      "id": 64,
+      "start": 233.16,
+      "end": 237.0,
+      "text": "The most simple way will be to trade a candle three on multiple timeframes."
+    },
+    {
+      "id": 65,
+      "start": 237.0,
+      "end": 240.68,
+      "text": "Let's go into trading view and go over a few examples of this."
+    },
+    {
+      "id": 66,
+      "start": 240.68,
+      "end": 244.56,
+      "text": "Now before we get into this example, I want to show how I have my indicator layout set"
+    },
+    {
+      "id": 67,
+      "start": 244.56,
+      "end": 248.2,
+      "text": "up for this visualization of expansion alignment."
+    },
+    {
+      "id": 68,
+      "start": 248.2,
+      "end": 252.72,
+      "text": "So what I'm going to do is have a daily power of three indicator set up here."
+    },
+    {
+      "id": 69,
+      "start": 252.72,
+      "end": 253.96,
+      "text": "So taking a look at that."
+    },
+    {
+      "id": 70,
+      "start": 254.04,
+      "end": 256.04,
+      "text": "I'm going to have that offset at 15."
+    },
+    {
+      "id": 71,
+      "start": 256.04,
+      "end": 258.24,
+      "text": "And so that will just put this to the right side of this."
+    },
+    {
+      "id": 72,
+      "start": 258.24,
+      "end": 260.44,
+      "text": "And there's many free ones you can look for."
+    },
+    {
+      "id": 73,
+      "start": 260.44,
+      "end": 264.36,
+      "text": "If you type in higher timeframe power of three, you'll find one from two degrees."
+    },
+    {
+      "id": 74,
+      "start": 270.84,
+      "end": 273.24,
+      "text": "The next thing I'll do is use my fractal model indicator."
+    },
+    {
+      "id": 75,
+      "start": 273.24,
+      "end": 277.92,
+      "text": "So you can see here I use my fractal model indicator and I have it set to the four hour"
+    },
+    {
+      "id": 76,
+      "start": 277.92,
+      "end": 280.84,
+      "text": "and 15 minute chart as I'm on the four hour and 15 minute."
+    },
+    {
+      "id": 77,
+      "start": 280.92,
+      "end": 284.96,
+      "text": "So what this will allow me to do is see the daily, the four hour and the 15 all at the"
+    },
+    {
+      "id": 78,
+      "start": 284.96,
+      "end": 285.96,
+      "text": "same time."
+    },
+    {
+      "id": 79,
+      "start": 285.96,
+      "end": 290.8,
+      "text": "But if we go ahead and zoom into this example here, we can see that we have had what a candle"
+    },
+    {
+      "id": 80,
+      "start": 290.8,
+      "end": 295.52,
+      "text": "to closure on the four hour timeframe with a nice V shape reversal off of our previous"
+    },
+    {
+      "id": 81,
+      "start": 295.52,
+      "end": 296.52,
+      "text": "high over here."
+    },
+    {
+      "id": 82,
+      "start": 296.52,
+      "end": 299.84,
+      "text": "And we have not ran out our consolidation lows yet."
+    },
+    {
+      "id": 83,
+      "start": 299.84,
+      "end": 301.24,
+      "text": "So what is this?"
+    },
+    {
+      "id": 84,
+      "start": 301.24,
+      "end": 303.28,
+      "text": "This is a candle with a large wick."
+    },
+    {
+      "id": 85,
+      "start": 303.28,
+      "end": 304.96,
+      "text": "It does not support expansion."
+    },
+    {
+      "id": 86,
+      "start": 304.96,
+      "end": 308.04,
+      "text": "So would I have wanted to trade it right here in the reversal candle?"
+    },
+    {
+      "id": 87,
+      "start": 308.04,
+      "end": 309.04,
+      "text": "No."
+    },
+    {
+      "id": 88,
+      "start": 309.04,
+      "end": 314.12,
+      "text": "I'm going to wait for the next candle because if it has a small wick and it supports expansion."
+    },
+    {
+      "id": 89,
+      "start": 314.12,
+      "end": 318.6,
+      "text": "Now why would I be looking for price to trend because the daily has a small wick, right?"
+    },
+    {
+      "id": 90,
+      "start": 318.6,
+      "end": 319.76,
+      "text": "Price opens."
+    },
+    {
+      "id": 91,
+      "start": 319.76,
+      "end": 321.4,
+      "text": "It does not make a relevant low."
+    },
+    {
+      "id": 92,
+      "start": 321.4,
+      "end": 322.4,
+      "text": "It makes a high."
+    },
+    {
+      "id": 93,
+      "start": 322.4,
+      "end": 323.8,
+      "text": "It has a change in the state of delivery."
+    },
+    {
+      "id": 94,
+      "start": 323.8,
+      "end": 329.52,
+      "text": "So I could be looking for this to trend lower the daily and the four hour candles both support"
+    },
+    {
+      "id": 95,
+      "start": 329.52,
+      "end": 330.52,
+      "text": "expansion here."
+    },
+    {
+      "id": 96,
+      "start": 330.52,
+      "end": 332.2,
+      "text": "If we can form a continuation."
+    },
+    {
+      "id": 97,
+      "start": 332.2,
+      "end": 336.8,
+      "text": "So as we let this play ahead, what do we have?"
+    },
+    {
+      "id": 98,
+      "start": 336.8,
+      "end": 342.16,
+      "text": "We have price sweeping out a high into a fair value up, which is a point of interest and"
+    },
+    {
+      "id": 99,
+      "start": 342.16,
+      "end": 343.36,
+      "text": "then forming a continuation."
+    },
+    {
+      "id": 100,
+      "start": 343.36,
+      "end": 348.48,
+      "text": "But now that we have a protected swing in this higher timeframe candle, I've anticipated"
+    },
+    {
+      "id": 101,
+      "start": 348.48,
+      "end": 352.64,
+      "text": "that this wick has formed and then price can continue to trend lower."
+    },
+    {
+      "id": 102,
+      "start": 352.64,
+      "end": 357.8,
+      "text": "That's where I could look to take an entry, but my stops there and then look for two are."
+    },
+    {
+      "id": 103,
+      "start": 357.8,
+      "end": 359.28,
+      "text": "Let's see how this works out."
+    },
+    {
+      "id": 104,
+      "start": 359.28,
+      "end": 361.08,
+      "text": "We do come back up."
+    },
+    {
+      "id": 105,
+      "start": 361.08,
+      "end": 365.48,
+      "text": "We would have gotten filled on a retest entry and then we start to trade lower."
+    },
+    {
+      "id": 106,
+      "start": 365.48,
+      "end": 367.2,
+      "text": "Now let's take a look at this."
+    },
+    {
+      "id": 107,
+      "start": 367.2,
+      "end": 371.68,
+      "text": "If this is an expansion candle and this is an expansion candle, we expect them to close"
+    },
+    {
+      "id": 108,
+      "start": 371.68,
+      "end": 372.88,
+      "text": "near their lows."
+    },
+    {
+      "id": 109,
+      "start": 372.88,
+      "end": 375.04,
+      "text": "So we could look to see price continue to trend."
+    },
+    {
+      "id": 110,
+      "start": 375.04,
+      "end": 377.84,
+      "text": "So here you can see we have expansion."
+    },
+    {
+      "id": 111,
+      "start": 377.84,
+      "end": 379.72,
+      "text": "This isn't showing a reversal, right?"
+    },
+    {
+      "id": 112,
+      "start": 379.72,
+      "end": 380.72,
+      "text": "That's a retracement."
+    },
+    {
+      "id": 113,
+      "start": 380.72,
+      "end": 385.36,
+      "text": "So we can expect this to continue lower and then we do get this trend lower and you can"
+    },
+    {
+      "id": 114,
+      "start": 385.36,
+      "end": 393.48,
+      "text": "see these small wicks support expansion lower small wick expansion, small wick expansion."
+    },
+    {
+      "id": 115,
+      "start": 393.64,
+      "end": 398.28,
+      "text": "Even when we open this next candle, we have price open trade into this protected swing"
+    },
+    {
+      "id": 116,
+      "start": 398.28,
+      "end": 401.76,
+      "text": "makes a small wick and then we form a new continuation there."
+    },
+    {
+      "id": 117,
+      "start": 401.76,
+      "end": 402.76,
+      "text": "And what happens?"
+    },
+    {
+      "id": 118,
+      "start": 402.76,
+      "end": 406.28,
+      "text": "It has a small wick and it can continue to expand the lower."
+    },
+    {
+      "id": 119,
+      "start": 406.28,
+      "end": 412.36,
+      "text": "So just to review, if we want to find expansion or a trend, I want to find where higher timeframe"
+    },
+    {
+      "id": 120,
+      "start": 412.36,
+      "end": 416.12,
+      "text": "candles all support expansion in the same direction."
+    },
+    {
+      "id": 121,
+      "start": 416.12,
+      "end": 420.32,
+      "text": "And I'm going to align structure with that in the form of protected swings or continuation"
+    },
+    {
+      "id": 122,
+      "start": 420.32,
+      "end": 421.32,
+      "text": "order blocks."
+    },
+    {
+      "id": 123,
+      "start": 421.32,
+      "end": 424.6,
+      "text": "And that's where you can get price to continue or trend."
+    },
+    {
+      "id": 124,
+      "start": 424.6,
+      "end": 429.04,
+      "text": "Now let's say I wanted to take a look at the exact same example here, but instead of viewing"
+    },
+    {
+      "id": 125,
+      "start": 429.04,
+      "end": 433.88,
+      "text": "it on the daily four hour and 15 minute, I wanted to view it on something like the five"
+    },
+    {
+      "id": 126,
+      "start": 433.88,
+      "end": 435.2,
+      "text": "minute timeframe."
+    },
+    {
+      "id": 127,
+      "start": 435.2,
+      "end": 439.04,
+      "text": "This is where I could look for three timeframes to align for expansion."
+    },
+    {
+      "id": 128,
+      "start": 439.04,
+      "end": 444.2,
+      "text": "So if you notice here, I have the hourly timeframe set up here, the four hour and the daily."
+    },
+    {
+      "id": 129,
+      "start": 444.2,
+      "end": 447.4,
+      "text": "Now let's first talk about why this is important to align them all together."
+    },
+    {
+      "id": 130,
+      "start": 447.8,
+      "end": 450.88,
+      "text": "Then we'll talk about how you could set up the indicator to show this."
+    },
+    {
+      "id": 131,
+      "start": 451.48,
+      "end": 456.32,
+      "text": "So if we want all timeframes to align, does it make sense to be entering in here?"
+    },
+    {
+      "id": 132,
+      "start": 457.0,
+      "end": 462.8,
+      "text": "No, because if we take a look, our candle here on the hourly is not set up for expansion."
+    },
+    {
+      "id": 133,
+      "start": 463.12,
+      "end": 463.32,
+      "text": "Right."
+    },
+    {
+      "id": 134,
+      "start": 463.32,
+      "end": 464.88,
+      "text": "It is a reversal candle."
+    },
+    {
+      "id": 135,
+      "start": 465.32,
+      "end": 467.68,
+      "text": "So it doesn't make sense to be looking to trade it here."
+    },
+    {
+      "id": 136,
+      "start": 467.88,
+      "end": 471.96,
+      "text": "Instead, I'd want to wait for the next candle as that can support expansion."
+    },
+    {
+      "id": 137,
+      "start": 472.24,
+      "end": 472.44,
+      "text": "Right."
+    },
+    {
+      "id": 138,
+      "start": 472.44,
+      "end": 474.2,
+      "text": "Cause this would be the candle three."
+    },
+    {
+      "id": 139,
+      "start": 474.6,
+      "end": 478.44,
+      "text": "And this is a good example of trading candle three on multiple timeframes."
+    },
+    {
+      "id": 140,
+      "start": 478.84,
+      "end": 483.68,
+      "text": "Here we have a daily candle three, a four hour candle, three and an hourly candle, three."
+    },
+    {
+      "id": 141,
+      "start": 483.96,
+      "end": 488.8,
+      "text": "You can see that's when the trend really gets going here because it is a continuation"
+    },
+    {
+      "id": 142,
+      "start": 488.88,
+      "end": 491.2,
+      "text": "on all timeframes by definition."
+    },
+    {
+      "id": 143,
+      "start": 491.24,
+      "end": 492.6,
+      "text": "That is just a trend."
+    },
+    {
+      "id": 144,
+      "start": 492.84,
+      "end": 495.0,
+      "text": "So how would you actually set up this indicator?"
+    },
+    {
+      "id": 145,
+      "start": 495.4,
+      "end": 497.28,
+      "text": "Well, it's the same thing with the daily timeframe."
+    },
+    {
+      "id": 146,
+      "start": 497.32,
+      "end": 499.2,
+      "text": "It's just you're going to offset it quite a bit more."
+    },
+    {
+      "id": 147,
+      "start": 499.32,
+      "end": 500.64,
+      "text": "I do mine at 32."
+    },
+    {
+      "id": 148,
+      "start": 501.0,
+      "end": 504.28,
+      "text": "And then I'm going to set up a four hour and 15 minute fractal model."
+    },
+    {
+      "id": 149,
+      "start": 504.72,
+      "end": 509.84,
+      "text": "I'll leave these checked, but then offset it 17 and have the rest of the settings"
+    },
+    {
+      "id": 150,
+      "start": 509.88,
+      "end": 512.48,
+      "text": "besides these marked here turned off."
+    },
+    {
+      "id": 151,
+      "start": 512.8,
+      "end": 516.6,
+      "text": "And what this will do is show the higher timeframe, EQ and those things I want to"
+    },
+    {
+      "id": 152,
+      "start": 516.6,
+      "end": 520.72,
+      "text": "see, like the opening price right here, but none of the other things."
+    },
+    {
+      "id": 153,
+      "start": 520.72,
+      "end": 522.2,
+      "text": "It won't clutter the chart."
+    },
+    {
+      "id": 154,
+      "start": 522.64,
+      "end": 526.72,
+      "text": "And then what I will do is I'll have this set on the five a minute and hourly."
+    },
+    {
+      "id": 155,
+      "start": 527.0,
+      "end": 528.84,
+      "text": "And then I'll have everything else turned on."
+    },
+    {
+      "id": 156,
+      "start": 529.08,
+      "end": 532.36,
+      "text": "I will leave that one completely set up and that will show my lower timeframe"
+    },
+    {
+      "id": 157,
+      "start": 532.36,
+      "end": 532.92,
+      "text": "structure."
+    },
+    {
+      "id": 158,
+      "start": 533.32,
+      "end": 537.72,
+      "text": "And this is what allows me to see the daily, the four hour and the hourly all on"
+    },
+    {
+      "id": 159,
+      "start": 537.72,
+      "end": 540.32,
+      "text": "the same timeframe and still get that visualization."
+    },
+    {
+      "id": 160,
+      "start": 540.72,
+      "end": 543.16,
+      "text": "I can see the EQ of the four hour timeframe here."
+    },
+    {
+      "id": 161,
+      "start": 543.48,
+      "end": 544.84,
+      "text": "I can see the EQ of the hourly."
+    },
+    {
+      "id": 162,
+      "start": 544.84,
+      "end": 548.0,
+      "text": "I can see the fractal model on multiple different timeframes."
+    },
+    {
+      "id": 163,
+      "start": 548.36,
+      "end": 552.08,
+      "text": "And then that's where I can get a setup where I can see all the expansion"
+    },
+    {
+      "id": 164,
+      "start": 552.08,
+      "end": 553.72,
+      "text": "candles being aligned together."
+    },
+    {
+      "id": 165,
+      "start": 554.0,
+      "end": 555.68,
+      "text": "So let's go over another example of this."
+    },
+    {
+      "id": 166,
+      "start": 556.0,
+      "end": 557.68,
+      "text": "So here we are in our next example."
+    },
+    {
+      "id": 167,
+      "start": 557.76,
+      "end": 560.04,
+      "text": "And we're going to go into this with a bullish bias."
+    },
+    {
+      "id": 168,
+      "start": 560.08,
+      "end": 563.64,
+      "text": "Now let's talk through each timeframe and what you can pull from the higher"
+    },
+    {
+      "id": 169,
+      "start": 563.64,
+      "end": 564.68,
+      "text": "timeframe chart here."
+    },
+    {
+      "id": 170,
+      "start": 565.28,
+      "end": 568.88,
+      "text": "If you're taking a look, if we're bullish, does this candle here on the daily"
+    },
+    {
+      "id": 171,
+      "start": 568.92,
+      "end": 571.28,
+      "text": "support expansion to the upside?"
+    },
+    {
+      "id": 172,
+      "start": 571.72,
+      "end": 574.2,
+      "text": "No, because it has a large opposing run."
+    },
+    {
+      "id": 173,
+      "start": 574.68,
+      "end": 575.32,
+      "text": "But what does that mean?"
+    },
+    {
+      "id": 174,
+      "start": 575.36,
+      "end": 578.28,
+      "text": "Are we expecting price to expand here on the daily timeframe?"
+    },
+    {
+      "id": 175,
+      "start": 578.68,
+      "end": 579.08,
+      "text": "No."
+    },
+    {
+      "id": 176,
+      "start": 579.08,
+      "end": 583.32,
+      "text": "So what are we looking to target back towards the daily open, which is marked"
+    },
+    {
+      "id": 177,
+      "start": 583.32,
+      "end": 586.32,
+      "text": "with this faint line here, or the intraday highs."
+    },
+    {
+      "id": 178,
+      "start": 586.76,
+      "end": 590.08,
+      "text": "So knowing that on the daily timeframe, we know we're not looking for a"
+    },
+    {
+      "id": 179,
+      "start": 590.08,
+      "end": 591.0,
+      "text": "massive move."
+    },
+    {
+      "id": 180,
+      "start": 591.0,
+      "end": 592.8,
+      "text": "We're looking back towards the daily open."
+    },
+    {
+      "id": 181,
+      "start": 593.4,
+      "end": 594.4,
+      "text": "Now I want to take a look."
+    },
+    {
+      "id": 182,
+      "start": 594.64,
+      "end": 597.04,
+      "text": "Does the four hour candle here support expansion?"
+    },
+    {
+      "id": 183,
+      "start": 597.44,
+      "end": 602.08,
+      "text": "No, because it is a bearish candle right open, small wick, and then trading lower."
+    },
+    {
+      "id": 184,
+      "start": 602.52,
+      "end": 604.76,
+      "text": "Does this hourly support expansion higher?"
+    },
+    {
+      "id": 185,
+      "start": 605.32,
+      "end": 605.76,
+      "text": "No."
+    },
+    {
+      "id": 186,
+      "start": 606.12,
+      "end": 608.68,
+      "text": "So this is where I'm going to want to wait for that 10 a.m."
+    },
+    {
+      "id": 187,
+      "start": 608.88,
+      "end": 613.12,
+      "text": "to get a new higher timeframe candle here on the four hour and on the hourly"
+    },
+    {
+      "id": 188,
+      "start": 613.12,
+      "end": 613.68,
+      "text": "timeframe."
+    },
+    {
+      "id": 189,
+      "start": 613.76,
+      "end": 615.4,
+      "text": "You can see we do trade higher."
+    },
+    {
+      "id": 190,
+      "start": 615.44,
+      "end": 617.32,
+      "text": "Sure, you could pick the bottom if you want."
+    },
+    {
+      "id": 191,
+      "start": 617.36,
+      "end": 618.84,
+      "text": "That's just not in my strategy."
+    },
+    {
+      "id": 192,
+      "start": 619.32,
+      "end": 621.88,
+      "text": "Now, if you notice, this candle is a reversal candle."
+    },
+    {
+      "id": 193,
+      "start": 621.92,
+      "end": 625.44,
+      "text": "It's not quite a candle to closure as it doesn't close in here, but it does"
+    },
+    {
+      "id": 194,
+      "start": 625.44,
+      "end": 629.28,
+      "text": "have a nice large wick that we can use to frame off of it to the upside."
+    },
+    {
+      "id": 195,
+      "start": 629.8,
+      "end": 632.92,
+      "text": "Here we do have a candle to closure on the hourly timeframe."
+    },
+    {
+      "id": 196,
+      "start": 633.28,
+      "end": 636.28,
+      "text": "So if we pair that with a change in the state of delivery, then we could be"
+    },
+    {
+      "id": 197,
+      "start": 636.28,
+      "end": 637.08,
+      "text": "looking long."
+    },
+    {
+      "id": 198,
+      "start": 637.48,
+      "end": 641.72,
+      "text": "Now, once again, you're starting to see this is a candle three on multiple"
+    },
+    {
+      "id": 199,
+      "start": 641.76,
+      "end": 642.96,
+      "text": "different timeframes."
+    },
+    {
+      "id": 200,
+      "start": 643.2,
+      "end": 647.2,
+      "text": "Now, this one is opposing the daily candle as it is not open low high"
+    },
+    {
+      "id": 201,
+      "start": 647.2,
+      "end": 649.24,
+      "text": "close, it's open high low."
+    },
+    {
+      "id": 202,
+      "start": 649.72,
+      "end": 652.84,
+      "text": "So we do want to take more conservative targets."
+    },
+    {
+      "id": 203,
+      "start": 653.64,
+      "end": 654.2,
+      "text": "Let's see here."
+    },
+    {
+      "id": 204,
+      "start": 655.28,
+      "end": 658.56,
+      "text": "We get the change in the state of delivery, and then we start to trade higher."
+    },
+    {
+      "id": 205,
+      "start": 659.0,
+      "end": 663.16,
+      "text": "And you can see how this is set up for expansion here on a few different"
+    },
+    {
+      "id": 206,
+      "start": 663.16,
+      "end": 668.44,
+      "text": "candles as we are aligning with the higher timeframe or the four hour timeframe."
+    },
+    {
+      "id": 207,
+      "start": 668.68,
+      "end": 672.4,
+      "text": "So this four hour timeframe supports this lower timeframe swing to the upside."
+    },
+    {
+      "id": 208,
+      "start": 673.0,
+      "end": 675.96,
+      "text": "And where do we see this go back towards the daily open?"
+    },
+    {
+      "id": 209,
+      "start": 676.24,
+      "end": 678.16,
+      "text": "And we get a little bit of consolidation."
+    },
+    {
+      "id": 210,
+      "start": 679.0,
+      "end": 683.44,
+      "text": "So you can see just to review the daily doesn't support expansion, but we do"
+    },
+    {
+      "id": 211,
+      "start": 683.44,
+      "end": 687.92,
+      "text": "have multiple timeframes that still support expansion for this lower timeframe setup."
+    },
+    {
+      "id": 212,
+      "start": 688.72,
+      "end": 692.36,
+      "text": "So if you learn nothing else from this video, be sure to just check out the"
+    },
+    {
+      "id": 213,
+      "start": 692.36,
+      "end": 693.28,
+      "text": "higher timeframes."
+    },
+    {
+      "id": 214,
+      "start": 693.68,
+      "end": 696.92,
+      "text": "Do they support a trend in one direction or not?"
+    },
+    {
+      "id": 215,
+      "start": 696.96,
+      "end": 700.4,
+      "text": "Because at the end of the day, you can have a great lower timeframe structure,"
+    },
+    {
+      "id": 216,
+      "start": 700.44,
+      "end": 704.36,
+      "text": "but if it's not aligned with the higher timeframe trend, it's unlikely to work out."
+    },
+    {
+      "id": 217,
+      "start": 704.4,
+      "end": 706.28,
+      "text": "But I hope you found some value in this video."
+    },
+    {
+      "id": 218,
+      "start": 706.56,
+      "end": 710.08,
+      "text": "If you did, please consider liking and subscribing, and I'll see you guys next week."
+    },
+    {
+      "id": 219,
+      "start": 710.32,
+      "end": 710.96,
+      "text": "Have a good one."
+    }
+  ],
+  "created_at": "2026-09-01T18:32:56.807722+00:00"
+}

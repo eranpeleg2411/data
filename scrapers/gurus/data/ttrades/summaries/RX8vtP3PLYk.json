@@ -1,0 +1,270 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "RX8vtP3PLYk",
+    "title": "Let The Wick Form, Trade The Body (Stop Getting Stopped Out)",
+    "url": "https://www.youtube.com/watch?v=RX8vtP3PLYk",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/RX8vtP3PLYk.json"
+  },
+  "stats": {
+    "word_count": 3622,
+    "duration_seconds": 1044.44,
+    "segments": 343,
+    "concepts_detected": 5,
+    "candidate_strategies": 4
+  },
+  "concept_mentions": {
+    "Liquidity": 1,
+    "Fair Value Gap": 5,
+    "SMT Divergence": 2,
+    "TTrades Fractal Model": 1,
+    "Protected Swing": 18
+  },
+  "spoken_time_references": [
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "High or Low of Day",
+      "evidence": [
+        {
+          "start": 432.52,
+          "end": 441.96,
+          "text": "closed below it. So now we have the logic of if we are looking to trade this lower, we could anticipate that this would be the high of the day.",
+          "concepts": [],
+          "strategies": [
+            "High or Low of Day"
+          ],
+          "score": 5
+        }
+      ]
+    },
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 347.64,
+          "end": 354.12,
+          "text": "And who knows, right? If it has formed its wick, then it will form a new continuation in here. And then we can look to trade it.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 6
+        },
+        {
+          "start": 992.0,
+          "end": 999.88,
+          "text": "looking for a continuation. We want to let it form its wick first. So if we're trying to trade this candle right here, what are we trying to do?",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 6
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 228.24,
+          "end": 240.2,
+          "text": "You can see we do have a candle to closure with SMT, a nice V shape reversal. But what do we notice about this price is aggressively coming back into this range. So it doesn't have a very nice bearish closure here.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 12
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 211.56,
+          "end": 222.76,
+          "text": "If I can answer that yes, then I can look for an entry. If that answer is no, then there is no protected swing or anything to trade away from and I need to wait until I can say yes to that question.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 14
+        },
+        {
+          "start": 592.88,
+          "end": 603.56,
+          "text": "And then I could take any entry in here as long as my stop is near that protected swing and I can look for two are right. Now you also want to have the logic of where these higher timeframe candles",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 14
+        },
+        {
+          "start": 626.88,
+          "end": 638.52,
+          "text": "And this is the logic I use when I'm looking for an entry. So yes, I use the inter candle change in the state of delivery or the mechanical nature of if I have a protected swing, I can put my stop there and take",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 12
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 35.36,
+      "end": 46.2,
+      "text": "or a protected swing. A protected swing is when price reaches an important level, which would be a high, low, or a fair value gap, and then closes through this series of candles into that important",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 15
+    },
+    {
+      "start": 163.0,
+      "end": 171.8,
+      "text": "So here you can see price reaches into an important level, which is this fair value gap. This closes through the series of candles that made that low in the important level.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 182.68,
+      "end": 192.48,
+      "text": "So here you can see we have that protected swing. And now I have that anticipation for price to trade higher. This is where I could then look to take an entry or get on side as I've anticipated",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 11
+    },
+    {
+      "start": 211.56,
+      "end": 222.76,
+      "text": "If I can answer that yes, then I can look for an entry. If that answer is no, then there is no protected swing or anything to trade away from and I need to wait until I can say yes to that question.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 14
+    },
+    {
+      "start": 228.24,
+      "end": 240.2,
+      "text": "You can see we do have a candle to closure with SMT, a nice V shape reversal. But what do we notice about this price is aggressively coming back into this range. So it doesn't have a very nice bearish closure here.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 12
+    },
+    {
+      "start": 273.68,
+      "end": 283.36,
+      "text": "What is going to happen? We are going to get stopped out and we're going to be the liquidity for the wick to form. So we want to wait until we can answer yes to that question.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 592.88,
+      "end": 603.56,
+      "text": "And then I could take any entry in here as long as my stop is near that protected swing and I can look for two are right. Now you also want to have the logic of where these higher timeframe candles",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 14
+    },
+    {
+      "start": 626.88,
+      "end": 638.52,
+      "text": "And this is the logic I use when I'm looking for an entry. So yes, I use the inter candle change in the state of delivery or the mechanical nature of if I have a protected swing, I can put my stop there and take",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 673.68,
+      "end": 683.48,
+      "text": "So here we reach into a fair value gap. We have a candle closure right into the New York session. So if you see my intraday reversal video, this could set up a New York reversal.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 808.96,
+      "end": 822.8,
+      "text": "So let's see what happens here and see it marks it out as a protected swing. And then we get a new continuation and you could do the same thing in this candle here. Here you can see there's not a clean continuation.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 906.76,
+      "end": 916.28,
+      "text": "We initially have a bearish protected swing here. Now, like I said, with the higher timeframe trend, this fact that we have already taken out the range low, we have failure swings to the highs.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 1006.48,
+      "end": 1013.56,
+      "text": "Then we can look for an expansion candle. Using a protected swing. Then we can look for an entry, put our stop on that wick, because if the wick",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 11
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.920596+00:00"
+}

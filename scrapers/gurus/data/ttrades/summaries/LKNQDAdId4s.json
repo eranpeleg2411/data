@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "LKNQDAdId4s",
+    "title": "Master Candlestick Wicks - The Key To Catching Reversals",
+    "url": "https://www.youtube.com/watch?v=LKNQDAdId4s",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/LKNQDAdId4s.json"
+  },
+  "stats": {
+    "word_count": 2225,
+    "duration_seconds": 707.0,
+    "segments": 190,
+    "concepts_detected": 2,
+    "candidate_strategies": 0
+  },
+  "concept_mentions": {
+    "Fair Value Gap": 5,
+    "Daily Bias": 1
+  },
+  "spoken_time_references": [
+    "kill zone",
+    "New York session"
+  ],
+  "candidate_strategies": [],
+  "key_passages": [
+    {
+      "start": 73.88,
+      "end": 85.44,
+      "text": "We respect the upper half of this WIC and then trade higher. Here you can see price opens up on the lower time frame, trades into this WIC, it has a reversal that is formed, and then trades lower.",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 156.24,
+      "end": 169.0,
+      "text": "So let's first go through some examples in which price respected the WIC. So you can see here, price takes out the low and closes back into the range. With my daily bias video, I'd be looking for price to trade higher.",
+      "concepts": [
+        "Daily Bias"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 301.46,
+      "end": 314.2,
+      "text": "lower into these previous days lows. For our next example, you can see we are on the hourly chart here. We have price reaching into a fair value gap forming a closure right here back inside",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 336.4,
+      "end": 347.9,
+      "text": "while not going below 50% of this WIC. So as we let this play out, you can see we price opens, we form a low in this fair value gap, and then we expand higher.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 4
+    },
+    {
+      "start": 394.04,
+      "end": 407.72,
+      "text": "It does not respect this WIC as it is closing over. Now it is more likely to reach for this high, then go and respect this WIC, and then expand lower, especially after already taking out its previous candles low.",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 415.12,
+      "end": 426.24,
+      "text": "So this is an example of when a WIC is disrespected, or this reversal fails. Let's go into a couple more examples of these. So here we are on ES hourly chart.",
+      "concepts": [],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 443.64,
+      "end": 454.48,
+      "text": "So let's see if that is respected. And you can see right away, we are closing over 50% of this WIC and inverting this fair value gap.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 548.88,
+      "end": 566.08,
+      "text": "Price respected the upper half of this WIC here to trade higher into this fair value gap. After reaching into this fair value gap, price then closed back inside the range of its previous candle. So if price is going to trade lower off of it, where would we want to see price respect?",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 678.04,
+      "end": 687.12,
+      "text": "right? There are going to be times when price closes over this level and it still expands lower. There's going to be times where price respects this level and then right towards the end",
+      "concepts": [],
+      "strategies": [],
+      "score": 4
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.199216+00:00"
+}

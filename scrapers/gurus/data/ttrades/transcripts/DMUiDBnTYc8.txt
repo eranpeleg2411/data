@@ -1,0 +1,257 @@
+[00:00] How's it going everyone?
+[00:11] This video is going to be over order blocks.
+[00:13] We are first going to cover order blocks at the smart money reversal before talking about
+[00:17] order blocks on the buy side and sell side of the curve.
+[00:20] I'll also be talking about the mean threshold of order blocks, what it looks like when price
+[00:24] is respecting an order block versus invalidating the order block.
+[00:27] And then finally, I'll be taking a look at stop losses for order blocks.
+[00:31] So let's hop into the PDF and get started.
+[00:33] So here we are on the order block slide.
+[00:35] And if you notice, we reach into an important level.
+[00:38] We create a high or buy side liquidity.
+[00:41] We sweep that high and then displace and close below the opening price of the single or series
+[00:46] of up close candles into this important level.
+[00:49] This candle here displaces and closes below the opening price here, validating it as an
+[00:54] order block.
+[00:55] When price retraces back into the order block, it is used as resistance to continue lower.
+[01:00] Similarly down here, price reaches towards an important level, creates sell side liquidity.
+[01:05] It then sweeps that sell side liquidity before displacing and closing over the opening price
+[01:10] of the single or series of down close candles.
+[01:13] Once this occurs, price then uses this level as support to continue higher.
+[01:17] Now order blocks don't necessarily need a sweep before this closure below, creating
+[01:22] a high, low, higher, high, lower, low.
+[01:25] I do prefer that.
+[01:26] And so I always wait for a sweep.
+[01:28] Now the most important part on this slide is waiting for an important level.
+[01:31] If we get this pattern at a random spot in a chart, it doesn't mean anything.
+[01:35] That's not an order block.
+[01:36] It needs to be off a higher timeframe, he did array or important level.
+[01:40] So here we are with our first example.
+[01:42] If you notice, we have buy side liquidity resting here or buy stops.
+[01:49] Here you can see we sweep those buy stops right here.
+[01:52] Now if we get a close and displacement below the series of up close candles here, this
+[01:57] opening price, we now have an order block.
+[02:00] Let's see if that forms.
+[02:03] Right here, we get displacement and closure below that.
+[02:06] So looking to enter on a retest of the order block, my stop on this high and looking for
+[02:11] two are, let's see how this works out.
+[02:14] So here we get tagged in.
+[02:19] And there we get stopped out.
+[02:21] So now why did we get stopped out?
+[02:23] Now, if you remember back to the slides, I'm looking for the series of up close candles
+[02:27] into what an important level.
+[02:30] Do we have an important level here?
+[02:32] Well, if we're on the five minute, let's zoom out to the hour.
+[02:36] Here we have our buy side liquidity resting right here.
+[02:40] So zooming back into the five minute.
+[02:42] Now you can see in the absence of a higher timeframe level, these up close candles just
+[02:47] created equal highs and this is a retracement to move higher.
+[02:50] Now let's go back to the hourly chart and see how we could frame this in the other
+[02:53] direction.
+[02:54] So back out here on the hourly chart, knowing we have buy side liquidity resting above us.
+[02:59] What do we have right here?
+[03:00] We have a fair value gap.
+[03:01] So with an hourly fair value gap dropping down to the five minute chart.
+[03:04] Now, now we are waiting for a price to reach into the fair value gap.
+[03:10] Here we get a reach into the fair value gap.
+[03:12] So now what do we have checked off?
+[03:14] We have an important level.
+[03:15] So now I'm waiting for a sweep.
+[03:18] Here we get a sweep.
+[03:19] Now, if we're going to validate this down close candle into an important level and sweeping
+[03:24] liquidity, where do we need to close?
+[03:26] I want to see a closure over the opening price of this down close candle.
+[03:34] And here we get that closure.
+[03:36] But once again, looking to take an entry on the retest of this opening price, my stop
+[03:40] on the low and then looking for buy side liquidity or to our.
+[03:45] Let's see how this works out.
+[03:50] And you can see we hit our TP.
+[03:52] So you can see this is not a valid order block because it is lacking a higher time frame
+[03:56] level while this order block reaches into a higher time frame level or an hourly fair
+[04:00] value gap and is going with the trend.
+[04:03] Now let's hop back into the PDF to learn about the mean threshold of an order block as well
+[04:07] as the order blocks on the buy side and sell side of the curve.
+[04:11] So what is the mean threshold of an order block?
+[04:13] Well, you just learned what an order block was in the previous section.
+[04:16] So taking a look at the order block, this single or serious candles, I'm going to take
+[04:19] my point five fib from the body low to body high and mark out 50% of that order block.
+[04:25] That is our mean threshold.
+[04:27] Ideally, if price is going to respect this order block, I don't want to see any closes
+[04:31] below the mean threshold or 50% of this order block.
+[04:34] So you can see here once we validate this order block, the 50% level of the order block
+[04:38] is respected to move higher.
+[04:41] Now, lots of times I will focus on using the mean threshold of an order block when we have
+[04:45] a larger series of candles in which the opening price does not make sense for an entry.
+[04:49] Let's hop into an example of that.
+[04:51] So here we are on oil five minute chart and you can see we're reaching into an hourly
+[04:55] fair value gap here.
+[04:57] Although we do have a little sweep here, I prefer a nice swing low to be swept.
+[05:01] But let's see if we can close over this down close candle.
+[05:07] You can see we do not get a close below.
+[05:10] And then now what are we getting?
+[05:13] Lower time frame sweep.
+[05:18] Here we get an extra little sweep.
+[05:21] And now what I would be looking for is where is the series of down close candles?
+[05:27] Right here.
+[05:28] I want to see price close over these candles here.
+[05:37] And there we get a close over those candles.
+[05:39] This is our order block here or the series of down close candles before the change in
+[05:44] the state of delivery.
+[05:46] My eyes are drawn to these failure swings up here.
+[05:48] So if I was looking to take an entry off of this order block, I'd need my stop on this
+[05:52] low where that is how I do it and then targeting the failure swings at the high.
+[05:57] However, that gives a risk to reward ratio of 1.3.
+[06:01] So this is when I would go from body high to body low and mark out 50% of that order
+[06:07] block.
+[06:08] So you can look for the mean threshold to be an entry point and you can see how my risk
+[06:11] to reward goes from 1.3 to 2.6 almost.
+[06:15] Let's see how this plays out.
+[06:21] You can see it takes a good while, but we do reach those failure swings up there.
+[06:25] You can see from this example, it's not always going to be super clean and picture perfect.
+[06:29] But when I have a larger order block or larger series of down close candles, or it doesn't
+[06:33] make sense to enter off the opening price, that is when I will look to enter off the
+[06:37] mean threshold and zoom in out quickly to look at the hourly chart.
+[06:41] You can see how the bodies respect the fair value gap here and the wicks do the damage.
+[06:45] So now taking a look at order blocks on the buy side or sell side of the curve.
+[06:49] In this case, we'll be focusing on the buy side of the curve for the PDF.
+[06:52] Now when we switch from bearish to bullish and we have our smart money reversal, I will
+[06:57] still be looking for entries after the smart money reversal.
+[07:00] And the way I do that is I look for an order block on the buy side of the curve.
+[07:04] Now what am I looking for?
+[07:05] I'm looking for a down close candle into an important level.
+[07:08] Now those important levels are a previous order block, a fair value gap or a sweep.
+[07:13] Let's go over those.
+[07:14] So you can see here, this would be our smart money reversal.
+[07:17] We have an order block.
+[07:18] We get a down close candle into that order block.
+[07:21] We close over this down close candle, validating it as an order block and then the price continues higher.
+[07:28] The next one I look for the down close candle into the fair value gap when the opening price
+[07:33] of that or the series of those candles gets closed over, validating it as an order block.
+[07:37] I'll look for an entry higher from there.
+[07:39] And the last one I look for is similar to the smart money reversal, but in a continuation
+[07:44] of a trend, we have a swing low, which is swept.
+[07:47] And then the down close candle that swept this low gets closed over, validating it as
+[07:52] an order block to continue higher.
+[07:54] Let's hop into the chart and go over a few examples of these.
+[07:57] So in this next example, you can see that price has mostly consolidated through Asia
+[08:01] and London.
+[08:02] So let's see what happens as we near New York open.
+[08:07] You can see here, we sweep these lows over here or the cell stops resting below the Asia lows.
+[08:13] Now, if these down close candles are going to become an order block, what do we have to do?
+[08:18] We have to close over the series of down close candles right here.
+[08:23] So let's see if that occurs.
+[08:26] So we do get that close.
+[08:28] Now, if I'm looking for an order block entry, I would look to enter here.
+[08:31] My stop on the low.
+[08:33] However, with this current range, if I was just targeting these highs here, that's one
+[08:37] point four risk to reward.
+[08:38] Now, there's a few ways I can go about this.
+[08:40] I can look for a fair value gap entry, which would give me just about two are, which I'd
+[08:45] be looking to do.
+[08:46] Let's see if price confirms the smart money reversal and then we can find another order block.
+[08:53] So here price reaches into an important level or a fair value gap.
+[08:56] But if it's going to close over the bodies of these series of up close candles, this is
+[09:00] now an order block.
+[09:04] We cannot close over those bodies yet.
+[09:06] And what do we get?
+[09:08] We get a sweep of a low.
+[09:09] Now, if we're looking for the lowest bodied down close candle, it would be this candle
+[09:14] here.
+[09:15] I'm waiting for price to close over that candle.
+[09:19] We do not get a close yet.
+[09:22] And there we get a close.
+[09:24] But now if I'm looking to take an entry, I can enter on the opening price of this down
+[09:28] close candle, my stop on that low, and then targeting the highs are just about two are.
+[09:33] So you can see it's about the same as that fair value gap entry.
+[09:40] And there it goes.
+[09:41] Now, if we're going to look a little bit deeper at this price action and use what we
+[09:45] learned in the last section, we can mark out the mean threshold of this order block
+[09:48] right here.
+[09:49] You can see that the candles respect this mean threshold.
+[09:52] Now, what I can do is look to take an entry on this mean threshold with my stop in the
+[09:56] same spot, and you can see how the risk to reward significantly increases.
+[10:00] However, with this technique, I also risk the chance of not getting filled on this trade.
+[10:05] Now, you're probably wondering, can we do the same thing with this order block down
+[10:08] here at the smart money reversal?
+[10:10] And of course we can.
+[10:12] So marking out from the high to the low of the bodies and dragging it over.
+[10:16] Let's see how this risk to reward would be entering at the mean threshold, my stop on
+[10:21] the low and targeting the same highs.
+[10:24] It would be just about 2.6 when compared to the fair value gap entry at 1.95.
+[10:30] Let's go over one more example of using order blocks as a continuation of trend.
+[10:34] We have previous months high sitting here.
+[10:36] You can see we create equal highs and then we have a series of up close candles into
+[10:40] the equal highs, which then get displaced and closed below, validating it as an order block.
+[10:46] Price then retraces back up into the order block as well as into this small inefficiency
+[10:51] here or fair value gap.
+[10:53] Now we have a series of up close candles into an order block and fair value gap or
+[10:58] important levels.
+[11:00] So now if price is going to displace and close below these up close candles, we now
+[11:04] have another order block.
+[11:08] Here we displace and get a close below.
+[11:12] Now let's see if we reach back up into that important level.
+[11:17] Here we reach up into this important level.
+[11:20] So now I can look for this to displace and close below.
+[11:26] We do validate this as an order block.
+[11:28] Now I can look at this as another point of interest for a continuation of trend.
+[11:34] And there you reach into this.
+[11:36] So now what do we have the up close candles into an important level?
+[11:40] And let's see if we get a move lower here.
+[11:44] And we do.
+[11:45] So you can see how these order blocks are formed when they reach into an important
+[11:49] level and then displace and close below them.
+[11:52] Now you're wondering why didn't I choose this candles and order block?
+[11:55] Well, it never reached up into an important level for me.
+[11:58] I wanted price to reach back into this order block, which it did here.
+[12:02] So although we close below the opening price here, it doesn't validate it as
+[12:06] an order block for me because it's missing that important level.
+[12:09] Now the last thing I'm going to talk about prior to our final example are
+[12:12] stop losses with order blocks.
+[12:14] Generally I'm looking to place my stop loss on a swing high or low or the
+[12:19] other end of the order block.
+[12:20] Now obviously a stop loss on the other end of the order block will provide
+[12:24] a higher risk to reward than the swing low, but there is the chance that price
+[12:28] will wick the stop loss even when the trade is not invalidated.
+[12:31] Let's hop into our final example.
+[12:33] Let's take a look at this example and work through it.
+[12:36] If we are looking for a continuation of trend, what is our draw on liquidity?
+[12:40] Well, it would be this high up here or buy side liquidity.
+[12:44] Now, if I'm looking for a continuation trend, I'm looking for either a return
+[12:48] to an order block, a fair value gap or a sweep of the low.
+[12:51] Well, if you notice over here, we have these down close candles that swept
+[12:55] all these lows down here.
+[12:56] So this also creates an order block and it has displacement following it
+[13:00] with a fair value gap with that idea in mind to run lower to go higher.
+[13:05] What else do we see?
+[13:06] Well, we have lows resting here or sell stops.
+[13:09] So let's see what happens after open.
+[13:11] Now I don't need to catch this first entry and I'll show you this.
+[13:18] So here you see that first entry.
+[13:20] We never violate this low over here.
+[13:22] But what do you notice?
+[13:23] We have down close candles into order block, fair value gap and sweeping
+[13:28] lows before displacement and a close over these down close candles.
+[13:34] So what is this?
+[13:34] That is an order block.
+[13:36] So now I can look to take an entry here.
+[13:38] I stop on the low and we created equal highs up here and that is only 1.5 hour.
+[13:44] Now, although that is great, what can we do?
+[13:46] Well, we could mark out the mean threshold of this order block.
+[13:50] And if you notice that also lines up with this little inversion here.
+[13:53] But if we're going to take an entry here, that is 2.5 hour.
+[13:56] Let's see how that works out.
+[14:00] And there you go.
+[14:00] We get a move higher and hit our take profit.
+[14:03] So you can see, even if I don't catch this first initial buy, this order block
+[14:07] is a secondary entry to move higher.
+[14:10] Now, this isn't the best example, but if I was to have my stop on the order
+[14:14] block low here and this moved just one point lower, it would have stopped me out.
+[14:18] Even if the trade was still valid and didn't violate this low.
+[14:22] That's why I personally prefer to have my stop on the swing low and adjust my
+[14:26] entry to get closer to my invalidation point rather than just my invalidation
+[14:30] to get closer to my entry.
+[14:32] I hope you found this video helpful.
+[14:33] If you did, please consider liking and subscribing and let me know in the
+[14:37] comments below which video you prefer between mitigation, breaker and propulsion blocks.
+[14:42] As those are the videos I will be looking to do next in this series.
+[14:45] I hope you guys had a great holiday and I'll see you guys in the new year.

@@ -1,0 +1,268 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "4Gm8p6O7Ebs",
+    "title": "How To Trade Expansion - Phases Of Price",
+    "url": "https://www.youtube.com/watch?v=4Gm8p6O7Ebs",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/4Gm8p6O7Ebs.json"
+  },
+  "stats": {
+    "word_count": 3493,
+    "duration_seconds": 1102.6,
+    "segments": 382,
+    "concepts_detected": 4,
+    "candidate_strategies": 3
+  },
+  "concept_mentions": {
+    "Liquidity": 2,
+    "Fair Value Gap": 4,
+    "Premium and Discount": 2,
+    "Protected Swing": 13
+  },
+  "spoken_time_references": [
+    "London session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 1040.56,
+          "end": 1046.96,
+          "text": "Cell-side liquidity, cell-side liquidity. Large range into the low. Do we get retracement, or consolidation, or reversal?",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 11
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 101.56,
+          "end": 110.48,
+          "text": "So if I'm in a bullish trend, down close candles to support price higher. And if I'm in a bearish trend, up close candles to support price lower. Now what I want to do is look for protected swings.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 12
+        },
+        {
+          "start": 201.64,
+          "end": 214.4,
+          "text": "If we're going to continue this trend higher, as we trade, we can go ahead and consider it this new protected swing here. As we reach into a fair value gap, we're an important level and then close over and we",
+          "concepts": [
+            "Fair Value Gap",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 14
+        },
+        {
+          "start": 411.8,
+          "end": 419.8,
+          "text": "We're tracing back. Right there we form a new opposing candle or a new protected swing. Retest that and then we trend lower.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 11
+        }
+      ]
+    },
+    {
+      "name": "Premium Discount Expansion",
+      "evidence": [
+        {
+          "start": 37.72,
+          "end": 51.32,
+          "text": "Now you see, we have very shallow moves against the trend and that is the signature of expansion. We are going to trend and have very shallow moves. I'm not expecting price to have a big retracement into a discount of a range to continue back",
+          "concepts": [
+            "Premium and Discount"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 11
+        },
+        {
+          "start": 88.36,
+          "end": 101.56,
+          "text": "Well, understanding that I'm going to have shallow moves against me in expansion, I'm not wanting to look for price to trade back into a discount to get long. What I'm going to want to do is look for these opposing candles to support price higher.",
+          "concepts": [
+            "Premium and Discount"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 12
+        },
+        {
+          "start": 983.64,
+          "end": 995.28,
+          "text": "Now, after a large expansion, that's when we can get a new phase of price. I want to be a little bit weary on this next day. And you can see we go and trade up into that EQ.",
+          "concepts": [],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 5
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 37.72,
+      "end": 51.32,
+      "text": "Now you see, we have very shallow moves against the trend and that is the signature of expansion. We are going to trend and have very shallow moves. I'm not expecting price to have a big retracement into a discount of a range to continue back",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 11
+    },
+    {
+      "start": 64.92,
+      "end": 75.84,
+      "text": "Well, I'm expecting the market to cycle between large ranges and small ranges. We have a small range here. We get the manipulation, create the protected swing, and then we have a large range.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 88.36,
+      "end": 101.56,
+      "text": "Well, understanding that I'm going to have shallow moves against me in expansion, I'm not wanting to look for price to trade back into a discount to get long. What I'm going to want to do is look for these opposing candles to support price higher.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 12
+    },
+    {
+      "start": 105.2,
+      "end": 113.6,
+      "text": "And if I'm in a bearish trend, up close candles to support price lower. Now what I want to do is look for protected swings. So if you haven't seen my video on that, go ahead and check that out.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 11
+    },
+    {
+      "start": 124.44,
+      "end": 138.28,
+      "text": "I'm looking in the upper half of a higher timeframe candle via my EQ video. And when we reach into that PD array, I'm looking for the down close candles once closed over to create a protected swing and then trade higher off of that.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 171.52,
+      "end": 183.64,
+      "text": "Is when the higher timeframes set that up. But if I'm looking into this candle here, do I have any protected swings? So taking a look, we sweep out a low here, we close over, I now have a new protected",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 201.64,
+      "end": 214.4,
+      "text": "If we're going to continue this trend higher, as we trade, we can go ahead and consider it this new protected swing here. As we reach into a fair value gap, we're an important level and then close over and we",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 14
+    },
+    {
+      "start": 285.76,
+      "end": 297.4,
+      "text": "We get very aggressive expansion in these retracement or consolidations are very shallow. And let's get into this next day and continue to track our opposing candles or protected swings.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 411.8,
+      "end": 419.8,
+      "text": "We're tracing back. Right there we form a new opposing candle or a new protected swing. Retest that and then we trend lower.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 11
+    },
+    {
+      "start": 487.32,
+      "end": 493.76,
+      "text": "So you can see here we reach into a fair value gap. Close over. Now we have a new protected swing.",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 9
+    },
+    {
+      "start": 1022.48,
+      "end": 1032.36,
+      "text": "If we are going to form a reversal, where are we going to form a reversal on that previous day high in the fair value gap? So that's where I want to see a reversal.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1040.56,
+      "end": 1046.96,
+      "text": "Cell-side liquidity, cell-side liquidity. Large range into the low. Do we get retracement, or consolidation, or reversal?",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 11
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:36.890281+00:00"
+}

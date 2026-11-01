@@ -1,0 +1,251 @@
+[00:00] How's it going everyone?
+[00:11] In this video, we are going to talk about relevant highs and lows, or where to look
+[00:16] for reversals to form.
+[00:18] Now, if you haven't already seen my video on failure swings, please go ahead and check
+[00:22] that out first, as you need to understand this before you understand this video.
+[00:27] Let's get into the PDF.
+[00:28] So the first thing you need to understand is what is a swing point.
+[00:32] And you can see we have a bullish swing point and a bearish swing point here.
+[00:36] A bullish swing point is a candle that has a low and then a higher low to its right
+[00:41] and to its left.
+[00:42] And that is what creates a bullish swing point.
+[00:45] Now a bearish swing point has a high and then a lower high to its left and right, creating
+[00:50] a bearish swing point.
+[00:52] Now what are relevant highs and lows?
+[00:54] Well those are swing points that are actually relevant.
+[00:58] And so when we have failure swings, and that's why it's important to understand that concept,
+[01:02] these are not relevant highs because we are not expecting a reversal right here.
+[01:07] If price trades into this level, we're not expecting it a reverse right here because
+[01:11] there are still highs to its left.
+[01:13] So we go find the extreme and that is our relevant swing high.
+[01:18] And similarly on this side here, if price was to reverse right here, right, that's not
+[01:23] relevant to us because it's so close to this low that we're expecting it to go trade into
+[01:28] this low.
+[01:29] So it's not relevant, not relevant.
+[01:31] This extreme or this lowest low is the relevant swing low.
+[01:36] Now relevant swing highs and relevant swing lows are where we can look for reactions or
+[01:41] reversals in the market.
+[01:42] So when price trades into these levels, we want to see how price trades does it form a
+[01:47] manipulation or does it form a breakout, which we'll talk about at the end of this PDF.
+[01:52] Now the next thing we want to talk about is the valid separation in what determines a
+[01:57] relevant swing versus a failure swing.
+[02:00] When we have price forming a low, very close to its previous low, that is not enough separation
+[02:06] to consider this a relevant swing.
+[02:09] If price is to trade into this level, I'm not really expecting it to reverse and trade
+[02:13] away from it without taking out this low, or I would not personally trust it versus
+[02:18] over in this example, this is valid separation, right?
+[02:21] We have quite a bit of range to that previous low.
+[02:24] When price trades into this level, if we do get a reaction, this is something I could
+[02:27] consider to trade away from as it's not close enough to this low to not let me trust it.
+[02:32] So you can see we get a nice reaction here versus in this area, right?
+[02:37] We kind of fail to form a reaction here because we haven't hit that relevant low yet.
+[02:42] Now when we have a reaction at a relevant high or low, what am I looking for?
+[02:46] Well, I'm going to be looking for a candle to or candle three closure.
+[02:50] And with that, I'm going to be using the WIC or the EQ to look for that candle three
+[02:55] to respect, which I have multiple videos about.
+[02:58] And then the next thing is the look back period.
+[03:00] At what point does a swing high or a low or a relevant high and low become no longer
+[03:06] relevant because it occurred too far into the past?
+[03:09] And that is what I use my higher timeframe candles for.
+[03:12] I'm going to look in our current higher timeframe and then back to candles.
+[03:17] And I will use highs and lows in that area and consider them relevant.
+[03:21] And this is a way I've used to fractalize this concept and not just use it on the
+[03:24] daily chart. So not just looking back three days, but it could be three months.
+[03:29] It could be three hourly candles, but it's always going to be that same look back
+[03:32] period of three higher timeframe candles, including the current one.
+[03:36] Now, like I said, what is the difference between a breakout and a manipulation?
+[03:41] When we trade into a relevant swing, I want to look at the phases of price at
+[03:46] that relevant swing. Do we get a retracement, a reversal or a consolidation?
+[03:51] Here you can see, do we get a reversal? No.
+[03:54] But then it's more than likely a continuation where we retrace into a previous
+[03:58] high or into this previous daily high.
+[04:01] And then we form a continuation lower versus at this high here.
+[04:06] Do we form a continuation or a breakout?
+[04:08] No, we form a reversal and then we can trade to the other side of the range.
+[04:12] Let's get into trading view and go over a few examples of relevant swings and
+[04:16] the reactions that occur at them.
+[04:19] So here we are in trading view and let's talk about relevant swings and failure
+[04:22] swings. So let's take a look and we'll just go ahead and mark out our previous
+[04:26] highs and lows. We'll start with the lows.
+[04:30] And if you notice, we have these stacked lows here, right?
+[04:33] And you can see this one basically exactly equal.
+[04:37] And we have there. So just looking at this sell side here,
+[04:41] what low is relevant here?
+[04:43] If price was to come down into this level,
+[04:45] but I want to trade away from this low,
+[04:48] or do I not trust that as it's so close to this low?
+[04:51] And then if I trade into this low,
+[04:52] would I want to trade away from that or higher?
+[04:55] Or do I not trust it? Cause there's equal lows right below.
+[04:57] And then what I want to trade away from these lows without this one being taken
+[05:00] out. No, right? So you probably said no to all of those.
+[05:03] And that's because this is the relevant low.
+[05:06] I don't trust trading away from these lows below me.
+[05:09] So I need to wait for this relevant low to get taken out.
+[05:13] Now the upside here is a little bit more complex, right?
+[05:16] We trade into this high. And this is actually a high I would consider relevant
+[05:20] because it has pretty good separation from this high.
+[05:24] You can see a pretty decent range from that high.
+[05:27] So I'd consider this relevant. Now when price doesn't reverse off of this,
+[05:31] that is when this becomes the relevant high.
+[05:34] And now you can see we're basically,
+[05:36] we have two relevant swings in the market in which we're looking for price to
+[05:39] trade off of. So here you see, now we trade into a relevant swing.
+[05:44] This is where I want to look for a fractal model, right?
+[05:46] And now we have a candle to closure.
+[05:48] And where could we look to trade to back to the other side of the range or to
+[05:51] those failure swings? Now taking a look here,
+[05:54] but I want to trade back higher here.
+[05:57] Right? No, because this is not a relevant swing.
+[06:00] It's so close to this one that I could not trust myself to trade away from that
+[06:05] low. So I would only be interested in the short side.
+[06:08] And there you can see now we reach into a relevant low.
+[06:12] Now this is where I could be looking for a reaction because it is relevant in the
+[06:15] market. And you can see we go trade lower.
+[06:19] Now when we get this retracement, this becomes a relevant low, right?
+[06:23] And you continue to track those. Here we have a high.
+[06:26] We have good separation between the previous high.
+[06:29] Now this is a relevant high in the market.
+[06:33] Right? And we need to have a new low.
+[06:35] So what do we have? Just a continuation lower.
+[06:38] We'll let this speed along. And then we trade higher here.
+[06:42] Now, where would we be looking for a reversal?
+[06:45] Do we want to see price reverse off of this gap right here?
+[06:48] Not really. Cause we're so close to this high.
+[06:50] This is relevant in the market.
+[06:53] So what do we have? We take out that high.
+[06:55] Now where is our relevant highs and lows?
+[06:58] We have one here. And then we have one right here.
+[07:01] Oh, those are where we want to be focused on trading back into the range or the
+[07:05] other direction.
+[07:07] So right here. Now is this a relevant low?
+[07:10] Yes. Why is it?
+[07:12] There is a lot of separation between the previous low.
+[07:15] So I could look for a reaction at this level.
+[07:18] Right. Now we get a bunch of consolidation here.
+[07:20] So I'm just going to speed through it.
+[07:23] And if you haven't noticed, this is oil on the daily chart.
+[07:26] So let's notice what are we doing?
+[07:29] We are building failure swings.
+[07:31] Now you notice these are all relevant lows, right?
+[07:33] And we get little reactions at them.
+[07:35] What do we notice about the highs here?
+[07:38] These are all failure swings, right?
+[07:40] Would you trust trading short off of this high leaving this one?
+[07:43] Probably not.
+[07:43] Right. This one has a bit of separation between those, but they are still failure
+[07:48] swings. So I would want to see all of these be taken out.
+[07:52] So thus this is my relevant high.
+[07:56] And we'll let this speed along.
+[07:59] And there we go. Finally hit into our relevant low.
+[08:02] Now this is where we could be looking for a reversal to form.
+[08:05] And where do we want to trade back to?
+[08:07] Well, relevant highs, right?
+[08:09] And would I trust this high to trade away from?
+[08:13] No, because I have this failure swing, this failure swing, this failure swing.
+[08:16] So failure swings are those stacked highs, right?
+[08:18] That stacked liquidity.
+[08:20] And that's what we want to target.
+[08:22] And we want to have high resistance liquidity or no failure swings on our
+[08:26] stop loss side of the market.
+[08:28] Right. We get an expansion.
+[08:30] Now, would I want to trade away from here?
+[08:32] No, because we are leaving this high right here.
+[08:36] Right. And this is a fair value gap, which is a high on a lower time frame,
+[08:39] but I would not want to trade away from that.
+[08:42] And we went a little quick there.
+[08:44] This would be a relevant low.
+[08:46] Why?
+[08:46] Because there is separation, right?
+[08:48] Is this a relevant low?
+[08:49] Yes, but is a little bit sketchy because we are so close to this low.
+[08:54] I wouldn't want to trade away from that until when?
+[08:56] After we close through and confirm this low.
+[08:59] So now we trade higher.
+[09:00] Would I trust a reversal if it forms here?
+[09:02] No, I'm wanting to see price reach into that relevant high.
+[09:06] So just leaving that, would I anticipate a reversal of the form here?
+[09:10] No, not without SMT.
+[09:12] So I'm viewing this as a retracement.
+[09:14] And we want to see us reach for this relevant low, not if we're bullish, right?
+[09:17] So that's where we want to see this hold up.
+[09:19] And what do we see here?
+[09:20] We run out this low here.
+[09:21] Now, is this a relevant low?
+[09:24] Yes, it is.
+[09:25] Why?
+[09:25] Because there is a lot of separation between the previous low and it.
+[09:30] So it's relevant for price to form a reversal off of, right?
+[09:33] And we can trade away from.
+[09:35] And so then we form these highs and then we expand into that level there.
+[09:40] Now, how do I combine this with the fractal model?
+[09:42] Well, I'm going to go ahead and add my indicator here.
+[09:45] And the way I use it is I'm going to be focusing on those relevant highs and
+[09:49] lows that are a higher timeframe, higher low.
+[09:52] But if you notice this relevant swing low here was also a monthly low.
+[09:58] This relevant high here is a monthly high.
+[10:01] These are relevant to me because they are a higher timeframe level.
+[10:05] Now, in terms of look back or how far back I'm looking, I'm just going to be
+[10:08] looking back at those three months, right?
+[10:12] Or three higher timeframe candles.
+[10:13] It's months in this case, cause we're on the daily chart.
+[10:16] So I look back one, two, three.
+[10:18] These are where I'm focused on finding my relevant highs and lows.
+[10:21] Generally speaking, that's what's going to get the best reactions.
+[10:25] Yes, we can look at these even though they are further back, but the three months
+[10:29] is what I'm looking for, that three month look back.
+[10:31] Now, if I go to an hourly chart here, how far am I going to look back?
+[10:35] Well, I'm going to look back three days because that is my look back, right?
+[10:40] One, two, three.
+[10:42] So that is my look back period.
+[10:43] It is fractal and relevant swings are where I look for my model to form in the market.
+[10:49] I don't want to just look at random highs or lows.
+[10:52] So here we are with one final example.
+[10:54] And let's practice marking out our relevant highs or lows.
+[10:58] So taking a look at the high here, what do we have?
+[11:00] We have equal highs or failure swings.
+[11:03] Right.
+[11:03] So this would be the relevant high.
+[11:05] This is the failure swing.
+[11:07] Now let's take a look at our lows.
+[11:09] We have a low right here.
+[11:10] That would be relevant.
+[11:12] Now, what about this low?
+[11:13] Is this low relevant?
+[11:14] Yes, it's a failure swing technically, but look at the separation it has between this low.
+[11:20] That's what makes it relevant.
+[11:21] We can expect price to trade into your, and if we form a reversal, we can trust it
+[11:25] because it's so far away from this low.
+[11:28] Now let's say for example, instead price had a low that looked like this.
+[11:32] Would we trust this low here?
+[11:34] Probably not because it's so close to this previous low.
+[11:38] There's not enough valid separation for me to trust trading away from this low, but
+[11:42] not having that one being taken out.
+[11:44] So removing those, let's continue with this and see what happens.
+[11:48] Right.
+[11:50] We have a little consolidation.
+[11:52] Once again, now they have failure swings here.
+[11:55] What do we trust trading away from one of these highs here?
+[11:57] Probably not.
+[11:58] Right.
+[11:58] Why is it?
+[11:59] Well, yes, we take them all out, but what are we leaving these previous highs here?
+[12:03] So if you notice, these aren't very relevant in the market because they're so
+[12:07] close to the previous that this is our focus.
+[12:10] So we take a look.
+[12:12] I went too quick through it, but we do for me reverse off this low.
+[12:16] Why is that relevant?
+[12:17] Because it has valid separation to this low.
+[12:20] Now I don't have a mechanical reason to say, Hey, this is valid separation.
+[12:24] That just comes with experience and really the discernment of looking at it and
+[12:27] saying, yeah, it's far enough away from this low.
+[12:30] So taking a look, let's see, we wouldn't want to trade this lower.
+[12:34] And then we go trade through this high.
+[12:36] So you can see how we form these relevant swings in the market.
+[12:39] And that's where we want to focus on a point of interest for using highs or lows.
+[12:44] Now, I hope you enjoyed this video.
+[12:46] I know that's some short examples, but I hope you go into the charts and practice
+[12:49] this because at the end of the day to learn this, you need to go do it on your own.
+[12:53] But if you did enjoy, please give it a like and subscribe.
+[12:56] And I'll see you guys next time.
+[12:57] Have a good one.

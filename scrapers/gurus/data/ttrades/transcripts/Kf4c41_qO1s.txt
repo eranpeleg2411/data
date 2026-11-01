@@ -1,0 +1,220 @@
+[00:00] How's it going everyone?
+[00:12] In this video we are going to talk about aligning candles for expansion, or aligning expansion
+[00:16] candles, because when a true trend occurs, all candles are aligned in the same direction.
+[00:22] Let's get into the PDF.
+[00:24] The first thing you have to understand is how Wixize plays a role in if candles support
+[00:27] expansion or not.
+[00:29] Candles that support expansion will have a small wick and a large body.
+[00:33] Candles that don't support expansion will have a large wick or a large opposing run.
+[00:38] Now I have a full video dedicated to this if you want to check it out, it will be linked
+[00:42] in the description below.
+[00:43] But if you take a look here, in a bullish scenario we want to see price open, have a
+[00:47] small wick formed early into the candle, and then price can trend higher throughout the
+[00:51] duration of the candle.
+[00:53] If price has a large opposing run or opens and spends a long time making its opposing
+[00:59] run, then it can't really trend, right?
+[01:01] It's going to go return back towards its opening price or its current candles high.
+[01:06] So when I say a candle supports expansion, it means it has a small wick which allows
+[01:10] it to expand in one direction.
+[01:12] Now the goal is to align expansion candles on multiple timeframes.
+[01:16] So for example here you can see there are three timeframes expansion candles that are
+[01:20] aligned together.
+[01:21] Now I generally prefer to have at a minimum two expansion candles aligned.
+[01:26] So for example, if this was a daily candle and a four hour candle, then that would be
+[01:30] enough for me to trade a 15 minute timeframe.
+[01:32] But it is preferred if on an intraday timeframe such as a five minute or a three minute that
+[01:37] I align all those timeframes together.
+[01:39] So a daily a four hour and an hourly or a 30 minute timeframe.
+[01:43] And you notice these all have small wicks.
+[01:46] So they all support expansion higher.
+[01:48] Then when we have structure that aligns with the idea that is when a trend can occur.
+[01:53] So what does that actually look like?
+[01:54] Here we'll take a look at an example and for visualization sake pretend this is the
+[01:58] daily and the four hour timeframe and this is the 15 minute timeframe.
+[02:02] You can see this daily candle has a small wick.
+[02:04] It has opened, it has formed a low and now it is looking like it can trend higher.
+[02:09] And that is why it's important to have a bias.
+[02:11] I have a bias that this is going to go higher.
+[02:13] Then going down to the four hour timeframe, why would I not want to trade this candle?
+[02:17] Well this has a large wick so it doesn't support expansion.
+[02:21] When this candle to close, then I can look to trade the expansion in candle three.
+[02:26] Once it forms a small wick, you can see it opens, it trades lower, forms a protected
+[02:32] swing or the wick of this higher time from candle.
+[02:34] And then this is when trend can occur because we have the structure aligned with multiple
+[02:40] timeframes that both support expansion.
+[02:42] Now this is going to be the easiest of the scenarios aligning a higher timeframe with
+[02:46] a candle three and then finding a continuation entry.
+[02:50] But you can also do this for reversal trades.
+[02:52] Here you can see in a similar scenario, we have price forming a small wick on the daily
+[02:57] timeframe here.
+[02:58] We go down to our intermediate timeframe and we have also a small wick forming a reversal
+[03:03] and we have a protected swing.
+[03:05] At this point, all timeframes are aligned for an expansion.
+[03:08] It's just a reversal trade and it's a bit harder to anticipate.
+[03:10] So taking a look at this last example, we want to align all of these timeframes for expansion.
+[03:15] So you can see the daily supports expansion because it has a small wick.
+[03:19] Now taking a look here, would we want to trade this four hour candle?
+[03:22] No, because it opens and trades higher first and does not support expansion.
+[03:27] I'd want to wait for the open of the new candle before I look to get on side with that.
+[03:31] And then that's when I could look to trade swing points.
+[03:34] Now the easiest way to approach expansion alignment is going to be looking to trade
+[03:38] candle threes on multiple timeframes.
+[03:40] So for example, if I go back to this slide here, I would want to trade a daily candle
+[03:45] three or that continuation and then trade a higher timeframe candle three and then look
+[03:50] for a continuation order block within all of that.
+[03:53] The most simple way will be to trade a candle three on multiple timeframes.
+[03:57] Let's go into trading view and go over a few examples of this.
+[04:00] Now before we get into this example, I want to show how I have my indicator layout set
+[04:04] up for this visualization of expansion alignment.
+[04:08] So what I'm going to do is have a daily power of three indicator set up here.
+[04:12] So taking a look at that.
+[04:14] I'm going to have that offset at 15.
+[04:16] And so that will just put this to the right side of this.
+[04:18] And there's many free ones you can look for.
+[04:20] If you type in higher timeframe power of three, you'll find one from two degrees.
+[04:30] The next thing I'll do is use my fractal model indicator.
+[04:33] So you can see here I use my fractal model indicator and I have it set to the four hour
+[04:37] and 15 minute chart as I'm on the four hour and 15 minute.
+[04:40] So what this will allow me to do is see the daily, the four hour and the 15 all at the
+[04:44] same time.
+[04:45] But if we go ahead and zoom into this example here, we can see that we have had what a candle
+[04:50] to closure on the four hour timeframe with a nice V shape reversal off of our previous
+[04:55] high over here.
+[04:56] And we have not ran out our consolidation lows yet.
+[04:59] So what is this?
+[05:01] This is a candle with a large wick.
+[05:03] It does not support expansion.
+[05:04] So would I have wanted to trade it right here in the reversal candle?
+[05:08] No.
+[05:09] I'm going to wait for the next candle because if it has a small wick and it supports expansion.
+[05:14] Now why would I be looking for price to trend because the daily has a small wick, right?
+[05:18] Price opens.
+[05:19] It does not make a relevant low.
+[05:21] It makes a high.
+[05:22] It has a change in the state of delivery.
+[05:23] So I could be looking for this to trend lower the daily and the four hour candles both support
+[05:29] expansion here.
+[05:30] If we can form a continuation.
+[05:32] So as we let this play ahead, what do we have?
+[05:36] We have price sweeping out a high into a fair value up, which is a point of interest and
+[05:42] then forming a continuation.
+[05:43] But now that we have a protected swing in this higher timeframe candle, I've anticipated
+[05:48] that this wick has formed and then price can continue to trend lower.
+[05:52] That's where I could look to take an entry, but my stops there and then look for two are.
+[05:57] Let's see how this works out.
+[05:59] We do come back up.
+[06:01] We would have gotten filled on a retest entry and then we start to trade lower.
+[06:05] Now let's take a look at this.
+[06:07] If this is an expansion candle and this is an expansion candle, we expect them to close
+[06:11] near their lows.
+[06:12] So we could look to see price continue to trend.
+[06:15] So here you can see we have expansion.
+[06:17] This isn't showing a reversal, right?
+[06:19] That's a retracement.
+[06:20] So we can expect this to continue lower and then we do get this trend lower and you can
+[06:25] see these small wicks support expansion lower small wick expansion, small wick expansion.
+[06:33] Even when we open this next candle, we have price open trade into this protected swing
+[06:38] makes a small wick and then we form a new continuation there.
+[06:41] And what happens?
+[06:42] It has a small wick and it can continue to expand the lower.
+[06:46] So just to review, if we want to find expansion or a trend, I want to find where higher timeframe
+[06:52] candles all support expansion in the same direction.
+[06:56] And I'm going to align structure with that in the form of protected swings or continuation
+[07:00] order blocks.
+[07:01] And that's where you can get price to continue or trend.
+[07:04] Now let's say I wanted to take a look at the exact same example here, but instead of viewing
+[07:09] it on the daily four hour and 15 minute, I wanted to view it on something like the five
+[07:13] minute timeframe.
+[07:15] This is where I could look for three timeframes to align for expansion.
+[07:19] So if you notice here, I have the hourly timeframe set up here, the four hour and the daily.
+[07:24] Now let's first talk about why this is important to align them all together.
+[07:27] Then we'll talk about how you could set up the indicator to show this.
+[07:31] So if we want all timeframes to align, does it make sense to be entering in here?
+[07:37] No, because if we take a look, our candle here on the hourly is not set up for expansion.
+[07:43] Right.
+[07:43] It is a reversal candle.
+[07:45] So it doesn't make sense to be looking to trade it here.
+[07:47] Instead, I'd want to wait for the next candle as that can support expansion.
+[07:52] Right.
+[07:52] Cause this would be the candle three.
+[07:54] And this is a good example of trading candle three on multiple timeframes.
+[07:58] Here we have a daily candle three, a four hour candle, three and an hourly candle, three.
+[08:03] You can see that's when the trend really gets going here because it is a continuation
+[08:08] on all timeframes by definition.
+[08:11] That is just a trend.
+[08:12] So how would you actually set up this indicator?
+[08:15] Well, it's the same thing with the daily timeframe.
+[08:17] It's just you're going to offset it quite a bit more.
+[08:19] I do mine at 32.
+[08:21] And then I'm going to set up a four hour and 15 minute fractal model.
+[08:24] I'll leave these checked, but then offset it 17 and have the rest of the settings
+[08:29] besides these marked here turned off.
+[08:32] And what this will do is show the higher timeframe, EQ and those things I want to
+[08:36] see, like the opening price right here, but none of the other things.
+[08:40] It won't clutter the chart.
+[08:42] And then what I will do is I'll have this set on the five a minute and hourly.
+[08:47] And then I'll have everything else turned on.
+[08:49] I will leave that one completely set up and that will show my lower timeframe
+[08:52] structure.
+[08:53] And this is what allows me to see the daily, the four hour and the hourly all on
+[08:57] the same timeframe and still get that visualization.
+[09:00] I can see the EQ of the four hour timeframe here.
+[09:03] I can see the EQ of the hourly.
+[09:04] I can see the fractal model on multiple different timeframes.
+[09:08] And then that's where I can get a setup where I can see all the expansion
+[09:12] candles being aligned together.
+[09:14] So let's go over another example of this.
+[09:16] So here we are in our next example.
+[09:17] And we're going to go into this with a bullish bias.
+[09:20] Now let's talk through each timeframe and what you can pull from the higher
+[09:23] timeframe chart here.
+[09:25] If you're taking a look, if we're bullish, does this candle here on the daily
+[09:28] support expansion to the upside?
+[09:31] No, because it has a large opposing run.
+[09:34] But what does that mean?
+[09:35] Are we expecting price to expand here on the daily timeframe?
+[09:38] No.
+[09:39] So what are we looking to target back towards the daily open, which is marked
+[09:43] with this faint line here, or the intraday highs.
+[09:46] So knowing that on the daily timeframe, we know we're not looking for a
+[09:50] massive move.
+[09:51] We're looking back towards the daily open.
+[09:53] Now I want to take a look.
+[09:54] Does the four hour candle here support expansion?
+[09:57] No, because it is a bearish candle right open, small wick, and then trading lower.
+[10:02] Does this hourly support expansion higher?
+[10:05] No.
+[10:06] So this is where I'm going to want to wait for that 10 a.m.
+[10:08] to get a new higher timeframe candle here on the four hour and on the hourly
+[10:13] timeframe.
+[10:13] You can see we do trade higher.
+[10:15] Sure, you could pick the bottom if you want.
+[10:17] That's just not in my strategy.
+[10:19] Now, if you notice, this candle is a reversal candle.
+[10:21] It's not quite a candle to closure as it doesn't close in here, but it does
+[10:25] have a nice large wick that we can use to frame off of it to the upside.
+[10:29] Here we do have a candle to closure on the hourly timeframe.
+[10:33] So if we pair that with a change in the state of delivery, then we could be
+[10:36] looking long.
+[10:37] Now, once again, you're starting to see this is a candle three on multiple
+[10:41] different timeframes.
+[10:43] Now, this one is opposing the daily candle as it is not open low high
+[10:47] close, it's open high low.
+[10:49] So we do want to take more conservative targets.
+[10:53] Let's see here.
+[10:55] We get the change in the state of delivery, and then we start to trade higher.
+[10:59] And you can see how this is set up for expansion here on a few different
+[11:03] candles as we are aligning with the higher timeframe or the four hour timeframe.
+[11:08] So this four hour timeframe supports this lower timeframe swing to the upside.
+[11:13] And where do we see this go back towards the daily open?
+[11:16] And we get a little bit of consolidation.
+[11:19] So you can see just to review the daily doesn't support expansion, but we do
+[11:23] have multiple timeframes that still support expansion for this lower timeframe setup.
+[11:28] So if you learn nothing else from this video, be sure to just check out the
+[11:32] higher timeframes.
+[11:33] Do they support a trend in one direction or not?
+[11:36] Because at the end of the day, you can have a great lower timeframe structure,
+[11:40] but if it's not aligned with the higher timeframe trend, it's unlikely to work out.
+[11:44] But I hope you found some value in this video.
+[11:46] If you did, please consider liking and subscribing, and I'll see you guys next week.
+[11:50] Have a good one.

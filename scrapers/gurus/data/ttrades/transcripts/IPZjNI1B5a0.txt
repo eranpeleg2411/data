@@ -1,0 +1,320 @@
+[00:00] How's it going everyone?
+[00:12] This video is going to be about how I use equilibrium in continuations.
+[00:16] So you have seen my discount and premium video, you know that is how ICT uses discount and
+[00:21] premium.
+[00:22] However, I use it the opposite.
+[00:24] So let's get into the video.
+[00:26] The first thing you have to understand are the Fibonacci settings.
+[00:29] So I'm going to use a simple Fibonacci with a 0.5 and a 1 marked out.
+[00:35] And generally I remove the zero and one and just have the point five.
+[00:39] But how am I going to measure the candles?
+[00:42] I'm always going to measure the candles from wick high to wick low and then mark out the
+[00:47] equilibrium that way.
+[00:48] I'm not going to use the bodies like I do for the change in the state of delivery or
+[00:53] order blocks.
+[00:55] Now something you have to understand is the phases of price.
+[00:58] And this is the main reason why I use it opposite of how most people use discount and premium.
+[01:03] If price is in an expansion phase, which is the phase that I trade, price rarely goes
+[01:09] in retraces to a discount or to a premium.
+[01:12] You can see here we have an expansion like up a retracement and you can see it expands
+[01:17] higher before reaching down into a discount.
+[01:20] And once again, the same thing.
+[01:22] So understanding this with expansions, what can you anticipate?
+[01:26] The way I use equilibrium is in expansions.
+[01:29] I'm looking for the upper half to respect for price to trade higher and the lower half
+[01:34] to respect for price to trade lower.
+[01:37] Now if these do not respect, I then can flip my bias and anticipate the low of the range
+[01:42] being taken.
+[01:44] So here is a quick example.
+[01:46] I have the previous day marked out.
+[01:47] We have an expansion.
+[01:49] I'm looking for point five of this range to support price higher.
+[01:53] So what I'm going to do is match PD arrays in that range.
+[01:56] So you can see we have a protected low right here as a low has formed out of this fair
+[02:01] value gap closed over.
+[02:03] So if I'm not expecting this low to be hit, where is a PD array that I can anticipate to
+[02:08] be touched right here?
+[02:10] I have a fair value gap in the upper half of this range above the protected low.
+[02:15] So as we trade into the next day, you can see that is where we get a reaction, a change
+[02:20] in the state of delivery, and then we continue to expand or trade higher.
+[02:25] So looking at that on the higher timeframes, you can see this higher timeframe candle just
+[02:30] respected the upper half of the previous candle's range to trade higher.
+[02:34] Let's hop into trading view and go over a few examples of this.
+[02:39] So here we are with our first example.
+[02:41] And just to give it a little bit of context, we have these equal lows that were ran out
+[02:45] to our left and we have this high above us.
+[02:49] So we are in a range.
+[02:50] We have just purged the low of the range.
+[02:53] So we have an accumulation.
+[02:55] This could be a manipulation.
+[02:56] And then we could see a distribution or a move back higher.
+[03:00] So one thing we know about this is we do have that closure where we sweep out and close
+[03:05] back inside the range, but could view this to trade higher.
+[03:09] Another thing we can note is we are closing over the previous days.
+[03:12] So if we're not respecting this side of the range, we are going to look to trade to the
+[03:16] other side and we have these failure swings also resting here.
+[03:20] So going to take a look down here on the hourly, if we are going to look for the next day to
+[03:26] respect the upper half of this day's range, what PD arrays can we mark out?
+[03:31] I'm going to look in the upper half of this range, taking a look there, drag it over.
+[03:37] What PD arrays do we have?
+[03:39] So we have a tiny little fair value gap right here.
+[03:42] And we also have our protected low right here, as this has wretched into a fair value gap
+[03:48] closed through the down close candles.
+[03:50] So I can expect this low to hold if this day is going to trade higher.
+[03:54] So let's go move forward towards the New York session where I generally anticipate expansion
+[03:58] for the indices.
+[04:00] You can see we are consolidating.
+[04:04] And there we get a move into that fair value gap.
+[04:06] And I asked myself, is this fair value gap respected?
+[04:09] No it is not.
+[04:10] So I pretty much ignore it.
+[04:12] And now we are down near these opposing candles.
+[04:16] So if I'm looking for price to trade higher, I'd want to see it do that there.
+[04:20] And now we have closed through the down close candles sweeping out all these lows.
+[04:25] So if you've seen my change in the state of delivery video, that is a change in the state
+[04:29] of delivery.
+[04:30] I'd want to see the upper half of this respect or this to trade higher from this fair value
+[04:34] gap.
+[04:36] And you see, we respect that area, we get a new continuation candle.
+[04:41] And now let's go into the next day.
+[04:43] Now we have traded and we have closed over the previous day's high and we have left these
+[04:47] highs to our left as well as the other side of the range.
+[04:51] So if I'm expecting this to continue to trade higher, here is my EQ.
+[04:55] And if I have a PD array in this area, well I'm taking a look.
+[04:59] I have a small fair value gap and this opposing candle here.
+[05:03] And I have a protected low right here.
+[05:04] So really I'm expecting price to trade higher, leaving this low trading to the highs.
+[05:10] So as I let this continue, we reach down into those opposing candles.
+[05:20] We close over the opposing candles, which forms the wick of the higher timeframe candle.
+[05:25] So just to review each day, we respected the previous day's EQ to trade higher.
+[05:30] So you can see each time respecting the EQ to trade higher, forming that higher timeframe
+[05:36] wick and going into each day, I am mainly focused on finding an invalidation for that
+[05:41] day and the PD arrays that anticipate to support in the upper half since this is a bullish
+[05:47] scenario.
+[05:48] And there you can see, we go take out these failure swings here and are trading to the
+[05:52] other side of the range.
+[05:54] Let's get into another example.
+[05:56] In this next example, we are going to go ahead and stay on YM.
+[06:00] And here we are on the hourly chart, but let's hop out to the daily, as this is where I like
+[06:04] to use the equilibrium.
+[06:06] You can see here on the daily chart, we have taken out this low and we have closed back
+[06:09] inside the range, but we have a nice bearish expansion candle.
+[06:13] So this is where I give myself an if then scenario.
+[06:16] If the EQ is respected, then we can trade lower through previous day low and possibly
+[06:21] to the low to the left here.
+[06:24] If it is not respected, then I anticipate it to trade higher to these failure swings
+[06:28] on the high.
+[06:29] But once I have determined that, then I go down to the hourly chart and I take a look
+[06:34] at the intraday price action.
+[06:36] You can see we get a consolidation as we reach early New York, we sweep out this side of
+[06:41] the range and then we trade back through.
+[06:44] So I will drop down to a 15 minute chart just to give you a better picture.
+[06:48] And you can see we do have a very aggressive sell off here, but since we are respecting
+[06:53] the equilibrium of this daily candle, I can then expect these lows to get taken instead
+[06:59] of if we go and close through over this equilibrium, looking for the failure swings on the high.
+[07:05] So let's hop into another example.
+[07:07] So in this next example, we're just going to do a walk through of a few days of price
+[07:11] action while watching the daily closures paired with the equilibrium and then the lower timeframe
+[07:17] chart.
+[07:18] You can see here, if we get into the closure of the day, did we respect the EQ of the
+[07:23] previous day?
+[07:24] We're marking that out right here.
+[07:27] We do respect it, but we have a nice bearish closure with the sweep of the previous day
+[07:32] high.
+[07:33] So if we can respect the equilibrium of this previous day, then we can trade lower to these
+[07:38] lows down here.
+[07:39] Now looking for a PD array in this area, this is where it's not always perfect, right?
+[07:44] We don't really have a PD array in the lower half of this range.
+[07:47] We really just have all these failure swings lined up and then reaching up into this fair
+[07:51] value gap here.
+[07:53] This is where I will allow it to trade a little bit higher than I normally would because of
+[07:57] the structure on the hourly timeframe.
+[07:58] So as I let this play forward, you can see we do get a little bit of consolidation.
+[08:07] We then sweep that high into the fair value gap and then trade lower.
+[08:11] So as we get into the next day, we have now closed nice and bearish.
+[08:16] So if I'm expecting this to trade lower, I would want to see it respect the lower half.
+[08:21] But what do we notice?
+[08:23] We notice that price already gap down and then traded back into the range.
+[08:27] And now my whole thought process is wait for the next daily closure as this range has already
+[08:31] expanded.
+[08:35] You can see that EQ does still give a reaction at the New York open to sweep out these intraday
+[08:41] lows minus the gap down.
+[08:43] But let's get into the next day.
+[08:45] So the way I view this is we have taken out the previous low.
+[08:49] We have closed back inside the range here with a nice bullish candle.
+[08:53] And we have respected the EQ of this, but I am more focused on the swing formations.
+[08:58] So if we're going to respect the EQ of this candle, what do I have?
+[09:01] Well, in this case, there's two things that can happen.
+[09:04] We can either sweep out this low or we respect it.
+[09:07] I don't really know what's going to happen.
+[09:08] So that's when I just let the daily profile confirm or invalidate my thought process.
+[09:14] As we trade lower here, we get up close to the slow.
+[09:17] I'd want to see this low swept out.
+[09:19] This low gets swept out.
+[09:20] We're respecting the EQ.
+[09:22] If we are going to trade higher, this is where I would want to see it.
+[09:25] And I would look for the change in the stated delivery or an order block formation here.
+[09:31] We get that order block formation and we get this continuation higher.
+[09:36] So I have a series of if then statements and then I search for the PD array.
+[09:40] So we let this continue.
+[09:42] We take out this previous day high.
+[09:44] We close back in, but it is a nice bullish range.
+[09:47] Once again, if I'm zooming in here, I want to see the upper half of this respect and
+[09:52] I have an opposing candle here and I would not want to see this low taken out.
+[09:56] Now, the only concerning thing is we have already taken out this previous high here,
+[10:00] which can set up a deeper retracement.
+[10:02] Let's see what happens in today.
+[10:05] Here we are currently respecting this opposing candle.
+[10:08] Do we get the confirmation of the close through the series of down close candles that made
+[10:13] this low?
+[10:14] Let's see.
+[10:15] We do not.
+[10:17] So without that confirmation, there is no bullish set up there and you can see it fails
+[10:21] pretty good.
+[10:24] Now as we let this go into the next day and carry on our bias, what do we notice in this
+[10:28] candle?
+[10:29] We have a very large wick.
+[10:30] So it doesn't really make sense to use the EQ of the whole candle.
+[10:34] If you go back to my wick video, it'll make a lot more sense to use point five of this
+[10:38] wick here.
+[10:39] The point five of this wick gets respected here.
+[10:41] I can see if this low gets swept out.
+[10:44] Let's see.
+[10:47] We sweep out this low.
+[10:49] We have a nice closure.
+[10:51] Though if we're going to trade this higher, I'd want to see us close through the series
+[10:54] of down close candles that made this low.
+[10:59] We do get the closure through it with this new order block formation.
+[11:04] Now I'd want to see a closure through this level to trade a higher.
+[11:08] It took a minute to close through that down close candle.
+[11:11] But once it does, we do get that expansion to the failure swings on these highs over
+[11:15] here.
+[11:16] But hopefully that makes sense how I paired daily closures with the daily equilibrium
+[11:20] to search for expansions.
+[11:22] I'm going to use it just as I showed in the PDF with PDA rate matching and then just
+[11:27] pairing it with a change in the state of delivery and basic market structure.
+[11:32] Now let's go through a few more examples.
+[11:34] So you really get this locked into your brain.
+[11:36] You can see here we have had a consolidation.
+[11:40] And how does that blend with the phases of price?
+[11:42] We have expansion into a consolidation.
+[11:45] We have taken the high and the consolidation.
+[11:48] But we are going to trade lower.
+[11:50] This is where I'd want to see it now paired with the equilibrium and the closure.
+[11:54] We've swept out the high, had a nice closure lower.
+[11:57] We have swept out the low, right?
+[11:58] So this is less ideal as it has taken both sides of the road.
+[12:01] But if I want to see this trade lower, where would I want to see that from the point five
+[12:05] of the range?
+[12:06] So once again, dropping down to the hourly chart, we'll let my indicator plot the EQ
+[12:11] and the higher timeframe candles.
+[12:13] And let's see how this works out.
+[12:15] So you can see going into this day, if I'm looking for the previous EQ, which is right
+[12:20] here, do I have a PDA rate in that area?
+[12:22] I do as I have an opposing candle or an order block.
+[12:26] And that's what I'm going to do.
+[12:28] I'm going to reach up an opposing candle or an order block.
+[12:31] And that also gives me that protected high going into the day.
+[12:34] So if I was wanting to take a positional entry, that is where I could take a short with my
+[12:39] stop over this high and then looking for the other side of the range or to our, but let's
+[12:45] see how this plays out.
+[12:47] We reach up into that opposing candle.
+[12:50] Once again, if you have seen my video, we want to see point five of that be respected.
+[12:55] It is being respected.
+[12:58] And then we trade lower off of that.
+[13:00] We get expansion into retracement.
+[13:02] Now we're getting a new expansion in which I could use that whole series of up close candles.
+[13:07] And we continue through the low.
+[13:10] Now continuing this bias into the next day.
+[13:12] What do we get?
+[13:14] We have a nice bearish closure, right?
+[13:16] So if price is going to respect the lower half of this, I'd want to see it go lower.
+[13:21] So as we let this go, what PD raise do we have in this area?
+[13:26] And to just highlight it, this whole area here, I look left.
+[13:30] I don't trust this as an order block because it is just in a consolidation.
+[13:35] So I will use the high of the range as a point of interest and either look for a sweep or an SMT on that high.
+[13:44] And there we go.
+[13:45] We get a sweep.
+[13:46] And what do we get at the sweep?
+[13:48] A change in the state of delivery.
+[13:50] And we continue lower.
+[13:52] So you can see in that example how during expansion, up close candles are going to be respected and the EQ is also going to be respected.
+[14:00] We're not going to get those deep retracement into premium to look to sell.
+[14:04] So here we are in our next example.
+[14:06] And you can see we have had expansion.
+[14:08] We get this met with expansion consolidation or retracement.
+[14:12] Well, price isn't consolidating price isn't expanding back into this range.
+[14:17] So this is a retracement in which I can anticipate another expansion lower.
+[14:21] With this daily closure, this is where I could use point five of that week as we have a large week to see that be respected to trade lower.
+[14:30] Now on the next candle, you can see we respect point five that week and then we'll drop down to the hourly chart here for the structure.
+[14:37] So you can see here on that new day we open and make a high that is paired with the change in the state of delivery while respecting exactly that point five.
+[14:47] But I would also allow it to trade slightly a bit higher using this week.
+[14:51] And then we get this continuation lower from these PD arrays.
+[14:55] Now with this closure, once again, I asked myself, do I have an invalidation?
+[15:00] Well, if this is where I want to see price hold below, here is an invalidation for me.
+[15:05] And here is a point of interest, but I can use this fair value gap here.
+[15:11] So letting this trade through, let's see what happens.
+[15:15] We trade lower first, which usually means we're going to return to the opening price at least.
+[15:21] And there we go.
+[15:23] In this case, you can see we do just leave shy of this fair value gap.
+[15:27] So maybe I miss it.
+[15:28] Or if I'm watching that higher time frame candle.
+[15:31] So if we replay it, you can see it printed without a wick price comes returns just to put in a wick on that higher time frame.
+[15:41] Right. And then we have an aggressive closure and then trades lower.
+[15:45] So maybe I miss it.
+[15:46] Maybe I catch it.
+[15:47] It really depends on what I would be thinking that day.
+[15:50] And we continue lower.
+[15:52] You can see how each day we first respect the lower half of the wick.
+[15:56] Then we respect the lower half of this daily candle.
+[15:59] And then if we're going to respect the lower half of this candle, we would also continue lower.
+[16:03] But at this point, we have three days of expansion into lows.
+[16:06] This is where I'm going to avoid price is there can be a new phase of price delivery, either consolidation, retracement, or we get that reversal.
+[16:14] So I just wait for new daily closures to tell me what is up.
+[16:18] But the next thing I want to talk about is this is a fractal concept.
+[16:22] You can see I was using it on the daily and hourly.
+[16:24] And that is mainly what I use for my bias in lower time frame structure.
+[16:28] But is also fractal.
+[16:30] Right. Just like my fractal model used on any time frame, it's the same with this concept.
+[16:34] So let's take a look at the four hour chart.
+[16:36] You can see I've adjusted my indicator to use the four hour chart is the higher time frame for this equilibrium.
+[16:41] And if we go ahead and replay this price action here, what do we notice?
+[16:46] We have this expansion lower.
+[16:48] We hit this low here.
+[16:50] So if this is going to respect and trade lower, I'd want to see point five of this be respected, right, which is right where price is opening up.
+[16:59] You can see on the next candle, not only do we not respect that, but we also close through the down close candles into this low.
+[17:06] So now I can view this as if we are going to trade this higher, I'd want to see point five of this candle be respected.
+[17:12] So as we let this print point five is respected.
+[17:16] And now looking at this order block.
+[17:18] And then we go and take out this high right here.
+[17:22] We have now had a few expansion candles.
+[17:26] One, two, three.
+[17:28] So if we are going to get a new phase of price delivery, this is where I would expect it as it has taken out liquidity.
+[17:34] Reversals occur at highs and lows.
+[17:37] So as we let this print here, we sweep out this high, we have a nice closure.
+[17:42] This is where we could then see if we respect this week to trade it back into the range as a retracement.
+[17:48] But I prefer to just align that with the higher time frame direction and trade the longs.
+[17:53] Here you can see we get that expansion reach into this opposing candle or the change in the state of delivery.
+[17:59] Now I want to see is point five of this respected.
+[18:02] And here is a good thing to notice we're closing above point five of this candle's range, which is generally when I view it as a reversal and I can use point five of that week.
+[18:12] Let's see what happens.
+[18:13] We respect point five of that week.
+[18:15] We now close through the down close candle into this point of interest, the fair value up and this order block.
+[18:22] This is now a propulsion block.
+[18:24] And if we are going to respect that and trade it higher point five of this candle right here.
+[18:29] So now we have this little range that we're looking for price to trade higher off of.
+[18:35] You can see we tap right into that range.
+[18:37] That would be the T spot.
+[18:39] And then we expand higher.
+[18:41] And if we continue to respect point five, there we go expansion.
+[18:46] So now with three expansion candles, I could get a new phase of price delivery.
+[18:50] But the main thing I wanted to show is how this is a fractal concept.
+[18:53] You can use it on any time frame.
+[18:55] I prefer the daily four hour hour late candles because that just gives me enough time to analyze it.
+[19:01] I'm doing this on a five minute chart.
+[19:03] It just becomes a lot to look at.
+[19:05] So I hope you enjoyed the video.
+[19:07] If you did, please consider liking and subscribing.
+[19:10] And I'll see you guys in the next one.
+[19:12] Have a good one.
+[19:20] .

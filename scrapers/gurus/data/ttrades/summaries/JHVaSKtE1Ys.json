@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "JHVaSKtE1Ys",
+    "title": "Stop Losses in Trading: Know When You're Wrong",
+    "url": "https://www.youtube.com/watch?v=JHVaSKtE1Ys",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/JHVaSKtE1Ys.json"
+  },
+  "stats": {
+    "word_count": 3306,
+    "duration_seconds": 985.3,
+    "segments": 305,
+    "concepts_detected": 6,
+    "candidate_strategies": 2
+  },
+  "concept_mentions": {
+    "Liquidity": 1,
+    "Fair Value Gap": 17,
+    "Order Blocks and Breakers": 3,
+    "SMT Divergence": 1,
+    "TTrades Fractal Model": 2,
+    "Protected Swing": 33
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 545.18,
+          "end": 555.1,
+          "text": "Here we reach into a fair value gap. We close through the series of down close candles into that fair value gap. And that would be a better continuation entry there.",
+          "concepts": [
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 14
+        },
+        {
+          "start": 713.86,
+          "end": 733.5,
+          "text": "If I'm looking for a continuation, I want to see what I want to see an open high, low close or price reach into a point of interest, form an opposing candle and then trade lower. Now, if you notice here, why wouldn't I consider this an opposing candle? Well, we never reach into a fair value gap here or into a point of interest.",
+          "concepts": [
+            "Fair Value Gap"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 14
+        },
+        {
+          "start": 809.58,
+          "end": 818.34,
+          "text": "So here we are on the five minute and you can see we print a continuation here. So I could look for an entry in here. Do I have a protected swing?",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "Protected Swing Invalidation"
+          ],
+          "score": 17
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 38.84,
+          "end": 51.6,
+          "text": "low or into the fair value gap, so the close over right here. Now that is considered a protected swing and I can trade away from that. So by understanding what a protected swing is, where can I place my invalidation?",
+          "concepts": [
+            "Fair Value Gap",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 16
+        },
+        {
+          "start": 809.58,
+          "end": 818.34,
+          "text": "So here we are on the five minute and you can see we print a continuation here. So I could look for an entry in here. Do I have a protected swing?",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Trend Continuation",
+            "Protected Swing Invalidation"
+          ],
+          "score": 17
+        },
+        {
+          "start": 960.66,
+          "end": 974.82,
+          "text": "I can anticipate this to be a protected swing and look for an entry. But even if I miss that, I can let it confirm and then look for new swing points that form in that direction. So I hope you enjoyed this video on stop losses and the review on protected swings.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 17
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 0.0,
+      "end": 18.32,
+      "text": "How's it going everyone? In this video we will be covering stop losses. Now if you haven't already seen my video on protected swings, go ahead and check that",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 38.84,
+      "end": 51.6,
+      "text": "low or into the fair value gap, so the close over right here. Now that is considered a protected swing and I can trade away from that. So by understanding what a protected swing is, where can I place my invalidation?",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 16
+    },
+    {
+      "start": 130.0,
+      "end": 142.28,
+      "text": "So let's get into trading view and go over a few examples of finding protected swings and their invalidation. So you can see here we have a nice V shape reversal here forming a reversal in a consolidation,",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 13
+    },
+    {
+      "start": 246.86,
+      "end": 259.54,
+      "text": "So then this would be a valid entry, putting my stop on the protected low. And from here, I can look for two R or two trade to that high. And you can see with this continuation entry, I get better risk to reward than I would with",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 11
+    },
+    {
+      "start": 545.18,
+      "end": 555.1,
+      "text": "Here we reach into a fair value gap. We close through the series of down close candles into that fair value gap. And that would be a better continuation entry there.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 14
+    },
+    {
+      "start": 648.1,
+      "end": 660.02,
+      "text": "We have our drawn liquidity down here, right into that fair value gap here. Or so we've been out this previous high as well. Now, if we're looking for a protected swing, we want to see this series of up close candles that made this high.",
+      "concepts": [
+        "Liquidity",
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 15
+    },
+    {
+      "start": 692.66,
+      "end": 698.74,
+      "text": "Have we closed below it? Yes. So now I have a protected swing, which gives me an invalidation.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 713.86,
+      "end": 733.5,
+      "text": "If I'm looking for a continuation, I want to see what I want to see an open high, low close or price reach into a point of interest, form an opposing candle and then trade lower. Now, if you notice here, why wouldn't I consider this an opposing candle? Well, we never reach into a fair value gap here or into a point of interest.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 14
+    },
+    {
+      "start": 729.14,
+      "end": 743.54,
+      "text": "Well, we never reach into a fair value gap here or into a point of interest. It would have had to do something like this and then I would have considered it. But since it didn't do that, unless it is paired with SMT here, it's not something I'm going to consider and I will miss it.",
+      "concepts": [
+        "Fair Value Gap",
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 788.78,
+      "end": 806.42,
+      "text": "We have a sweep of that and a closure. Now, if you remember from my protected swings video, we can anticipate this to form a high, but it isn't confirmed until when we get the closure through here. So we could drop down to the five minute in here and look for an entry or we can wait for this closure through.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 809.58,
+      "end": 818.34,
+      "text": "So here we are on the five minute and you can see we print a continuation here. So I could look for an entry in here. Do I have a protected swing?",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Trend Continuation",
+        "Protected Swing Invalidation"
+      ],
+      "score": 17
+    },
+    {
+      "start": 960.66,
+      "end": 974.82,
+      "text": "I can anticipate this to be a protected swing and look for an entry. But even if I miss that, I can let it confirm and then look for new swing points that form in that direction. So I hope you enjoyed this video on stop losses and the review on protected swings.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 17
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.984106+00:00"
+}

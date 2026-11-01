@@ -1,0 +1,244 @@
+[00:00] How's it going everyone?
+[00:11] In this video we are going to be talking about the open high low close and open low high
+[00:15] close of candles.
+[00:17] We'll first talk about defining a bearish and bullish candle and then we'll talk about
+[00:22] the three different types of candles that I focus on.
+[00:25] Let's get into the PDF.
+[00:26] The first thing you need to understand is that every candle has an open, high, low and
+[00:32] close.
+[00:33] So for this specific time period, price went and the highest it rich was up here making
+[00:39] a high.
+[00:40] The lowest it went was down here making a low and price at the specific time opened right
+[00:46] here and closed here.
+[00:48] So if the close is below the open, then that is a bearish candle.
+[00:53] Now if the open is below the close, that is a bullish candle.
+[00:58] Now every single candle has an open, high, low close and it is the foundation of trading.
+[01:03] Let's talk about the three different types of candles that I focus on.
+[01:06] But the first candle I focus on is a directional candle.
+[01:09] What that means is price went one direction throughout this time period for the most part.
+[01:14] You can see we had an open, we made a high and then we continued lower for the majority
+[01:21] of this time period before making a low and closing.
+[01:24] Similarly with a bullish candle moving in one direction, we had an open, we made a low,
+[01:30] we continued in one direction for most of this time period, made a high and then closed.
+[01:36] So what does this look like on the lower time frames?
+[01:38] Well for a bullish directional candle, we'll have an open, a low and then we'll continue
+[01:45] or trend in one direction to make a high and then close.
+[01:48] And the one thing to notice is generally with directional candles, this wick is smaller relative
+[01:53] to the body, right?
+[01:54] That's how it's going to be.
+[01:57] Now with a bearish directional candle, we'll have an open, we'll make a high above that
+[02:01] open and we'll have a continued move down to then close.
+[02:06] Once again, a smaller wick relative to the body.
+[02:09] Let's hop into trading view and go over a few examples of this.
+[02:12] So here we are in trading view and the first candle we're going to take a look at is this
+[02:16] one right here.
+[02:17] So you can see price opened, made a high went lower throughout the time period and then
+[02:23] closed here.
+[02:24] Since the close is below the open, it is a bearish candle.
+[02:28] Now let's go take a look at what this looks like on a lower time frame.
+[02:31] So down here on the 15 minute chart in relation to the daily candle, let's see how it forms.
+[02:37] So the first thing we're going to do is go ahead and mark out this opening price here
+[02:41] at 1800.
+[02:42] But now that we have that marked out, let's play this through and watch how the candle
+[02:46] forms.
+[02:47] You can see throughout Asia, we kind of accumulate here, we make a high and then we get displacement
+[02:53] down right.
+[02:54] So open, high, now if this candle is going to continue lower, I'd like to see this high
+[02:59] left and to trade lower throughout the day.
+[03:02] And you can see we're trading lower, we get New York open, we go even lower.
+[03:07] And you can see how this move higher here is just to create the wick of this daily candle.
+[03:14] And there as we close the day, you can see we had an open, we made a high, we went down,
+[03:20] we made a low, and then we close the candle.
+[03:24] You can see every time frame that has a candle, there is a lower time frame making that candle.
+[03:30] On the daily, I like to use the 15 minute time frame.
+[03:33] Let's go to a few more examples.
+[03:36] So now if we're looking at the daily chart here, once again, and we see that price reach
+[03:42] above and then close back inside here, what am I anticipating for the next day to be bearish?
+[03:48] So if I'm bearish, then I want to see what type of candle, well, an open, I low close
+[03:54] because I want to see one directional move down.
+[03:57] So do we get that?
+[03:59] We do.
+[04:00] So what does this look like on a lower time frame?
+[04:01] So you can see here, this was the previous day.
+[04:05] Here is the new day open.
+[04:06] So we want to see what open, I low close.
+[04:11] If you notice right here, what do we not have?
+[04:13] We have an open.
+[04:15] Our high is the exact same price as the open.
+[04:17] We don't currently have an upper wick on the daily chart.
+[04:21] As we move ahead, did we just create the wick on the daily chart?
+[04:25] Let's see.
+[04:29] And then we get the continuation lower.
+[04:31] So you can see open, we made a high, one directional move, make a low, and then close.
+[04:38] So let's continue this into the next day.
+[04:40] If we're still bearish, what do we want to see?
+[04:43] Open, high, low close.
+[04:45] As we continue this ahead into the New York session, what do we get?
+[04:54] We get a move higher sweeping these previous highs around equilibrium of the previous day
+[05:00] and then displacement lower.
+[05:02] So open, I, we'd want to see a move lower to make a low and then close.
+[05:09] And here is where I'll use projections or something else to give me a projected move.
+[05:15] And you can see it went far beyond that projection.
+[05:18] We made an open, I low.
+[05:21] Let's see if we close here or where we go.
+[05:25] And we just closed right in here.
+[05:27] Hopefully that makes sense.
+[05:29] Open, high, low close.
+[05:31] Now this works on all time frames.
+[05:33] For instance, we are now looking at the monthly candle using the daily chart as the lower
+[05:38] time frame candles.
+[05:39] So if we're going to move higher, we want to see what open, low, high, close.
+[05:47] And you can see there we got our open, low, high, close, and we open up the new month
+[05:53] and we make a move higher at the start.
+[05:55] And then that leads us into our next candle type.
+[05:58] So let's go back to the PDF.
+[05:59] So the next candle type I focus on is a reversal candle.
+[06:03] And so what this looks like is we have an open, a high, a low and close or an open,
+[06:09] low, high close.
+[06:11] And what do you notice about this wick relative to the body?
+[06:15] The wick is larger than the body.
+[06:16] You notice how with the directional candle, our wick was smaller than the body.
+[06:20] With the reversal candle, it is different.
+[06:22] So what's happening on the lower time frames here, while we open, we're making a move higher.
+[06:27] So it's looking like a directional candle up.
+[06:30] And in this time period, we went higher and then price reversed all the way down here
+[06:34] to then close the price went up, then reversed or made a reversal candle.
+[06:39] Similarly, open went down looking like a bearish directional candle, then reversed to make a
+[06:45] high close.
+[06:46] So if we look at this on a lower time frame, open made a low was looking like expansion
+[06:52] down price reversed to then make a high and close.
+[06:56] So open, low, high close.
+[06:58] With a bearish reversal candle, open, high, low close was looking like a bullish directional
+[07:06] candle and price reverse.
+[07:08] So when you see a wick, that means on a lower time frame price went up and then down.
+[07:14] Let's hop into the charts and go over a few examples of these.
+[07:17] Now back where we left off with our previous example on CL daily chart looking at the monthly
+[07:22] open, high, low close.
+[07:24] What do we notice about this low here?
+[07:26] We barely made a low, right?
+[07:27] In the single daily candle, we just kind of moved higher.
+[07:30] So we have an open high.
+[07:32] Let's see what happens.
+[07:34] So if you notice what happens is we move higher and then price reverses to go lower.
+[07:39] We have an aggressive move out of a range and aggressive move back into a range.
+[07:44] Let's see how this month closes.
+[07:46] And you can see we close as a bearish reversal candle.
+[07:51] What happens at the start of the next month, we get an expansion move down off of that
+[07:56] reversal.
+[07:57] We go back and replay.
+[07:58] What do we notice about our first example in the video?
+[08:01] This candle looks a lot like that monthly candle, right?
+[08:04] Where we have an expansion up price then moves open, high, low close, forming a bearish reversal
+[08:12] candle.
+[08:13] So then I can anticipate what a bearish directional candle after that.
+[08:17] So we go down to the lower time frames here.
+[08:20] So now down here on the lower time frames, if we watch this candle form and see it's
+[08:23] pretty choppy.
+[08:25] What happens is price moves higher.
+[08:27] We make a high.
+[08:30] And then the most important part here is we move lower.
+[08:33] And where do we close?
+[08:35] We close back down here, making a bearish reversal candle.
+[08:40] So you can see here price went higher, reversed, and then closed below its opening price.
+[08:46] So let's take another look at this example.
+[08:49] What happens as we near the New York session?
+[08:51] We get an aggressive move lower, right?
+[08:53] So right now it's looking like open, high, low close, right?
+[08:58] But this is where directional bias is important because if I'm bullish and seeing an opposing
+[09:02] move down in New York, I'm thinking in New York reversal to make a what bullish reversal
+[09:08] candle.
+[09:10] What happens here?
+[09:12] We make a low.
+[09:13] We get our change in the state of delivery.
+[09:15] And then where do we go?
+[09:17] We go higher.
+[09:19] You see how this candle looks open, low, high, close, right?
+[09:24] Where we finish off.
+[09:25] So let's go back to the PDF and talk about the last candle type I look for.
+[09:30] Now the last candle type I look for is an indecision candle.
+[09:33] And what does that mean?
+[09:34] It means that price opens, makes a high or a low, and then closes very close to the opening
+[09:40] price.
+[09:41] So you can see how we have a longer wick on each side and the body is fairly small.
+[09:45] That means throughout this time period or candle.
+[09:48] For instance, if this is a daily candle, it means that price really didn't go anywhere
+[09:52] through that day, right?
+[09:54] Because it opened and closed relatively to the same price.
+[09:56] So we look at an example of a bullish one right here.
+[10:00] Make a low, make a high, make a low.
+[10:03] But the most important things we open and close right next to each other.
+[10:06] So there's no real direction in the market.
+[10:09] And similar thing here with a bearish indecision candle, the open and closing prices are relatively
+[10:15] close to each other, making a very small body or not much direction in the market.
+[10:20] Let's go into the charts and look at a few examples of these.
+[10:23] So here we are on a gold 15 minute chart and we'll be watching the daily candle.
+[10:28] You can see as we play this through, we don't really do a whole lot, right?
+[10:31] We're chopping around.
+[10:32] What are we making a little broadening formation?
+[10:37] And what happens?
+[10:38] Well, we just sweep out both sides of the range.
+[10:41] So right now.
+[10:42] We let this come back and close.
+[10:44] Where do we return to?
+[10:46] Right around the opening price, right?
+[10:48] So larger wick on each side and opening and closing near each other.
+[10:53] But what does that show?
+[10:54] There is no direction right now in the market.
+[10:57] It's just kind of sitting around.
+[10:58] So here in our next example, what do we notice about the previous range?
+[11:02] Well, we had a very large previous range.
+[11:05] See that 500 points on in queue.
+[11:08] So with a lack of news or volatility following a range that is very large,
+[11:14] a lot of times we get an indecision candle.
+[11:18] You can see there is no real movement in the market.
+[11:22] And what happens is we just come and make a high and a low price can't go anywhere.
+[11:28] And we will end up closing right around the opening price.
+[11:32] But if you know what a seek and destroy looks like or a broad information,
+[11:36] we'll just kind of get that pattern, right?
+[11:39] The price will take external go back to equilibrium with range.
+[11:42] So here we are on CL daily chart.
+[11:45] And I just wanted to explain a few things.
+[11:47] We went over the three candle types and generally I don't like to see more than
+[11:50] three of those candle types in a row.
+[11:52] So if we're getting three days of expansion or a directional move,
+[11:56] then I like to see a different candle type or a reversal consolidation.
+[12:00] So let's see.
+[12:02] You notice here we get three days of expansion, right?
+[12:05] So open, high, low, close, open, high, low, close, open, high, low, close, right?
+[12:12] So the following day, what happens?
+[12:14] Well, what do we print?
+[12:16] We sweep out previous days low and close inside.
+[12:19] But more importantly, open, low on that sweep, make a high and then close.
+[12:24] So what are we printing a bullish reversal candle?
+[12:28] So do we see a reversal?
+[12:29] Well, let's see the next days.
+[12:32] Open, low, high, close, closing over this previous bar.
+[12:37] Remember my daily bias video?
+[12:40] Open, low, high, close, closing over.
+[12:44] Now do we get a third day?
+[12:45] We do open, high, low, close.
+[12:48] Now what happens on this next day?
+[12:50] Following three days.
+[12:52] This isn't great expansion, but three up close candles.
+[12:56] We get a consolidation, right?
+[12:58] So you can see how the opening price and closing price are right next to each other.
+[13:02] It happens.
+[13:04] Well, now we sweep previous day low into a fair value gap.
+[13:08] And what do we notice about this candle?
+[13:10] Open, low, high, close.
+[13:13] And what is that forming?
+[13:14] A bullish reversal candle.
+[13:16] And in this case, it's reversing from the retracement to then continue higher.
+[13:21] And there we get a move higher.
+[13:22] So hopefully that shows you how you can add it to other concepts, just the
+[13:26] understanding of open, high, low, close.
+[13:28] And if you go down to the lower timeframes, you kind of already know what they look like.
+[13:32] For instance, here, I know we opened made a high back at equilibrium of the previous day.
+[13:38] Then from there, we found expansion lower and then we closed in the lows here.
+[13:43] We made a move higher to then go lower and close.
+[13:46] So you can kind of start to picture the lower timeframes, just understanding
+[13:50] the open, high, low and close.
+[13:52] Now, I hope you found this video helpful.
+[13:54] If you did, please consider liking and subscribing.
+[13:57] And I'll see you guys in the next one.
+[13:58] Have a good one.

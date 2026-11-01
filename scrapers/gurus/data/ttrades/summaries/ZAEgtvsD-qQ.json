@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "ZAEgtvsD-qQ",
+    "title": "Using PSP to Confirm Swing Points (TTFM)",
+    "url": "https://www.youtube.com/watch?v=ZAEgtvsD-qQ",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/ZAEgtvsD-qQ.json"
+  },
+  "stats": {
+    "word_count": 1460,
+    "duration_seconds": 469.6,
+    "segments": 143,
+    "concepts_detected": 6,
+    "candidate_strategies": 2
+  },
+  "concept_mentions": {
+    "SMT Divergence": 10,
+    "TTrades Fractal Model": 8,
+    "Candle 3 Setup": 2,
+    "Protected Swing": 5,
+    "PSP Confirmation": 31,
+    "CISD": 1
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 49.6,
+          "end": 69.4,
+          "text": "A PSP is when we still have that same structure, but one candle is closing a different color. This is just like a little SMT clue or a little divergence between the closures of these candles. So when you see correlated assets with different candle closures, that is what a PSP is.",
+          "concepts": [
+            "SMT Divergence",
+            "PSP Confirmation"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 19
+        },
+        {
+          "start": 369.48,
+          "end": 380.04,
+          "text": "We don't have SMT up here at the reversal, but that can give us an extra confluence of a reversal using PSP. So as we let this continue ahead, you can see we form a new protected swing.",
+          "concepts": [
+            "SMT Divergence",
+            "Protected Swing",
+            "PSP Confirmation"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 21
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 254.12,
+          "end": 266.44,
+          "text": "Just like in my previous video or the intra candle change in the state delivery price opens, forms a high, now forms a new protected swing. So that is our intra candle change in the state delivery that gives us a stop loss.",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 12
+        },
+        {
+          "start": 389.12,
+          "end": 397.0,
+          "text": "get that continuation SMT that is printing. We have a new protected swing and we trend lower. So you can see this fractal model.",
+          "concepts": [
+            "SMT Divergence",
+            "TTrades Fractal Model",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 18
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 49.6,
+      "end": 69.4,
+      "text": "A PSP is when we still have that same structure, but one candle is closing a different color. This is just like a little SMT clue or a little divergence between the closures of these candles. So when you see correlated assets with different candle closures, that is what a PSP is.",
+      "concepts": [
+        "SMT Divergence",
+        "PSP Confirmation"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 19
+    },
+    {
+      "start": 72.0,
+      "end": 87.96,
+      "text": "I'm only going to look for a PSP within a valid fractal model, so either with a candle 2 or a candle 3 closure, I will be looking for one. I'm simply going to use the PSP as a confirmation, adding more confluence to an existing model,",
+      "concepts": [
+        "TTrades Fractal Model",
+        "Candle 3 Setup",
+        "PSP Confirmation"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 90.68,
+      "end": 100.72,
+      "text": "So there are two types of PSP that I look for. That will be a candle one PSP and a candle two PSP. A candle one PSP is within an existing model.",
+      "concepts": [
+        "PSP Confirmation"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 115.72,
+      "end": 128.8,
+      "text": "So that would be a candle one PSP. A candle to PSP is when the correlated market closes a different color on candle to. So here in candle one, you can see they are both up close candles.",
+      "concepts": [
+        "PSP Confirmation"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 139.04,
+      "end": 149.84,
+      "text": "So here you can see we have that same structure of a candle to PSP. And then we have the SMT. Once again, these are all just confluences to be used within an existing model.",
+      "concepts": [
+        "SMT Divergence",
+        "PSP Confirmation"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 197.92,
+      "end": 209.56,
+      "text": "So there is a difference in the closures between these. So this is a candle one PSP because within this fractal model, this candle to closure, there is a difference in candle closures here.",
+      "concepts": [
+        "TTrades Fractal Model",
+        "PSP Confirmation"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 254.12,
+      "end": 266.44,
+      "text": "Just like in my previous video or the intra candle change in the state delivery price opens, forms a high, now forms a new protected swing. So that is our intra candle change in the state delivery that gives us a stop loss.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 278.36,
+      "end": 287.56,
+      "text": "We get a nice expansion lower with new protected swings. A PSP is very simple. It is just a difference in closures between assets.",
+      "concepts": [
+        "Protected Swing",
+        "PSP Confirmation"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 323.4,
+      "end": 331.16,
+      "text": "We're not trying to really look for PSP. Just in all these random little candles, we want it to be aligned with a fractal model using these higher timeframe candles.",
+      "concepts": [
+        "TTrades Fractal Model",
+        "PSP Confirmation"
+      ],
+      "strategies": [],
+      "score": 12
+    },
+    {
+      "start": 369.48,
+      "end": 380.04,
+      "text": "We don't have SMT up here at the reversal, but that can give us an extra confluence of a reversal using PSP. So as we let this continue ahead, you can see we form a new protected swing.",
+      "concepts": [
+        "SMT Divergence",
+        "Protected Swing",
+        "PSP Confirmation"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 21
+    },
+    {
+      "start": 389.12,
+      "end": 397.0,
+      "text": "get that continuation SMT that is printing. We have a new protected swing and we trend lower. So you can see this fractal model.",
+      "concepts": [
+        "SMT Divergence",
+        "TTrades Fractal Model",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 18
+    },
+    {
+      "start": 444.44,
+      "end": 455.96,
+      "text": "It's not very great price action in here. So this SMT and the PSP really help with the confluence and then a new protected swing where we get this breakout lower into the previous monthly lows.",
+      "concepts": [
+        "SMT Divergence",
+        "Protected Swing",
+        "PSP Confirmation"
+      ],
+      "strategies": [],
+      "score": 14
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.283479+00:00"
+}

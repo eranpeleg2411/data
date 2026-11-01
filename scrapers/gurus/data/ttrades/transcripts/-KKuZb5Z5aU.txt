@@ -1,0 +1,296 @@
+[00:00] How's it going everyone?
+[00:11] In this video we are going to talk about a simple daily framework.
+[00:15] This is going to use candle closures as well as wick size, but if you haven't already seen
+[00:19] my equilibrium video, my candle 2 and candle 3 closure video, I would watch those first.
+[00:24] This is based off the fact that I am either going to be looking for a reversal, or for
+[00:28] a continuation.
+[00:30] If I am looking for a reversal, I am always going to frame that reversal off of previous
+[00:34] days high or previous days low.
+[00:37] So here you can see we have had a bullish day, we closed near the high.
+[00:40] I will be looking for the next day to open, trade into previous day high, have a reversal
+[00:45] formed and then I can look to trade it back into the range, looking for that EQ or to
+[00:50] the previous days low.
+[00:52] Now if I am going to be looking for a continuation, I will look for price to open, trade lower
+[00:57] first, respect the EQ of that previous days range and then trade up and through that previous
+[01:02] days high.
+[01:03] Let's take a look at what an example of a reversal would look like.
+[01:06] Here you can see we want to see price open, trade higher first into the previous days
+[01:10] high, which is our important level, and then have a shallow wick to form a reversal and
+[01:15] trade lower.
+[01:16] Now if you don't know why we want a shallow wick, a shallow wick supports expansion lower
+[01:20] so we can trade this lower in the reversal day.
+[01:23] If we have a large wick, then we're going to want to wait for candle three or the following
+[01:27] candle to trade the continuation.
+[01:29] If you haven't already seen my video on wick size, please check that out.
+[01:33] But essentially over this previous day high, we're going to want to see a lower timeframe
+[01:37] change in this data delivery to confirm the wick of this daily candle and then trade it
+[01:41] back lower.
+[01:42] I'm generally going to be looking for this on the hourly or 30 minute charts.
+[01:46] If it's in Asia or London or in New York, I will use the five minute or 15 minute timeframe.
+[01:51] Now when looking for a continuation, I want to see price open up, respect the EQ of the
+[01:56] previous days range and then trade higher.
+[01:59] So we have an open low and then forming the body before we have a high and close and similar
+[02:04] to a reversal, I will be using a change in the state of delivery in sure day to confirm
+[02:09] the wick of that higher timeframe candle.
+[02:12] So as we zoom in here, you can see we have a change in the state of delivery, which confirms
+[02:16] this higher timeframe wick and then we can trade the body of the higher timeframe candle.
+[02:20] So let's get into trading view and go over a few examples of this.
+[02:24] So here we are in our first example, we are on YM on the daily chart.
+[02:28] Now let's first give a little context here, you can see we are trending higher and we
+[02:32] are creating new protected swings.
+[02:34] You can see we reach into a fair value gap.
+[02:37] We close over the down close candle into that fair value gap.
+[02:40] Now this low is protected if we are going to trade higher.
+[02:43] We then reach into this fair value gap here.
+[02:46] And what does this previous candle do?
+[02:48] It closes over the down close candles into that fair value gap.
+[02:52] Now this low is protected.
+[02:53] So this is an ideal candle to closure.
+[02:56] Now looking at this, if we are expecting a continuation, what do we need to mark out?
+[03:01] Well, with all of these days, we're just going to mark out the EQ as well as our previous
+[03:05] day high and previous day low.
+[03:07] In this case, since we are bullish, previous day high.
+[03:10] Now if we are bullish, looking for a continuation, we want to see price open, trade lower first,
+[03:16] respect the EQ and then trade higher through previous day high.
+[03:20] Now my favorite timeframe to watch this on is the hourly.
+[03:23] So let's drop down to the hourly chart.
+[03:25] So here you can see we have marked out our previous days EQ as well as our previous
+[03:29] days high.
+[03:30] So what do we want to see out of this day?
+[03:32] Well, we'd want to see price open, trade lower into this fair value up, respecting the EQ.
+[03:38] And when I say respecting the EQ, it's not ideal to have closures on the hourly chart
+[03:43] below that.
+[03:44] So if I'm using the daily, the timeframe pairing with that, I don't want to see a closure
+[03:47] below that EQ level.
+[03:49] Not that it can't reverse and expand.
+[03:51] It's just less probable.
+[03:52] So as we let this play out, let's see how it works out.
+[03:55] So you can see we respect that EQ and then we start to trade higher.
+[04:00] So where would we want to see this trade to?
+[04:02] Well, because it has a larger wick back to the daily open, but our previous day is high
+[04:07] or beyond that.
+[04:08] And there you can see we have our open low and then we have our high rate and we trade
+[04:13] into these previous highs on the left here.
+[04:16] So this is a good example of a continuation and what you want to see.
+[04:20] You want to see price open, make a low or this lower wick and then trade higher through
+[04:25] its previous days high.
+[04:27] Now how far beyond this previous days high we go is really dependent on the wick size
+[04:32] of this reversal with a large wick.
+[04:34] I'm not expecting much of a range beyond this level, but with a small wick, we can get an
+[04:38] expansion.
+[04:39] Let's take a look at another continuation.
+[04:41] So here we are on USD CAD and what do we have?
+[04:44] We have a candle to closure, a nice bearish close.
+[04:48] So if we're looking for a continuation, what do we want to mark out?
+[04:51] We want to mark out the EQ as well as the previous days low.
+[04:56] Now when I say respect EQ price can form its high below that level.
+[05:01] It doesn't need to go up and touch it.
+[05:03] So what I will look for is points of interest below that EQ.
+[05:07] So marking that out, we have a fair value gap here and a fair value gap here.
+[05:12] Instead of trying to guess which one will have a reaction, I'm going to wait for a swing
+[05:15] to form in that area or a new protected swing.
+[05:18] So let's see what happens.
+[05:21] You can see we don't respect this fair value gap.
+[05:23] So I can simply remove it.
+[05:25] Now right here, let's see, do we have a candle to closure?
+[05:28] No.
+[05:29] Do we have a candle to closure?
+[05:31] No, but we have a candle three closure, which is ideal as we form a new protected swing.
+[05:37] Here.
+[05:38] So now I can anticipate that this higher timeframe wick has formed, right?
+[05:42] Because this is what I look for at the reversal, either on the lower timeframe, the hourly
+[05:46] or the lower timeframe using a candle closure.
+[05:48] I can look for price to trade into this previous day low or even lower.
+[05:52] And you can see there we get a move through that previous day low as a first target and
+[05:57] that expansion lower.
+[05:59] If we want to take a look at this with my indicator marking it out, you can see we also
+[06:02] have that SMT with dollar at the reversal that change in the state of delivery.
+[06:07] And then we have the T spot marked up, which in this case is just the equilibrium in which
+[06:12] case we will search for that point of interest and look for it to trade lower.
+[06:16] Now let's take a look at a reversal.
+[06:17] There you can see we have the EQ marked up and our previous day low is right here.
+[06:22] So if we're going to be looking for a continuation, what would we want to see price open trade
+[06:28] higher first respecting this fair value gap and the EQ to then trade lower into previous
+[06:33] day low and beyond.
+[06:35] But what occurs?
+[06:38] We open and we trade lower first, that is open low, which is bullish when price opens
+[06:45] and makes a low first that is bullish.
+[06:47] When price opens and makes a high first that is bearish.
+[06:51] So what are we looking for with a reversal?
+[06:53] Well we want to see price open reach into that previous days low, which is that important
+[06:58] level.
+[06:59] Then we need what either a change in the state of delivery on the hourly time frame, if earlier
+[07:04] in the day, or if in the New York, a change in the state of delivery on the 15 minute
+[07:08] or five minute time frame.
+[07:09] So let's see what happens.
+[07:12] You can see we have an SMT at the previous day low with a change in the state of delivery.
+[07:18] Now we have everything set up with a small wick to see a reversal trade back into the
+[07:23] range.
+[07:24] So could we look for this to trade to back towards the EQ or this fair value gap here.
+[07:29] So let's see how this plays out.
+[07:33] And there you can see we go well beyond the EQ and we have a nice move off of that previous
+[07:38] days low, which forms a reversal.
+[07:41] Now let's look at this once again.
+[07:43] If I'm looking for a continuation, what am I looking for price to open respect the EQ
+[07:49] of the previous day and then look for above previous day high.
+[07:53] Let's see, do we open and trade lower first?
+[07:56] Yes, we have went into this fair value gap here and closed over.
+[08:00] So let's see if we get a move into previous day high.
+[08:03] We do get a move into previous day high.
+[08:05] And then we have it forming somewhat of a reversal or a retracement here.
+[08:09] Let's see what happens.
+[08:12] And you can see a little bit of a messy price action here, but we do trade higher.
+[08:17] The one thing I do want to talk about.
+[08:19] Yes, this is a protected swing.
+[08:21] Right.
+[08:22] This swing is only protected until it hits liquidity.
+[08:25] Once it hits liquidity, this is a pattern I see often of taking out liquidity, then
+[08:30] it will sweep out a protected swing and then it will have its true move.
+[08:34] So this is just an example of a reversal.
+[08:37] So just to review sweeping out our previous days low as a lower time frame change in the
+[08:42] state of delivery, and then can look back towards that EQ on a bullish day or on this
+[08:47] bullish continuation.
+[08:48] I want to see price open, make a low and then trade higher into previous day low or beyond.
+[08:54] Now, in this next example, we are on GBP USD.
+[08:58] And I want to clarify the importance of having a higher timeframe bias.
+[09:02] I'm not just going to pattern trade this.
+[09:04] I want to actually align it with a bias.
+[09:06] So here you can see we have an ideal candle three closure and a new protected swing, which
+[09:12] is bullish.
+[09:13] So ideally I want to frame to the upside here.
+[09:16] Let's drop down to the hourly timeframe.
+[09:18] So here we are on the hourly timeframe and we have our previous day high right here.
+[09:23] And what do we want to see?
+[09:25] Well, ideally we want to see price open, trade lower, respect the EQ and then trade higher.
+[09:31] Let's see what happens.
+[09:33] You can see price trades into this previous day high first and has a change in the state
+[09:37] of delivery.
+[09:38] Now, is this bearish?
+[09:39] Yes, this is bearish, but this can be still part of a retracement, not a full on reversal.
+[09:46] Once I am still bullish, I still want to anticipate this to be a retracement to then
+[09:50] trade it higher, but I'm going to need to wait for what that lower wick to form and
+[09:55] use a change in the state of delivery.
+[09:58] So let's see what happens.
+[09:59] We do get this move lower, which is possible to trade, right?
+[10:03] This would be trading the reversal back in towards the EQ of the range or back into the
+[10:08] points of interest around the EQ.
+[10:12] And then what do we want to see?
+[10:14] Right here, you can see we have a little consolidation.
+[10:16] We sweep out, respect this fair value up, sweep out one more time.
+[10:20] And then what do we have?
+[10:22] We have a change in the state of delivery with an ideal candle to closure.
+[10:26] This is where I could take an entry on the open of candle three to trade it higher or
+[10:31] I could do what?
+[10:32] This is an hourly candle to closure.
+[10:34] I could look to the five minute to trade a five minute continuation in candle three.
+[10:39] But you can see how if you do have a bias, you do want to come in and keep that bias
+[10:44] and let the timeframes align with that bias.
+[10:47] And you can see, yes, we do get a retracement here off the reversal on previous day high,
+[10:52] but that is just a retracement to continue higher within this daily range.
+[10:58] Now this is a fractal concept.
+[11:00] So we just went over this on the daily and hourly timeframes.
+[11:03] But you can see here we've had this expansion throughout the day and then right at 11.
+[11:08] What are we having?
+[11:09] We're having a reversal form.
+[11:11] So if I wanted to trade a reversal on a lower timeframe, how would I do that?
+[11:15] Well, it's the same, but instead of previous day high, it's going to be a previous candle's high.
+[11:20] So here you can see if I'm on the hourly chart, I'm using the 10 a.m.
+[11:23] high to frame a reversal.
+[11:25] Now I want to have a small wick and then I can trade it lower.
+[11:28] Let's drop down to the lower timeframes and check this out.
+[11:31] So here we are on the five minute timeframe and we have marked out our previous candles high.
+[11:35] Now ideally we want this candle's high to form early into the candle and have a small wick.
+[11:40] But what confirms that?
+[11:41] We're just going to use a closure like this.
+[11:43] No, we want to wait for what?
+[11:45] The change in the state of delivery.
+[11:47] But let's see what happens here.
+[11:50] You can see we get this closure below, which forms a change in the state of delivery,
+[11:54] which then protects this high and we can see a move lower.
+[11:57] Let's see what happens.
+[12:00] You can see it is quite messy as we are countertrend,
+[12:04] but we do have the SMT at this high as Euro and dollar took out this high while GBP did not.
+[12:10] And then we go run out these targets lows.
+[12:12] The main thing I wanted to point out is this is a fractal concept.
+[12:15] So generally, although I normally use this on the daily timeframe with the hourly and trading that intraday,
+[12:21] you can use it on the lower timeframes such as the hourly and the five minute.
+[12:25] However, I don't prefer to go below the four hour timeframe as it just becomes a bit more difficult.
+[12:30] If I'm going to be trading these reversals or these candle twos,
+[12:34] you can check out my previous video on trading candle to then I'm going to generally focus on trading a reversal candle on the daily or four hour timeframe.
+[12:42] Once you get a bit lower than the four hour timeframe, it just gets a bit messy and more difficult.
+[12:47] Let's do one final example here and we will show the fractal nature as we are going to do this on the four hour timeframe.
+[12:54] And then with the four hour, what do we pair it with the 15 minute timeframe?
+[12:58] So here you can see we've had three bearish candles.
+[13:01] We do have a sweep here and then a closure forming a change in the state of delivery.
+[13:06] Following these two expansion candles, we have yet to hit this range low.
+[13:09] So we still have an open target here.
+[13:12] We have a consolidation.
+[13:14] So if we want to trade away from a consolidation, what do we want to see?
+[13:19] We want to see the previous high ran out to then trade it lower.
+[13:22] We could anticipate price to sweep out this high and then trade it lower.
+[13:26] If it has a small wick, then we can look to trade the reversal candle.
+[13:30] If it has a large wick, then we're not going to want to trade the reversal candle.
+[13:34] We'll wait for the following candle.
+[13:36] Let's go down to the 15 minute timeframe to check this out.
+[13:39] So here you can see the consolidation a little bit better.
+[13:42] And how can you see this?
+[13:43] Well, we cannot form a continuation here.
+[13:46] We can't get the closure to form a protected swing.
+[13:48] So then we make a new high and here you can see we also can't go form a new continuation.
+[13:54] So this is just continuing consolidation.
+[13:57] So I want to see another high ran out.
+[13:59] So putting on the indicator, let's see what happens.
+[14:03] So here you can see we run into this high.
+[14:05] Now am I going to trust this yet?
+[14:07] No, I need to wait for a closure through or a change in the state of delivery,
+[14:12] which then confirms that this wick has been created.
+[14:16] You can see we struggled to close, but then right away we close after.
+[14:20] So if I'm going to be trading a reversal, then I could look to trade this position here,
+[14:25] put my stop on this high and then look for that range low that we were talking about.
+[14:30] Let's see how this works out.
+[14:32] And there you can see this does work out as we have a nice reversal off the previous
+[14:36] candles high, paired with a change in the state of delivery and SMT.
+[14:41] If I'm going to be trading a candle to I do prefer to have SMT paired with it.
+[14:46] Now let's talk about one more thing here.
+[14:47] If we are looking for a continuation lower here, what do we want to see?
+[14:51] We want to see price open trade higher first and then into this low.
+[14:56] If we are going to form a reversal off of this previous four hour low,
+[14:59] how is that going to work out?
+[15:01] We're going to open trade lower first into this low and then we'll form a change
+[15:05] in the state of delivery and continue back into the range.
+[15:08] So let's see what happens here.
+[15:13] You can see we are getting a continuation and this has a large wick.
+[15:17] So this is not a candle that I would be interested in trading back into the range
+[15:21] because if it was going to form a reversal, I would rather trade the following candle.
+[15:26] So here we are in our last example and let's take a look at our previous day.
+[15:30] So we're on the hourly chart.
+[15:32] This is the daily chart.
+[15:33] You can see in the previous day we have wretch up into our previous days high.
+[15:38] We have a nice V shape reversal with a change in the state of delivery alongside
+[15:42] SMT and then we just place lower throughout the day with a nice bearish closure.
+[15:47] With a bearish candle to closure, we'd be looking for a continuation in candle three
+[15:52] out of where the T spot or the EQ.
+[15:56] I want to see price open trade higher first to then trade lower.
+[16:00] Now, if I'm looking for a point of interest in this T spot, what am I looking for?
+[16:05] A fair value gap or a high to be taken out.
+[16:08] There we have a fair value gap.
+[16:09] So let's see, do we get a reaction out of this area?
+[16:13] Nope, we kind of consolidate.
+[16:16] We do take out this high here and then we have a change in the state of delivery.
+[16:21] Now, since this is during Asia session or early onto the day, this is when I prefer
+[16:25] not to go down to the lower timeframes and I like to execute on the higher timeframes.
+[16:30] So here's where I could take an entry short and I could put my stop at the high here and
+[16:35] then look for two are in this case, it's 1.83.
+[16:38] If I want to adjust it to two are good use the body there as I don't want to see it traded
+[16:42] back up into that.
+[16:43] And let's see what happens.
+[16:45] And there you can see we hit our two are.
+[16:47] So this is just a good example of when seeking a continuation.
+[16:51] I want to see price open, reach into a point of interest, have a formation that confirms
+[16:55] the wick of this higher timeframe candle, and I can look to trade that continuation.
+[17:00] In a reversal, I want to see price open trade higher into that previous days high or that
+[17:04] previous candles high, have a change in the state of delivery, which confirms that wick
+[17:08] high, and I can look to trade the reversal if it has a small enough wick.
+[17:12] Now, I hope you enjoyed this video.
+[17:14] If you have any questions, leave them in the comment section below.
+[17:17] And with that, I hope you have a great rest of your day and I'll see you guys next time.

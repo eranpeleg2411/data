@@ -1,0 +1,2408 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:11.360 --> 00:00:13.030 align:start position:0%
+ 
+How's<00:00:11.599><c> it</c><00:00:11.759><c> going</c><00:00:12.000><c> everyone?</c><00:00:12.400><c> In</c><00:00:12.639><c> this</c><00:00:12.800><c> video,</c>
+
+00:00:13.030 --> 00:00:13.040 align:start position:0%
+How's it going everyone? In this video,
+ 
+
+00:00:13.040 --> 00:00:15.110 align:start position:0%
+How's it going everyone? In this video,
+we<00:00:13.280><c> are</c><00:00:13.440><c> going</c><00:00:13.599><c> to</c><00:00:13.759><c> talk</c><00:00:14.000><c> about</c><00:00:14.240><c> projections</c>
+
+00:00:15.110 --> 00:00:15.120 align:start position:0%
+we are going to talk about projections
+ 
+
+00:00:15.120 --> 00:00:17.670 align:start position:0%
+we are going to talk about projections
+specifically<00:00:15.759><c> within</c><00:00:16.080><c> my</c><00:00:16.320><c> fractal</c><00:00:16.880><c> model</c><00:00:17.440><c> and</c>
+
+00:00:17.670 --> 00:00:17.680 align:start position:0%
+specifically within my fractal model and
+ 
+
+00:00:17.680 --> 00:00:19.990 align:start position:0%
+specifically within my fractal model and
+how<00:00:17.920><c> they</c><00:00:18.080><c> are</c><00:00:18.320><c> used.</c><00:00:18.960><c> They</c><00:00:19.279><c> are</c><00:00:19.439><c> mechanical</c>
+
+00:00:19.990 --> 00:00:20.000 align:start position:0%
+how they are used. They are mechanical
+ 
+
+00:00:20.000 --> 00:00:22.150 align:start position:0%
+how they are used. They are mechanical
+targets<00:00:20.480><c> and</c><00:00:20.720><c> I</c><00:00:20.960><c> personally</c><00:00:21.359><c> use</c><00:00:21.520><c> them</c><00:00:21.760><c> as</c><00:00:21.920><c> a</c>
+
+00:00:22.150 --> 00:00:22.160 align:start position:0%
+targets and I personally use them as a
+ 
+
+00:00:22.160 --> 00:00:24.470 align:start position:0%
+targets and I personally use them as a
+confluence<00:00:22.880><c> to</c><00:00:23.279><c> existing</c><00:00:23.840><c> liquidity</c>
+
+00:00:24.470 --> 00:00:24.480 align:start position:0%
+confluence to existing liquidity
+ 
+
+00:00:24.480 --> 00:00:27.109 align:start position:0%
+confluence to existing liquidity
+targets.<00:00:25.359><c> Let's</c><00:00:25.519><c> get</c><00:00:25.680><c> into</c><00:00:25.840><c> the</c><00:00:26.000><c> PDF.</c><00:00:26.720><c> So,</c><00:00:26.880><c> the</c>
+
+00:00:27.109 --> 00:00:27.119 align:start position:0%
+targets. Let's get into the PDF. So, the
+ 
+
+00:00:27.119 --> 00:00:28.150 align:start position:0%
+targets. Let's get into the PDF. So, the
+first<00:00:27.199><c> thing</c><00:00:27.359><c> you're</c><00:00:27.599><c> going</c><00:00:27.680><c> to</c><00:00:27.760><c> have</c><00:00:27.920><c> to</c><00:00:28.080><c> do</c>
+
+00:00:28.150 --> 00:00:28.160 align:start position:0%
+first thing you're going to have to do
+ 
+
+00:00:28.160 --> 00:00:30.870 align:start position:0%
+first thing you're going to have to do
+is<00:00:28.400><c> grab</c><00:00:28.560><c> a</c><00:00:28.800><c> Fibonacci</c><00:00:29.519><c> tool</c><00:00:30.000><c> and</c><00:00:30.240><c> then</c><00:00:30.480><c> apply</c>
+
+00:00:30.870 --> 00:00:30.880 align:start position:0%
+is grab a Fibonacci tool and then apply
+ 
+
+00:00:30.880 --> 00:00:32.630 align:start position:0%
+is grab a Fibonacci tool and then apply
+these<00:00:31.279><c> settings.</c><00:00:31.760><c> So,</c><00:00:32.000><c> we'll</c><00:00:32.160><c> want</c><00:00:32.320><c> to</c><00:00:32.399><c> mark</c>
+
+00:00:32.630 --> 00:00:32.640 align:start position:0%
+these settings. So, we'll want to mark
+ 
+
+00:00:32.640 --> 00:00:40.310 align:start position:0%
+these settings. So, we'll want to mark
+out<00:00:32.800><c> a</c><00:00:33.200><c> 1,</c><00:00:33.760><c> 0,</c><00:00:34.800><c> 1,</c><00:00:35.440><c> -2,</c><00:00:36.480><c> -2.5,</c><00:00:37.920><c> -4,</c><00:00:38.399><c> and</c><00:00:38.800><c> -4.5.</c>
+
+00:00:40.310 --> 00:00:40.320 align:start position:0%
+out a 1, 0, 1, -2, -2.5, -4, and -4.5.
+ 
+
+00:00:40.320 --> 00:00:42.630 align:start position:0%
+out a 1, 0, 1, -2, -2.5, -4, and -4.5.
+You<00:00:40.480><c> can</c><00:00:40.640><c> always</c><00:00:41.040><c> add</c><00:00:41.440><c> levels</c><00:00:41.840><c> that</c><00:00:42.079><c> you</c><00:00:42.320><c> find</c>
+
+00:00:42.630 --> 00:00:42.640 align:start position:0%
+You can always add levels that you find
+ 
+
+00:00:42.640 --> 00:00:44.389 align:start position:0%
+You can always add levels that you find
+work<00:00:42.960><c> for</c><00:00:43.120><c> you.</c><00:00:43.520><c> These</c><00:00:43.760><c> are</c><00:00:43.920><c> just</c><00:00:44.079><c> the</c><00:00:44.239><c> ones</c>
+
+00:00:44.389 --> 00:00:44.399 align:start position:0%
+work for you. These are just the ones
+ 
+
+00:00:44.399 --> 00:00:46.310 align:start position:0%
+work for you. These are just the ones
+that<00:00:44.640><c> I</c><00:00:44.879><c> use.</c><00:00:45.200><c> So,</c><00:00:45.440><c> how</c><00:00:45.600><c> do</c><00:00:45.680><c> we</c><00:00:45.840><c> actually</c><00:00:46.079><c> mark</c>
+
+00:00:46.310 --> 00:00:46.320 align:start position:0%
+that I use. So, how do we actually mark
+ 
+
+00:00:46.320 --> 00:00:48.709 align:start position:0%
+that I use. So, how do we actually mark
+out<00:00:46.559><c> a</c><00:00:46.879><c> projection?</c><00:00:47.840><c> So,</c><00:00:48.000><c> it's</c><00:00:48.239><c> always</c><00:00:48.559><c> going</c>
+
+00:00:48.709 --> 00:00:48.719 align:start position:0%
+out a projection? So, it's always going
+ 
+
+00:00:48.719 --> 00:00:51.350 align:start position:0%
+out a projection? So, it's always going
+to<00:00:48.879><c> be</c><00:00:49.039><c> within</c><00:00:49.520><c> candle</c><00:00:49.920><c> 2</c><00:00:50.399><c> at</c><00:00:50.640><c> the</c><00:00:50.800><c> reversal</c>
+
+00:00:51.350 --> 00:00:51.360 align:start position:0%
+to be within candle 2 at the reversal
+ 
+
+00:00:51.360 --> 00:00:53.430 align:start position:0%
+to be within candle 2 at the reversal
+point.<00:00:52.000><c> So</c><00:00:52.160><c> here</c><00:00:52.320><c> you</c><00:00:52.480><c> can</c><00:00:52.640><c> see</c><00:00:52.800><c> we</c><00:00:53.039><c> have</c><00:00:53.120><c> the</c>
+
+00:00:53.430 --> 00:00:53.440 align:start position:0%
+point. So here you can see we have the
+ 
+
+00:00:53.440 --> 00:00:55.510 align:start position:0%
+point. So here you can see we have the
+change<00:00:53.600><c> in</c><00:00:53.760><c> the</c><00:00:53.920><c> state</c><00:00:54.160><c> of</c><00:00:54.320><c> delivery</c><00:00:55.039><c> or</c><00:00:55.280><c> the</c>
+
+00:00:55.510 --> 00:00:55.520 align:start position:0%
+change in the state of delivery or the
+ 
+
+00:00:55.520 --> 00:00:56.869 align:start position:0%
+change in the state of delivery or the
+change<00:00:55.600><c> in</c><00:00:55.760><c> the</c><00:00:55.920><c> state</c><00:00:56.079><c> of</c><00:00:56.239><c> delivery</c><00:00:56.480><c> here</c><00:00:56.640><c> in</c>
+
+00:00:56.869 --> 00:00:56.879 align:start position:0%
+change in the state of delivery here in
+ 
+
+00:00:56.879 --> 00:00:58.709 align:start position:0%
+change in the state of delivery here in
+the<00:00:57.039><c> bearish</c><00:00:57.360><c> scenario</c><00:00:58.079><c> and</c><00:00:58.239><c> I'm</c><00:00:58.480><c> going</c><00:00:58.559><c> to</c>
+
+00:00:58.709 --> 00:00:58.719 align:start position:0%
+the bearish scenario and I'm going to
+ 
+
+00:00:58.719 --> 00:01:01.349 align:start position:0%
+the bearish scenario and I'm going to
+find<00:00:58.960><c> the</c><00:00:59.199><c> manipulation</c><00:00:59.920><c> leg.</c><00:01:00.719><c> So</c><00:01:00.960><c> once</c><00:01:01.199><c> we</c>
+
+00:01:01.349 --> 00:01:01.359 align:start position:0%
+find the manipulation leg. So once we
+ 
+
+00:01:01.359 --> 00:01:02.950 align:start position:0%
+find the manipulation leg. So once we
+have<00:01:01.440><c> a</c><00:01:01.600><c> change</c><00:01:01.760><c> in</c><00:01:01.920><c> the</c><00:01:02.079><c> state</c><00:01:02.239><c> of</c><00:01:02.399><c> delivery,</c>
+
+00:01:02.950 --> 00:01:02.960 align:start position:0%
+have a change in the state of delivery,
+ 
+
+00:01:02.960 --> 00:01:05.350 align:start position:0%
+have a change in the state of delivery,
+I'm<00:01:03.199><c> going</c><00:01:03.359><c> to</c><00:01:03.520><c> look</c><00:01:03.760><c> for</c><00:01:04.239><c> that</c><00:01:04.479><c> low</c><00:01:05.040><c> and</c><00:01:05.280><c> then</c>
+
+00:01:05.350 --> 00:01:05.360 align:start position:0%
+I'm going to look for that low and then
+ 
+
+00:01:05.360 --> 00:01:06.789 align:start position:0%
+I'm going to look for that low and then
+I'm<00:01:05.519><c> going</c><00:01:05.600><c> to</c><00:01:05.680><c> find</c><00:01:05.840><c> the</c><00:01:06.080><c> high</c><00:01:06.320><c> that</c><00:01:06.640><c> made</c>
+
+00:01:06.789 --> 00:01:06.799 align:start position:0%
+I'm going to find the high that made
+ 
+
+00:01:06.799 --> 00:01:08.870 align:start position:0%
+I'm going to find the high that made
+that<00:01:07.040><c> low,</c><00:01:07.439><c> that</c><00:01:07.680><c> whole</c><00:01:07.920><c> manipulation</c><00:01:08.560><c> leg,</c>
+
+00:01:08.870 --> 00:01:08.880 align:start position:0%
+that low, that whole manipulation leg,
+ 
+
+00:01:08.880 --> 00:01:10.310 align:start position:0%
+that low, that whole manipulation leg,
+and<00:01:09.040><c> I'm</c><00:01:09.200><c> going</c><00:01:09.280><c> to</c><00:01:09.360><c> go</c><00:01:09.439><c> ahead</c><00:01:09.600><c> and</c><00:01:09.840><c> mark</c><00:01:10.080><c> that</c>
+
+00:01:10.310 --> 00:01:10.320 align:start position:0%
+and I'm going to go ahead and mark that
+ 
+
+00:01:10.320 --> 00:01:12.710 align:start position:0%
+and I'm going to go ahead and mark that
+out.<00:01:11.200><c> From</c><00:01:11.439><c> there,</c><00:01:11.680><c> I'm</c><00:01:11.920><c> going</c><00:01:12.080><c> to</c><00:01:12.240><c> draw</c><00:01:12.479><c> my</c>
+
+00:01:12.710 --> 00:01:12.720 align:start position:0%
+out. From there, I'm going to draw my
+ 
+
+00:01:12.720 --> 00:01:14.630 align:start position:0%
+out. From there, I'm going to draw my
+projection.<00:01:13.600><c> I'm</c><00:01:13.840><c> going</c><00:01:13.920><c> to</c><00:01:14.080><c> anchor</c><00:01:14.320><c> it</c><00:01:14.479><c> to</c>
+
+00:01:14.630 --> 00:01:14.640 align:start position:0%
+projection. I'm going to anchor it to
+ 
+
+00:01:14.640 --> 00:01:16.230 align:start position:0%
+projection. I'm going to anchor it to
+the<00:01:14.799><c> low</c><00:01:15.040><c> and</c><00:01:15.280><c> then</c><00:01:15.439><c> draw</c><00:01:15.600><c> it</c><00:01:15.760><c> to</c><00:01:15.840><c> the</c><00:01:16.080><c> high</c>
+
+00:01:16.230 --> 00:01:16.240 align:start position:0%
+the low and then draw it to the high
+ 
+
+00:01:16.240 --> 00:01:18.390 align:start position:0%
+the low and then draw it to the high
+that<00:01:16.479><c> made</c><00:01:16.720><c> that</c><00:01:16.880><c> low.</c><00:01:17.600><c> By</c><00:01:17.840><c> doing</c><00:01:18.000><c> that,</c><00:01:18.240><c> I'll</c>
+
+00:01:18.390 --> 00:01:18.400 align:start position:0%
+that made that low. By doing that, I'll
+ 
+
+00:01:18.400 --> 00:01:20.550 align:start position:0%
+that made that low. By doing that, I'll
+be<00:01:18.560><c> able</c><00:01:18.720><c> to</c><00:01:18.960><c> draw</c><00:01:19.200><c> out</c><00:01:19.360><c> a</c><00:01:19.600><c> projection</c><00:01:20.320><c> that</c>
+
+00:01:20.550 --> 00:01:20.560 align:start position:0%
+be able to draw out a projection that
+ 
+
+00:01:20.560 --> 00:01:22.310 align:start position:0%
+be able to draw out a projection that
+then<00:01:20.720><c> gives</c><00:01:20.960><c> me</c><00:01:21.119><c> targets</c><00:01:21.520><c> for</c><00:01:21.680><c> this</c><00:01:21.920><c> move</c>
+
+00:01:22.310 --> 00:01:22.320 align:start position:0%
+then gives me targets for this move
+ 
+
+00:01:22.320 --> 00:01:24.789 align:start position:0%
+then gives me targets for this move
+based<00:01:22.560><c> off</c><00:01:22.799><c> the</c><00:01:23.040><c> manipulation</c><00:01:23.759><c> leg.</c><00:01:24.400><c> So,</c><00:01:24.560><c> by</c>
+
+00:01:24.789 --> 00:01:24.799 align:start position:0%
+based off the manipulation leg. So, by
+ 
+
+00:01:24.799 --> 00:01:26.390 align:start position:0%
+based off the manipulation leg. So, by
+removing<00:01:25.040><c> that</c><00:01:25.280><c> manipulation</c><00:01:25.920><c> leg</c><00:01:26.159><c> and</c>
+
+00:01:26.390 --> 00:01:26.400 align:start position:0%
+removing that manipulation leg and
+ 
+
+00:01:26.400 --> 00:01:28.149 align:start position:0%
+removing that manipulation leg and
+cleaning<00:01:26.720><c> it</c><00:01:26.880><c> up,</c><00:01:27.280><c> you</c><00:01:27.439><c> can</c><00:01:27.520><c> see</c><00:01:27.680><c> we</c><00:01:27.840><c> are</c><00:01:28.000><c> just</c>
+
+00:01:28.149 --> 00:01:28.159 align:start position:0%
+cleaning it up, you can see we are just
+ 
+
+00:01:28.159 --> 00:01:30.070 align:start position:0%
+cleaning it up, you can see we are just
+measuring<00:01:28.479><c> that</c><00:01:28.720><c> high</c><00:01:29.040><c> that</c><00:01:29.360><c> made</c><00:01:29.520><c> that</c><00:01:29.759><c> low</c>
+
+00:01:30.070 --> 00:01:30.080 align:start position:0%
+measuring that high that made that low
+ 
+
+00:01:30.080 --> 00:01:32.310 align:start position:0%
+measuring that high that made that low
+for<00:01:30.240><c> a</c><00:01:30.400><c> bullish</c><00:01:30.720><c> scenario</c><00:01:31.360><c> or</c><00:01:31.600><c> the</c><00:01:31.759><c> low</c><00:01:32.000><c> that</c>
+
+00:01:32.310 --> 00:01:32.320 align:start position:0%
+for a bullish scenario or the low that
+ 
+
+00:01:32.320 --> 00:01:34.630 align:start position:0%
+for a bullish scenario or the low that
+made<00:01:32.479><c> that</c><00:01:32.720><c> high</c><00:01:33.119><c> in</c><00:01:33.280><c> the</c><00:01:33.520><c> bearish</c><00:01:33.840><c> scenario.</c>
+
+00:01:34.630 --> 00:01:34.640 align:start position:0%
+made that high in the bearish scenario.
+ 
+
+00:01:34.640 --> 00:01:36.230 align:start position:0%
+made that high in the bearish scenario.
+This<00:01:34.880><c> is</c><00:01:34.960><c> going</c><00:01:35.119><c> to</c><00:01:35.280><c> provide</c><00:01:35.600><c> targets</c><00:01:36.079><c> for</c>
+
+00:01:36.230 --> 00:01:36.240 align:start position:0%
+This is going to provide targets for
+ 
+
+00:01:36.240 --> 00:01:38.950 align:start position:0%
+This is going to provide targets for
+this<00:01:36.479><c> move</c><00:01:36.720><c> higher.</c><00:01:37.680><c> Now,</c><00:01:37.840><c> with</c><00:01:38.079><c> a</c><00:01:38.320><c> average</c><00:01:38.640><c> or</c>
+
+00:01:38.950 --> 00:01:38.960 align:start position:0%
+this move higher. Now, with a average or
+ 
+
+00:01:38.960 --> 00:01:40.710 align:start position:0%
+this move higher. Now, with a average or
+normal<00:01:39.280><c> size</c><00:01:39.600><c> manipulation</c><00:01:40.159><c> leg,</c><00:01:40.560><c> I'm</c>
+
+00:01:40.710 --> 00:01:40.720 align:start position:0%
+normal size manipulation leg, I'm
+ 
+
+00:01:40.720 --> 00:01:41.990 align:start position:0%
+normal size manipulation leg, I'm
+generally<00:01:41.040><c> looking</c><00:01:41.200><c> for</c><00:01:41.360><c> price</c><00:01:41.600><c> to</c><00:01:41.759><c> reach</c><00:01:41.920><c> to</c>
+
+00:01:41.990 --> 00:01:42.000 align:start position:0%
+generally looking for price to reach to
+ 
+
+00:01:42.000 --> 00:01:45.030 align:start position:0%
+generally looking for price to reach to
+the<00:01:42.240><c> -2</c><00:01:42.720><c> or</c><00:01:43.040><c> -2.5.</c><00:01:44.079><c> if</c><00:01:44.320><c> price</c><00:01:44.560><c> is</c><00:01:44.799><c> going</c><00:01:44.880><c> to</c>
+
+00:01:45.030 --> 00:01:45.040 align:start position:0%
+the -2 or -2.5. if price is going to
+ 
+
+00:01:45.040 --> 00:01:48.389 align:start position:0%
+the -2 or -2.5. if price is going to
+expand<00:01:45.520><c> the</c><00:01:45.920><c> -4</c><00:01:46.479><c> to4.5.</c>
+
+00:01:48.389 --> 00:01:48.399 align:start position:0%
+expand the -4 to4.5.
+ 
+
+00:01:48.399 --> 00:01:50.870 align:start position:0%
+expand the -4 to4.5.
+So<00:01:48.640><c> I</c><00:01:48.880><c> will</c><00:01:49.040><c> look</c><00:01:49.200><c> for</c><00:01:49.600><c> liquidity</c><00:01:50.159><c> targets</c><00:01:50.640><c> in</c>
+
+00:01:50.870 --> 00:01:50.880 align:start position:0%
+So I will look for liquidity targets in
+ 
+
+00:01:50.880 --> 00:01:52.950 align:start position:0%
+So I will look for liquidity targets in
+that<00:01:51.119><c> area</c><00:01:51.520><c> to</c><00:01:51.759><c> be</c><00:01:51.920><c> paired</c><00:01:52.240><c> with</c><00:01:52.479><c> and</c><00:01:52.720><c> I'm</c>
+
+00:01:52.950 --> 00:01:52.960 align:start position:0%
+that area to be paired with and I'm
+ 
+
+00:01:52.960 --> 00:01:54.630 align:start position:0%
+that area to be paired with and I'm
+going<00:01:53.040><c> to</c><00:01:53.200><c> use</c><00:01:53.360><c> these</c><00:01:53.600><c> projections</c><00:01:54.079><c> as</c><00:01:54.320><c> a</c>
+
+00:01:54.630 --> 00:01:54.640 align:start position:0%
+going to use these projections as a
+ 
+
+00:01:54.640 --> 00:01:56.950 align:start position:0%
+going to use these projections as a
+confluence.<00:01:55.600><c> Now</c><00:01:56.000><c> let's</c><00:01:56.240><c> say</c><00:01:56.399><c> we</c><00:01:56.560><c> have</c><00:01:56.720><c> a</c>
+
+00:01:56.950 --> 00:01:56.960 align:start position:0%
+confluence. Now let's say we have a
+ 
+
+00:01:56.960 --> 00:01:58.950 align:start position:0%
+confluence. Now let's say we have a
+large<00:01:57.280><c> manipulation</c><00:01:57.920><c> leg.</c><00:01:58.320><c> So</c><00:01:58.479><c> here</c><00:01:58.640><c> you</c><00:01:58.880><c> can</c>
+
+00:01:58.950 --> 00:01:58.960 align:start position:0%
+large manipulation leg. So here you can
+ 
+
+00:01:58.960 --> 00:02:01.270 align:start position:0%
+large manipulation leg. So here you can
+see<00:01:59.439><c> this</c><00:01:59.759><c> opposing</c><00:02:00.240><c> run</c><00:02:00.560><c> or</c><00:02:00.799><c> the</c><00:02:00.960><c> change</c><00:02:01.119><c> in</c>
+
+00:02:01.270 --> 00:02:01.280 align:start position:0%
+see this opposing run or the change in
+ 
+
+00:02:01.280 --> 00:02:03.990 align:start position:0%
+see this opposing run or the change in
+the<00:02:01.439><c> stage</c><00:02:01.680><c> delivery</c><00:02:02.240><c> is</c><00:02:02.560><c> very</c><00:02:02.880><c> large.</c><00:02:03.600><c> When</c><00:02:03.840><c> I</c>
+
+00:02:03.990 --> 00:02:04.000 align:start position:0%
+the stage delivery is very large. When I
+ 
+
+00:02:04.000 --> 00:02:06.149 align:start position:0%
+the stage delivery is very large. When I
+have<00:02:04.079><c> a</c><00:02:04.320><c> large</c><00:02:04.560><c> manipulation</c><00:02:05.200><c> leg,</c><00:02:05.680><c> I'm</c><00:02:05.920><c> not</c>
+
+00:02:06.149 --> 00:02:06.159 align:start position:0%
+have a large manipulation leg, I'm not
+ 
+
+00:02:06.159 --> 00:02:07.990 align:start position:0%
+have a large manipulation leg, I'm not
+looking<00:02:06.399><c> for</c><00:02:06.640><c> price</c><00:02:06.880><c> to</c><00:02:07.040><c> reach</c><00:02:07.200><c> for</c><00:02:07.360><c> that</c><00:02:07.600><c> -2</c>
+
+00:02:07.990 --> 00:02:08.000 align:start position:0%
+looking for price to reach for that -2
+ 
+
+00:02:08.000 --> 00:02:10.790 align:start position:0%
+looking for price to reach for that -2
+to<00:02:08.239><c> -2.5.</c><00:02:09.280><c> That</c><00:02:09.440><c> is</c><00:02:09.599><c> just</c><00:02:09.759><c> too</c><00:02:10.000><c> much</c><00:02:10.239><c> range.</c>
+
+00:02:10.790 --> 00:02:10.800 align:start position:0%
+to -2.5. That is just too much range.
+ 
+
+00:02:10.800 --> 00:02:13.110 align:start position:0%
+to -2.5. That is just too much range.
+I'm<00:02:11.120><c> then</c><00:02:11.280><c> going</c><00:02:11.360><c> to</c><00:02:11.520><c> use</c><00:02:11.680><c> the</c><00:02:12.080><c> -1</c><00:02:12.640><c> as</c><00:02:12.879><c> my</c>
+
+00:02:13.110 --> 00:02:13.120 align:start position:0%
+I'm then going to use the -1 as my
+ 
+
+00:02:13.120 --> 00:02:14.869 align:start position:0%
+I'm then going to use the -1 as my
+target.<00:02:13.920><c> And</c><00:02:14.000><c> I</c><00:02:14.160><c> personally</c><00:02:14.480><c> love</c><00:02:14.640><c> to</c><00:02:14.800><c> use</c>
+
+00:02:14.869 --> 00:02:14.879 align:start position:0%
+target. And I personally love to use
+ 
+
+00:02:14.879 --> 00:02:16.869 align:start position:0%
+target. And I personally love to use
+this<00:02:15.040><c> on</c><00:02:15.200><c> the</c><00:02:15.360><c> hourly</c><00:02:15.760><c> chart</c><00:02:16.000><c> for</c><00:02:16.239><c> the</c><00:02:16.480><c> daily</c>
+
+00:02:16.869 --> 00:02:16.879 align:start position:0%
+this on the hourly chart for the daily
+ 
+
+00:02:16.879 --> 00:02:19.030 align:start position:0%
+this on the hourly chart for the daily
+range.<00:02:17.520><c> So</c><00:02:17.680><c> now</c><00:02:17.840><c> that</c><00:02:18.080><c> you</c><00:02:18.239><c> understand</c><00:02:18.560><c> how</c><00:02:18.800><c> to</c>
+
+00:02:19.030 --> 00:02:19.040 align:start position:0%
+range. So now that you understand how to
+ 
+
+00:02:19.040 --> 00:02:21.110 align:start position:0%
+range. So now that you understand how to
+mark<00:02:19.280><c> out</c><00:02:19.440><c> these</c><00:02:19.680><c> projections,</c><00:02:20.640><c> where</c><00:02:20.879><c> they</c>
+
+00:02:21.110 --> 00:02:21.120 align:start position:0%
+mark out these projections, where they
+ 
+
+00:02:21.120 --> 00:02:23.190 align:start position:0%
+mark out these projections, where they
+go,<00:02:21.599><c> let's</c><00:02:21.840><c> go</c><00:02:22.000><c> into</c><00:02:22.319><c> Trading</c><00:02:22.640><c> View</c><00:02:22.879><c> and</c><00:02:23.040><c> go</c>
+
+00:02:23.190 --> 00:02:23.200 align:start position:0%
+go, let's go into Trading View and go
+ 
+
+00:02:23.200 --> 00:02:25.030 align:start position:0%
+go, let's go into Trading View and go
+over<00:02:23.360><c> a</c><00:02:23.680><c> few</c><00:02:23.760><c> examples</c><00:02:24.160><c> of</c><00:02:24.319><c> this</c><00:02:24.560><c> so</c><00:02:24.720><c> you</c><00:02:24.879><c> can</c>
+
+00:02:25.030 --> 00:02:25.040 align:start position:0%
+over a few examples of this so you can
+ 
+
+00:02:25.040 --> 00:02:27.589 align:start position:0%
+over a few examples of this so you can
+actually<00:02:25.280><c> understand</c><00:02:25.680><c> what</c><00:02:25.920><c> is</c><00:02:26.080><c> going</c><00:02:26.239><c> on.</c><00:02:27.360><c> So</c>
+
+00:02:27.589 --> 00:02:27.599 align:start position:0%
+actually understand what is going on. So
+ 
+
+00:02:27.599 --> 00:02:29.510 align:start position:0%
+actually understand what is going on. So
+here<00:02:27.760><c> we</c><00:02:27.920><c> are</c><00:02:28.000><c> with</c><00:02:28.160><c> our</c><00:02:28.400><c> first</c><00:02:28.720><c> example.</c><00:02:29.280><c> And</c>
+
+00:02:29.510 --> 00:02:29.520 align:start position:0%
+here we are with our first example. And
+ 
+
+00:02:29.520 --> 00:02:31.670 align:start position:0%
+here we are with our first example. And
+if<00:02:29.680><c> you</c><00:02:29.760><c> take</c><00:02:29.840><c> a</c><00:02:30.080><c> look,</c><00:02:30.319><c> we</c><00:02:30.560><c> have</c><00:02:30.800><c> Bitcoin</c><00:02:31.440><c> on</c>
+
+00:02:31.670 --> 00:02:31.680 align:start position:0%
+if you take a look, we have Bitcoin on
+ 
+
+00:02:31.680 --> 00:02:34.150 align:start position:0%
+if you take a look, we have Bitcoin on
+the<00:02:31.920><c> 4hour</c><00:02:32.560><c> chart</c><00:02:33.040><c> paired</c><00:02:33.360><c> with</c><00:02:33.519><c> the</c><00:02:33.680><c> weekly</c>
+
+00:02:34.150 --> 00:02:34.160 align:start position:0%
+the 4hour chart paired with the weekly
+ 
+
+00:02:34.160 --> 00:02:36.390 align:start position:0%
+the 4hour chart paired with the weekly
+chart<00:02:34.560><c> looking</c><00:02:34.800><c> at</c><00:02:34.959><c> the</c><00:02:35.120><c> fractal</c><00:02:35.599><c> model.</c><00:02:36.239><c> So</c>
+
+00:02:36.390 --> 00:02:36.400 align:start position:0%
+chart looking at the fractal model. So
+ 
+
+00:02:36.400 --> 00:02:38.630 align:start position:0%
+chart looking at the fractal model. So
+we<00:02:36.560><c> have</c><00:02:36.640><c> a</c><00:02:36.800><c> candle</c><00:02:37.200><c> to</c><00:02:37.360><c> closure</c><00:02:37.840><c> as</c><00:02:38.160><c> price</c><00:02:38.480><c> has</c>
+
+00:02:38.630 --> 00:02:38.640 align:start position:0%
+we have a candle to closure as price has
+ 
+
+00:02:38.640 --> 00:02:40.466 align:start position:0%
+we have a candle to closure as price has
+swept<00:02:38.959><c> out</c><00:02:39.120><c> its</c><00:02:39.360><c> previous</c><00:02:39.680><c> week's</c><00:02:40.080><c> low</c><00:02:40.319><c> and</c>
+
+00:02:40.466 --> 00:02:40.476 align:start position:0%
+swept out its previous week's low and
+ 
+
+00:02:40.476 --> 00:02:42.150 align:start position:0%
+swept out its previous week's low and
+[clears throat]<00:02:40.560><c> closed</c><00:02:40.879><c> back</c><00:02:41.120><c> inside.</c><00:02:41.920><c> We</c>
+
+00:02:42.150 --> 00:02:42.160 align:start position:0%
+[clears throat] closed back inside. We
+ 
+
+00:02:42.160 --> 00:02:44.390 align:start position:0%
+[clears throat] closed back inside. We
+have<00:02:42.239><c> a</c><00:02:42.480><c> change</c><00:02:42.640><c> in</c><00:02:42.800><c> the</c><00:02:42.959><c> state</c><00:02:43.120><c> of</c><00:02:43.360><c> delivery.</c>
+
+00:02:44.390 --> 00:02:44.400 align:start position:0%
+have a change in the state of delivery.
+ 
+
+00:02:44.400 --> 00:02:46.710 align:start position:0%
+have a change in the state of delivery.
+So<00:02:44.800><c> as</c><00:02:45.040><c> we</c><00:02:45.200><c> discussed</c><00:02:45.519><c> in</c><00:02:45.680><c> the</c><00:02:45.760><c> PDF,</c><00:02:46.319><c> what</c><00:02:46.560><c> are</c>
+
+00:02:46.710 --> 00:02:46.720 align:start position:0%
+So as we discussed in the PDF, what are
+ 
+
+00:02:46.720 --> 00:02:48.309 align:start position:0%
+So as we discussed in the PDF, what are
+we<00:02:46.879><c> going</c><00:02:46.959><c> to</c><00:02:47.200><c> look</c><00:02:47.360><c> for?</c><00:02:48.000><c> We're</c><00:02:48.160><c> going</c><00:02:48.239><c> to</c>
+
+00:02:48.309 --> 00:02:48.319 align:start position:0%
+we going to look for? We're going to
+ 
+
+00:02:48.319 --> 00:02:49.910 align:start position:0%
+we going to look for? We're going to
+find<00:02:48.480><c> the</c><00:02:48.720><c> low.</c><00:02:49.360><c> We're</c><00:02:49.519><c> going</c><00:02:49.599><c> to</c><00:02:49.680><c> find</c><00:02:49.760><c> the</c>
+
+00:02:49.910 --> 00:02:49.920 align:start position:0%
+find the low. We're going to find the
+ 
+
+00:02:49.920 --> 00:02:51.670 align:start position:0%
+find the low. We're going to find the
+high<00:02:50.160><c> that</c><00:02:50.400><c> made</c><00:02:50.560><c> that</c><00:02:50.800><c> low.</c><00:02:51.120><c> And</c><00:02:51.200><c> that</c><00:02:51.360><c> is</c><00:02:51.440><c> our</c>
+
+00:02:51.670 --> 00:02:51.680 align:start position:0%
+high that made that low. And that is our
+ 
+
+00:02:51.680 --> 00:02:53.350 align:start position:0%
+high that made that low. And that is our
+manipulation<00:02:52.319><c> leg.</c><00:02:52.720><c> We're</c><00:02:52.959><c> then</c><00:02:53.200><c> going</c><00:02:53.280><c> to</c>
+
+00:02:53.350 --> 00:02:53.360 align:start position:0%
+manipulation leg. We're then going to
+ 
+
+00:02:53.360 --> 00:02:55.270 align:start position:0%
+manipulation leg. We're then going to
+take<00:02:53.599><c> our</c><00:02:53.760><c> Fibonacci</c><00:02:54.400><c> retracement</c><00:02:54.879><c> tool,</c>
+
+00:02:55.270 --> 00:02:55.280 align:start position:0%
+take our Fibonacci retracement tool,
+ 
+
+00:02:55.280 --> 00:02:57.589 align:start position:0%
+take our Fibonacci retracement tool,
+anchor<00:02:55.680><c> from</c><00:02:55.840><c> the</c><00:02:56.080><c> low,</c><00:02:56.560><c> drag</c><00:02:56.879><c> it</c><00:02:57.040><c> to</c><00:02:57.200><c> the</c><00:02:57.360><c> high</c>
+
+00:02:57.589 --> 00:02:57.599 align:start position:0%
+anchor from the low, drag it to the high
+ 
+
+00:02:57.599 --> 00:02:59.670 align:start position:0%
+anchor from the low, drag it to the high
+that<00:02:57.840><c> made</c><00:02:58.000><c> the</c><00:02:58.160><c> low,</c><00:02:58.720><c> and</c><00:02:58.959><c> with</c><00:02:59.200><c> those</c>
+
+00:02:59.670 --> 00:02:59.680 align:start position:0%
+that made the low, and with those
+ 
+
+00:02:59.680 --> 00:03:00.949 align:start position:0%
+that made the low, and with those
+settings<00:03:00.000><c> that</c><00:03:00.160><c> we</c><00:03:00.319><c> talked</c><00:03:00.560><c> about</c><00:03:00.640><c> in</c><00:03:00.879><c> the</c>
+
+00:03:00.949 --> 00:03:00.959 align:start position:0%
+settings that we talked about in the
+ 
+
+00:03:00.959 --> 00:03:03.750 align:start position:0%
+settings that we talked about in the
+PDF,<00:03:01.760><c> we</c><00:03:02.000><c> will</c><00:03:02.159><c> project</c><00:03:02.480><c> out</c><00:03:02.959><c> targets</c><00:03:03.440><c> for</c>
+
+00:03:03.750 --> 00:03:03.760 align:start position:0%
+PDF, we will project out targets for
+ 
+
+00:03:03.760 --> 00:03:05.830 align:start position:0%
+PDF, we will project out targets for
+this<00:03:04.000><c> move.</c><00:03:04.640><c> So,</c><00:03:04.879><c> cleaning</c><00:03:05.120><c> up</c><00:03:05.280><c> the</c><00:03:05.440><c> chart</c><00:03:05.599><c> a</c>
+
+00:03:05.830 --> 00:03:05.840 align:start position:0%
+this move. So, cleaning up the chart a
+ 
+
+00:03:05.840 --> 00:03:07.750 align:start position:0%
+this move. So, cleaning up the chart a
+little,<00:03:06.239><c> you</c><00:03:06.400><c> may</c><00:03:06.560><c> also</c><00:03:06.879><c> notice</c><00:03:07.200><c> how</c><00:03:07.440><c> these</c>
+
+00:03:07.750 --> 00:03:07.760 align:start position:0%
+little, you may also notice how these
+ 
+
+00:03:07.760 --> 00:03:09.990 align:start position:0%
+little, you may also notice how these
+projections<00:03:08.560><c> also</c><00:03:08.959><c> align</c><00:03:09.280><c> with</c><00:03:09.440><c> liquidity</c>
+
+00:03:09.990 --> 00:03:10.000 align:start position:0%
+projections also align with liquidity
+ 
+
+00:03:10.000 --> 00:03:11.990 align:start position:0%
+projections also align with liquidity
+targets.<00:03:10.720><c> We</c><00:03:10.879><c> have</c><00:03:11.040><c> equal</c><00:03:11.280><c> highs</c><00:03:11.599><c> sitting</c>
+
+00:03:11.990 --> 00:03:12.000 align:start position:0%
+targets. We have equal highs sitting
+ 
+
+00:03:12.000 --> 00:03:14.550 align:start position:0%
+targets. We have equal highs sitting
+here<00:03:12.560><c> as</c><00:03:12.800><c> well</c><00:03:12.879><c> as</c><00:03:13.120><c> a</c><00:03:13.440><c> previous</c><00:03:13.760><c> high</c><00:03:14.159><c> sitting</c>
+
+00:03:14.550 --> 00:03:14.560 align:start position:0%
+here as well as a previous high sitting
+ 
+
+00:03:14.560 --> 00:03:17.430 align:start position:0%
+here as well as a previous high sitting
+here.<00:03:15.280><c> So,</c><00:03:15.680><c> in</c><00:03:16.000><c> this</c><00:03:16.159><c> next</c><00:03:16.480><c> candle,</c><00:03:16.959><c> this</c><00:03:17.200><c> next</c>
+
+00:03:17.430 --> 00:03:17.440 align:start position:0%
+here. So, in this next candle, this next
+ 
+
+00:03:17.440 --> 00:03:19.190 align:start position:0%
+here. So, in this next candle, this next
+week,<00:03:17.840><c> we</c><00:03:18.080><c> could</c><00:03:18.159><c> be</c><00:03:18.319><c> looking</c><00:03:18.480><c> for</c><00:03:18.720><c> price</c><00:03:18.959><c> to</c>
+
+00:03:19.190 --> 00:03:19.200 align:start position:0%
+week, we could be looking for price to
+ 
+
+00:03:19.200 --> 00:03:21.430 align:start position:0%
+week, we could be looking for price to
+trade<00:03:19.440><c> into</c><00:03:19.760><c> those</c><00:03:20.000><c> liquidity</c><00:03:20.560><c> targets</c><00:03:21.120><c> using</c>
+
+00:03:21.430 --> 00:03:21.440 align:start position:0%
+trade into those liquidity targets using
+ 
+
+00:03:21.440 --> 00:03:24.710 align:start position:0%
+trade into those liquidity targets using
+the<00:03:21.599><c> projections</c><00:03:22.080><c> as</c><00:03:22.319><c> a</c><00:03:22.560><c> confluence.</c>
+
+00:03:24.710 --> 00:03:24.720 align:start position:0%
+the projections as a confluence.
+ 
+
+00:03:24.720 --> 00:03:26.390 align:start position:0%
+the projections as a confluence.
+And<00:03:24.879><c> there</c><00:03:25.040><c> you</c><00:03:25.200><c> can</c><00:03:25.360><c> see</c><00:03:25.519><c> we</c><00:03:25.760><c> hit</c><00:03:25.920><c> our</c><00:03:26.159><c> first</c>
+
+00:03:26.390 --> 00:03:26.400 align:start position:0%
+And there you can see we hit our first
+ 
+
+00:03:26.400 --> 00:03:28.630 align:start position:0%
+And there you can see we hit our first
+projection<00:03:26.879><c> target</c><00:03:27.599><c> as</c><00:03:27.840><c> well</c><00:03:27.920><c> as</c><00:03:28.159><c> liquidity</c>
+
+00:03:28.630 --> 00:03:28.640 align:start position:0%
+projection target as well as liquidity
+ 
+
+00:03:28.640 --> 00:03:30.550 align:start position:0%
+projection target as well as liquidity
+point.<00:03:29.040><c> And</c><00:03:29.200><c> if</c><00:03:29.360><c> we</c><00:03:29.519><c> get</c><00:03:29.599><c> a</c><00:03:29.760><c> nice</c><00:03:30.000><c> closure</c><00:03:30.319><c> on</c>
+
+00:03:30.550 --> 00:03:30.560 align:start position:0%
+point. And if we get a nice closure on
+ 
+
+00:03:30.560 --> 00:03:32.229 align:start position:0%
+point. And if we get a nice closure on
+this<00:03:30.799><c> next</c><00:03:31.040><c> week's</c><00:03:31.360><c> candle,</c><00:03:31.840><c> then</c><00:03:32.000><c> we</c><00:03:32.159><c> can</c>
+
+00:03:32.229 --> 00:03:32.239 align:start position:0%
+this next week's candle, then we can
+ 
+
+00:03:32.239 --> 00:03:34.470 align:start position:0%
+this next week's candle, then we can
+look<00:03:32.400><c> for</c><00:03:32.720><c> the</c><00:03:33.200><c> fourth</c><00:03:33.519><c> candle</c><00:03:33.840><c> in</c><00:03:34.000><c> the</c><00:03:34.159><c> swing</c>
+
+00:03:34.470 --> 00:03:34.480 align:start position:0%
+look for the fourth candle in the swing
+ 
+
+00:03:34.480 --> 00:03:37.270 align:start position:0%
+look for the fourth candle in the swing
+to<00:03:34.720><c> trade</c><00:03:34.959><c> higher</c><00:03:35.200><c> as</c><00:03:35.440><c> well.</c>
+
+00:03:37.270 --> 00:03:37.280 align:start position:0%
+to trade higher as well.
+ 
+
+00:03:37.280 --> 00:03:39.030 align:start position:0%
+to trade higher as well.
+And<00:03:37.440><c> you</c><00:03:37.599><c> can</c><00:03:37.680><c> see</c><00:03:37.840><c> with</c><00:03:38.000><c> that</c><00:03:38.239><c> good</c><00:03:38.400><c> closure,</c>
+
+00:03:39.030 --> 00:03:39.040 align:start position:0%
+And you can see with that good closure,
+ 
+
+00:03:39.040 --> 00:03:41.190 align:start position:0%
+And you can see with that good closure,
+we're<00:03:39.280><c> looking</c><00:03:39.440><c> for</c><00:03:39.680><c> a</c><00:03:39.920><c> shallow</c><00:03:40.319><c> wick</c><00:03:40.799><c> on</c><00:03:41.040><c> this</c>
+
+00:03:41.190 --> 00:03:41.200 align:start position:0%
+we're looking for a shallow wick on this
+ 
+
+00:03:41.200 --> 00:03:43.030 align:start position:0%
+we're looking for a shallow wick on this
+weekly<00:03:41.519><c> candle</c><00:03:41.840><c> to</c><00:03:42.080><c> finish</c><00:03:42.319><c> trading</c><00:03:42.640><c> into</c><00:03:42.879><c> the</c>
+
+00:03:43.030 --> 00:03:43.040 align:start position:0%
+weekly candle to finish trading into the
+ 
+
+00:03:43.040 --> 00:03:44.789 align:start position:0%
+weekly candle to finish trading into the
+highs.
+
+00:03:44.789 --> 00:03:44.799 align:start position:0%
+highs.
+ 
+
+00:03:44.799 --> 00:03:46.630 align:start position:0%
+highs.
+And<00:03:45.040><c> there</c><00:03:45.200><c> you</c><00:03:45.360><c> can</c><00:03:45.519><c> see</c><00:03:45.760><c> we</c><00:03:46.000><c> have</c><00:03:46.159><c> hit</c><00:03:46.400><c> our</c>
+
+00:03:46.630 --> 00:03:46.640 align:start position:0%
+And there you can see we have hit our
+ 
+
+00:03:46.640 --> 00:03:49.030 align:start position:0%
+And there you can see we have hit our
+targets<00:03:46.959><c> as</c><00:03:47.200><c> well</c><00:03:47.360><c> as</c><00:03:47.519><c> our</c><00:03:47.760><c> projections.</c><00:03:48.879><c> But</c>
+
+00:03:49.030 --> 00:03:49.040 align:start position:0%
+targets as well as our projections. But
+ 
+
+00:03:49.040 --> 00:03:51.430 align:start position:0%
+targets as well as our projections. But
+like<00:03:49.200><c> I</c><00:03:49.360><c> said</c><00:03:49.440><c> in</c><00:03:49.680><c> the</c><00:03:49.760><c> PDF,</c><00:03:50.560><c> I</c><00:03:50.799><c> prefer</c><00:03:51.120><c> to</c><00:03:51.280><c> use</c>
+
+00:03:51.430 --> 00:03:51.440 align:start position:0%
+like I said in the PDF, I prefer to use
+ 
+
+00:03:51.440 --> 00:03:53.750 align:start position:0%
+like I said in the PDF, I prefer to use
+projections<00:03:52.000><c> as</c><00:03:52.239><c> a</c><00:03:52.480><c> confluence</c><00:03:52.959><c> to</c><00:03:53.120><c> a</c><00:03:53.280><c> target.</c>
+
+00:03:53.750 --> 00:03:53.760 align:start position:0%
+projections as a confluence to a target.
+ 
+
+00:03:53.760 --> 00:03:55.670 align:start position:0%
+projections as a confluence to a target.
+But<00:03:53.920><c> you</c><00:03:54.080><c> can</c><00:03:54.159><c> also</c><00:03:54.319><c> use</c><00:03:54.480><c> them</c><00:03:54.720><c> alone</c><00:03:55.200><c> as</c><00:03:55.440><c> if</c>
+
+00:03:55.670 --> 00:03:55.680 align:start position:0%
+But you can also use them alone as if
+ 
+
+00:03:55.680 --> 00:03:57.429 align:start position:0%
+But you can also use them alone as if
+you<00:03:55.840><c> do</c><00:03:56.000><c> not</c><00:03:56.159><c> have</c><00:03:56.319><c> liquidity</c><00:03:56.799><c> in</c><00:03:57.040><c> a</c><00:03:57.200><c> certain</c>
+
+00:03:57.429 --> 00:03:57.439 align:start position:0%
+you do not have liquidity in a certain
+ 
+
+00:03:57.439 --> 00:03:59.830 align:start position:0%
+you do not have liquidity in a certain
+area,<00:03:57.920><c> you</c><00:03:58.080><c> can</c><00:03:58.239><c> use</c><00:03:58.400><c> those</c><00:03:58.720><c> projections</c><00:03:59.360><c> as</c><00:03:59.599><c> a</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+area, you can use those projections as a
+ 
+
+00:03:59.840 --> 00:04:02.070 align:start position:0%
+area, you can use those projections as a
+target.<00:04:00.720><c> Here</c><00:04:00.879><c> we</c><00:04:01.040><c> are</c><00:04:01.120><c> in</c><00:04:01.360><c> our</c><00:04:01.519><c> next</c><00:04:01.680><c> example</c>
+
+00:04:02.070 --> 00:04:02.080 align:start position:0%
+target. Here we are in our next example
+ 
+
+00:04:02.080 --> 00:04:04.550 align:start position:0%
+target. Here we are in our next example
+and<00:04:02.319><c> we</c><00:04:02.480><c> are</c><00:04:02.560><c> on</c><00:04:02.799><c> gold</c><00:04:03.200><c> on</c><00:04:03.360><c> the</c><00:04:03.599><c> hourly</c><00:04:04.080><c> chart.</c>
+
+00:04:04.550 --> 00:04:04.560 align:start position:0%
+and we are on gold on the hourly chart.
+ 
+
+00:04:04.560 --> 00:04:06.149 align:start position:0%
+and we are on gold on the hourly chart.
+Now,<00:04:04.720><c> if</c><00:04:04.879><c> you</c><00:04:04.959><c> notice,</c><00:04:05.200><c> we</c><00:04:05.439><c> have</c><00:04:05.599><c> Thursday</c>
+
+00:04:06.149 --> 00:04:06.159 align:start position:0%
+Now, if you notice, we have Thursday
+ 
+
+00:04:06.159 --> 00:04:08.470 align:start position:0%
+Now, if you notice, we have Thursday
+forming<00:04:06.560><c> a</c><00:04:06.799><c> nice</c><00:04:06.959><c> candle</c><00:04:07.360><c> 2</c><00:04:07.599><c> closure</c><00:04:08.000><c> with</c><00:04:08.239><c> a</c>
+
+00:04:08.470 --> 00:04:08.480 align:start position:0%
+forming a nice candle 2 closure with a
+ 
+
+00:04:08.480 --> 00:04:10.550 align:start position:0%
+forming a nice candle 2 closure with a
+large<00:04:08.720><c> wick</c><00:04:09.200><c> and</c><00:04:09.519><c> we</c><00:04:09.680><c> have</c><00:04:09.840><c> a</c><00:04:10.080><c> change</c><00:04:10.239><c> in</c><00:04:10.400><c> the</c>
+
+00:04:10.550 --> 00:04:10.560 align:start position:0%
+large wick and we have a change in the
+ 
+
+00:04:10.560 --> 00:04:12.390 align:start position:0%
+large wick and we have a change in the
+state<00:04:10.799><c> of</c><00:04:10.959><c> delivery.</c><00:04:11.680><c> So,</c><00:04:11.760><c> if</c><00:04:11.920><c> we're</c><00:04:12.080><c> going</c><00:04:12.159><c> to</c>
+
+00:04:12.390 --> 00:04:12.400 align:start position:0%
+state of delivery. So, if we're going to
+ 
+
+00:04:12.400 --> 00:04:14.070 align:start position:0%
+state of delivery. So, if we're going to
+project<00:04:12.799><c> out</c><00:04:13.040><c> targets,</c><00:04:13.519><c> where</c><00:04:13.680><c> are</c><00:04:13.840><c> we</c><00:04:13.920><c> going</c>
+
+00:04:14.070 --> 00:04:14.080 align:start position:0%
+project out targets, where are we going
+ 
+
+00:04:14.080 --> 00:04:15.509 align:start position:0%
+project out targets, where are we going
+to<00:04:14.239><c> do</c><00:04:14.400><c> that?</c><00:04:14.799><c> Well,</c><00:04:14.959><c> it's</c><00:04:15.120><c> always</c><00:04:15.360><c> going</c><00:04:15.439><c> to</c>
+
+00:04:15.509 --> 00:04:15.519 align:start position:0%
+to do that? Well, it's always going to
+ 
+
+00:04:15.519 --> 00:04:17.990 align:start position:0%
+to do that? Well, it's always going to
+be<00:04:15.680><c> in</c><00:04:15.920><c> candle</c><00:04:16.320><c> 2</c><00:04:16.560><c> at</c><00:04:16.720><c> the</c><00:04:16.880><c> reversal.</c><00:04:17.680><c> We</c><00:04:17.919><c> have</c>
+
+00:04:17.990 --> 00:04:18.000 align:start position:0%
+be in candle 2 at the reversal. We have
+ 
+
+00:04:18.000 --> 00:04:19.590 align:start position:0%
+be in candle 2 at the reversal. We have
+a<00:04:18.160><c> change</c><00:04:18.239><c> in</c><00:04:18.400><c> the</c><00:04:18.560><c> state</c><00:04:18.720><c> of</c><00:04:18.799><c> delivery.</c><00:04:19.359><c> We'll</c>
+
+00:04:19.590 --> 00:04:19.600 align:start position:0%
+a change in the state of delivery. We'll
+ 
+
+00:04:19.600 --> 00:04:21.509 align:start position:0%
+a change in the state of delivery. We'll
+find<00:04:19.759><c> the</c><00:04:20.000><c> low.</c><00:04:20.560><c> We'll</c><00:04:20.799><c> find</c><00:04:20.880><c> the</c><00:04:21.120><c> series</c><00:04:21.359><c> of</c>
+
+00:04:21.509 --> 00:04:21.519 align:start position:0%
+find the low. We'll find the series of
+ 
+
+00:04:21.519 --> 00:04:23.110 align:start position:0%
+find the low. We'll find the series of
+candles<00:04:21.759><c> that</c><00:04:21.919><c> made</c><00:04:22.079><c> that</c><00:04:22.320><c> low</c><00:04:22.479><c> or</c><00:04:22.720><c> the</c><00:04:22.880><c> swing</c>
+
+00:04:23.110 --> 00:04:23.120 align:start position:0%
+candles that made that low or the swing
+ 
+
+00:04:23.120 --> 00:04:25.510 align:start position:0%
+candles that made that low or the swing
+high<00:04:23.280><c> that</c><00:04:23.440><c> made</c><00:04:23.600><c> that</c><00:04:23.840><c> low.</c><00:04:24.560><c> Mark</c><00:04:24.800><c> that</c><00:04:25.040><c> out.</c>
+
+00:04:25.510 --> 00:04:25.520 align:start position:0%
+high that made that low. Mark that out.
+ 
+
+00:04:25.520 --> 00:04:26.870 align:start position:0%
+high that made that low. Mark that out.
+Then<00:04:25.759><c> we'll</c><00:04:25.919><c> grab</c><00:04:26.080><c> our</c><00:04:26.240><c> Fibonacci</c>
+
+00:04:26.870 --> 00:04:26.880 align:start position:0%
+Then we'll grab our Fibonacci
+ 
+
+00:04:26.880 --> 00:04:29.350 align:start position:0%
+Then we'll grab our Fibonacci
+retracement,<00:04:27.600><c> anchor</c><00:04:28.000><c> to</c><00:04:28.160><c> the</c><00:04:28.320><c> low,</c><00:04:28.960><c> go</c><00:04:29.199><c> to</c>
+
+00:04:29.350 --> 00:04:29.360 align:start position:0%
+retracement, anchor to the low, go to
+ 
+
+00:04:29.360 --> 00:04:31.270 align:start position:0%
+retracement, anchor to the low, go to
+that<00:04:29.520><c> swing</c><00:04:29.840><c> high,</c><00:04:30.320><c> and</c><00:04:30.560><c> then</c><00:04:30.720><c> now</c><00:04:30.880><c> we</c><00:04:31.120><c> have</c>
+
+00:04:31.270 --> 00:04:31.280 align:start position:0%
+that swing high, and then now we have
+ 
+
+00:04:31.280 --> 00:04:33.350 align:start position:0%
+that swing high, and then now we have
+projections<00:04:31.840><c> for</c><00:04:32.160><c> this</c><00:04:32.400><c> move.</c><00:04:33.040><c> Now,</c><00:04:33.199><c> you</c>
+
+00:04:33.350 --> 00:04:33.360 align:start position:0%
+projections for this move. Now, you
+ 
+
+00:04:33.360 --> 00:04:36.870 align:start position:0%
+projections for this move. Now, you
+notice<00:04:33.600><c> how</c><00:04:33.840><c> the</c><00:04:34.160><c> -2</c><00:04:34.720><c> to</c><00:04:35.040><c> -2.5</c><00:04:35.919><c> is</c><00:04:36.240><c> also</c><00:04:36.560><c> lining</c>
+
+00:04:36.870 --> 00:04:36.880 align:start position:0%
+notice how the -2 to -2.5 is also lining
+ 
+
+00:04:36.880 --> 00:04:39.430 align:start position:0%
+notice how the -2 to -2.5 is also lining
+up<00:04:37.120><c> with</c><00:04:37.840><c> this</c><00:04:38.080><c> previous</c><00:04:38.479><c> day's</c><00:04:38.800><c> high</c><00:04:39.120><c> as</c><00:04:39.360><c> well</c>
+
+00:04:39.430 --> 00:04:39.440 align:start position:0%
+up with this previous day's high as well
+ 
+
+00:04:39.440 --> 00:04:41.990 align:start position:0%
+up with this previous day's high as well
+as<00:04:39.759><c> the</c><00:04:40.000><c> liquidity</c><00:04:40.560><c> to</c><00:04:40.880><c> the</c><00:04:41.040><c> left.</c><00:04:41.680><c> So,</c><00:04:41.840><c> that</c>
+
+00:04:41.990 --> 00:04:42.000 align:start position:0%
+as the liquidity to the left. So, that
+ 
+
+00:04:42.000 --> 00:04:44.469 align:start position:0%
+as the liquidity to the left. So, that
+is<00:04:42.160><c> a</c><00:04:42.320><c> good</c><00:04:42.639><c> confluence</c><00:04:43.199><c> to</c><00:04:43.440><c> see.</c><00:04:43.919><c> We</c><00:04:44.080><c> want</c><00:04:44.240><c> to</c>
+
+00:04:44.469 --> 00:04:44.479 align:start position:0%
+is a good confluence to see. We want to
+ 
+
+00:04:44.479 --> 00:04:46.150 align:start position:0%
+is a good confluence to see. We want to
+see<00:04:44.560><c> that.</c><00:04:44.800><c> So,</c><00:04:44.960><c> let's</c><00:04:45.199><c> see</c><00:04:45.280><c> how</c><00:04:45.520><c> this</c><00:04:45.840><c> plays</c>
+
+00:04:46.150 --> 00:04:46.160 align:start position:0%
+see that. So, let's see how this plays
+ 
+
+00:04:46.160 --> 00:04:49.189 align:start position:0%
+see that. So, let's see how this plays
+out.
+
+00:04:49.189 --> 00:04:49.199 align:start position:0%
+ 
+ 
+
+00:04:49.199 --> 00:04:50.870 align:start position:0%
+ 
+And<00:04:49.440><c> there</c><00:04:49.600><c> you</c><00:04:49.759><c> can</c><00:04:49.919><c> see</c><00:04:50.160><c> we</c><00:04:50.320><c> go</c><00:04:50.479><c> ahead</c><00:04:50.639><c> and</c>
+
+00:04:50.870 --> 00:04:50.880 align:start position:0%
+And there you can see we go ahead and
+ 
+
+00:04:50.880 --> 00:04:52.550 align:start position:0%
+And there you can see we go ahead and
+hit<00:04:51.040><c> that</c><00:04:51.280><c> target</c><00:04:51.600><c> and</c><00:04:51.840><c> we</c><00:04:52.000><c> go</c><00:04:52.160><c> right</c><00:04:52.400><c> through</c>
+
+00:04:52.550 --> 00:04:52.560 align:start position:0%
+hit that target and we go right through
+ 
+
+00:04:52.560 --> 00:04:54.870 align:start position:0%
+hit that target and we go right through
+it.<00:04:53.120><c> So</c><00:04:53.440><c> then</c><00:04:53.600><c> we</c><00:04:53.840><c> could</c><00:04:54.000><c> also</c><00:04:54.240><c> be</c><00:04:54.400><c> looking</c><00:04:54.639><c> for</c>
+
+00:04:54.870 --> 00:04:54.880 align:start position:0%
+it. So then we could also be looking for
+ 
+
+00:04:54.880 --> 00:04:59.030 align:start position:0%
+it. So then we could also be looking for
+price<00:04:55.120><c> to</c><00:04:55.360><c> trade</c><00:04:55.680><c> to</c><00:04:55.919><c> the</c><00:04:56.240><c> -4</c><00:04:56.880><c> to</c><00:04:57.120><c> -4.5.</c>
+
+00:04:59.030 --> 00:04:59.040 align:start position:0%
+price to trade to the -4 to -4.5.
+ 
+
+00:04:59.040 --> 00:05:01.510 align:start position:0%
+price to trade to the -4 to -4.5.
+Let's<00:04:59.280><c> see</c><00:04:59.440><c> what</c><00:04:59.600><c> happens.</c><00:05:00.560><c> There</c><00:05:00.800><c> we</c><00:05:00.960><c> go.</c><00:05:01.280><c> We</c>
+
+00:05:01.510 --> 00:05:01.520 align:start position:0%
+Let's see what happens. There we go. We
+ 
+
+00:05:01.520 --> 00:05:04.790 align:start position:0%
+Let's see what happens. There we go. We
+get<00:05:01.600><c> a</c><00:05:01.759><c> nice</c><00:05:02.000><c> retracement</c><00:05:02.720><c> open</c><00:05:03.120><c> low</c><00:05:03.919><c> I</c><00:05:04.160><c> close</c>
+
+00:05:04.790 --> 00:05:04.800 align:start position:0%
+get a nice retracement open low I close
+ 
+
+00:05:04.800 --> 00:05:07.350 align:start position:0%
+get a nice retracement open low I close
+we<00:05:05.040><c> trade</c><00:05:05.199><c> to</c><00:05:05.360><c> that</c><00:05:05.600><c> max</c><00:05:05.919><c> target.</c><00:05:06.720><c> So</c><00:05:06.960><c> just</c><00:05:07.199><c> to</c>
+
+00:05:07.350 --> 00:05:07.360 align:start position:0%
+we trade to that max target. So just to
+ 
+
+00:05:07.360 --> 00:05:09.270 align:start position:0%
+we trade to that max target. So just to
+review<00:05:07.759><c> when</c><00:05:08.000><c> we</c><00:05:08.160><c> have</c><00:05:08.400><c> that</c><00:05:08.560><c> candle</c><00:05:09.039><c> to</c>
+
+00:05:09.270 --> 00:05:09.280 align:start position:0%
+review when we have that candle to
+ 
+
+00:05:09.280 --> 00:05:11.830 align:start position:0%
+review when we have that candle to
+closure<00:05:09.600><c> or</c><00:05:09.919><c> a</c><00:05:10.080><c> reversal</c><00:05:10.560><c> or</c><00:05:10.720><c> a</c><00:05:10.960><c> swing</c><00:05:11.280><c> point</c>
+
+00:05:11.830 --> 00:05:11.840 align:start position:0%
+closure or a reversal or a swing point
+ 
+
+00:05:11.840 --> 00:05:13.189 align:start position:0%
+closure or a reversal or a swing point
+look<00:05:12.000><c> for</c><00:05:12.240><c> a</c><00:05:12.400><c> change</c><00:05:12.560><c> in</c><00:05:12.720><c> the</c><00:05:12.880><c> state</c><00:05:12.960><c> of</c>
+
+00:05:13.189 --> 00:05:13.199 align:start position:0%
+look for a change in the state of
+ 
+
+00:05:13.199 --> 00:05:15.590 align:start position:0%
+look for a change in the state of
+delivery.<00:05:13.919><c> Find</c><00:05:14.160><c> the</c><00:05:14.400><c> manipulation</c><00:05:14.960><c> leg.</c>
+
+00:05:15.590 --> 00:05:15.600 align:start position:0%
+delivery. Find the manipulation leg.
+ 
+
+00:05:15.600 --> 00:05:17.510 align:start position:0%
+delivery. Find the manipulation leg.
+Mark<00:05:15.840><c> out</c><00:05:15.919><c> the</c><00:05:16.080><c> manipulation</c><00:05:16.639><c> leg</c><00:05:17.039><c> and</c><00:05:17.280><c> then</c>
+
+00:05:17.510 --> 00:05:17.520 align:start position:0%
+Mark out the manipulation leg and then
+ 
+
+00:05:17.520 --> 00:05:19.830 align:start position:0%
+Mark out the manipulation leg and then
+look<00:05:17.680><c> for</c><00:05:17.840><c> targets</c><00:05:18.320><c> that</c><00:05:18.639><c> align</c><00:05:19.039><c> with</c><00:05:19.280><c> that.</c>
+
+00:05:19.830 --> 00:05:19.840 align:start position:0%
+look for targets that align with that.
+ 
+
+00:05:19.840 --> 00:05:21.510 align:start position:0%
+look for targets that align with that.
+Or<00:05:20.080><c> if</c><00:05:20.240><c> you</c><00:05:20.400><c> are</c><00:05:20.560><c> lacking</c><00:05:20.880><c> targets,</c>
+
+00:05:21.510 --> 00:05:21.520 align:start position:0%
+Or if you are lacking targets,
+ 
+
+00:05:21.520 --> 00:05:23.350 align:start position:0%
+Or if you are lacking targets,
+projections<00:05:22.160><c> make</c><00:05:22.400><c> a</c><00:05:22.720><c> great</c><00:05:22.880><c> tool</c><00:05:23.199><c> for</c>
+
+00:05:23.350 --> 00:05:23.360 align:start position:0%
+projections make a great tool for
+ 
+
+00:05:23.360 --> 00:05:25.830 align:start position:0%
+projections make a great tool for
+trading<00:05:23.680><c> at</c><00:05:23.840><c> all-time</c><00:05:24.240><c> highs</c><00:05:24.880><c> or</c><00:05:25.199><c> areas</c><00:05:25.520><c> where</c>
+
+00:05:25.830 --> 00:05:25.840 align:start position:0%
+trading at all-time highs or areas where
+ 
+
+00:05:25.840 --> 00:05:28.870 align:start position:0%
+trading at all-time highs or areas where
+you<00:05:26.000><c> do</c><00:05:26.160><c> not</c><00:05:26.400><c> have</c><00:05:26.560><c> any</c><00:05:26.880><c> liquidity</c><00:05:27.440><c> resting.</c>
+
+00:05:28.870 --> 00:05:28.880 align:start position:0%
+you do not have any liquidity resting.
+ 
+
+00:05:28.880 --> 00:05:30.870 align:start position:0%
+you do not have any liquidity resting.
+So<00:05:29.120><c> here</c><00:05:29.280><c> we</c><00:05:29.440><c> are</c><00:05:29.520><c> with</c><00:05:29.759><c> our</c><00:05:29.919><c> next</c><00:05:30.160><c> example.</c><00:05:30.720><c> We</c>
+
+00:05:30.870 --> 00:05:30.880 align:start position:0%
+So here we are with our next example. We
+ 
+
+00:05:30.880 --> 00:05:33.590 align:start position:0%
+So here we are with our next example. We
+are<00:05:31.039><c> on</c><00:05:31.280><c> YM</c><00:05:31.840><c> on</c><00:05:32.000><c> the</c><00:05:32.160><c> 5-minute</c><00:05:32.800><c> chart.</c><00:05:33.280><c> And</c><00:05:33.440><c> if</c>
+
+00:05:33.590 --> 00:05:33.600 align:start position:0%
+are on YM on the 5-minute chart. And if
+ 
+
+00:05:33.600 --> 00:05:35.270 align:start position:0%
+are on YM on the 5-minute chart. And if
+you're<00:05:33.759><c> taking</c><00:05:33.919><c> a</c><00:05:34.080><c> look,</c><00:05:34.479><c> we</c><00:05:34.720><c> do</c><00:05:34.880><c> have</c><00:05:35.039><c> a</c>
+
+00:05:35.270 --> 00:05:35.280 align:start position:0%
+you're taking a look, we do have a
+ 
+
+00:05:35.280 --> 00:05:36.950 align:start position:0%
+you're taking a look, we do have a
+reversal<00:05:35.680><c> here,</c><00:05:36.160><c> right?</c><00:05:36.320><c> It's</c><00:05:36.560><c> not</c><00:05:36.720><c> very</c>
+
+00:05:36.950 --> 00:05:36.960 align:start position:0%
+reversal here, right? It's not very
+ 
+
+00:05:36.960 --> 00:05:39.029 align:start position:0%
+reversal here, right? It's not very
+clean.<00:05:37.360><c> And</c><00:05:37.520><c> if</c><00:05:37.680><c> you</c><00:05:37.840><c> look,</c><00:05:38.080><c> the</c><00:05:38.320><c> range</c><00:05:38.639><c> is</c><00:05:38.880><c> not</c>
+
+00:05:39.029 --> 00:05:39.039 align:start position:0%
+clean. And if you look, the range is not
+ 
+
+00:05:39.039 --> 00:05:40.790 align:start position:0%
+clean. And if you look, the range is not
+very<00:05:39.360><c> large.</c><00:05:39.919><c> So</c><00:05:40.080><c> I</c><00:05:40.160><c> have</c><00:05:40.320><c> pretty</c><00:05:40.560><c> low</c>
+
+00:05:40.790 --> 00:05:40.800 align:start position:0%
+very large. So I have pretty low
+ 
+
+00:05:40.800 --> 00:05:42.870 align:start position:0%
+very large. So I have pretty low
+expectations<00:05:41.520><c> for</c><00:05:41.759><c> this</c><00:05:41.919><c> move.</c><00:05:42.560><c> But</c><00:05:42.639><c> what</c><00:05:42.800><c> do</c>
+
+00:05:42.870 --> 00:05:42.880 align:start position:0%
+expectations for this move. But what do
+ 
+
+00:05:42.880 --> 00:05:44.710 align:start position:0%
+expectations for this move. But what do
+we<00:05:43.039><c> notice</c><00:05:43.280><c> about</c><00:05:43.440><c> this</c><00:05:43.680><c> manipulation</c><00:05:44.320><c> leg?</c>
+
+00:05:44.710 --> 00:05:44.720 align:start position:0%
+we notice about this manipulation leg?
+ 
+
+00:05:44.720 --> 00:05:45.909 align:start position:0%
+we notice about this manipulation leg?
+we<00:05:44.960><c> have</c><00:05:45.039><c> a</c><00:05:45.199><c> change</c><00:05:45.280><c> in</c><00:05:45.440><c> the</c><00:05:45.600><c> state</c><00:05:45.759><c> of</c>
+
+00:05:45.909 --> 00:05:45.919 align:start position:0%
+we have a change in the state of
+ 
+
+00:05:45.919 --> 00:05:48.629 align:start position:0%
+we have a change in the state of
+delivery.<00:05:46.800><c> So</c><00:05:47.039><c> finding</c><00:05:47.280><c> the</c><00:05:47.520><c> high,</c><00:05:48.240><c> finding</c>
+
+00:05:48.629 --> 00:05:48.639 align:start position:0%
+delivery. So finding the high, finding
+ 
+
+00:05:48.639 --> 00:05:50.870 align:start position:0%
+delivery. So finding the high, finding
+the<00:05:49.120><c> low</c><00:05:49.360><c> that</c><00:05:49.600><c> made</c><00:05:49.840><c> that</c><00:05:50.000><c> high,</c><00:05:50.639><c> that's</c>
+
+00:05:50.870 --> 00:05:50.880 align:start position:0%
+the low that made that high, that's
+ 
+
+00:05:50.880 --> 00:05:52.790 align:start position:0%
+the low that made that high, that's
+quite<00:05:51.120><c> the</c><00:05:51.280><c> manipulation</c><00:05:51.919><c> leg.</c><00:05:52.320><c> So</c><00:05:52.479><c> if</c><00:05:52.639><c> we</c><00:05:52.720><c> go</c>
+
+00:05:52.790 --> 00:05:52.800 align:start position:0%
+quite the manipulation leg. So if we go
+ 
+
+00:05:52.800 --> 00:05:55.670 align:start position:0%
+quite the manipulation leg. So if we go
+ahead<00:05:53.039><c> and</c><00:05:53.199><c> mark</c><00:05:53.440><c> that</c><00:05:53.680><c> out</c><00:05:55.039><c> and</c><00:05:55.280><c> then</c><00:05:55.440><c> clean</c>
+
+00:05:55.670 --> 00:05:55.680 align:start position:0%
+ahead and mark that out and then clean
+ 
+
+00:05:55.680 --> 00:05:58.070 align:start position:0%
+ahead and mark that out and then clean
+up<00:05:55.759><c> the</c><00:05:56.000><c> chart,</c><00:05:56.400><c> you</c><00:05:56.639><c> can</c><00:05:56.800><c> see</c><00:05:56.960><c> that</c><00:05:57.280><c> we</c><00:05:57.600><c> have</c>
+
+00:05:58.070 --> 00:05:58.080 align:start position:0%
+up the chart, you can see that we have
+ 
+
+00:05:58.080 --> 00:06:00.310 align:start position:0%
+up the chart, you can see that we have
+quite<00:05:58.400><c> a</c><00:05:58.639><c> projection.</c><00:05:59.520><c> It's</c><00:05:59.840><c> not</c><00:06:00.000><c> very</c>
+
+00:06:00.310 --> 00:06:00.320 align:start position:0%
+quite a projection. It's not very
+ 
+
+00:06:00.320 --> 00:06:03.110 align:start position:0%
+quite a projection. It's not very
+reasonable<00:06:00.960><c> for</c><00:06:01.600><c> late</c><00:06:01.840><c> into</c><00:06:02.160><c> this</c><00:06:02.639><c> New</c><00:06:02.880><c> York</c>
+
+00:06:03.110 --> 00:06:03.120 align:start position:0%
+reasonable for late into this New York
+ 
+
+00:06:03.120 --> 00:06:06.230 align:start position:0%
+reasonable for late into this New York
+session<00:06:03.680><c> to</c><00:06:03.919><c> anticipate</c><00:06:04.400><c> YM</c><00:06:04.880><c> to</c><00:06:05.120><c> just</c><00:06:05.280><c> go</c><00:06:05.759><c> 500</c>
+
+00:06:06.230 --> 00:06:06.240 align:start position:0%
+session to anticipate YM to just go 500
+ 
+
+00:06:06.240 --> 00:06:08.870 align:start position:0%
+session to anticipate YM to just go 500
+to<00:06:06.479><c> 600</c><00:06:06.960><c> points.</c><00:06:07.600><c> So</c><00:06:07.840><c> this</c><00:06:08.000><c> is</c><00:06:08.160><c> an</c><00:06:08.319><c> example</c><00:06:08.639><c> of</c>
+
+00:06:08.870 --> 00:06:08.880 align:start position:0%
+to 600 points. So this is an example of
+ 
+
+00:06:08.880 --> 00:06:11.590 align:start position:0%
+to 600 points. So this is an example of
+when<00:06:09.120><c> we</c><00:06:09.360><c> have</c><00:06:09.440><c> a</c><00:06:09.759><c> large</c><00:06:10.080><c> manipulation</c><00:06:10.880><c> leg.</c><00:06:11.440><c> I</c>
+
+00:06:11.590 --> 00:06:11.600 align:start position:0%
+when we have a large manipulation leg. I
+ 
+
+00:06:11.600 --> 00:06:13.029 align:start position:0%
+when we have a large manipulation leg. I
+can<00:06:11.680><c> use</c><00:06:11.840><c> that</c><00:06:12.080><c> negative</c><00:06:12.479><c> one</c><00:06:12.720><c> standard</c>
+
+00:06:13.029 --> 00:06:13.039 align:start position:0%
+can use that negative one standard
+ 
+
+00:06:13.039 --> 00:06:15.670 align:start position:0%
+can use that negative one standard
+deviation<00:06:13.600><c> as</c><00:06:13.919><c> a</c><00:06:14.160><c> target.</c><00:06:15.039><c> So</c><00:06:15.199><c> it</c><00:06:15.360><c> would</c><00:06:15.520><c> be</c>
+
+00:06:15.670 --> 00:06:15.680 align:start position:0%
+deviation as a target. So it would be
+ 
+
+00:06:15.680 --> 00:06:17.749 align:start position:0%
+deviation as a target. So it would be
+nice<00:06:15.840><c> to</c><00:06:16.080><c> look</c><00:06:16.319><c> back</c><00:06:16.479><c> to</c><00:06:16.720><c> the</c><00:06:16.880><c> left</c><00:06:17.199><c> and</c><00:06:17.440><c> see</c><00:06:17.600><c> if</c>
+
+00:06:17.749 --> 00:06:17.759 align:start position:0%
+nice to look back to the left and see if
+ 
+
+00:06:17.759 --> 00:06:19.590 align:start position:0%
+nice to look back to the left and see if
+this<00:06:18.000><c> lines</c><00:06:18.319><c> up</c><00:06:18.479><c> with</c><00:06:18.639><c> anything.</c><00:06:19.280><c> And</c><00:06:19.440><c> here</c>
+
+00:06:19.590 --> 00:06:19.600 align:start position:0%
+this lines up with anything. And here
+ 
+
+00:06:19.600 --> 00:06:21.749 align:start position:0%
+this lines up with anything. And here
+you<00:06:19.840><c> can</c><00:06:19.919><c> see</c><00:06:20.160><c> we</c><00:06:20.400><c> do</c><00:06:20.560><c> have</c><00:06:20.639><c> a</c><00:06:20.880><c> low</c><00:06:21.280><c> that</c><00:06:21.520><c> lines</c>
+
+00:06:21.749 --> 00:06:21.759 align:start position:0%
+you can see we do have a low that lines
+ 
+
+00:06:21.759 --> 00:06:23.110 align:start position:0%
+you can see we do have a low that lines
+up<00:06:21.919><c> with</c><00:06:22.080><c> that</c><00:06:22.240><c> negative</c><00:06:22.639><c> one</c><00:06:22.800><c> standard</c>
+
+00:06:23.110 --> 00:06:23.120 align:start position:0%
+up with that negative one standard
+ 
+
+00:06:23.120 --> 00:06:29.510 align:start position:0%
+up with that negative one standard
+deviation.<00:06:24.080><c> Let's</c><00:06:24.319><c> see</c><00:06:24.479><c> how</c><00:06:24.720><c> this</c><00:06:24.960><c> works</c><00:06:25.280><c> out.</c>
+
+00:06:29.510 --> 00:06:29.520 align:start position:0%
+ 
+ 
+
+00:06:29.520 --> 00:06:31.350 align:start position:0%
+ 
+And<00:06:29.680><c> you</c><00:06:29.840><c> can</c><00:06:30.000><c> see</c><00:06:30.240><c> that</c><00:06:30.479><c> is</c><00:06:30.560><c> where</c><00:06:30.720><c> we</c><00:06:30.880><c> go</c><00:06:31.039><c> and</c>
+
+00:06:31.350 --> 00:06:31.360 align:start position:0%
+And you can see that is where we go and
+ 
+
+00:06:31.360 --> 00:06:33.270 align:start position:0%
+And you can see that is where we go and
+hit.<00:06:31.680><c> We</c><00:06:31.840><c> take</c><00:06:32.000><c> out</c><00:06:32.160><c> that</c><00:06:32.400><c> low.</c><00:06:32.800><c> We</c><00:06:32.960><c> hit</c><00:06:33.039><c> our</c>
+
+00:06:33.270 --> 00:06:33.280 align:start position:0%
+hit. We take out that low. We hit our
+ 
+
+00:06:33.280 --> 00:06:34.950 align:start position:0%
+hit. We take out that low. We hit our
+negative<00:06:33.600><c> one</c><00:06:33.840><c> standard</c><00:06:34.160><c> deviation.</c><00:06:34.800><c> and</c>
+
+00:06:34.950 --> 00:06:34.960 align:start position:0%
+negative one standard deviation. and
+ 
+
+00:06:34.960 --> 00:06:37.189 align:start position:0%
+negative one standard deviation. and
+then<00:06:35.120><c> we</c><00:06:35.280><c> form</c><00:06:35.520><c> a</c><00:06:35.759><c> reversal</c><00:06:36.319><c> back</c><00:06:36.639><c> into</c><00:06:36.960><c> the</c>
+
+00:06:37.189 --> 00:06:37.199 align:start position:0%
+then we form a reversal back into the
+ 
+
+00:06:37.199 --> 00:06:40.309 align:start position:0%
+then we form a reversal back into the
+range.<00:06:38.160><c> So</c><00:06:38.479><c> this</c><00:06:38.639><c> is</c><00:06:38.800><c> an</c><00:06:38.960><c> example</c><00:06:39.280><c> of</c><00:06:39.840><c> when</c><00:06:40.080><c> I</c>
+
+00:06:40.309 --> 00:06:40.319 align:start position:0%
+range. So this is an example of when I
+ 
+
+00:06:40.319 --> 00:06:42.710 align:start position:0%
+range. So this is an example of when I
+have<00:06:40.479><c> a</c><00:06:40.720><c> large</c><00:06:41.039><c> manipulation</c><00:06:41.680><c> leg,</c><00:06:42.319><c> I'm</c><00:06:42.560><c> not</c>
+
+00:06:42.710 --> 00:06:42.720 align:start position:0%
+have a large manipulation leg, I'm not
+ 
+
+00:06:42.720 --> 00:06:44.629 align:start position:0%
+have a large manipulation leg, I'm not
+really<00:06:43.039><c> looking</c><00:06:43.199><c> for</c><00:06:43.440><c> price</c><00:06:43.759><c> to</c><00:06:44.000><c> go</c><00:06:44.160><c> to</c><00:06:44.400><c> the</c>
+
+00:06:44.629 --> 00:06:44.639 align:start position:0%
+really looking for price to go to the
+ 
+
+00:06:44.639 --> 00:06:48.629 align:start position:0%
+really looking for price to go to the
+-2,<00:06:45.440><c> -2.5</c><00:06:46.479><c> or</c><00:06:46.720><c> the</c><00:06:47.039><c> -4.</c><00:06:47.919><c> I'm</c><00:06:48.160><c> going</c><00:06:48.240><c> to</c><00:06:48.400><c> look</c>
+
+00:06:48.629 --> 00:06:48.639 align:start position:0%
+-2, -2.5 or the -4. I'm going to look
+ 
+
+00:06:48.639 --> 00:06:50.629 align:start position:0%
+-2, -2.5 or the -4. I'm going to look
+and<00:06:48.960><c> lower</c><00:06:49.280><c> my</c><00:06:49.520><c> expectations</c><00:06:50.080><c> and</c><00:06:50.319><c> look</c><00:06:50.479><c> for</c>
+
+00:06:50.629 --> 00:06:50.639 align:start position:0%
+and lower my expectations and look for
+ 
+
+00:06:50.639 --> 00:06:53.110 align:start position:0%
+and lower my expectations and look for
+that<00:06:50.960><c> -1</c><00:06:51.440><c> standard</c><00:06:51.759><c> deviation.</c><00:06:52.639><c> So</c><00:06:52.800><c> here</c><00:06:52.960><c> we</c>
+
+00:06:53.110 --> 00:06:53.120 align:start position:0%
+that -1 standard deviation. So here we
+ 
+
+00:06:53.120 --> 00:06:54.870 align:start position:0%
+that -1 standard deviation. So here we
+are<00:06:53.280><c> with</c><00:06:53.440><c> our</c><00:06:53.680><c> next</c><00:06:54.000><c> example</c><00:06:54.400><c> and</c><00:06:54.639><c> you</c><00:06:54.800><c> can</c>
+
+00:06:54.870 --> 00:06:54.880 align:start position:0%
+are with our next example and you can
+ 
+
+00:06:54.880 --> 00:06:57.110 align:start position:0%
+are with our next example and you can
+see<00:06:55.039><c> we</c><00:06:55.280><c> have</c><00:06:55.360><c> formed</c><00:06:55.680><c> a</c><00:06:55.919><c> candle</c><00:06:56.319><c> 2</c><00:06:56.560><c> closure.</c>
+
+00:06:57.110 --> 00:06:57.120 align:start position:0%
+see we have formed a candle 2 closure.
+ 
+
+00:06:57.120 --> 00:06:58.469 align:start position:0%
+see we have formed a candle 2 closure.
+We<00:06:57.280><c> have</c><00:06:57.440><c> a</c><00:06:57.680><c> change</c><00:06:57.759><c> in</c><00:06:58.000><c> the</c><00:06:58.160><c> state</c><00:06:58.319><c> of</c>
+
+00:06:58.469 --> 00:06:58.479 align:start position:0%
+We have a change in the state of
+ 
+
+00:06:58.479 --> 00:07:00.469 align:start position:0%
+We have a change in the state of
+delivery<00:06:59.039><c> and</c><00:06:59.199><c> we</c><00:06:59.440><c> have</c><00:06:59.520><c> failure</c><00:06:59.919><c> swings</c><00:07:00.319><c> on</c>
+
+00:07:00.469 --> 00:07:00.479 align:start position:0%
+delivery and we have failure swings on
+ 
+
+00:07:00.479 --> 00:07:02.070 align:start position:0%
+delivery and we have failure swings on
+the<00:07:00.639><c> left.</c><00:07:01.199><c> But</c><00:07:01.360><c> what</c><00:07:01.440><c> do</c><00:07:01.520><c> we</c><00:07:01.680><c> notice</c><00:07:01.919><c> about</c>
+
+00:07:02.070 --> 00:07:02.080 align:start position:0%
+the left. But what do we notice about
+ 
+
+00:07:02.080 --> 00:07:04.390 align:start position:0%
+the left. But what do we notice about
+this<00:07:02.319><c> manipulation</c><00:07:03.039><c> leg?</c><00:07:03.599><c> It</c><00:07:03.840><c> is</c><00:07:04.080><c> quite</c>
+
+00:07:04.390 --> 00:07:04.400 align:start position:0%
+this manipulation leg? It is quite
+ 
+
+00:07:04.400 --> 00:07:06.790 align:start position:0%
+this manipulation leg? It is quite
+large.<00:07:05.120><c> We</c><00:07:05.280><c> mark</c><00:07:05.520><c> out</c><00:07:05.680><c> the</c><00:07:05.840><c> low.</c><00:07:06.240><c> We</c><00:07:06.400><c> find</c><00:07:06.560><c> the</c>
+
+00:07:06.790 --> 00:07:06.800 align:start position:0%
+large. We mark out the low. We find the
+ 
+
+00:07:06.800 --> 00:07:08.629 align:start position:0%
+large. We mark out the low. We find the
+high<00:07:07.039><c> that</c><00:07:07.280><c> made</c><00:07:07.440><c> that</c><00:07:07.599><c> low.</c><00:07:08.080><c> And</c><00:07:08.240><c> we</c><00:07:08.400><c> look</c><00:07:08.560><c> at</c>
+
+00:07:08.629 --> 00:07:08.639 align:start position:0%
+high that made that low. And we look at
+ 
+
+00:07:08.639 --> 00:07:11.270 align:start position:0%
+high that made that low. And we look at
+the<00:07:08.880><c> range.</c><00:07:09.520><c> Our</c><00:07:09.759><c> range</c><00:07:10.000><c> or</c><00:07:10.240><c> our</c><00:07:10.479><c> target</c><00:07:11.039><c> is</c>
+
+00:07:11.270 --> 00:07:11.280 align:start position:0%
+the range. Our range or our target is
+ 
+
+00:07:11.280 --> 00:07:13.589 align:start position:0%
+the range. Our range or our target is
+right<00:07:11.599><c> here.</c><00:07:12.160><c> And</c><00:07:12.319><c> our</c><00:07:12.479><c> manipulation</c><00:07:13.120><c> leg</c><00:07:13.360><c> is</c>
+
+00:07:13.589 --> 00:07:13.599 align:start position:0%
+right here. And our manipulation leg is
+ 
+
+00:07:13.599 --> 00:07:15.430 align:start position:0%
+right here. And our manipulation leg is
+almost<00:07:13.840><c> half</c><00:07:14.080><c> of</c><00:07:14.240><c> that.</c><00:07:14.720><c> That's</c><00:07:14.960><c> quite</c><00:07:15.199><c> a</c>
+
+00:07:15.430 --> 00:07:15.440 align:start position:0%
+almost half of that. That's quite a
+ 
+
+00:07:15.440 --> 00:07:17.510 align:start position:0%
+almost half of that. That's quite a
+large<00:07:15.680><c> manipulation</c><00:07:16.240><c> leg.</c><00:07:16.720><c> So</c><00:07:16.880><c> marking</c><00:07:17.280><c> out</c>
+
+00:07:17.510 --> 00:07:17.520 align:start position:0%
+large manipulation leg. So marking out
+ 
+
+00:07:17.520 --> 00:07:19.589 align:start position:0%
+large manipulation leg. So marking out
+our<00:07:17.759><c> projections.</c><00:07:18.720><c> What</c><00:07:18.960><c> would</c><00:07:19.120><c> we</c><00:07:19.280><c> want</c><00:07:19.360><c> to</c>
+
+00:07:19.589 --> 00:07:19.599 align:start position:0%
+our projections. What would we want to
+ 
+
+00:07:19.599 --> 00:07:21.670 align:start position:0%
+our projections. What would we want to
+do<00:07:19.759><c> here?</c><00:07:20.319><c> We'd</c><00:07:20.560><c> want</c><00:07:20.639><c> to</c><00:07:20.800><c> focus</c><00:07:21.039><c> on</c><00:07:21.280><c> targeting</c>
+
+00:07:21.670 --> 00:07:21.680 align:start position:0%
+do here? We'd want to focus on targeting
+ 
+
+00:07:21.680 --> 00:07:24.150 align:start position:0%
+do here? We'd want to focus on targeting
+that<00:07:22.000><c> -1</c><00:07:22.560><c> standard</c><00:07:22.960><c> deviation</c><00:07:23.759><c> instead</c><00:07:24.080><c> of</c>
+
+00:07:24.150 --> 00:07:24.160 align:start position:0%
+that -1 standard deviation instead of
+ 
+
+00:07:24.160 --> 00:07:25.830 align:start position:0%
+that -1 standard deviation instead of
+looking<00:07:24.400><c> for</c><00:07:24.560><c> price</c><00:07:24.800><c> to</c><00:07:24.960><c> expand</c><00:07:25.360><c> all</c><00:07:25.599><c> the</c><00:07:25.759><c> way</c>
+
+00:07:25.830 --> 00:07:25.840 align:start position:0%
+looking for price to expand all the way
+ 
+
+00:07:25.840 --> 00:07:28.150 align:start position:0%
+looking for price to expand all the way
+to<00:07:26.000><c> the</c><00:07:26.240><c> -4</c><00:07:26.800><c> because</c><00:07:27.039><c> that's</c><00:07:27.280><c> just</c><00:07:27.440><c> an</c><00:07:27.680><c> absurd</c>
+
+00:07:28.150 --> 00:07:28.160 align:start position:0%
+to the -4 because that's just an absurd
+ 
+
+00:07:28.160 --> 00:07:30.710 align:start position:0%
+to the -4 because that's just an absurd
+move.<00:07:28.800><c> So</c><00:07:29.120><c> coming</c><00:07:29.360><c> back</c><00:07:29.599><c> in,</c><00:07:30.160><c> let's</c><00:07:30.400><c> see</c><00:07:30.560><c> what</c>
+
+00:07:30.710 --> 00:07:30.720 align:start position:0%
+move. So coming back in, let's see what
+ 
+
+00:07:30.720 --> 00:07:33.749 align:start position:0%
+move. So coming back in, let's see what
+happens<00:07:31.039><c> here.</c>
+
+00:07:33.749 --> 00:07:33.759 align:start position:0%
+happens here.
+ 
+
+00:07:33.759 --> 00:07:35.909 align:start position:0%
+happens here.
+You<00:07:33.919><c> can</c><00:07:34.080><c> see</c><00:07:34.240><c> we</c><00:07:34.479><c> have</c><00:07:34.560><c> a</c><00:07:34.800><c> nice</c><00:07:35.039><c> open</c><00:07:35.440><c> low,</c>
+
+00:07:35.909 --> 00:07:35.919 align:start position:0%
+You can see we have a nice open low,
+ 
+
+00:07:35.919 --> 00:07:37.749 align:start position:0%
+You can see we have a nice open low,
+high<00:07:36.319><c> close,</c><00:07:36.560><c> and</c><00:07:36.720><c> we</c><00:07:36.960><c> trade</c><00:07:37.280><c> right</c><00:07:37.599><c> through</c>
+
+00:07:37.749 --> 00:07:37.759 align:start position:0%
+high close, and we trade right through
+ 
+
+00:07:37.759 --> 00:07:39.270 align:start position:0%
+high close, and we trade right through
+the<00:07:38.000><c> negative</c><00:07:38.319><c> one.</c><00:07:38.720><c> Now,</c><00:07:38.880><c> if</c><00:07:39.039><c> we're</c><00:07:39.120><c> not</c>
+
+00:07:39.270 --> 00:07:39.280 align:start position:0%
+the negative one. Now, if we're not
+ 
+
+00:07:39.280 --> 00:07:40.950 align:start position:0%
+the negative one. Now, if we're not
+going<00:07:39.360><c> to</c><00:07:39.520><c> reverse</c><00:07:39.840><c> off</c><00:07:40.080><c> this</c><00:07:40.240><c> high,</c><00:07:40.800><c> that's</c>
+
+00:07:40.950 --> 00:07:40.960 align:start position:0%
+going to reverse off this high, that's
+ 
+
+00:07:40.960 --> 00:07:42.950 align:start position:0%
+going to reverse off this high, that's
+when<00:07:41.199><c> we</c><00:07:41.360><c> can</c><00:07:41.440><c> look</c><00:07:41.680><c> for</c><00:07:41.919><c> price</c><00:07:42.160><c> to</c><00:07:42.479><c> expand</c>
+
+00:07:42.950 --> 00:07:42.960 align:start position:0%
+when we can look for price to expand
+ 
+
+00:07:42.960 --> 00:07:46.790 align:start position:0%
+when we can look for price to expand
+further<00:07:43.440><c> to</c><00:07:43.759><c> our</c><00:07:43.919><c> next</c><00:07:44.240><c> targets.</c>
+
+00:07:46.790 --> 00:07:46.800 align:start position:0%
+further to our next targets.
+ 
+
+00:07:46.800 --> 00:07:48.390 align:start position:0%
+further to our next targets.
+You<00:07:46.960><c> can</c><00:07:47.120><c> see</c><00:07:47.360><c> there</c><00:07:47.520><c> we</c><00:07:47.680><c> get</c><00:07:47.840><c> an</c><00:07:48.000><c> expansion</c>
+
+00:07:48.390 --> 00:07:48.400 align:start position:0%
+You can see there we get an expansion
+ 
+
+00:07:48.400 --> 00:07:51.270 align:start position:0%
+You can see there we get an expansion
+into<00:07:48.639><c> that</c><00:07:48.880><c> -2</c><00:07:49.360><c> to</c><00:07:49.599><c> -2.5.</c><00:07:50.800><c> And</c><00:07:50.880><c> let's</c><00:07:51.039><c> see</c><00:07:51.199><c> how</c>
+
+00:07:51.270 --> 00:07:51.280 align:start position:0%
+into that -2 to -2.5. And let's see how
+ 
+
+00:07:51.280 --> 00:07:54.150 align:start position:0%
+into that -2 to -2.5. And let's see how
+this<00:07:51.520><c> daily</c><00:07:51.759><c> candle</c><00:07:52.160><c> closes.</c><00:07:53.599><c> So</c><00:07:53.759><c> now</c><00:07:53.919><c> we</c><00:07:54.080><c> have</c>
+
+00:07:54.150 --> 00:07:54.160 align:start position:0%
+this daily candle closes. So now we have
+ 
+
+00:07:54.160 --> 00:07:56.390 align:start position:0%
+this daily candle closes. So now we have
+a<00:07:54.319><c> candle</c><00:07:54.720><c> 2</c><00:07:54.960><c> closure.</c><00:07:55.440><c> We</c><00:07:55.599><c> have</c><00:07:55.680><c> yet</c><00:07:55.919><c> to</c><00:07:56.080><c> form</c>
+
+00:07:56.390 --> 00:07:56.400 align:start position:0%
+a candle 2 closure. We have yet to form
+ 
+
+00:07:56.400 --> 00:07:58.070 align:start position:0%
+a candle 2 closure. We have yet to form
+a<00:07:56.560><c> change</c><00:07:56.800><c> in</c><00:07:56.960><c> the</c><00:07:57.120><c> state</c><00:07:57.280><c> of</c><00:07:57.440><c> delivery.</c><00:07:57.840><c> So</c><00:07:57.919><c> we</c>
+
+00:07:58.070 --> 00:07:58.080 align:start position:0%
+a change in the state of delivery. So we
+ 
+
+00:07:58.080 --> 00:08:00.550 align:start position:0%
+a change in the state of delivery. So we
+need<00:07:58.240><c> to</c><00:07:58.319><c> wait</c><00:07:58.479><c> for</c><00:07:58.639><c> that.</c>
+
+00:08:00.550 --> 00:08:00.560 align:start position:0%
+need to wait for that.
+ 
+
+00:08:00.560 --> 00:08:01.830 align:start position:0%
+need to wait for that.
+And<00:08:00.720><c> now</c><00:08:00.879><c> that</c><00:08:01.039><c> we</c><00:08:01.199><c> have</c><00:08:01.280><c> that</c><00:08:01.440><c> change</c><00:08:01.520><c> in</c><00:08:01.680><c> the</c>
+
+00:08:01.830 --> 00:08:01.840 align:start position:0%
+And now that we have that change in the
+ 
+
+00:08:01.840 --> 00:08:03.749 align:start position:0%
+And now that we have that change in the
+state<00:08:02.000><c> of</c><00:08:02.160><c> delivery,</c><00:08:02.560><c> what</c><00:08:02.800><c> can</c><00:08:02.879><c> we</c><00:08:03.039><c> look</c><00:08:03.199><c> for?</c>
+
+00:08:03.749 --> 00:08:03.759 align:start position:0%
+state of delivery, what can we look for?
+ 
+
+00:08:03.759 --> 00:08:05.510 align:start position:0%
+state of delivery, what can we look for?
+Well,<00:08:04.000><c> we</c><00:08:04.160><c> can</c><00:08:04.240><c> go</c><00:08:04.319><c> ahead</c><00:08:04.560><c> and</c><00:08:04.720><c> mark</c><00:08:04.960><c> out</c><00:08:05.360><c> the</c>
+
+00:08:05.510 --> 00:08:05.520 align:start position:0%
+Well, we can go ahead and mark out the
+ 
+
+00:08:05.520 --> 00:08:07.909 align:start position:0%
+Well, we can go ahead and mark out the
+manipulation<00:08:06.160><c> leg.</c><00:08:06.879><c> So,</c><00:08:06.960><c> from</c><00:08:07.120><c> this</c><00:08:07.360><c> high</c><00:08:07.680><c> to</c>
+
+00:08:07.909 --> 00:08:07.919 align:start position:0%
+manipulation leg. So, from this high to
+ 
+
+00:08:07.919 --> 00:08:10.309 align:start position:0%
+manipulation leg. So, from this high to
+the<00:08:08.080><c> low</c><00:08:08.240><c> that</c><00:08:08.479><c> made</c><00:08:08.720><c> that</c><00:08:08.960><c> high.</c><00:08:09.680><c> And</c><00:08:09.840><c> then</c><00:08:10.080><c> I</c>
+
+00:08:10.309 --> 00:08:10.319 align:start position:0%
+the low that made that high. And then I
+ 
+
+00:08:10.319 --> 00:08:11.830 align:start position:0%
+the low that made that high. And then I
+can<00:08:10.479><c> go</c><00:08:10.560><c> ahead</c><00:08:10.720><c> and</c><00:08:10.879><c> mark</c><00:08:11.120><c> that</c><00:08:11.280><c> out</c><00:08:11.440><c> with</c><00:08:11.680><c> my</c>
+
+00:08:11.830 --> 00:08:11.840 align:start position:0%
+can go ahead and mark that out with my
+ 
+
+00:08:11.840 --> 00:08:14.390 align:start position:0%
+can go ahead and mark that out with my
+projections.<00:08:13.039><c> Now,</c><00:08:13.280><c> what</c><00:08:13.440><c> I</c><00:08:13.599><c> can</c><00:08:13.759><c> also</c><00:08:14.000><c> do</c><00:08:14.160><c> is</c>
+
+00:08:14.390 --> 00:08:14.400 align:start position:0%
+projections. Now, what I can also do is
+ 
+
+00:08:14.400 --> 00:08:16.469 align:start position:0%
+projections. Now, what I can also do is
+if<00:08:14.639><c> I</c><00:08:14.800><c> use</c><00:08:14.960><c> my</c><00:08:15.120><c> indicator,</c><00:08:15.840><c> I</c><00:08:16.000><c> can</c><00:08:16.160><c> just</c><00:08:16.319><c> go</c>
+
+00:08:16.469 --> 00:08:16.479 align:start position:0%
+if I use my indicator, I can just go
+ 
+
+00:08:16.479 --> 00:08:18.629 align:start position:0%
+if I use my indicator, I can just go
+into<00:08:16.720><c> the</c><00:08:16.960><c> settings</c><00:08:17.280><c> here</c><00:08:17.840><c> and</c><00:08:18.080><c> I</c><00:08:18.240><c> will</c><00:08:18.400><c> turn</c>
+
+00:08:18.629 --> 00:08:18.639 align:start position:0%
+into the settings here and I will turn
+ 
+
+00:08:18.639 --> 00:08:20.710 align:start position:0%
+into the settings here and I will turn
+on<00:08:18.800><c> the</c><00:08:19.039><c> projections.</c><00:08:20.000><c> And</c><00:08:20.160><c> this</c><00:08:20.319><c> will</c><00:08:20.479><c> allow</c>
+
+00:08:20.710 --> 00:08:20.720 align:start position:0%
+on the projections. And this will allow
+ 
+
+00:08:20.720 --> 00:08:22.629 align:start position:0%
+on the projections. And this will allow
+me<00:08:20.800><c> to</c><00:08:21.039><c> do</c><00:08:21.120><c> the</c><00:08:21.360><c> exact</c><00:08:21.599><c> same</c><00:08:21.840><c> thing</c><00:08:22.240><c> without</c>
+
+00:08:22.629 --> 00:08:22.639 align:start position:0%
+me to do the exact same thing without
+ 
+
+00:08:22.639 --> 00:08:24.950 align:start position:0%
+me to do the exact same thing without
+having<00:08:22.879><c> to</c><00:08:23.120><c> mark</c><00:08:23.360><c> them</c><00:08:23.599><c> up.</c><00:08:24.319><c> You</c><00:08:24.479><c> can</c><00:08:24.560><c> see</c><00:08:24.800><c> we</c>
+
+00:08:24.950 --> 00:08:24.960 align:start position:0%
+having to mark them up. You can see we
+ 
+
+00:08:24.960 --> 00:08:26.790 align:start position:0%
+having to mark them up. You can see we
+get<00:08:25.120><c> our</c><00:08:25.280><c> projections</c><00:08:25.680><c> on</c><00:08:25.919><c> the</c><00:08:26.080><c> screen.</c><00:08:26.639><c> What</c>
+
+00:08:26.790 --> 00:08:26.800 align:start position:0%
+get our projections on the screen. What
+ 
+
+00:08:26.800 --> 00:08:28.309 align:start position:0%
+get our projections on the screen. What
+do<00:08:26.960><c> we</c><00:08:27.039><c> notice</c><00:08:27.280><c> about</c><00:08:27.520><c> this</c><00:08:27.680><c> manipulation</c>
+
+00:08:28.309 --> 00:08:28.319 align:start position:0%
+do we notice about this manipulation
+ 
+
+00:08:28.319 --> 00:08:31.589 align:start position:0%
+do we notice about this manipulation
+leg?<00:08:28.960><c> It</c><00:08:29.199><c> is</c><00:08:29.440><c> quite</c><00:08:29.840><c> large.</c><00:08:30.720><c> This</c><00:08:30.879><c> is</c><00:08:31.039><c> where</c><00:08:31.360><c> am</c>
+
+00:08:31.589 --> 00:08:31.599 align:start position:0%
+leg? It is quite large. This is where am
+ 
+
+00:08:31.599 --> 00:08:33.269 align:start position:0%
+leg? It is quite large. This is where am
+I<00:08:31.759><c> really</c><00:08:31.919><c> expecting</c><00:08:32.320><c> this</c><00:08:32.640><c> current</c><00:08:32.880><c> daily</c>
+
+00:08:33.269 --> 00:08:33.279 align:start position:0%
+I really expecting this current daily
+ 
+
+00:08:33.279 --> 00:08:35.269 align:start position:0%
+I really expecting this current daily
+range<00:08:33.599><c> to</c><00:08:33.839><c> go</c><00:08:34.080><c> expand</c><00:08:34.560><c> all</c><00:08:34.800><c> the</c><00:08:34.959><c> way</c><00:08:35.039><c> down</c>
+
+00:08:35.269 --> 00:08:35.279 align:start position:0%
+range to go expand all the way down
+ 
+
+00:08:35.279 --> 00:08:37.829 align:start position:0%
+range to go expand all the way down
+here?<00:08:36.000><c> Probably</c><00:08:36.399><c> not.</c><00:08:37.039><c> So,</c><00:08:37.200><c> this</c><00:08:37.360><c> is</c><00:08:37.519><c> where</c><00:08:37.599><c> I</c>
+
+00:08:37.829 --> 00:08:37.839 align:start position:0%
+here? Probably not. So, this is where I
+ 
+
+00:08:37.839 --> 00:08:40.469 align:start position:0%
+here? Probably not. So, this is where I
+can<00:08:37.919><c> look</c><00:08:38.080><c> for</c><00:08:38.640><c> price</c><00:08:38.959><c> to</c><00:08:39.120><c> expand</c><00:08:39.360><c> to</c><00:08:39.599><c> the</c><00:08:39.839><c> -1</c>
+
+00:08:40.469 --> 00:08:40.479 align:start position:0%
+can look for price to expand to the -1
+ 
+
+00:08:40.479 --> 00:08:42.389 align:start position:0%
+can look for price to expand to the -1
+within<00:08:40.880><c> this</c><00:08:41.039><c> current</c><00:08:41.279><c> daily</c><00:08:41.599><c> range.</c><00:08:42.159><c> Let's</c>
+
+00:08:42.389 --> 00:08:42.399 align:start position:0%
+within this current daily range. Let's
+ 
+
+00:08:42.399 --> 00:08:44.949 align:start position:0%
+within this current daily range. Let's
+see<00:08:42.479><c> how</c><00:08:42.640><c> this</c><00:08:42.880><c> works</c><00:08:43.120><c> out.</c>
+
+00:08:44.949 --> 00:08:44.959 align:start position:0%
+see how this works out.
+ 
+
+00:08:44.959 --> 00:08:46.949 align:start position:0%
+see how this works out.
+There<00:08:45.200><c> we</c><00:08:45.360><c> hit</c><00:08:45.519><c> our</c><00:08:45.760><c> negative</c><00:08:46.160><c> one.</c><00:08:46.640><c> Now,</c><00:08:46.800><c> if</c>
+
+00:08:46.949 --> 00:08:46.959 align:start position:0%
+There we hit our negative one. Now, if
+ 
+
+00:08:46.959 --> 00:08:48.230 align:start position:0%
+There we hit our negative one. Now, if
+we're<00:08:47.040><c> going</c><00:08:47.120><c> to</c><00:08:47.200><c> get</c><00:08:47.279><c> a</c><00:08:47.519><c> continuation</c><00:08:48.000><c> to</c>
+
+00:08:48.230 --> 00:08:48.240 align:start position:0%
+we're going to get a continuation to
+ 
+
+00:08:48.240 --> 00:08:50.310 align:start position:0%
+we're going to get a continuation to
+these<00:08:48.480><c> lows,</c><00:08:49.279><c> we</c><00:08:49.440><c> have</c><00:08:49.600><c> all</c><00:08:49.760><c> these</c><00:08:50.000><c> failure</c>
+
+00:08:50.310 --> 00:08:50.320 align:start position:0%
+these lows, we have all these failure
+ 
+
+00:08:50.320 --> 00:08:52.790 align:start position:0%
+these lows, we have all these failure
+swings<00:08:50.959><c> that</c><00:08:51.200><c> lines</c><00:08:51.440><c> up</c><00:08:51.600><c> with</c><00:08:51.760><c> the</c><00:08:52.080><c> -2</c><00:08:52.560><c> to</c>
+
+00:08:52.790 --> 00:08:52.800 align:start position:0%
+swings that lines up with the -2 to
+ 
+
+00:08:52.800 --> 00:08:55.110 align:start position:0%
+swings that lines up with the -2 to
+-2.5.<00:08:54.000><c> So,</c><00:08:54.240><c> then</c><00:08:54.399><c> that</c><00:08:54.560><c> gives</c><00:08:54.720><c> me</c><00:08:54.880><c> a</c>
+
+00:08:55.110 --> 00:08:55.120 align:start position:0%
+-2.5. So, then that gives me a
+ 
+
+00:08:55.120 --> 00:08:56.630 align:start position:0%
+-2.5. So, then that gives me a
+confluence<00:08:55.600><c> to</c><00:08:55.760><c> the</c><00:08:56.000><c> target</c><00:08:56.240><c> for</c><00:08:56.480><c> this</c>
+
+00:08:56.630 --> 00:08:56.640 align:start position:0%
+confluence to the target for this
+ 
+
+00:08:56.640 --> 00:08:59.350 align:start position:0%
+confluence to the target for this
+downside<00:08:57.200><c> move.</c>
+
+00:08:59.350 --> 00:08:59.360 align:start position:0%
+downside move.
+ 
+
+00:08:59.360 --> 00:09:01.590 align:start position:0%
+downside move.
+And<00:08:59.519><c> you</c><00:08:59.760><c> can</c><00:08:59.839><c> see</c><00:09:00.240><c> there</c><00:09:00.480><c> we</c><00:09:00.640><c> go</c><00:09:00.800><c> and</c><00:09:01.120><c> run</c><00:09:01.360><c> out</c>
+
+00:09:01.590 --> 00:09:01.600 align:start position:0%
+And you can see there we go and run out
+ 
+
+00:09:01.600 --> 00:09:04.389 align:start position:0%
+And you can see there we go and run out
+these<00:09:01.839><c> lows</c><00:09:02.560><c> as</c><00:09:02.800><c> well</c><00:09:02.959><c> as</c><00:09:03.360><c> hit</c><00:09:03.600><c> all</c><00:09:03.839><c> of</c><00:09:04.000><c> these</c>
+
+00:09:04.389 --> 00:09:04.399 align:start position:0%
+these lows as well as hit all of these
+ 
+
+00:09:04.399 --> 00:09:06.790 align:start position:0%
+these lows as well as hit all of these
+standard<00:09:04.800><c> deviation</c><00:09:05.360><c> projection</c><00:09:05.920><c> targets.</c>
+
+00:09:06.790 --> 00:09:06.800 align:start position:0%
+standard deviation projection targets.
+ 
+
+00:09:06.800 --> 00:09:08.790 align:start position:0%
+standard deviation projection targets.
+So<00:09:06.959><c> here</c><00:09:07.120><c> we</c><00:09:07.279><c> are</c><00:09:07.360><c> in</c><00:09:07.600><c> our</c><00:09:07.760><c> last</c><00:09:08.000><c> and</c><00:09:08.320><c> final</c>
+
+00:09:08.790 --> 00:09:08.800 align:start position:0%
+So here we are in our last and final
+ 
+
+00:09:08.800 --> 00:09:11.190 align:start position:0%
+So here we are in our last and final
+example<00:09:09.360><c> and</c><00:09:09.600><c> let's</c><00:09:09.839><c> take</c><00:09:09.920><c> a</c><00:09:10.160><c> look</c><00:09:10.240><c> at</c><00:09:10.480><c> a</c><00:09:10.720><c> few</c>
+
+00:09:11.190 --> 00:09:11.200 align:start position:0%
+example and let's take a look at a few
+ 
+
+00:09:11.200 --> 00:09:13.190 align:start position:0%
+example and let's take a look at a few
+scenarios.<00:09:12.160><c> So</c><00:09:12.399><c> what</c><00:09:12.480><c> do</c><00:09:12.560><c> we</c><00:09:12.720><c> notice</c><00:09:12.959><c> about</c>
+
+00:09:13.190 --> 00:09:13.200 align:start position:0%
+scenarios. So what do we notice about
+ 
+
+00:09:13.200 --> 00:09:15.350 align:start position:0%
+scenarios. So what do we notice about
+this<00:09:13.440><c> reversal</c><00:09:14.000><c> right</c><00:09:14.240><c> here?</c><00:09:14.800><c> If</c><00:09:14.959><c> we</c><00:09:15.120><c> take</c><00:09:15.200><c> a</c>
+
+00:09:15.350 --> 00:09:15.360 align:start position:0%
+this reversal right here? If we take a
+ 
+
+00:09:15.360 --> 00:09:17.590 align:start position:0%
+this reversal right here? If we take a
+look<00:09:15.440><c> at</c><00:09:15.600><c> the</c><00:09:15.760><c> range,</c><00:09:16.240><c> it</c><00:09:16.480><c> is</c><00:09:16.640><c> quite</c><00:09:16.959><c> a</c><00:09:17.200><c> large</c>
+
+00:09:17.590 --> 00:09:17.600 align:start position:0%
+look at the range, it is quite a large
+ 
+
+00:09:17.600 --> 00:09:19.910 align:start position:0%
+look at the range, it is quite a large
+manipulation<00:09:18.320><c> leg.</c><00:09:19.040><c> So</c><00:09:19.279><c> what</c><00:09:19.519><c> would</c><00:09:19.680><c> I</c><00:09:19.839><c> want</c>
+
+00:09:19.910 --> 00:09:19.920 align:start position:0%
+manipulation leg. So what would I want
+ 
+
+00:09:19.920 --> 00:09:22.150 align:start position:0%
+manipulation leg. So what would I want
+to<00:09:20.080><c> be</c><00:09:20.240><c> targeting</c><00:09:20.640><c> in</c><00:09:20.880><c> this</c><00:09:21.120><c> scenario?</c><00:09:21.920><c> Well,</c>
+
+00:09:22.150 --> 00:09:22.160 align:start position:0%
+to be targeting in this scenario? Well,
+ 
+
+00:09:22.160 --> 00:09:24.389 align:start position:0%
+to be targeting in this scenario? Well,
+the<00:09:22.480><c> negative</c><00:09:22.880><c> one,</c><00:09:23.360><c> right?</c><00:09:23.600><c> And</c><00:09:23.839><c> so</c><00:09:24.000><c> we</c><00:09:24.160><c> hit</c>
+
+00:09:24.389 --> 00:09:24.399 align:start position:0%
+the negative one, right? And so we hit
+ 
+
+00:09:24.399 --> 00:09:25.910 align:start position:0%
+the negative one, right? And so we hit
+our<00:09:24.560><c> negative</c><00:09:24.880><c> one,</c><00:09:25.440><c> we</c><00:09:25.600><c> get</c><00:09:25.680><c> a</c>
+
+00:09:25.910 --> 00:09:25.920 align:start position:0%
+our negative one, we get a
+ 
+
+00:09:25.920 --> 00:09:27.829 align:start position:0%
+our negative one, we get a
+consolidation.<00:09:26.880><c> We're</c><00:09:27.120><c> starting</c><00:09:27.200><c> to</c><00:09:27.360><c> form</c><00:09:27.600><c> a</c>
+
+00:09:27.829 --> 00:09:27.839 align:start position:0%
+consolidation. We're starting to form a
+ 
+
+00:09:27.839 --> 00:09:29.829 align:start position:0%
+consolidation. We're starting to form a
+little<00:09:28.000><c> reversal</c><00:09:28.480><c> off</c><00:09:28.720><c> of</c><00:09:28.880><c> that.</c><00:09:29.440><c> Now</c><00:09:29.680><c> let's</c>
+
+00:09:29.829 --> 00:09:29.839 align:start position:0%
+little reversal off of that. Now let's
+ 
+
+00:09:29.839 --> 00:09:31.750 align:start position:0%
+little reversal off of that. Now let's
+play<00:09:30.080><c> through</c><00:09:30.320><c> this</c><00:09:30.560><c> and</c><00:09:30.880><c> see</c><00:09:31.120><c> what</c><00:09:31.440><c> happens</c>
+
+00:09:31.750 --> 00:09:31.760 align:start position:0%
+play through this and see what happens
+ 
+
+00:09:31.760 --> 00:09:33.590 align:start position:0%
+play through this and see what happens
+and<00:09:32.000><c> how</c><00:09:32.399><c> projections</c><00:09:32.959><c> can</c><00:09:33.120><c> add</c><00:09:33.360><c> some</c>
+
+00:09:33.590 --> 00:09:33.600 align:start position:0%
+and how projections can add some
+ 
+
+00:09:33.600 --> 00:09:36.550 align:start position:0%
+and how projections can add some
+confluence.<00:09:34.560><c> So</c><00:09:34.720><c> here</c><00:09:34.880><c> we</c><00:09:35.040><c> get</c><00:09:35.120><c> a</c><00:09:35.360><c> reversal.</c>
+
+00:09:36.550 --> 00:09:36.560 align:start position:0%
+confluence. So here we get a reversal.
+ 
+
+00:09:36.560 --> 00:09:39.030 align:start position:0%
+confluence. So here we get a reversal.
+Do<00:09:36.800><c> we</c><00:09:36.880><c> get</c><00:09:36.959><c> the</c><00:09:37.200><c> closure?</c><00:09:37.760><c> We</c><00:09:38.000><c> do.</c><00:09:38.560><c> So</c><00:09:38.800><c> taking</c>
+
+00:09:39.030 --> 00:09:39.040 align:start position:0%
+Do we get the closure? We do. So taking
+ 
+
+00:09:39.040 --> 00:09:40.710 align:start position:0%
+Do we get the closure? We do. So taking
+a<00:09:39.200><c> look</c><00:09:39.279><c> at</c><00:09:39.440><c> this,</c><00:09:39.760><c> what</c><00:09:39.920><c> do</c><00:09:40.000><c> we</c><00:09:40.160><c> notice?</c><00:09:40.560><c> We</c>
+
+00:09:40.710 --> 00:09:40.720 align:start position:0%
+a look at this, what do we notice? We
+ 
+
+00:09:40.720 --> 00:09:43.910 align:start position:0%
+a look at this, what do we notice? We
+have<00:09:40.800><c> our</c><00:09:41.040><c> -2</c><00:09:41.519><c> to</c><00:09:41.760><c> -2.5</c><00:09:43.040><c> just</c><00:09:43.279><c> before</c><00:09:43.600><c> that</c>
+
+00:09:43.910 --> 00:09:43.920 align:start position:0%
+have our -2 to -2.5 just before that
+ 
+
+00:09:43.920 --> 00:09:46.150 align:start position:0%
+have our -2 to -2.5 just before that
+low.<00:09:44.480><c> Now,</c><00:09:44.800><c> when</c><00:09:44.959><c> this</c><00:09:45.200><c> occurs,</c><00:09:45.600><c> I</c><00:09:45.839><c> like</c><00:09:46.000><c> to</c>
+
+00:09:46.150 --> 00:09:46.160 align:start position:0%
+low. Now, when this occurs, I like to
+ 
+
+00:09:46.160 --> 00:09:49.269 align:start position:0%
+low. Now, when this occurs, I like to
+take<00:09:46.320><c> my</c><00:09:46.640><c> profit</c><00:09:47.440><c> at</c><00:09:47.680><c> that</c><00:09:48.000><c> liquidity</c><00:09:48.640><c> point</c>
+
+00:09:49.269 --> 00:09:49.279 align:start position:0%
+take my profit at that liquidity point
+ 
+
+00:09:49.279 --> 00:09:51.670 align:start position:0%
+take my profit at that liquidity point
+prior<00:09:49.680><c> to</c><00:09:49.920><c> the</c><00:09:50.160><c> final</c><00:09:50.480><c> target</c><00:09:51.120><c> because</c><00:09:51.360><c> a</c><00:09:51.600><c> lot</c>
+
+00:09:51.670 --> 00:09:51.680 align:start position:0%
+prior to the final target because a lot
+ 
+
+00:09:51.680 --> 00:09:53.269 align:start position:0%
+prior to the final target because a lot
+of<00:09:51.760><c> times</c><00:09:52.000><c> price</c><00:09:52.240><c> will</c><00:09:52.399><c> take</c><00:09:52.560><c> out</c><00:09:52.720><c> this</c><00:09:52.959><c> low</c>
+
+00:09:53.269 --> 00:09:53.279 align:start position:0%
+of times price will take out this low
+ 
+
+00:09:53.279 --> 00:09:55.350 align:start position:0%
+of times price will take out this low
+and<00:09:53.519><c> then</c><00:09:53.680><c> if</c><00:09:53.839><c> it's</c><00:09:54.080><c> consolidating,</c><00:09:54.880><c> go</c><00:09:55.120><c> back</c>
+
+00:09:55.350 --> 00:09:55.360 align:start position:0%
+and then if it's consolidating, go back
+ 
+
+00:09:55.360 --> 00:09:57.910 align:start position:0%
+and then if it's consolidating, go back
+into<00:09:55.600><c> the</c><00:09:55.839><c> range.</c><00:09:56.640><c> So,</c><00:09:56.880><c> I'll</c><00:09:57.279><c> go</c><00:09:57.360><c> ahead</c><00:09:57.600><c> and</c>
+
+00:09:57.910 --> 00:09:57.920 align:start position:0%
+into the range. So, I'll go ahead and
+ 
+
+00:09:57.920 --> 00:10:00.790 align:start position:0%
+into the range. So, I'll go ahead and
+see<00:09:58.160><c> how</c><00:09:58.399><c> does</c><00:09:58.560><c> this</c><00:09:58.720><c> work</c><00:09:58.959><c> out.</c><00:10:00.240><c> We</c><00:10:00.480><c> go</c><00:10:00.560><c> and</c>
+
+00:10:00.790 --> 00:10:00.800 align:start position:0%
+see how does this work out. We go and
+ 
+
+00:10:00.800 --> 00:10:04.389 align:start position:0%
+see how does this work out. We go and
+hit<00:10:00.959><c> that</c><00:10:01.200><c> target.</c><00:10:01.680><c> We</c><00:10:01.920><c> open</c><00:10:02.080><c> up</c><00:10:02.240><c> a</c><00:10:02.480><c> new</c><00:10:02.640><c> candle</c>
+
+00:10:04.389 --> 00:10:04.399 align:start position:0%
+hit that target. We open up a new candle
+ 
+
+00:10:04.399 --> 00:10:06.949 align:start position:0%
+hit that target. We open up a new candle
+and<00:10:04.640><c> we</c><00:10:04.800><c> go</c><00:10:04.959><c> and</c><00:10:05.200><c> hit</c><00:10:05.519><c> that</c><00:10:05.839><c> final</c><00:10:06.160><c> target.</c><00:10:06.800><c> But</c>
+
+00:10:06.949 --> 00:10:06.959 align:start position:0%
+and we go and hit that final target. But
+ 
+
+00:10:06.959 --> 00:10:08.710 align:start position:0%
+and we go and hit that final target. But
+that's<00:10:07.200><c> just</c><00:10:07.279><c> a</c><00:10:07.519><c> scenario</c><00:10:07.839><c> where</c><00:10:08.240><c> most</c><00:10:08.480><c> of</c><00:10:08.560><c> the</c>
+
+00:10:08.710 --> 00:10:08.720 align:start position:0%
+that's just a scenario where most of the
+ 
+
+00:10:08.720 --> 00:10:10.790 align:start position:0%
+that's just a scenario where most of the
+time<00:10:08.880><c> I'm</c><00:10:09.200><c> going</c><00:10:09.279><c> to</c><00:10:09.519><c> take</c><00:10:09.760><c> my</c><00:10:10.000><c> profit</c><00:10:10.399><c> here</c>
+
+00:10:10.790 --> 00:10:10.800 align:start position:0%
+time I'm going to take my profit here
+ 
+
+00:10:10.800 --> 00:10:12.710 align:start position:0%
+time I'm going to take my profit here
+and<00:10:10.959><c> not</c><00:10:11.120><c> be</c><00:10:11.279><c> greedy</c><00:10:11.600><c> to</c><00:10:11.760><c> hold</c><00:10:12.000><c> for</c><00:10:12.160><c> it</c><00:10:12.399><c> extra</c>
+
+00:10:12.710 --> 00:10:12.720 align:start position:0%
+and not be greedy to hold for it extra
+ 
+
+00:10:12.720 --> 00:10:15.269 align:start position:0%
+and not be greedy to hold for it extra
+few<00:10:12.959><c> points</c><00:10:13.279><c> and</c><00:10:13.519><c> give</c><00:10:13.680><c> up</c><00:10:13.920><c> the</c><00:10:14.160><c> entire</c><00:10:14.480><c> move.</c>
+
+00:10:15.269 --> 00:10:15.279 align:start position:0%
+few points and give up the entire move.
+ 
+
+00:10:15.279 --> 00:10:16.949 align:start position:0%
+few points and give up the entire move.
+Now<00:10:15.440><c> let's</c><00:10:15.600><c> see</c><00:10:15.760><c> if</c><00:10:15.920><c> we</c><00:10:16.000><c> form</c><00:10:16.240><c> a</c><00:10:16.399><c> reversal</c><00:10:16.800><c> in</c>
+
+00:10:16.949 --> 00:10:16.959 align:start position:0%
+Now let's see if we form a reversal in
+ 
+
+00:10:16.959 --> 00:10:19.750 align:start position:0%
+Now let's see if we form a reversal in
+the<00:10:17.200><c> other</c><00:10:17.360><c> direction.</c><00:10:18.560><c> We</c><00:10:18.800><c> do.</c><00:10:19.360><c> And</c><00:10:19.519><c> what</c><00:10:19.680><c> do</c>
+
+00:10:19.750 --> 00:10:19.760 align:start position:0%
+the other direction. We do. And what do
+ 
+
+00:10:19.760 --> 00:10:22.310 align:start position:0%
+the other direction. We do. And what do
+we<00:10:19.920><c> notice</c><00:10:20.160><c> about</c><00:10:20.399><c> these</c><00:10:20.800><c> targets?</c><00:10:21.360><c> Right,</c>
+
+00:10:22.310 --> 00:10:22.320 align:start position:0%
+we notice about these targets? Right,
+ 
+
+00:10:22.320 --> 00:10:25.190 align:start position:0%
+we notice about these targets? Right,
+the<00:10:22.720><c> -1</c><00:10:23.519><c> aligns</c><00:10:23.920><c> with</c><00:10:24.079><c> some</c><00:10:24.240><c> equal</c><00:10:24.480><c> highs</c><00:10:24.800><c> here</c>
+
+00:10:25.190 --> 00:10:25.200 align:start position:0%
+the -1 aligns with some equal highs here
+ 
+
+00:10:25.200 --> 00:10:27.990 align:start position:0%
+the -1 aligns with some equal highs here
+and<00:10:25.360><c> the</c><00:10:25.680><c> -2</c><00:10:26.079><c> to</c><00:10:26.320><c> -2.5</c><00:10:27.279><c> lines</c><00:10:27.600><c> up</c><00:10:27.680><c> with</c><00:10:27.839><c> these</c>
+
+00:10:27.990 --> 00:10:28.000 align:start position:0%
+and the -2 to -2.5 lines up with these
+ 
+
+00:10:28.000 --> 00:10:30.310 align:start position:0%
+and the -2 to -2.5 lines up with these
+failure<00:10:28.399><c> swing</c><00:10:28.640><c> highs</c><00:10:28.959><c> here.</c><00:10:29.600><c> Now,</c><00:10:29.839><c> if</c><00:10:30.079><c> price</c>
+
+00:10:30.310 --> 00:10:30.320 align:start position:0%
+failure swing highs here. Now, if price
+ 
+
+00:10:30.320 --> 00:10:32.230 align:start position:0%
+failure swing highs here. Now, if price
+is<00:10:30.480><c> going</c><00:10:30.560><c> to</c><00:10:30.720><c> remain</c><00:10:30.959><c> in</c><00:10:31.120><c> a</c><00:10:31.279><c> consolidation,</c>
+
+00:10:32.230 --> 00:10:32.240 align:start position:0%
+is going to remain in a consolidation,
+ 
+
+00:10:32.240 --> 00:10:33.430 align:start position:0%
+is going to remain in a consolidation,
+this<00:10:32.399><c> is</c><00:10:32.560><c> where</c><00:10:32.720><c> I'm</c><00:10:32.959><c> going</c><00:10:33.040><c> to</c><00:10:33.120><c> want</c><00:10:33.279><c> to</c>
+
+00:10:33.430 --> 00:10:33.440 align:start position:0%
+this is where I'm going to want to
+ 
+
+00:10:33.440 --> 00:10:34.949 align:start position:0%
+this is where I'm going to want to
+actually<00:10:33.760><c> pay</c><00:10:33.920><c> attention</c><00:10:34.240><c> to</c><00:10:34.399><c> this</c><00:10:34.560><c> negative</c>
+
+00:10:34.949 --> 00:10:34.959 align:start position:0%
+actually pay attention to this negative
+ 
+
+00:10:34.959 --> 00:10:36.710 align:start position:0%
+actually pay attention to this negative
+one<00:10:35.120><c> target</c><00:10:35.680><c> because</c><00:10:35.920><c> it's</c><00:10:36.079><c> the</c><00:10:36.240><c> liquidity</c>
+
+00:10:36.710 --> 00:10:36.720 align:start position:0%
+one target because it's the liquidity
+ 
+
+00:10:36.720 --> 00:10:38.790 align:start position:0%
+one target because it's the liquidity
+point<00:10:36.959><c> internal</c><00:10:37.519><c> to</c><00:10:37.680><c> this</c><00:10:37.920><c> range.</c><00:10:38.480><c> But</c><00:10:38.640><c> let's</c>
+
+00:10:38.790 --> 00:10:38.800 align:start position:0%
+point internal to this range. But let's
+ 
+
+00:10:38.800 --> 00:10:41.110 align:start position:0%
+point internal to this range. But let's
+see<00:10:38.959><c> how</c><00:10:39.120><c> this</c><00:10:39.279><c> works</c><00:10:39.519><c> out.</c>
+
+00:10:41.110 --> 00:10:41.120 align:start position:0%
+see how this works out.
+ 
+
+00:10:41.120 --> 00:10:43.269 align:start position:0%
+see how this works out.
+So,<00:10:41.279><c> we</c><00:10:41.519><c> go</c><00:10:41.680><c> and</c><00:10:41.920><c> we</c><00:10:42.079><c> do</c><00:10:42.240><c> not</c><00:10:42.399><c> reverse</c><00:10:42.800><c> off</c><00:10:43.040><c> this</c>
+
+00:10:43.269 --> 00:10:43.279 align:start position:0%
+So, we go and we do not reverse off this
+ 
+
+00:10:43.279 --> 00:10:44.870 align:start position:0%
+So, we go and we do not reverse off this
+high.<00:10:43.760><c> So,</c><00:10:43.839><c> I</c><00:10:44.000><c> could</c><00:10:44.160><c> be</c><00:10:44.320><c> looking</c><00:10:44.399><c> for</c><00:10:44.640><c> price</c>
+
+00:10:44.870 --> 00:10:44.880 align:start position:0%
+high. So, I could be looking for price
+ 
+
+00:10:44.880 --> 00:10:47.350 align:start position:0%
+high. So, I could be looking for price
+to<00:10:45.040><c> trade</c><00:10:45.360><c> higher</c><00:10:45.680><c> into</c><00:10:45.920><c> the</c><00:10:46.079><c> highs.</c><00:10:47.040><c> And</c><00:10:47.200><c> this</c>
+
+00:10:47.350 --> 00:10:47.360 align:start position:0%
+to trade higher into the highs. And this
+ 
+
+00:10:47.360 --> 00:10:49.590 align:start position:0%
+to trade higher into the highs. And this
+is<00:10:47.519><c> where</c><00:10:47.680><c> we</c><00:10:48.000><c> actually</c><00:10:48.320><c> are</c><00:10:48.640><c> currently.</c><00:10:49.440><c> So,</c>
+
+00:10:49.590 --> 00:10:49.600 align:start position:0%
+is where we actually are currently. So,
+ 
+
+00:10:49.600 --> 00:10:51.350 align:start position:0%
+is where we actually are currently. So,
+we'll<00:10:49.839><c> see</c><00:10:50.000><c> if</c><00:10:50.160><c> this</c><00:10:50.399><c> high</c><00:10:50.640><c> eventually</c><00:10:51.120><c> does</c>
+
+00:10:51.350 --> 00:10:51.360 align:start position:0%
+we'll see if this high eventually does
+ 
+
+00:10:51.360 --> 00:10:53.030 align:start position:0%
+we'll see if this high eventually does
+get<00:10:51.519><c> taken</c><00:10:51.839><c> out.</c><00:10:52.320><c> But</c><00:10:52.399><c> that</c><00:10:52.560><c> is</c><00:10:52.640><c> what</c><00:10:52.800><c> I</c><00:10:52.959><c> would</c>
+
+00:10:53.030 --> 00:10:53.040 align:start position:0%
+get taken out. But that is what I would
+ 
+
+00:10:53.040 --> 00:10:54.790 align:start position:0%
+get taken out. But that is what I would
+be<00:10:53.200><c> looking</c><00:10:53.360><c> for.</c><00:10:53.760><c> The</c><00:10:53.920><c> projections</c><00:10:54.399><c> are</c><00:10:54.560><c> a</c>
+
+00:10:54.790 --> 00:10:54.800 align:start position:0%
+be looking for. The projections are a
+ 
+
+00:10:54.800 --> 00:10:57.350 align:start position:0%
+be looking for. The projections are a
+confluence<00:10:55.360><c> to</c><00:10:55.600><c> this</c><00:10:55.839><c> target</c><00:10:56.320><c> here.</c><00:10:56.959><c> Now,</c><00:10:57.200><c> I</c>
+
+00:10:57.350 --> 00:10:57.360 align:start position:0%
+confluence to this target here. Now, I
+ 
+
+00:10:57.360 --> 00:10:58.949 align:start position:0%
+confluence to this target here. Now, I
+hope<00:10:57.440><c> you</c><00:10:57.600><c> enjoyed</c><00:10:57.920><c> this</c><00:10:58.079><c> video.</c><00:10:58.399><c> If</c><00:10:58.640><c> it</c><00:10:58.800><c> does</c>
+
+00:10:58.949 --> 00:10:58.959 align:start position:0%
+hope you enjoyed this video. If it does
+ 
+
+00:10:58.959 --> 00:11:00.790 align:start position:0%
+hope you enjoyed this video. If it does
+make<00:10:59.120><c> sense</c><00:10:59.360><c> to</c><00:10:59.519><c> you,</c><00:11:00.000><c> please</c><00:11:00.240><c> like</c><00:11:00.480><c> and</c>
+
+00:11:00.790 --> 00:11:00.800 align:start position:0%
+make sense to you, please like and
+ 
+
+00:11:00.800 --> 00:11:01.910 align:start position:0%
+make sense to you, please like and
+subscribe.<00:11:01.200><c> And</c><00:11:01.360><c> if</c><00:11:01.519><c> you</c><00:11:01.600><c> have</c><00:11:01.680><c> any</c>
+
+00:11:01.910 --> 00:11:01.920 align:start position:0%
+subscribe. And if you have any
+ 
+
+00:11:01.920 --> 00:11:03.430 align:start position:0%
+subscribe. And if you have any
+questions,<00:11:02.480><c> leave</c><00:11:02.640><c> them</c><00:11:02.800><c> in</c><00:11:03.040><c> the</c><00:11:03.200><c> comment</c>
+
+00:11:03.430 --> 00:11:03.440 align:start position:0%
+questions, leave them in the comment
+ 
+
+00:11:03.440 --> 00:11:05.350 align:start position:0%
+questions, leave them in the comment
+section<00:11:03.760><c> below.</c><00:11:04.480><c> With</c><00:11:04.640><c> that,</c><00:11:04.880><c> I</c><00:11:05.040><c> hope</c><00:11:05.120><c> you</c>
+
+00:11:05.350 --> 00:11:05.360 align:start position:0%
+section below. With that, I hope you
+ 
+
+00:11:05.360 --> 00:11:06.470 align:start position:0%
+section below. With that, I hope you
+have<00:11:05.440><c> a</c><00:11:05.519><c> great</c><00:11:05.680><c> rest</c><00:11:05.839><c> of</c><00:11:05.839><c> your</c><00:11:06.000><c> day</c><00:11:06.079><c> and</c><00:11:06.320><c> I'll</c>
+
+00:11:06.470 --> 00:11:06.480 align:start position:0%
+have a great rest of your day and I'll
+ 
+
+00:11:06.480 --> 00:11:10.839 align:start position:0%
+have a great rest of your day and I'll
+see<00:11:06.560><c> you</c><00:11:06.640><c> guys</c><00:11:06.800><c> next</c><00:11:07.040><c> time.</c><00:11:07.360><c> Have</c><00:11:07.519><c> a</c><00:11:07.680><c> good</c><00:11:07.839><c> one.</c>
+

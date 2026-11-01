@@ -1,0 +1,1175 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "CKltGYiesHA",
+    "title": "Quit Moving Your Stop Loss Before You Know This (Trailing Stop Loss)",
+    "url": "https://www.youtube.com/watch?v=CKltGYiesHA",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "model": "small",
+  "device": "cpu",
+  "language": "en",
+  "text": "How's it going everyone and welcome back to another video. In this video we are going to talk about trailing our stop losses. We're going to talk about when it makes sense to trail a stop loss and how to go about that within my fractal model. Let's get into the PDF. The first thing you have to understand is what is a protected swing. I have an entire video and blog on this on my website if you want to check that out. But simply put a protected swing is when price reaches into a swing high or a low. You can see here we take out a swing low and then price closes over the series of candles that went into that point of interest. So with this closure over, I can anticipate this protected swing to hold into trade higher. Another point of interest that I use is a fair value gap. So you can see price makes a move up. We have a fair value gap price reaches into that fair value gap, which is a point of interest. When price closes over the series of down close candles that made that low right here. This is now a protected swing and I can expect it to hold. So now that you understand a protected swing and if you don't, I really recommend watching that video. We are going to talk about where to trail our stop losses. Our stop losses can only be trailed to new protected swings. So when we have a move up here, am I going to trail my stop loss to this down close candle here? No, because under my model, I don't consider that a protected swing. But here you can see price reaches into a fair value gap, closes over the down close candles into that point of interest. So now we have a new protected swing. We can move our stop loss, which was down here to this new protected swing. If we are expecting this trend to continue higher to our draw on liquidity above. So we get a new move higher. Here we have an opposing run into this point of interest. Then we close over. We can expect this low to hold as it trades higher into that draw on liquidity. Now, how do I really combine this with my fractal model? Now, ideally, as I've gone over in previous videos, and I'll probably make another one on it, is we want to let the wick form and then trade the body. So when we're thinking about trailing our stop losses, how does that make sense? If we are, let's say, on side this reversal in candle to here, and then we open up candle three. Ideally, we're letting that wick form and then going to trade the body that inter candle change in the state of delivery. So looking here, when we open up that new candle, we make an opposing run and then continue higher. Ideally, our stop loss is going to be trailed to the higher timeframe wick. Now, yes, we can trail within these higher timeframe candles. But what are we looking for in candle for here? If it's going to continue, we want to see it respect 50% of this higher timeframe candle. So ideally, I don't want to trail my stop if I'm expecting it to go higher too high up in this candle, or I will get swept out in the next higher timeframe candle. Now, the last thing we're going to talk about is should I trail or should I take profit? And a lot of this depends on where you are entering, how close are you to your draw on liquidity, and how much range do we have left? How much of the daily range has been created if we're trading intraday? Here, for example, this is marking where we have taken our entry, we have traded this reversal right here, we have our stop on this low, our entry right here, you can see if we are expecting the daily range to expand and we have a draw liquidity up here, we have quite a bit of room for this trade to move, right, it can really go and expand. This makes sense where I can go ahead and trail my position, right, because I have a lot of movement or a lot of range that price could go and expand. So how am I going to do that? I'm going to trail to new protected swings. So going into these next candles, wait for new protected swings, then I could trail up to them as well. Now, when does it make sense to not really trail? Here you can see on that same daily candle, where we entering, we're entering almost halfway through the daily range. And our two are is at that daily range, right, that average daily range or ADR. It doesn't really make sense to try to keep trailing here, because a lot of times what's you're going to get is it's going to hit some sort of drawn liquidity or it's daily range, and then come back and reverse you out, and you're going to be left with one R or sometimes even less. So in this case, it doesn't really make sense to trail up to these highs, right? I just want to take my profit at these objectives. Now, the one thing you could do in a lot of questions I get are, when do you move to break even? Can you move to break even? Well, right here, you can see if we form a new protected swing that is at our break even point, I could then move my stop loss to that break even point, right? But I don't want to get too aggressive with my trailing when I'm just expecting it to hit this drawn liquidity right around to R. I want to get more aggressive with my trailing when I'm reaching those really high RRs, and I'm reaching those targets after I already have such a large move. So now that you understand when and where I look to trail, let's get into trading view and go over a few examples of this. So here we are on the daily chart on NASDAQ. What do we have? We've taken out this swing low or this range low, and we've had a nice reaction. And you can see that reaction, because if we go down here to the hourly chart, you can see we've had a nice change in the stated delivery here. So going back to the daily chart, what is our whole idea here? Well, if we have a reversal, we want to see form, and then an inside bar, what is an inside bar, it's a consolidation. So you can see we have what these equal highs up here, and a range low here, going to the next day, if we are having an inside bar, I'd want to see a sweep of a low, right to then trade back up into this gap right here. Now going down to the four hour chart, what would I want to see here in terms of intraday profile is I'd want to see, you know, a sweep of this low here, a four hour swing point put in, and then we can look to trade up into those highs. So let's see what happens here. So here you can see we do sweep out that low, what do we form a four hour candle to closure. So if you watch my intraday profile video in Asia, if we have a four hour closure, we can use this to confirm the low of the day. With this, we could go to the four hour and 15 minute model and look to trade this higher up into the previous day as high in the daily high before that. So down here on the 15 minute timeframe, you can see we have that SMT, we have that change in the state of delivery. Let's let another 15 minute candle print, and we can take a look at this. So what do we have? Let's clean it up a little. We have that candle to closure. We have a change in the state of delivery. And that's also paired with this SMT, as you can see on the higher timeframe candles as well. We also have a PSP there on this candle to so taking a look, what do we want to look for protected swings? You can see my indicator marks that out. We have went into a fair value gap here closed over. So we have a protected swing there. We have went into a fair value gap here, and then also closed over. So we have a protected swing here. So going into this next candle, we already have our entry or a protected swing here. So we could either look to enter this positionally, or wait for a new protected swing. If I'm going to enter this positionally, I can put my stop on that protected swing. You can see that gives me to are there. Or if I'm looking to trade into our drawn liquidity, I can look for price to trade up to there. So let's see what happens here. And when could we trail our stop loss? So you can see we get nice push away. Now this is what we have that daily range that we can expect to trade higher, we have a nice displacement away, I can look to trail my stop loss here, because it makes sense, I can expect more range. So let's see if we can get something to form here. And there we go, we get a new protected swing. So now I could move my stop loss, which was right here, all the way up to this new protected swing. Let's see what happens here. You can see this is not a protected swing, never hit any sort of point of interest. And here we have a new protected swing. So then I could trail my stop loss to there. And so you can see, I'm trailing to essentially where I'm already getting, you know, four to five are, and I'm looking for this six to seven are here on this trade. And this is a high risk to reward trade. But I'm it's a good example of trailing a stop loss. You can see, you know, it takes a long time to go finally hit our final TP. But you can see how we can trail our stop loss here. So just to review, if I get entry around the opening price of candle three, you know, early into this range where I'm expecting to go higher, I have the daily aligned, I haven't used all that ADR, I can look to trail my stop loss to new protected swings. You can see my indicator makes it easy as I have these protected swings that just mark out for me, right? So this one forms out of a fair value gap, forms out of a fair value gap, fair value gap, fair value gap. In this case here, it was just forming from reacting out of fair value gaps, but it's also valid if it sweeps a low. So let's get into another example. So here we are in our next example, we are on NASDAQ on the one minute and 15 minute model at 930 this morning. What do we have? We have 930 making this opposing run higher as a nice V shape back lower, having a change in the state of delivery with this SMT also has a PSP on candle two. But what do we see with this closure? We also form a new protected swing here. Why is that a protected swing? After the change in the state of delivery, we reach into a fair value gap and then close below this up close candle here, giving a protected swing. So going into this next candle, what are we expecting in candle three? We want to see candle three form some sort of wick, right? Could be small, but a wick respecting this EQ here, right? And then trading lower open, high, low, close. So what could we do? There's lots of different entries we could take. We could enter the open of candle three, put our stop on a protected swing, like we did in the previous example, and look for two R there, or we could say we have failure swings right here. We want to see those taken out and look to take an entry right at that. Right. And that gets us to our a lot quicker. Or we could wait for a new continuation to form. But let's see what happens here. So as we let this continue, you can see we form that new continuation, we get a new protected swing also paired with an SMT from ES and YM, we're getting this continuation lower. We go ahead and hit that TP from the first trade. So let's see what happens if we form a new continuation. What are we seeing here? We reach up, sweep out a high, and then we get a closure through these series of up close candles here. So we have a new continuation that forms. What do we notice about this continuation? It instantly gets invalidated. So it's valid to trail my stop loss to this, right? But once it gets invalidated, it shows us that this trend from this candle to is either consolidating or reversing, or it can get a bit choppy. So it's not that if I'm already in a trade, it's completely invalid. It just means that I may experience some consolidation. Let's see what happens. So you can see we do form a protected swing here. But this is kind of giving us a clue that it's a bit choppy. So I may not enjoy that one. And see, it also gets invalidated turns gray. And what do we have? Now we have a new higher time from candle, we aren't really looking for shorts anymore, because this doesn't support expansion lower anymore. But the main point of this example is, this is a valid spot to trail your stop loss to. So let's say you took this trade here, you had your stop on that protected swing, and you were looking for two are, you know, whether or not you got it right here, it's quite close, it is valid to trail your stop loss to there, and you would get taken out, you know, around one R there. But this is just an example of showing what protected swings look like, how to trail your stop loss. Let's get into another example. So here we are in our next example, we have a higher time frame fair value gap right here. And we have this early change in the state of delivery forming. Let's go ahead and get it into the next candle and let this candle close. Here you can see, we do have a candle to closure that change in the state of delivery. And here we have that T spot. So we are looking for a continuation in this area. Now once again, we have multiple fair value gaps here, we have one right here, we also have one right here, I don't try to predict where this continuation is going to form. I'm just going to see if we form a continuation in this one right here, if we do great, if we don't, then I can look towards this upper fair value gap. See what happens there we do form that continuation. So I'm not looking for this upper fair value gap anymore. And I could look to take a short on this open of the new higher time frame candle, as we have now formed a protected swing, and go ahead and look for two are, and let's see what this looks like. And let's see what happens. Right. So here we come back into our entry into this fair value gap right here. And what happens, we form a new continuation. So with this new continuation, this is where I was talking about where you could go break even or pretty close to break even, I could move my stop loss to this new protected swing. We'll go ahead and mark that out. This is where my stop loss would be. Let's see what happens. We have a new candle open, right candle for what do we have, we have a fair value gap right here. So are we looking for an open high to form the wick? And what are we getting, we're getting a new continuation here as well. So we could take an entry there, or we can trail our stop loss to this high. You can see now we are trailing our stop loss, we are in profit here, let's see if this goes to to are it does, and we get that continuation. Now the nice thing is when you are tracking protected swings here, let's go ahead and remove all these drawings, I can take further entries once I get a new continuation. So if I miss this whole candle three, I could wait for candle four, and I could still take this continuation right here. And if you notice, I can still get to our from where I entered on the first trade. So this is a great example of one, taking new continuations, but to how to trail your stop loss. And this is a great swing where you have a reversal candle, and you get those continuations, they all have a small wick, they are all expansions. Let's get into one final example. So here we are in our last example, we have a candle to closure here, we have a change in the state of delivery, we have a PSP and SMT, those confluences to a reversal. Now what are we looking for in this next candle? Well, as we talked about in my intraday reversal video, we want to let this wick form. So ideally, we want to see a protected swing form. So what do we have, we have that protected swing form. So ideally, this high a day will hold as we can trade slower. So what could I do, I could look for an entry there on the reversal, or I could wait for a new protected swing. And here you can see, we hit our fair value gap here, we are closing through the series of up close candles, in this case, it is just one. So what would that be a new protected swing, we could look to take an entry here, put our stop loss on the protected swing, and then look for two are which lines up also with these lows here, and I can show you this will print on the open of a new candle, and you could do it there. But we can also just go one hour at a time, and let this continue. So what do we have, we have that nice continuation lower from a protected swing. Now, would I be able to trail my stop loss in the scenario, it doesn't make sense to trail my stop loss because I have no protected swings before my target, we've already had quite a daily range, as you can see 500 600 points. So this is one of those scenarios where it doesn't make sense to trail my stop loss before my objective, I'd rather just take my profit at the objective. With that, I hope you enjoyed the video. If you did, give it a like, give it a subscribe, and I'll see you guys in the next video. Have a good one.",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 14.4,
+      "text": "How's it going everyone and welcome back to another video."
+    },
+    {
+      "id": 1,
+      "start": 14.4,
+      "end": 17.68,
+      "text": "In this video we are going to talk about trailing our stop losses."
+    },
+    {
+      "id": 2,
+      "start": 17.68,
+      "end": 22.4,
+      "text": "We're going to talk about when it makes sense to trail a stop loss and how to go about that"
+    },
+    {
+      "id": 3,
+      "start": 22.4,
+      "end": 24.44,
+      "text": "within my fractal model."
+    },
+    {
+      "id": 4,
+      "start": 24.44,
+      "end": 25.44,
+      "text": "Let's get into the PDF."
+    },
+    {
+      "id": 5,
+      "start": 25.44,
+      "end": 29.04,
+      "text": "The first thing you have to understand is what is a protected swing."
+    },
+    {
+      "id": 6,
+      "start": 29.44,
+      "end": 33.84,
+      "text": "I have an entire video and blog on this on my website if you want to check that out."
+    },
+    {
+      "id": 7,
+      "start": 33.84,
+      "end": 39.04,
+      "text": "But simply put a protected swing is when price reaches into a swing high or a low."
+    },
+    {
+      "id": 8,
+      "start": 39.76,
+      "end": 44.64,
+      "text": "You can see here we take out a swing low and then price closes over the series of candles"
+    },
+    {
+      "id": 9,
+      "start": 44.64,
+      "end": 47.04,
+      "text": "that went into that point of interest."
+    },
+    {
+      "id": 10,
+      "start": 47.04,
+      "end": 52.08,
+      "text": "So with this closure over, I can anticipate this protected swing to hold into trade higher."
+    },
+    {
+      "id": 11,
+      "start": 52.08,
+      "end": 55.44,
+      "text": "Another point of interest that I use is a fair value gap."
+    },
+    {
+      "id": 12,
+      "start": 55.44,
+      "end": 57.28,
+      "text": "So you can see price makes a move up."
+    },
+    {
+      "id": 13,
+      "start": 57.36,
+      "end": 62.8,
+      "text": "We have a fair value gap price reaches into that fair value gap, which is a point of interest."
+    },
+    {
+      "id": 14,
+      "start": 62.8,
+      "end": 67.76,
+      "text": "When price closes over the series of down close candles that made that low right here."
+    },
+    {
+      "id": 15,
+      "start": 67.76,
+      "end": 71.04,
+      "text": "This is now a protected swing and I can expect it to hold."
+    },
+    {
+      "id": 16,
+      "start": 71.04,
+      "end": 75.2,
+      "text": "So now that you understand a protected swing and if you don't, I really recommend watching"
+    },
+    {
+      "id": 17,
+      "start": 75.2,
+      "end": 76.08,
+      "text": "that video."
+    },
+    {
+      "id": 18,
+      "start": 76.08,
+      "end": 78.96,
+      "text": "We are going to talk about where to trail our stop losses."
+    },
+    {
+      "id": 19,
+      "start": 79.6,
+      "end": 83.36,
+      "text": "Our stop losses can only be trailed to new protected swings."
+    },
+    {
+      "id": 20,
+      "start": 83.36,
+      "end": 88.24,
+      "text": "So when we have a move up here, am I going to trail my stop loss to this down close candle here?"
+    },
+    {
+      "id": 21,
+      "start": 88.24,
+      "end": 92.24,
+      "text": "No, because under my model, I don't consider that a protected swing."
+    },
+    {
+      "id": 22,
+      "start": 92.24,
+      "end": 97.28,
+      "text": "But here you can see price reaches into a fair value gap, closes over the down close"
+    },
+    {
+      "id": 23,
+      "start": 97.28,
+      "end": 99.2,
+      "text": "candles into that point of interest."
+    },
+    {
+      "id": 24,
+      "start": 99.2,
+      "end": 101.52,
+      "text": "So now we have a new protected swing."
+    },
+    {
+      "id": 25,
+      "start": 101.52,
+      "end": 106.24,
+      "text": "We can move our stop loss, which was down here to this new protected swing."
+    },
+    {
+      "id": 26,
+      "start": 106.24,
+      "end": 110.64,
+      "text": "If we are expecting this trend to continue higher to our draw on liquidity above."
+    },
+    {
+      "id": 27,
+      "start": 111.28,
+      "end": 113.28,
+      "text": "So we get a new move higher."
+    },
+    {
+      "id": 28,
+      "start": 113.28,
+      "end": 116.56,
+      "text": "Here we have an opposing run into this point of interest."
+    },
+    {
+      "id": 29,
+      "start": 116.56,
+      "end": 117.92,
+      "text": "Then we close over."
+    },
+    {
+      "id": 30,
+      "start": 117.92,
+      "end": 122.72,
+      "text": "We can expect this low to hold as it trades higher into that draw on liquidity."
+    },
+    {
+      "id": 31,
+      "start": 122.72,
+      "end": 125.6,
+      "text": "Now, how do I really combine this with my fractal model?"
+    },
+    {
+      "id": 32,
+      "start": 125.6,
+      "end": 130.08,
+      "text": "Now, ideally, as I've gone over in previous videos, and I'll probably make another one on it,"
+    },
+    {
+      "id": 33,
+      "start": 130.08,
+      "end": 133.44,
+      "text": "is we want to let the wick form and then trade the body."
+    },
+    {
+      "id": 34,
+      "start": 133.44,
+      "end": 137.68,
+      "text": "So when we're thinking about trailing our stop losses, how does that make sense?"
+    },
+    {
+      "id": 35,
+      "start": 137.68,
+      "end": 143.52,
+      "text": "If we are, let's say, on side this reversal in candle to here, and then we open up candle three."
+    },
+    {
+      "id": 36,
+      "start": 143.52,
+      "end": 148.64,
+      "text": "Ideally, we're letting that wick form and then going to trade the body that inter candle change"
+    },
+    {
+      "id": 37,
+      "start": 148.64,
+      "end": 150.0,
+      "text": "in the state of delivery."
+    },
+    {
+      "id": 38,
+      "start": 150.0,
+      "end": 155.2,
+      "text": "So looking here, when we open up that new candle, we make an opposing run and then continue higher."
+    },
+    {
+      "id": 39,
+      "start": 155.2,
+      "end": 159.68,
+      "text": "Ideally, our stop loss is going to be trailed to the higher timeframe wick."
+    },
+    {
+      "id": 40,
+      "start": 159.68,
+      "end": 162.96,
+      "text": "Now, yes, we can trail within these higher timeframe candles."
+    },
+    {
+      "id": 41,
+      "start": 162.96,
+      "end": 165.28,
+      "text": "But what are we looking for in candle for here?"
+    },
+    {
+      "id": 42,
+      "start": 165.28,
+      "end": 170.4,
+      "text": "If it's going to continue, we want to see it respect 50% of this higher timeframe candle."
+    },
+    {
+      "id": 43,
+      "start": 170.4,
+      "end": 175.12,
+      "text": "So ideally, I don't want to trail my stop if I'm expecting it to go higher too high up in this candle,"
+    },
+    {
+      "id": 44,
+      "start": 175.12,
+      "end": 178.4,
+      "text": "or I will get swept out in the next higher timeframe candle."
+    },
+    {
+      "id": 45,
+      "start": 178.4,
+      "end": 182.8,
+      "text": "Now, the last thing we're going to talk about is should I trail or should I take profit?"
+    },
+    {
+      "id": 46,
+      "start": 182.8,
+      "end": 188.08,
+      "text": "And a lot of this depends on where you are entering, how close are you to your draw on liquidity,"
+    },
+    {
+      "id": 47,
+      "start": 188.08,
+      "end": 190.08,
+      "text": "and how much range do we have left?"
+    },
+    {
+      "id": 48,
+      "start": 190.08,
+      "end": 193.52,
+      "text": "How much of the daily range has been created if we're trading intraday?"
+    },
+    {
+      "id": 49,
+      "start": 193.6,
+      "end": 198.0,
+      "text": "Here, for example, this is marking where we have taken our entry, we have traded this reversal"
+    },
+    {
+      "id": 50,
+      "start": 198.0,
+      "end": 203.04,
+      "text": "right here, we have our stop on this low, our entry right here, you can see if we are expecting"
+    },
+    {
+      "id": 51,
+      "start": 203.04,
+      "end": 208.0,
+      "text": "the daily range to expand and we have a draw liquidity up here, we have quite a bit of room"
+    },
+    {
+      "id": 52,
+      "start": 208.0,
+      "end": 211.76,
+      "text": "for this trade to move, right, it can really go and expand."
+    },
+    {
+      "id": 53,
+      "start": 211.76,
+      "end": 215.84,
+      "text": "This makes sense where I can go ahead and trail my position, right, because I have"
+    },
+    {
+      "id": 54,
+      "start": 215.84,
+      "end": 220.16,
+      "text": "a lot of movement or a lot of range that price could go and expand."
+    },
+    {
+      "id": 55,
+      "start": 220.16,
+      "end": 221.76,
+      "text": "So how am I going to do that?"
+    },
+    {
+      "id": 56,
+      "start": 221.84,
+      "end": 224.56,
+      "text": "I'm going to trail to new protected swings."
+    },
+    {
+      "id": 57,
+      "start": 224.56,
+      "end": 229.04,
+      "text": "So going into these next candles, wait for new protected swings, then I could trail up to them"
+    },
+    {
+      "id": 58,
+      "start": 229.04,
+      "end": 233.92,
+      "text": "as well. Now, when does it make sense to not really trail? Here you can see on that same"
+    },
+    {
+      "id": 59,
+      "start": 233.92,
+      "end": 238.72,
+      "text": "daily candle, where we entering, we're entering almost halfway through the daily range."
+    },
+    {
+      "id": 60,
+      "start": 238.72,
+      "end": 244.4,
+      "text": "And our two are is at that daily range, right, that average daily range or ADR."
+    },
+    {
+      "id": 61,
+      "start": 244.4,
+      "end": 248.4,
+      "text": "It doesn't really make sense to try to keep trailing here, because a lot of times what's"
+    },
+    {
+      "id": 62,
+      "start": 248.4,
+      "end": 252.24,
+      "text": "you're going to get is it's going to hit some sort of drawn liquidity or it's daily range,"
+    },
+    {
+      "id": 63,
+      "start": 252.24,
+      "end": 257.12,
+      "text": "and then come back and reverse you out, and you're going to be left with one R or sometimes even less."
+    },
+    {
+      "id": 64,
+      "start": 257.12,
+      "end": 261.04,
+      "text": "So in this case, it doesn't really make sense to trail up to these highs, right?"
+    },
+    {
+      "id": 65,
+      "start": 261.04,
+      "end": 266.32,
+      "text": "I just want to take my profit at these objectives. Now, the one thing you could do in a lot of"
+    },
+    {
+      "id": 66,
+      "start": 266.32,
+      "end": 270.88,
+      "text": "questions I get are, when do you move to break even? Can you move to break even?"
+    },
+    {
+      "id": 67,
+      "start": 270.88,
+      "end": 276.48,
+      "text": "Well, right here, you can see if we form a new protected swing that is at our break even point,"
+    },
+    {
+      "id": 68,
+      "start": 276.56,
+      "end": 280.72,
+      "text": "I could then move my stop loss to that break even point, right? But I don't want to get too"
+    },
+    {
+      "id": 69,
+      "start": 280.72,
+      "end": 285.84,
+      "text": "aggressive with my trailing when I'm just expecting it to hit this drawn liquidity right around to R."
+    },
+    {
+      "id": 70,
+      "start": 285.84,
+      "end": 290.16,
+      "text": "I want to get more aggressive with my trailing when I'm reaching those really high RRs, and I'm"
+    },
+    {
+      "id": 71,
+      "start": 290.16,
+      "end": 295.04,
+      "text": "reaching those targets after I already have such a large move. So now that you understand when and"
+    },
+    {
+      "id": 72,
+      "start": 295.04,
+      "end": 300.48,
+      "text": "where I look to trail, let's get into trading view and go over a few examples of this. So here we are"
+    },
+    {
+      "id": 73,
+      "start": 300.48,
+      "end": 306.16,
+      "text": "on the daily chart on NASDAQ. What do we have? We've taken out this swing low or this range low,"
+    },
+    {
+      "id": 74,
+      "start": 306.16,
+      "end": 309.6,
+      "text": "and we've had a nice reaction. And you can see that reaction, because if we go down here to the"
+    },
+    {
+      "id": 75,
+      "start": 309.6,
+      "end": 314.8,
+      "text": "hourly chart, you can see we've had a nice change in the stated delivery here. So going back to the"
+    },
+    {
+      "id": 76,
+      "start": 314.8,
+      "end": 320.8,
+      "text": "daily chart, what is our whole idea here? Well, if we have a reversal, we want to see form, and then"
+    },
+    {
+      "id": 77,
+      "start": 320.8,
+      "end": 328.16,
+      "text": "an inside bar, what is an inside bar, it's a consolidation. So you can see we have what these"
+    },
+    {
+      "id": 78,
+      "start": 328.16,
+      "end": 334.08,
+      "text": "equal highs up here, and a range low here, going to the next day, if we are having an inside bar,"
+    },
+    {
+      "id": 79,
+      "start": 334.08,
+      "end": 339.6,
+      "text": "I'd want to see a sweep of a low, right to then trade back up into this gap right here."
+    },
+    {
+      "id": 80,
+      "start": 339.6,
+      "end": 345.12,
+      "text": "Now going down to the four hour chart, what would I want to see here in terms of intraday profile"
+    },
+    {
+      "id": 81,
+      "start": 345.12,
+      "end": 350.72,
+      "text": "is I'd want to see, you know, a sweep of this low here, a four hour swing point put in, and then we"
+    },
+    {
+      "id": 82,
+      "start": 350.72,
+      "end": 356.32,
+      "text": "can look to trade up into those highs. So let's see what happens here. So here you can see we do"
+    },
+    {
+      "id": 83,
+      "start": 356.32,
+      "end": 363.2,
+      "text": "sweep out that low, what do we form a four hour candle to closure. So if you watch my intraday"
+    },
+    {
+      "id": 84,
+      "start": 363.2,
+      "end": 368.96,
+      "text": "profile video in Asia, if we have a four hour closure, we can use this to confirm the low of"
+    },
+    {
+      "id": 85,
+      "start": 368.96,
+      "end": 374.96,
+      "text": "the day. With this, we could go to the four hour and 15 minute model and look to trade this higher"
+    },
+    {
+      "id": 86,
+      "start": 374.96,
+      "end": 379.84,
+      "text": "up into the previous day as high in the daily high before that. So down here on the 15 minute"
+    },
+    {
+      "id": 87,
+      "start": 379.84,
+      "end": 384.8,
+      "text": "timeframe, you can see we have that SMT, we have that change in the state of delivery. Let's let"
+    },
+    {
+      "id": 88,
+      "start": 384.8,
+      "end": 389.92,
+      "text": "another 15 minute candle print, and we can take a look at this. So what do we have? Let's clean it"
+    },
+    {
+      "id": 89,
+      "start": 389.92,
+      "end": 395.04,
+      "text": "up a little. We have that candle to closure. We have a change in the state of delivery. And that's"
+    },
+    {
+      "id": 90,
+      "start": 395.04,
+      "end": 399.84,
+      "text": "also paired with this SMT, as you can see on the higher timeframe candles as well. We also have a"
+    },
+    {
+      "id": 91,
+      "start": 399.84,
+      "end": 406.4,
+      "text": "PSP there on this candle to so taking a look, what do we want to look for protected swings? You can"
+    },
+    {
+      "id": 92,
+      "start": 406.4,
+      "end": 411.44,
+      "text": "see my indicator marks that out. We have went into a fair value gap here closed over. So we have a"
+    },
+    {
+      "id": 93,
+      "start": 411.44,
+      "end": 417.04,
+      "text": "protected swing there. We have went into a fair value gap here, and then also closed over. So we"
+    },
+    {
+      "id": 94,
+      "start": 417.04,
+      "end": 423.36,
+      "text": "have a protected swing here. So going into this next candle, we already have our entry or a protected"
+    },
+    {
+      "id": 95,
+      "start": 423.36,
+      "end": 429.12,
+      "text": "swing here. So we could either look to enter this positionally, or wait for a new protected swing."
+    },
+    {
+      "id": 96,
+      "start": 429.12,
+      "end": 433.76,
+      "text": "If I'm going to enter this positionally, I can put my stop on that protected swing. You can see"
+    },
+    {
+      "id": 97,
+      "start": 433.76,
+      "end": 438.96,
+      "text": "that gives me to are there. Or if I'm looking to trade into our drawn liquidity, I can look for"
+    },
+    {
+      "id": 98,
+      "start": 438.96,
+      "end": 444.4,
+      "text": "price to trade up to there. So let's see what happens here. And when could we trail our stop loss?"
+    },
+    {
+      "id": 99,
+      "start": 444.64,
+      "end": 450.32,
+      "text": "So you can see we get nice push away. Now this is what we have that daily range that we can expect"
+    },
+    {
+      "id": 100,
+      "start": 450.32,
+      "end": 454.88,
+      "text": "to trade higher, we have a nice displacement away, I can look to trail my stop loss here,"
+    },
+    {
+      "id": 101,
+      "start": 454.88,
+      "end": 460.08,
+      "text": "because it makes sense, I can expect more range. So let's see if we can get something to form here."
+    },
+    {
+      "id": 102,
+      "start": 461.28,
+      "end": 466.72,
+      "text": "And there we go, we get a new protected swing. So now I could move my stop loss, which was right"
+    },
+    {
+      "id": 103,
+      "start": 466.72,
+      "end": 472.08,
+      "text": "here, all the way up to this new protected swing. Let's see what happens here."
+    },
+    {
+      "id": 104,
+      "start": 475.28,
+      "end": 479.2,
+      "text": "You can see this is not a protected swing, never hit any sort of point of interest."
+    },
+    {
+      "id": 105,
+      "start": 480.96,
+      "end": 484.88,
+      "text": "And here we have a new protected swing. So then I could trail my stop loss to there."
+    },
+    {
+      "id": 106,
+      "start": 484.88,
+      "end": 488.4,
+      "text": "And so you can see, I'm trailing to essentially where I'm already getting,"
+    },
+    {
+      "id": 107,
+      "start": 489.04,
+      "end": 494.56,
+      "text": "you know, four to five are, and I'm looking for this six to seven are here on this trade. And this"
+    },
+    {
+      "id": 108,
+      "start": 494.56,
+      "end": 500.24,
+      "text": "is a high risk to reward trade. But I'm it's a good example of trailing a stop loss. You can see,"
+    },
+    {
+      "id": 109,
+      "start": 501.2,
+      "end": 506.88,
+      "text": "you know, it takes a long time to go finally hit our final TP. But you can see how we can"
+    },
+    {
+      "id": 110,
+      "start": 506.88,
+      "end": 513.12,
+      "text": "trail our stop loss here. So just to review, if I get entry around the opening price of candle"
+    },
+    {
+      "id": 111,
+      "start": 513.12,
+      "end": 518.64,
+      "text": "three, you know, early into this range where I'm expecting to go higher, I have the daily aligned,"
+    },
+    {
+      "id": 112,
+      "start": 518.64,
+      "end": 524.32,
+      "text": "I haven't used all that ADR, I can look to trail my stop loss to new protected swings."
+    },
+    {
+      "id": 113,
+      "start": 524.32,
+      "end": 529.44,
+      "text": "You can see my indicator makes it easy as I have these protected swings that just mark out for me,"
+    },
+    {
+      "id": 114,
+      "start": 529.44,
+      "end": 534.88,
+      "text": "right? So this one forms out of a fair value gap, forms out of a fair value gap, fair value gap,"
+    },
+    {
+      "id": 115,
+      "start": 534.88,
+      "end": 539.2,
+      "text": "fair value gap. In this case here, it was just forming from reacting out of fair value gaps,"
+    },
+    {
+      "id": 116,
+      "start": 539.2,
+      "end": 544.56,
+      "text": "but it's also valid if it sweeps a low. So let's get into another example. So here we are in our"
+    },
+    {
+      "id": 117,
+      "start": 544.56,
+      "end": 551.28,
+      "text": "next example, we are on NASDAQ on the one minute and 15 minute model at 930 this morning. What do"
+    },
+    {
+      "id": 118,
+      "start": 551.28,
+      "end": 557.2,
+      "text": "we have? We have 930 making this opposing run higher as a nice V shape back lower, having a"
+    },
+    {
+      "id": 119,
+      "start": 557.28,
+      "end": 563.36,
+      "text": "change in the state of delivery with this SMT also has a PSP on candle two. But what do we see"
+    },
+    {
+      "id": 120,
+      "start": 563.36,
+      "end": 568.8,
+      "text": "with this closure? We also form a new protected swing here. Why is that a protected swing?"
+    },
+    {
+      "id": 121,
+      "start": 568.8,
+      "end": 573.76,
+      "text": "After the change in the state of delivery, we reach into a fair value gap and then close below"
+    },
+    {
+      "id": 122,
+      "start": 573.76,
+      "end": 579.36,
+      "text": "this up close candle here, giving a protected swing. So going into this next candle, what are we"
+    },
+    {
+      "id": 123,
+      "start": 579.36,
+      "end": 585.52,
+      "text": "expecting in candle three? We want to see candle three form some sort of wick, right? Could be small,"
+    },
+    {
+      "id": 124,
+      "start": 585.52,
+      "end": 593.36,
+      "text": "but a wick respecting this EQ here, right? And then trading lower open, high, low, close. So"
+    },
+    {
+      "id": 125,
+      "start": 593.36,
+      "end": 598.8,
+      "text": "what could we do? There's lots of different entries we could take. We could enter the open of candle"
+    },
+    {
+      "id": 126,
+      "start": 598.8,
+      "end": 605.2,
+      "text": "three, put our stop on a protected swing, like we did in the previous example, and look for two R there,"
+    },
+    {
+      "id": 127,
+      "start": 605.92,
+      "end": 612.4,
+      "text": "or we could say we have failure swings right here. We want to see those taken out and look to take an"
+    },
+    {
+      "id": 128,
+      "start": 612.4,
+      "end": 618.24,
+      "text": "entry right at that. Right. And that gets us to our a lot quicker. Or we could wait for a new"
+    },
+    {
+      "id": 129,
+      "start": 618.24,
+      "end": 623.44,
+      "text": "continuation to form. But let's see what happens here. So as we let this continue,"
+    },
+    {
+      "id": 130,
+      "start": 625.36,
+      "end": 630.8,
+      "text": "you can see we form that new continuation, we get a new protected swing also paired with an SMT"
+    },
+    {
+      "id": 131,
+      "start": 630.8,
+      "end": 637.52,
+      "text": "from ES and YM, we're getting this continuation lower. We go ahead and hit that TP from the first"
+    },
+    {
+      "id": 132,
+      "start": 637.52,
+      "end": 644.24,
+      "text": "trade. So let's see what happens if we form a new continuation. What are we seeing here? We reach up,"
+    },
+    {
+      "id": 133,
+      "start": 644.24,
+      "end": 650.48,
+      "text": "sweep out a high, and then we get a closure through these series of up close candles here. So we have"
+    },
+    {
+      "id": 134,
+      "start": 650.48,
+      "end": 657.2,
+      "text": "a new continuation that forms. What do we notice about this continuation? It instantly gets invalidated."
+    },
+    {
+      "id": 135,
+      "start": 657.2,
+      "end": 662.96,
+      "text": "So it's valid to trail my stop loss to this, right? But once it gets invalidated, it shows us that"
+    },
+    {
+      "id": 136,
+      "start": 662.96,
+      "end": 670.4,
+      "text": "this trend from this candle to is either consolidating or reversing, or it can get a bit choppy. So"
+    },
+    {
+      "id": 137,
+      "start": 670.4,
+      "end": 674.64,
+      "text": "it's not that if I'm already in a trade, it's completely invalid. It just means that I may"
+    },
+    {
+      "id": 138,
+      "start": 674.64,
+      "end": 679.68,
+      "text": "experience some consolidation. Let's see what happens. So you can see we do form a protected"
+    },
+    {
+      "id": 139,
+      "start": 679.68,
+      "end": 683.92,
+      "text": "swing here. But this is kind of giving us a clue that it's a bit choppy. So I may not enjoy that"
+    },
+    {
+      "id": 140,
+      "start": 683.92,
+      "end": 690.96,
+      "text": "one. And see, it also gets invalidated turns gray. And what do we have? Now we have a new higher time"
+    },
+    {
+      "id": 141,
+      "start": 690.96,
+      "end": 696.48,
+      "text": "from candle, we aren't really looking for shorts anymore, because this doesn't support expansion"
+    },
+    {
+      "id": 142,
+      "start": 696.48,
+      "end": 701.84,
+      "text": "lower anymore. But the main point of this example is, this is a valid spot to trail your stop loss to."
+    },
+    {
+      "id": 143,
+      "start": 702.56,
+      "end": 706.4,
+      "text": "So let's say you took this trade here, you had your stop on that protected swing,"
+    },
+    {
+      "id": 144,
+      "start": 706.4,
+      "end": 710.88,
+      "text": "and you were looking for two are, you know, whether or not you got it right here, it's quite close,"
+    },
+    {
+      "id": 145,
+      "start": 710.88,
+      "end": 715.36,
+      "text": "it is valid to trail your stop loss to there, and you would get taken out, you know, around"
+    },
+    {
+      "id": 146,
+      "start": 715.36,
+      "end": 720.4,
+      "text": "one R there. But this is just an example of showing what protected swings look like, how to"
+    },
+    {
+      "id": 147,
+      "start": 720.48,
+      "end": 724.4,
+      "text": "trail your stop loss. Let's get into another example. So here we are in our next example,"
+    },
+    {
+      "id": 148,
+      "start": 724.4,
+      "end": 729.28,
+      "text": "we have a higher time frame fair value gap right here. And we have this early change in the state"
+    },
+    {
+      "id": 149,
+      "start": 729.28,
+      "end": 733.92,
+      "text": "of delivery forming. Let's go ahead and get it into the next candle and let this candle close."
+    },
+    {
+      "id": 150,
+      "start": 734.56,
+      "end": 739.44,
+      "text": "Here you can see, we do have a candle to closure that change in the state of delivery. And here"
+    },
+    {
+      "id": 151,
+      "start": 739.44,
+      "end": 745.84,
+      "text": "we have that T spot. So we are looking for a continuation in this area. Now once again,"
+    },
+    {
+      "id": 152,
+      "start": 745.84,
+      "end": 751.28,
+      "text": "we have multiple fair value gaps here, we have one right here, we also have one right here,"
+    },
+    {
+      "id": 153,
+      "start": 751.28,
+      "end": 756.8,
+      "text": "I don't try to predict where this continuation is going to form. I'm just going to see if we"
+    },
+    {
+      "id": 154,
+      "start": 756.8,
+      "end": 761.52,
+      "text": "form a continuation in this one right here, if we do great, if we don't, then I can look"
+    },
+    {
+      "id": 155,
+      "start": 761.52,
+      "end": 767.44,
+      "text": "towards this upper fair value gap. See what happens there we do form that continuation. So"
+    },
+    {
+      "id": 156,
+      "start": 767.44,
+      "end": 772.0,
+      "text": "I'm not looking for this upper fair value gap anymore. And I could look to take a short on this"
+    },
+    {
+      "id": 157,
+      "start": 772.0,
+      "end": 777.6,
+      "text": "open of the new higher time frame candle, as we have now formed a protected swing, and go ahead"
+    },
+    {
+      "id": 158,
+      "start": 777.6,
+      "end": 783.52,
+      "text": "and look for two are, and let's see what this looks like. And let's see what happens. Right."
+    },
+    {
+      "id": 159,
+      "start": 784.16,
+      "end": 789.6,
+      "text": "So here we come back into our entry into this fair value gap right here. And what happens,"
+    },
+    {
+      "id": 160,
+      "start": 790.24,
+      "end": 795.28,
+      "text": "we form a new continuation. So with this new continuation, this is where I was talking about"
+    },
+    {
+      "id": 161,
+      "start": 795.28,
+      "end": 800.32,
+      "text": "where you could go break even or pretty close to break even, I could move my stop loss to this"
+    },
+    {
+      "id": 162,
+      "start": 800.32,
+      "end": 804.56,
+      "text": "new protected swing. We'll go ahead and mark that out. This is where my stop loss would be."
+    },
+    {
+      "id": 163,
+      "start": 805.2,
+      "end": 812.32,
+      "text": "Let's see what happens. We have a new candle open, right candle for what do we have, we have a fair"
+    },
+    {
+      "id": 164,
+      "start": 812.32,
+      "end": 818.96,
+      "text": "value gap right here. So are we looking for an open high to form the wick? And what are we getting,"
+    },
+    {
+      "id": 165,
+      "start": 818.96,
+      "end": 824.24,
+      "text": "we're getting a new continuation here as well. So we could take an entry there, or we can trail"
+    },
+    {
+      "id": 166,
+      "start": 824.24,
+      "end": 830.0,
+      "text": "our stop loss to this high. You can see now we are trailing our stop loss, we are in profit here,"
+    },
+    {
+      "id": 167,
+      "start": 830.48,
+      "end": 835.92,
+      "text": "let's see if this goes to to are it does, and we get that continuation. Now the nice thing is"
+    },
+    {
+      "id": 168,
+      "start": 835.92,
+      "end": 840.08,
+      "text": "when you are tracking protected swings here, let's go ahead and remove all these drawings,"
+    },
+    {
+      "id": 169,
+      "start": 840.08,
+      "end": 845.6,
+      "text": "I can take further entries once I get a new continuation. So if I miss this whole candle"
+    },
+    {
+      "id": 170,
+      "start": 845.6,
+      "end": 850.8,
+      "text": "three, I could wait for candle four, and I could still take this continuation right here. And if"
+    },
+    {
+      "id": 171,
+      "start": 850.8,
+      "end": 856.64,
+      "text": "you notice, I can still get to our from where I entered on the first trade. So this is a great"
+    },
+    {
+      "id": 172,
+      "start": 856.72,
+      "end": 863.12,
+      "text": "example of one, taking new continuations, but to how to trail your stop loss. And this is a great"
+    },
+    {
+      "id": 173,
+      "start": 863.12,
+      "end": 867.84,
+      "text": "swing where you have a reversal candle, and you get those continuations, they all have a small"
+    },
+    {
+      "id": 174,
+      "start": 867.84,
+      "end": 873.68,
+      "text": "wick, they are all expansions. Let's get into one final example. So here we are in our last example,"
+    },
+    {
+      "id": 175,
+      "start": 873.68,
+      "end": 880.24,
+      "text": "we have a candle to closure here, we have a change in the state of delivery, we have a PSP and SMT,"
+    },
+    {
+      "id": 176,
+      "start": 880.24,
+      "end": 885.6,
+      "text": "those confluences to a reversal. Now what are we looking for in this next candle? Well, as we talked"
+    },
+    {
+      "id": 177,
+      "start": 885.6,
+      "end": 891.2,
+      "text": "about in my intraday reversal video, we want to let this wick form. So ideally, we want to see a"
+    },
+    {
+      "id": 178,
+      "start": 891.2,
+      "end": 897.92,
+      "text": "protected swing form. So what do we have, we have that protected swing form. So ideally, this high"
+    },
+    {
+      "id": 179,
+      "start": 897.92,
+      "end": 903.04,
+      "text": "a day will hold as we can trade slower. So what could I do, I could look for an entry there on"
+    },
+    {
+      "id": 180,
+      "start": 903.04,
+      "end": 909.28,
+      "text": "the reversal, or I could wait for a new protected swing. And here you can see, we hit our fair value"
+    },
+    {
+      "id": 181,
+      "start": 909.28,
+      "end": 914.64,
+      "text": "gap here, we are closing through the series of up close candles, in this case, it is just one."
+    },
+    {
+      "id": 182,
+      "start": 914.64,
+      "end": 919.12,
+      "text": "So what would that be a new protected swing, we could look to take an entry here,"
+    },
+    {
+      "id": 183,
+      "start": 919.12,
+      "end": 923.84,
+      "text": "put our stop loss on the protected swing, and then look for two are which lines up also with"
+    },
+    {
+      "id": 184,
+      "start": 923.84,
+      "end": 929.28,
+      "text": "these lows here, and I can show you this will print on the open of a new candle, and you could do it"
+    },
+    {
+      "id": 185,
+      "start": 929.28,
+      "end": 934.4,
+      "text": "there. But we can also just go one hour at a time, and let this continue. So what do we have,"
+    },
+    {
+      "id": 186,
+      "start": 935.12,
+      "end": 940.32,
+      "text": "we have that nice continuation lower from a protected swing. Now, would I be able to trail"
+    },
+    {
+      "id": 187,
+      "start": 940.32,
+      "end": 945.12,
+      "text": "my stop loss in the scenario, it doesn't make sense to trail my stop loss because I have no"
+    },
+    {
+      "id": 188,
+      "start": 945.12,
+      "end": 951.84,
+      "text": "protected swings before my target, we've already had quite a daily range, as you can see 500 600"
+    },
+    {
+      "id": 189,
+      "start": 951.84,
+      "end": 956.32,
+      "text": "points. So this is one of those scenarios where it doesn't make sense to trail my stop loss before"
+    },
+    {
+      "id": 190,
+      "start": 956.32,
+      "end": 961.04,
+      "text": "my objective, I'd rather just take my profit at the objective. With that, I hope you enjoyed the"
+    },
+    {
+      "id": 191,
+      "start": 961.04,
+      "end": 965.44,
+      "text": "video. If you did, give it a like, give it a subscribe, and I'll see you guys in the next video."
+    },
+    {
+      "id": 192,
+      "start": 965.44,
+      "end": 966.0,
+      "text": "Have a good one."
+    }
+  ],
+  "created_at": "2026-09-01T18:10:13.366049+00:00"
+}

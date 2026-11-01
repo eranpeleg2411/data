@@ -1,0 +1,247 @@
+[00:00] How's it going everyone?
+[00:12] In this video we are going to cover what is a candle 2 closure.
+[00:15] Now within my fractal model I have two candle closure types, a candle 2 and a candle 3 closure.
+[00:20] So let's get into this video that covers candle 2 closures.
+[00:23] So the first thing you have to understand is the difference between a continuation closure
+[00:27] and a reversal closure.
+[00:28] So this is in a bearish scenario, we have price trending lower, are we anticipating
+[00:32] price to continue or to reverse?
+[00:34] Here you can see we sweep out the previous candle's low and where do we close?
+[00:38] We close below it.
+[00:39] When price closes below the previous candle's low, I can anticipate a continuation lower.
+[00:44] However, with a reversal closure, that is when we sweep out the previous candle's low,
+[00:48] but we don't close below it.
+[00:50] We close back inside the previous candle's range or above this candle's low, and that
+[00:54] is a reversal closure and I can anticipate price to go in the other direction.
+[00:58] Now a candle 2 closure is focused on when we have a reversal closure or we sweep out
+[01:02] that previous candle's high or low and then close back inside the range.
+[01:06] So taking a look at this diagram here, you can see we have a reversal closure or a candle
+[01:11] 2 closure where in the bullish scenario here, price sweeps out the previous candle's low
+[01:16] and then closes back above that candle's low signifying that price has reversed in candle
+[01:20] 2 or this low here.
+[01:23] In a bearish scenario, we have price sweeping out the previous candle's high and then closing
+[01:27] back below it, showing that it has reversed in this candle 2 here.
+[01:30] Now it's important to note that we want this to occur at a higher timeframe key level.
+[01:35] If you just look for every pattern that has a sweep and a closure back in, that is unlikely
+[01:39] to work, you want to define this with bias and a higher timeframe point of interest,
+[01:43] which I use fair value gaps in highs and lows.
+[01:46] So once we have this closure, we can then anticipate candle 3 to have a continuation and you may
+[01:51] want to check out my video on trading candle 3, but following this closure, we're looking
+[01:56] for price to expand higher or in the bearish scenario for price to expand lower.
+[02:01] Now with a closure outside the previous candle's range, so you can see candle 3 here closing
+[02:06] over candle 2, is that a reversal closure or a continuation closure?
+[02:10] That is a continuation closure, so we can anticipate price to expand higher as well
+[02:14] in candle 4 and the same in the bearish scenario here, we close below candle 2's low, so we
+[02:20] can anticipate it to continue lower in candle 4 as well.
+[02:24] And there you can see candle 4 gets an expansion, which finishes off this candle to closure
+[02:28] and this swing point.
+[02:29] So just to review, we have a candle to closure closing back above the low of candle 1, allowing
+[02:35] candle 3 to expand candle 3 closes strong or over candle 2's high, which allows candle
+[02:40] 4 to expand as well.
+[02:42] And in the bearish scenario, we have candle 2 closing back below candle 1's high, candle
+[02:47] 3 closing very strong below candle 2's low, and then candle 4 continuation.
+[02:52] Now once again, it's really important that we combine this with a higher timeframe key
+[02:56] level or a point of interest being a high, low, or a fair value gap.
+[03:00] Now let's say we want to blend this with my equilibrium video, that's where we can go
+[03:04] ahead and mark out these areas we expect the wick to form in the higher timeframe candles.
+[03:08] So with a candle to closure here, if I have a large wick, I'm going to want to watch the
+[03:12] upper half of that wick to see if candle 3 forms its wick in respect to that.
+[03:16] If it doesn't respect the point 5, then it's likely to fail and a swing point is unlikely
+[03:20] to form.
+[03:21] Then with candle 3, we can do the same as we have a strong closure.
+[03:25] I'll mark out the entire candle's range, 50% of that, looking for a continuation.
+[03:29] If you don't know what I'm talking about here, I'll link the two videos in the description
+[03:32] below of using wicks and using EQ.
+[03:35] Now let's hop into trading view and go over a few examples of spotting candle 2 closures.
+[03:40] Here we are in trading view and the best way to identify candle 2 closures is to just practice
+[03:45] finding them on the chart.
+[03:46] So what you'll want to do is just go find swing points.
+[03:49] Don't find any point in which the market made a turn and go ahead and mark them all out.
+[03:53] And then we'll go back through and determine which one of these are a candle to closure.
+[03:58] But here you can see we have quite a few marked out.
+[04:00] Let's see which ones are actually candle to closures.
+[04:03] To have a candle to closure, we need price to take out its previous candles high and
+[04:07] then close back below it in a bear scenario or take out its previous candles low and close
+[04:11] back above it in a bullish scenario.
+[04:13] So here you can see price sweeps out its previous candles high and then closes back below it.
+[04:18] Having a candle to closure, looking for a candle 3 continuation lower.
+[04:22] Now looking at this swing point here, we have price sweeping out the previous candles low,
+[04:25] closing back above it.
+[04:27] So that is a candle to closure.
+[04:28] I could look for price to trade higher.
+[04:30] I'm just going to repeat this looking for those reversal patterns.
+[04:33] So you can see sweeps out the previous high, closes back below it.
+[04:37] You can see it trading lower and we'll go ahead and just mark all of these out.
+[04:40] So far you can see all of these are candle to closures.
+[04:43] But as we look at these swing points over here, this is not a candle to closure as price
+[04:47] never closed back below its previous candles high.
+[04:50] And the same right here.
+[04:52] This is not a candle to closure as price did not close back above its previous candles
+[04:57] low.
+[04:58] So those were two that I would remove right away.
+[05:00] Now if you noticed, these are all candle to closures, but do they all occur at a point
+[05:04] of interest?
+[05:05] And that is what I'm going to want to mark out.
+[05:07] So taking a look here, we have a high that we sweep out that is a point of interest.
+[05:11] So this is valid to look lower the next day.
+[05:14] Here we have a point of interest sweeping out a low.
+[05:16] So it's valid for this to look higher the next day.
+[05:19] And having to zoom out, you can go to the monthly chart and see we took out a previous
+[05:23] high from quite long ago, but we use that as a point of interest here for this candle
+[05:27] to closure.
+[05:28] But one thing I will also add is ideally we want candle to have a reversal to set up
+[05:33] a candle three continuation.
+[05:35] But here you can see price formed a shallow wick and had an expansion in candle to as
+[05:39] well.
+[05:40] That does not set up the best conditions for candle three as what can occur after an expansion,
+[05:45] a new phase of price.
+[05:46] But nonetheless, this is valid.
+[05:48] Here you can see, do we have a point of interest?
+[05:50] No, we fail to sweep out this low.
+[05:52] So this is not one we would look for here.
+[05:54] Right here we reach into this fair value gap.
+[05:56] So it is a valid candle to closure to look lower.
+[05:59] Right here you can see we sweep out all these previous lows.
+[06:02] So it's valid for this to look higher.
+[06:04] And then this one here, we fail to take out this high.
+[06:06] So it is not valid, right?
+[06:08] Because I do not have that point of interest and I need a point of interest to frame a
+[06:12] candle closure.
+[06:14] Now what do we notice about this?
+[06:15] We do form a protected swing.
+[06:17] So I am not looking for price to return to this level if it's going to trade higher.
+[06:22] That's when I can actually use the opposing candles as a point of interest and why this
+[06:26] one would remain valid.
+[06:27] It's more advanced, but it is a valid one because I can use these opposing candles as
+[06:31] the point of interest.
+[06:32] And then right here on this most recent one, we have a sweep of this previous high, which
+[06:37] provides the point of interest for this candle to closure and for price to trade lower today.
+[06:42] So once again, just to review.
+[06:43] The best way to find this is to practice on the daily chart or a higher timeframe and
+[06:48] you want to find those candle closures first, then see if they have a point of interest
+[06:52] and then that gives you bias.
+[06:53] Right.
+[06:54] So looking back at this, I could be bearish this day, bullish this day, bearish this day.
+[06:59] You can see it doesn't set up well because this already expanded right after this high,
+[07:03] bearish this day, bullish this day, bullish this day, bearish this day.
+[07:07] And that's the easiest way to get bias is just finding those candle to closures on the
+[07:11] daily chart.
+[07:12] Now, if we remove all of these drawings, we'll go into today, we have a sweep of a previous
+[07:17] high, a candle to closure.
+[07:19] Now, if you've followed my model or my playbook, you know, the next thing we're going to do
+[07:23] is drop down to our aligned timeframe.
+[07:25] So here we have a daily chart, we're going to drop down to the hourly chart.
+[07:28] So going into the replay here, you can see we have this candle to closure on the daily
+[07:33] timeframe as shown by these higher timeframe candles, let it finish out.
+[07:38] And right there, we open a new candle.
+[07:40] So by marking out this candle to closure, how do we confirm this on a lower timeframe
+[07:44] or get a validation of this candle to closure?
+[07:47] We look for a change in the state of delivery, we're going to find the high, find the series
+[07:51] of candles that made that high, which is essentially here, mark that out.
+[07:54] And then now we can anticipate price to do what to continue lower as long as it remains
+[07:59] in respect to the previous candle's range.
+[08:01] You can see here's a consolidation, it's hard to trust that high.
+[08:05] So as long as price doesn't trade up into these highs, right, it is valid to look forward
+[08:08] to continue lower.
+[08:09] And that's why we use the EQ.
+[08:11] I want to see price respect this area here.
+[08:14] So as we let this play out, you can see we do go take out a point of interest.
+[08:19] And what do we notice now?
+[08:20] It's a fractal concept.
+[08:22] So if we zoom in, what do we have?
+[08:24] We have a candle to closure at a point of interest on the hourly chart.
+[08:28] Not only can this provide a bias for this next candle to trade lower on a lower timeframe,
+[08:33] but we can anticipate this to be where the high a day forms.
+[08:36] And then what can we look for?
+[08:38] Continuations out of this.
+[08:39] So let's see what happens.
+[08:42] Right there, you can see we do what we reach up into a point of interest and we have what?
+[08:47] A candle to closure.
+[08:49] So what does that tell us?
+[08:50] If we are going to continue and leave this high, we should anticipate a continuation
+[08:54] here to trade lower.
+[08:56] And you can see we do get that continuation lower.
+[08:59] And that's where we're at today right now.
+[09:01] So just to review, this is how you align timeframes.
+[09:04] It's a fractal concept.
+[09:06] Here we have a candle to closure.
+[09:07] And I'm just going to confirm that using the aligned timeframes.
+[09:10] So if I'm on the daily, I'm going to use the hourly for a change in the state of delivery.
+[09:14] I'm on the hourly, I will use the five minute.
+[09:16] I'm just going to use those timeframe pairings.
+[09:19] And if I want to make this really simple, this is where I will add in my indicator that
+[09:22] marks out that candle to closure for me, marks out that change in the state of delivery and
+[09:27] that EQ in that area, I'm looking for a continuation lower as well as those liquidity targets.
+[09:33] So let's get into a few more examples.
+[09:35] The main thing I want you to take away from this video is how to spot a candle to closure
+[09:39] and practice finding them.
+[09:41] I have videos on candle three and how to trade them following a candle to reversal.
+[09:45] So if you want more info on that, check out that video.
+[09:49] But as you can see here, it is a fractal concept and works on all timeframes.
+[09:53] So here we are on micro Bitcoin futures.
+[09:55] And what do we notice about this monthly candle here?
+[09:58] We have price sweeping out a point of interest or a previous high and informing what a candle
+[10:04] to closure by closing back inside the previous candle on the daily timeframe here.
+[10:08] We have a high, we have a close through the series of candles that made that high.
+[10:12] So what do we have?
+[10:13] We have a valid monthly and daily fractal model that says we want to trade to these
+[10:18] lows.
+[10:19] So getting into this candle three or for this continuation, we can use this on the daily
+[10:24] timeframe fractally.
+[10:25] We have a point of interest.
+[10:27] We have what another candle to closure and what can we do here is we could refine this
+[10:32] down to the hourly and you can see how it's fractal.
+[10:34] We can go from the monthly to the daily to the hourly going to the hourly here.
+[10:39] What do we have?
+[10:40] Let's replay to here so we can watch it play out.
+[10:42] We have a daily swing point or a daily candle to closure forming with SMT.
+[10:47] Do we have a change in the state of delivery?
+[10:49] We do because we find the high the series of candles that made it.
+[10:51] And then we could be looking for a continuation lower.
+[10:54] And that is where the T spot comes in where I'm looking to sell in these boxes here.
+[10:58] So as we can see, we were traced up and what do we form right at this high into this point
+[11:04] of interest?
+[11:05] We have a candle to closure and this gets a continuation lower.
+[11:09] And what are we saying about candle three?
+[11:11] If candle three closes below candle to is low, we can look for candle four to continue lower
+[11:16] as well.
+[11:17] And that is why another T spot is being printed out into this next day.
+[11:20] We see price trade higher.
+[11:23] And what do we notice about this high here?
+[11:25] We also have a candle to closure and we have equal lows below.
+[11:29] So it could be looking for this to trade lower.
+[11:32] And we do.
+[11:33] And then since we close below the low, we could be looking for a continuation lower.
+[11:37] Now the one thing I'll say once you get into candle five and six, that's where you can
+[11:41] get caught in a new phase of price.
+[11:43] So you have to be a bit more careful.
+[11:44] But there we are today trading lower.
+[11:47] And this is just a fractal concept.
+[11:49] So let's go to something like the four hour chart and you can see, do we have a candle
+[11:53] to closure here?
+[11:54] No, we do not.
+[11:56] That is a candle three closure, which we'll talk about in a future video.
+[11:59] But let's let this continue.
+[12:01] We displace down.
+[12:02] We retrace.
+[12:03] Do we have a candle to closure?
+[12:05] We do.
+[12:06] We displace.
+[12:07] We retrace candle to closure.
+[12:09] Here we have a little gap from the overnight.
+[12:12] And what do we do?
+[12:13] We continue lower.
+[12:14] What are we forming right now?
+[12:15] A candle to closure.
+[12:16] So what I wanted to explain just in this video is a lot of times a candle to closure will
+[12:21] mark a turning point in the market.
+[12:23] And it's very critical to understand what they look like and how they can be used.
+[12:28] So for instance, here, let's say I wanted to trade this lower, then I could use the
+[12:32] 15 minute chart to look for a 15 minute fractal model based off this four hour timeframe.
+[12:38] We can just repeat this across numerous different timeframes.
+[12:41] So you can see we have a candle to closure confirmed with the change in the state of
+[12:45] delivery.
+[12:46] And I can look for this area to respect to trade lower.
+[12:48] So I hope you enjoyed this video.
+[12:50] If you did, please consider liking and subscribing.
+[12:52] And I'll see you guys in the next video going over candle three.

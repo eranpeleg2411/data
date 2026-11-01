@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "vn1RYjhJUnQ",
+    "title": "Validating Swing Points Using Lower Timeframe Confirmation (CISD)",
+    "url": "https://www.youtube.com/watch?v=vn1RYjhJUnQ",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/vn1RYjhJUnQ.json"
+  },
+  "stats": {
+    "word_count": 2152,
+    "duration_seconds": 615.84,
+    "segments": 175,
+    "concepts_detected": 8,
+    "candidate_strategies": 3
+  },
+  "concept_mentions": {
+    "Liquidity": 1,
+    "Fair Value Gap": 1,
+    "Order Blocks and Breakers": 4,
+    "SMT Divergence": 1,
+    "TTrades Fractal Model": 2,
+    "Candle 3 Setup": 7,
+    "Candle 4 Setup": 1,
+    "Protected Swing": 2
+  },
+  "spoken_time_references": [],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 567.28,
+          "end": 586.08,
+          "text": "and make a new high. Do we form a continuation here? Let's see. And there we do, we get a nice displacement lower. So this is where I then want to see price trade lower as we formed a protected swing inside this higher timeframe candle. You can see the low resistance liquidity here.",
+          "concepts": [
+            "Liquidity",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Liquidity Reversal",
+            "Trend Continuation"
+          ],
+          "score": 23
+        }
+      ]
+    },
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 69.04,
+          "end": 80.2,
+          "text": "that as a valid shift in trend and looking for a continuation going to wait for that change in the state of delivery to occur or I'm going to ignore the setup. Let's take a look at what this looks like in my fractal model.",
+          "concepts": [
+            "TTrades Fractal Model"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 9
+        },
+        {
+          "start": 477.04,
+          "end": 495.84,
+          "text": "this level. Yes. But then I could be looking for price to continue higher in this next candle. You can see we open we trade lower into a point of interest on a continuation order block and then trade higher towards these highs on the left. Now what I want to review here is just",
+          "concepts": [
+            "Order Blocks and Breakers"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 14
+        },
+        {
+          "start": 567.28,
+          "end": 586.08,
+          "text": "and make a new high. Do we form a continuation here? Let's see. And there we do, we get a nice displacement lower. So this is where I then want to see price trade lower as we formed a protected swing inside this higher timeframe candle. You can see the low resistance liquidity here.",
+          "concepts": [
+            "Liquidity",
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Liquidity Reversal",
+            "Trend Continuation"
+          ],
+          "score": 23
+        }
+      ]
+    },
+    {
+      "name": "Protected Swing Invalidation",
+      "evidence": [
+        {
+          "start": 448.32,
+          "end": 466.16,
+          "text": "But what do we notice? We form a continuation right here and then we go ahead and fail, right? We take out that protected swing. That means this trend is not looking that great and it is just consolidating. There we go ahead and sweep out the low. We are waiting for a proper closure, right?",
+          "concepts": [
+            "Protected Swing"
+          ],
+          "strategies": [
+            "Protected Swing Invalidation"
+          ],
+          "score": 12
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 12.12,
+      "end": 22.76,
+      "text": "This video is going to be about how the change in the state of delivery confirms swing points. So what is the change in the state of delivery? The change in the state of delivery is the order block formation that forms when trend",
+      "concepts": [
+        "Order Blocks and Breakers"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 34.34,
+      "end": 46.08,
+      "text": "What defines a change in the state of delivery is price reaching into an important level, sweeping out a low or reaching into a fair value gap and then closing through the series of candles that reach into that important level.",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 53.04,
+      "end": 64.72,
+      "text": "time frame in combination with a swing point. So when I have a candle to or a candle three closure on the higher time frame, I'm going to look inside that higher time frame candle and make sure it has a change in the state",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 69.04,
+      "end": 80.2,
+      "text": "that as a valid shift in trend and looking for a continuation going to wait for that change in the state of delivery to occur or I'm going to ignore the setup. Let's take a look at what this looks like in my fractal model.",
+      "concepts": [
+        "TTrades Fractal Model"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 9
+    },
+    {
+      "start": 130.32,
+      "end": 141.0,
+      "text": "So even though we have a change in the state of delivery, it does not mean anything to me unless it is paired with a higher time frame candle closure. Now let's take a look at a candle three closure scenario.",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 5
+    },
+    {
+      "start": 163.48,
+      "end": 170.0,
+      "text": "candle four. Now let's take a look at an invalid scenario. We have a candle three closure on the higher time frames.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Candle 4 Setup"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 448.32,
+      "end": 466.16,
+      "text": "But what do we notice? We form a continuation right here and then we go ahead and fail, right? We take out that protected swing. That means this trend is not looking that great and it is just consolidating. There we go ahead and sweep out the low. We are waiting for a proper closure, right?",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Protected Swing Invalidation"
+      ],
+      "score": 12
+    },
+    {
+      "start": 477.04,
+      "end": 495.84,
+      "text": "this level. Yes. But then I could be looking for price to continue higher in this next candle. You can see we open we trade lower into a point of interest on a continuation order block and then trade higher towards these highs on the left. Now what I want to review here is just",
+      "concepts": [
+        "Order Blocks and Breakers"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 14
+    },
+    {
+      "start": 501.92,
+      "end": 516.64,
+      "text": "Now not all lower timeframe structure is the same just because it does have a closure over doesn't mean it's a good closure over. If it consolidates for half of the candle and then closes over, it's usually just a consolidation. You want to see that nice V shape reversal or",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 521.68,
+      "end": 538.8,
+      "text": "Let's go through one final example of blending change in the state of delivery with swing points. So here you can see we have a candle to closure and we're sweeping out a range high. So we have a consolidation or an accumulation, a sweep of a high and you see how we have that V shape reversal",
+      "concepts": [],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 547.04,
+      "end": 561.52,
+      "text": "delivery and here we actually have SMT as well. Now if you use what I posted in the last video, what do I want to be looking for here? I just want to be looking for a continuation order block. So here we have a point of interest. Do we get a continuation order block?",
+      "concepts": [
+        "Order Blocks and Breakers",
+        "SMT Divergence"
+      ],
+      "strategies": [],
+      "score": 13
+    },
+    {
+      "start": 567.28,
+      "end": 586.08,
+      "text": "and make a new high. Do we form a continuation here? Let's see. And there we do, we get a nice displacement lower. So this is where I then want to see price trade lower as we formed a protected swing inside this higher timeframe candle. You can see the low resistance liquidity here.",
+      "concepts": [
+        "Liquidity",
+        "Protected Swing"
+      ],
+      "strategies": [
+        "Liquidity Reversal",
+        "Trend Continuation"
+      ],
+      "score": 23
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:35.623325+00:00"
+}

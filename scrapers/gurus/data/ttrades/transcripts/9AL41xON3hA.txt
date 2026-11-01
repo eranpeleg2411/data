@@ -1,0 +1,264 @@
+[00:00] How's it going everyone?
+[00:12] This video is going to be over one system or trading strategy that you can follow in
+[00:16] 2026.
+[00:17] Too many people bounce around from model to model and then cannot find consistency simply
+[00:22] due to the fact that they cannot follow a single system.
+[00:25] Let's go ahead and learn my fractal model.
+[00:27] Now this model is built off the fact that price cannot reverse without a swing point.
+[00:31] If price is going to go from a bearish trend to a bullish trend, it's going to form a
+[00:35] bullish swing point.
+[00:37] If it's going from a bullish trend to a bearish trend, it's going to form a bearish
+[00:41] swing point.
+[00:42] Now, if we look for these swing points to form at a point of interest and look for certain
+[00:46] candle closures, we can anticipate expansion candles that follow.
+[00:49] Now, the first thing we need to do before we get into the lower timeframes is come into
+[00:53] the day with a daily bias.
+[00:55] We're going to do this by simply looking at the daily closure.
+[00:58] If price has a closure outside the range, we're going to be looking for a continuation.
+[01:02] So you can see here with a bullish continuation, price closes over its previous day high.
+[01:08] So I'm looking for price to continue higher.
+[01:10] And here you can see with the bearish continuation, price closes below its previous day low.
+[01:15] So I'll be looking for a continuation lower.
+[01:17] With a reversal closure, we have price sweeping out its previous day low and closing back
+[01:21] above that low, showing that price has reversed off that low and can anticipate a continuation
+[01:26] higher in the next day.
+[01:27] With a bearish reversal, price has taken out its previous day high closed back below that
+[01:32] level.
+[01:33] And then I can be looking for a continuation that following day.
+[01:36] So once I have a daily bias, then I'm going to look for structure and a swing point formation.
+[01:41] So how do I go about this?
+[01:43] Well here you can see we have a bullish daily bias through previous day high as price has
+[01:47] closed over its previous candles high.
+[01:49] So looking for that, I'm going to be looking for a point of interest for price to react
+[01:54] out of.
+[01:55] So I'm going to look for that in the previous range of the previous day.
+[01:58] So here you can see looking in this range here, we have a fair value gap.
+[02:02] Now points of interest are always going to be either a fair value gap or a low in a bullish
+[02:06] scenario, or a fair value up in a high in a bearish scenario.
+[02:10] Then I'm going to want to wait for price to reach into that point of interest and have
+[02:14] either a candle to or a candle three closure, which if you don't know what those are, I
+[02:18] do have videos on those topics.
+[02:20] So here you can see we have expansion price retraces into this fair value gap has a candle
+[02:26] to closure and we have a draw on liquidity, which is our previous day high.
+[02:30] So with this, I would want to go down to the lower timeframes and then I'd look for a fractal
+[02:34] model.
+[02:35] Now very simply, we're going to go down to the lower timeframes using our timeframe alignment.
+[02:39] So for instance, if that swing point was on the hourly, I'd be using the five minute.
+[02:44] It's on the 30 minute.
+[02:45] I'd be using the three minute.
+[02:46] Now we're going to check to make sure we have a change in the stated delivery, which confirms
+[02:50] the swing point, but we're not going to enter on that change in the stated delivery.
+[02:54] We're going to wait for another continuation.
+[02:56] So what I'm going to do is let some structure form here.
+[02:59] You can see we sweep out a low into a fair value up.
+[03:02] So we have that point of interest and then we get the close through the series of down
+[03:06] close candles.
+[03:07] This is a continuation order block, which I also have a video on.
+[03:11] Once I have a continuation order block that forms, I'm going to look to enter on that
+[03:14] close through my stop on that protected low and then look for two are.
+[03:18] So just to review, if we go back through this, we're going to get a daily bias.
+[03:22] In this case, it was bullish.
+[03:23] We'll then look for hourly structure or a point of interest on my desired timeframe
+[03:27] to be looking for.
+[03:28] Some people prefer that on the four hour or even the 30 minute.
+[03:32] And then from there, when we form a candle to or a candle, three closure in that point
+[03:36] of interest, I'll go down to the lower timeframe using the timeframe pairing and then look for
+[03:40] a continuation order block and look for two are.
+[03:43] So now that you understand the system, let's go through a few examples of this.
+[03:48] So here we are in our first example, and you can see we have taken out all the highs over
+[03:51] here to our left.
+[03:53] And then we have a bunch of failure swings and a fair value gap here.
+[03:57] So when we have multiple days of an expansion without a new swing point, I can be looking
+[04:00] for a retracement or a reversal.
+[04:02] Here you can see on the daily chart, we do have that reversal closure.
+[04:06] So that gives me bias bearish into this next day.
+[04:10] And I could be looking for a price to trade into this daily fair value gap below.
+[04:14] Now let's go down to the hourly timeframe for our structure.
+[04:17] So here we are on the hourly timeframe.
+[04:19] You can see we have a change in the state of delivery as we have price sweeping out the
+[04:23] highs right here and then closing through the series of up close candles.
+[04:27] And that's validating this swing point.
+[04:29] So now going into the next day, we'd want to look at the lower half of this previous
+[04:33] days range and look for a price to form its wick.
+[04:36] So we'll be looking for a candle to closure or a candle to reclosure in here to try to
+[04:40] get on side if I want to catch the wick or wait for a continuation.
+[04:44] So let's see if we can find either of those.
+[04:46] So here you can see we do have a reversal closure, but it's not very bearish, right?
+[04:50] It's more of a doji.
+[04:51] But we can go down to the five minute timeframe and see what this looks like.
+[04:54] Now down here on the five minute timeframe, what would we want to see?
+[04:57] We'd want to see the lower half of this change in the state of delivery be respected if price
+[05:02] is going to continue lower in the next candle.
+[05:05] And here you can see price trades rather high, creating equal highs up here.
+[05:09] So this is not something I'd be interested in shorting.
+[05:12] Let's see what would happen.
+[05:14] So you can see it just more so consolidates and then runs out the high.
+[05:19] Let's go back to our structured timeframe as that would not provide a valid setup.
+[05:23] Let's see if we can find a new swing point or if it trades too high, we can see if it
+[05:27] reverses and then look for a continuation.
+[05:31] So here you can see price has traded rather high.
+[05:34] So it's very hard for me to trust this reversal.
+[05:37] So close to this high, I would want to see if price can form a nice V shape reversal and
+[05:41] then look for a continuation.
+[05:43] Otherwise, many times I see this just fail and then run out the swing point.
+[05:47] Let's get some more information.
+[05:49] And here you see, we start to get that displacement down or that V shape reversal.
+[05:55] Now that is very aggressive.
+[05:58] And you can see this is a new continuation or a continuation order block on the structure
+[06:03] timeframe.
+[06:04] So let's continue to look at this timeframe and see if we can get a retracement to get
+[06:07] on side with a move.
+[06:10] Now one thing to notice here is we do have this bullish reversal, but this bullish reversal
+[06:14] then fails as we were forming a candle to closure bearish here.
+[06:18] Now this is located within a fair value gap right here.
+[06:22] It's rather small, but a fair value gap and retesting this continuation order block.
+[06:27] So we could go down to the lower timeframe and see if the structure aligns with a move
+[06:30] towards previous day low and into that daily fair value gap.
+[06:34] Let's drop down to the five minute timeframe as that aligns with the hourly.
+[06:38] So here we are down on the five minute timeframe and let's take a look.
+[06:42] Do we have a point of interest here?
+[06:43] We do.
+[06:44] We have a fair value gap.
+[06:46] But what else are we doing?
+[06:47] We're taking out this short term low here.
+[06:49] So this is where we sometimes will run out a protected swing or a new high to then go
+[06:53] lower.
+[06:54] Let's give this another candle or two.
+[06:56] And you can see we don't respect this area at all or this small bodied candle here.
+[07:01] So let's see if we form a new continuation.
+[07:05] So we are sweeping out that high.
+[07:06] We then needed to form a continuation, which would be a close below here.
+[07:11] Let's see if we can get that.
+[07:17] And there you can see we do get the closure below.
+[07:19] So then I could look to take a position either on the close or on the retest, but my stop
+[07:24] on the body high or the actual high, either one works that is up to you.
+[07:30] And then I'd be looking for two are though just review.
+[07:33] We have a daily bias that is bearish.
+[07:35] We have an hourly continuation out of a fair value gap.
+[07:39] So we have formed the high of the day is what I'm anticipating.
+[07:43] And then a continuation in this hourly fair value gap right here.
+[07:46] And then we have a continuation on the lower timeframes.
+[07:49] So what are we doing?
+[07:50] We are aligning all of our timeframes in one direction.
+[07:54] The daily is bearish, the hourly is bearish, and the five minute is bearish.
+[07:58] This is when expansion can occur.
+[08:00] So let's see what happens.
+[08:02] We get tagged in on the retest candle for we get a continuation.
+[08:07] It waits until candle five, but we do get a move lower, right?
+[08:10] And that is the expansion that occurs when we have all timeframes aligned bearish.
+[08:15] So just to review one more time, we'll go back out to the daily timeframe here.
+[08:19] We have price taking out highs on the left here.
+[08:22] We have a reversal closure, which gives us a bearish bias for this day here.
+[08:27] Going down to the hourly timeframe, we have a change in a state of delivery,
+[08:31] which confirms that daily bearish swing point.
+[08:34] And then we are looking for the WIC high two form in this daily candle.
+[08:38] Now I can look to trade it on the candle closure and actually get in on the WIC,
+[08:42] or I can let that inter candle change in the state of delivery form or
+[08:45] that continuation on the structure timeframe and then seek a continuation.
+[08:50] Here price traded too high.
+[08:52] So we let a V shape reversal form, then looked to get a retracement and
+[08:56] then get on side with a new expansion.
+[08:58] But here you can see we had a candle to closure in a point of interest.
+[09:02] And then we went down to the lower timeframes and found a continuation order block.
+[09:06] Now where could I be targeting instead of just two are here?
+[09:09] I could look for previous day low or for price to trade into that daily fair value
+[09:13] gap below.
+[09:15] You can see if we let that play out, we do get a very nice drop into that daily
+[09:19] fair value gap.
+[09:19] And that's how you can get greater risk to reward on your trades is use a lower
+[09:23] time frame in validation and still target those higher timeframe objectives.
+[09:28] Now let's get into another example.
+[09:30] Now here we are on our next example.
+[09:31] We are on USD JPY on the daily and monthly timeframe.
+[09:36] Here you can see we've had a candle to closure on the monthly,
+[09:39] which gives us a bullish bias for this month or this October.
+[09:43] Now we're getting into the end of October.
+[09:44] I don't want to fade that month, especially with these equal highs resting above.
+[09:49] So with equal highs, what do we have?
+[09:51] We have a candle to closure on this timeframe.
+[09:54] So what would we want to do here?
+[09:56] Well we'd want to refine that down and confirm it.
+[09:59] Now this is a fractal concept.
+[10:01] So in the earlier example, I use the daily hourly in five minute, but here you can see
+[10:05] I'm using the monthly daily and then hourly.
+[10:08] So the hourly will be my entry timeframe.
+[10:11] Now is this at a point of interest?
+[10:13] Yes, it has a wrench into this fair value gap here.
+[10:16] The body is respecting it and we are closing back above it.
+[10:20] So instead of going all the way down to my lower timeframes, in this case, I can just
+[10:24] use the hourly as my entry timeframe.
+[10:26] Does that mean you can't refine this down further?
+[10:29] Of course you can, but sometimes I just prefer to not refine it down too much.
+[10:33] So let's see here, what do we want to see?
+[10:35] We want to see price open and then form a continuation, right?
+[10:38] We're looking for a continuation order block.
+[10:41] Now if we look in this structure here, I already have one, but I don't want to see price trade
+[10:46] below this level, right?
+[10:48] And that also lines up with the EQ.
+[10:50] Let's look for another continuation to form in here.
+[10:54] Now we do have a fair value gap here, right?
+[10:56] We reach into a fair value gap.
+[10:58] Do we close over these down close candles to form a continuation?
+[11:02] No, we are forming a consolidation and then we make a new low.
+[11:06] Now I've refined this down.
+[11:08] Do we close over this level to form a new continuation?
+[11:14] And there we do.
+[11:15] So with that, I can then look to take an entry either on their retest or the close here.
+[11:20] I'd rather take it on the retest.
+[11:22] Why is that?
+[11:23] Well, we just took out these highs here so we could get a retracement before going higher.
+[11:27] So looking for a retest, put my stuff on the bodies because they are nice and full-bodied
+[11:32] candles and then look for two are.
+[11:35] Let's see how this works out.
+[11:38] And there we hit two are.
+[11:39] You can see this is an example of the monthly to daily to hourly framework, right?
+[11:44] Align multiple time frames in one direction.
+[11:47] Now, if I wanted to refine this down further, I could look to refine this down in here as
+[11:51] price takes out this high and then we have a retracement.
+[11:55] So if we're going to continue higher, I'd expect a low to form in here to trade higher,
+[12:00] which you could look for a swing point on the 30 or 15 minute time frames.
+[12:04] So let's get into one more final example.
+[12:07] So here we are in one more example.
+[12:08] We are on oil on the hourly chart.
+[12:11] So you can see we have this daily closure here, which is bearish.
+[12:14] And then do we have that change in the state of delivery?
+[12:17] And we do.
+[12:17] We have closed through that level.
+[12:19] Now we want to look for a continuation in this area to get on side with it.
+[12:23] You can see it's a bit messy, right?
+[12:24] We have all these failure swings.
+[12:26] We have swept out this short term low here.
+[12:29] So it's not looking great, but let's see if we can find something.
+[12:32] You can see we'd want to see this area respected and price just immediately trades higher.
+[12:39] Now you can see we do sweep out this little low, but even with that, do we form a continuation?
+[12:44] No, we do not.
+[12:45] We have not closed below this level.
+[12:49] And we fail to do so.
+[12:51] So now what is this becoming?
+[12:54] When we fail to form a continuation multiple times, this is just becoming a range, right?
+[12:59] This is a consolidation.
+[13:01] So how do we approach consolidations?
+[13:04] Well, we'd want to see the high or the low of the range be taken out and then a continuation
+[13:08] or an order block form there.
+[13:10] Here you can see we sweep out the high in this consolidation or previous days high.
+[13:15] We now have a protected swing form and then we could look for price to continue lower
+[13:20] here.
+[13:21] Now I just wanted to show this example because one, if we are not going to form a continuation,
+[13:26] it doesn't always occur.
+[13:27] That is where price will then form a consolidation.
+[13:31] And then I want to avoid it until one side of the range is taken.
+[13:34] If I do want to trade something like this, this is trading a reversal day, which is a
+[13:38] bit more complex, but that is how I would approach it.
+[13:41] Now let's say I did want to get on side here.
+[13:43] Well I can still look to trade a continuation.
+[13:46] So if I go down to the 15 minute timeframe, here you can see we have that sweep and the
+[13:50] close through and we form another continuation or this breakdown here, which I could trade
+[13:55] the breakout of.
+[13:57] But this is not an example of something that I want to trade.
+[14:00] I was more so showing this to show you that when price fails to form a continuation and
+[14:05] you are looking for it, or it is just messy, don't try to force yourself on the market.
+[14:10] Focus on those examples that are really clear and focus on trading those versus trading
+[14:14] something like this because it's just a bit more complex.
+[14:17] Now if you did enjoy this video, please let me know in the comments below and I'll see
+[14:21] you guys next week.
+[14:22] Have a good one.

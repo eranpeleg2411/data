@@ -1,0 +1,217 @@
+[00:00] How's it going everyone?
+[00:12] In this video we are going to talk about projections, specifically within my fractal model, and
+[00:17] how they are used.
+[00:19] They are mechanical targets, and I personally use them as a confluence to existing liquidity
+[00:24] targets.
+[00:25] Let's get into the PDF.
+[00:26] The first thing you're going to have to do is grab a Fibonacci tool and then apply these
+[00:31] settings.
+[00:32] We'll want to mark out a 1, 0, negative 1, negative 2, negative 2.5, negative 4, and
+[00:38] negative 4.5.
+[00:40] You can always add levels that you find work for you.
+[00:43] These are just the ones that I use.
+[00:45] How do we actually mark out a projection?
+[00:48] It's always going to be within candle 2 at the reversal point.
+[00:51] Here you can see we have the change in the state of delivery, or the change in the state
+[00:56] of delivery here in the bearish scenario.
+[00:58] I'm going to find the manipulation leg.
+[01:00] Once we have a change in the state of delivery, I'm going to look for that low, and then I'm
+[01:05] going to find the high that made that low, that whole manipulation leg, and I'm going
+[01:09] to go ahead and mark that out.
+[01:11] From there, I'm going to draw my projection.
+[01:13] I'm going to anchor it to the low, and then draw it to the high that made that low.
+[01:17] By doing that, I'll be able to draw out a projection that then gives me targets for
+[01:21] this move based off the manipulation leg.
+[01:24] So by removing that manipulation leg and cleaning it up, you can see we are just measuring
+[01:28] that high that made that low for a bullish scenario, or the low that made that high in
+[01:33] the bearish scenario.
+[01:34] This is going to provide targets for this move higher.
+[01:37] Now with a average or normal size manipulation leg, I'm generally looking for price to reach
+[01:41] the negative 2 or negative 2.5, and if price is going to expand the negative 4 to negative
+[01:46] 4.5.
+[01:48] So I will look for liquidity targets in that area to be paired with, and I'm going to use
+[01:53] these projections as a confluence.
+[01:55] Now let's say we have a large manipulation leg.
+[01:58] So here you can see this opposing run or the change in the state of delivery is very large.
+[02:03] When I have a large manipulation leg, I'm not looking for price to reach for that negative
+[02:07] 2 to negative 2.5.
+[02:09] That is just too much range.
+[02:10] I'm then going to use the negative one as my target.
+[02:13] And I personally love to use this on the hourly chart for the daily range.
+[02:17] So now that you understand how to mark out these projections, where they go, let's go
+[02:21] into trading view and go over a few examples of this so you can actually understand what
+[02:25] is going on.
+[02:26] So here we are with our first example.
+[02:28] And if you take a look, we have Bitcoin on the four hour chart, paired with the weekly
+[02:33] chart looking at the fractal model.
+[02:36] We have a candle to closure as price has swept out its previous week's low and close back
+[02:40] inside.
+[02:41] We have a change in the state of delivery.
+[02:44] So as we discussed in the PDF, what are we going to look for?
+[02:47] We're going to find the low.
+[02:49] We're going to find the high that made that low.
+[02:51] And that is our manipulation leg.
+[02:52] We're then going to take our Fibonacci retracement tool, anchor from the low, drag it to the
+[02:57] high that made the low.
+[02:58] And with those settings that we talked about in the PDF, we will project out targets for
+[03:03] this move.
+[03:04] So cleaning up the chart a little, you may also notice how these projections also align
+[03:09] with liquidity targets.
+[03:10] We have equal highs sitting here, as well as a previous high sitting here.
+[03:15] So in this next candle, this next week, we could be looking for price to trade into those
+[03:19] liquidity targets using the projections as a confluence.
+[03:24] And there you can see we hit our first projection target, as well as liquidity point.
+[03:28] And if we get a nice closure on this next week's candle, then we can look for the fourth
+[03:33] candle in the swing to trade higher as well.
+[03:37] And you can see with that good closure, we're looking for a shallow wick on this weekly
+[03:41] candle to finish trading into the highs.
+[03:44] And there you can see we have hit our targets as well as our projections.
+[03:48] But like I said in the PDF, I prefer to use projections as a confluence to a target.
+[03:53] But you can also use them alone, as if you do not have liquidity in a certain area, you
+[03:57] can use those projections as a target.
+[04:00] Here we are in our next example, and we are on gold on the hourly chart.
+[04:04] Now, if you notice, we have Thursday forming a nice candle to closure with a large wick,
+[04:09] and we have a change in the state of delivery.
+[04:11] So if we're going to project out targets, where are we going to do that?
+[04:14] What's always going to be in candle to at the reversal?
+[04:17] We have a change in the state of delivery.
+[04:19] We'll find the low, we'll find this series of candles that made that low, or the swing
+[04:23] high that made that low, mark that out.
+[04:25] Then we'll grab our Fibonacci retracement, anchor to the low, go to that swing high.
+[04:30] And then now we have projections for this move.
+[04:33] And you notice how the negative two to negative 2.5 is also lining up with this previous
+[04:38] day's high, as well as the liquidity to the left.
+[04:41] But that is a good confluence to see.
+[04:43] We want to see that.
+[04:44] So let's see how this plays out.
+[04:49] And there you can see, we go ahead and hit that target and we go right through it.
+[04:52] So then we could also be looking for a price to trade to the negative four to negative 4.5.
+[04:58] Let's see what happens.
+[05:00] There we go.
+[05:01] We get a nice retracement open low, I close, we trade to that max target.
+[05:06] So just to review when we have that candle to closure or a reversal or a swing point,
+[05:11] look for a change in the state of delivery, find the manipulation leg, mark out the
+[05:15] manipulation leg, and then look for targets that align with that.
+[05:19] Or if you are lacking targets, projections make a great tool for trading at all time
+[05:24] highs or areas where you do not have any liquidity resting.
+[05:28] So here we are with our next example.
+[05:30] We are on YM on the five minute chart.
+[05:33] And if you're taking a look, we do have a reversal here.
+[05:36] Right. It's not very clean.
+[05:37] And if you look, the range is not very large.
+[05:39] That pretty low expectations for this move.
+[05:42] But what do we notice about this manipulation leg?
+[05:44] We have a change in the state of delivery.
+[05:46] So finding the high, finding the low that made that high.
+[05:50] That's quite the manipulation leg.
+[05:52] So if we go ahead and mark that out and then clean up the chart, you can see that we have
+[05:57] quite a projection.
+[05:59] It's not very reasonable for late into this New York session to anticipate YM to just go
+[06:05] 500 to 600 points.
+[06:07] So this is an example of when we have a large manipulation leg, I can use that negative
+[06:12] one standard deviation as a target.
+[06:15] So it would be nice to look back to the left and see if this lines up with anything.
+[06:19] And here you can see we do have a low that lines up with that negative one standard
+[06:22] deviation.
+[06:24] Let's see how this works out.
+[06:29] And you can see that is where we go and hit.
+[06:31] We take out that low.
+[06:32] We hit our negative one standard deviation and then we form a reversal back into the
+[06:36] range.
+[06:38] So this is an example of when I have a large manipulation leg.
+[06:42] I'm not really looking for price to go to the negative two, negative 2.5 or the negative
+[06:47] four.
+[06:47] I'm going to look and lower my expectations and look for that negative one standard
+[06:51] deviation.
+[06:52] So here we are with our next example.
+[06:54] And you can see we have formed a candle to closure.
+[06:56] We have a change in the state of delivery and we have failure swings on the left.
+[07:01] But what do we notice about this manipulation leg?
+[07:03] It is quite large.
+[07:05] We mark out the low.
+[07:06] We find the high that made that low.
+[07:08] And we look at the range.
+[07:09] Our range or our target is right here.
+[07:12] And our manipulation leg is almost half of that.
+[07:14] That's quite a large manipulation leg.
+[07:16] So marking out our projections.
+[07:18] What would we want to do here?
+[07:20] We want to focus on targeting that negative one standard deviation instead of looking
+[07:24] for price to expand all the way to the negative four, because that's just an absurd
+[07:28] move.
+[07:28] So coming back in.
+[07:30] Let's see what happens here.
+[07:33] You can see we have a nice open low high close and we trade right through the negative
+[07:38] one.
+[07:38] Now if we're not going to reverse off this high, that's when we can look for price
+[07:42] to expand further to our next targets.
+[07:46] You can see there we get an expansion into that negative two to negative 2.5.
+[07:50] Now let's see how this daily candle closes.
+[07:53] Now we have a candle to closure.
+[07:55] We have yet to form a change in the state of delivery.
+[07:57] So we need to wait for that.
+[08:00] And now that we have that change in the state of delivery, what can we look for?
+[08:03] Well, we can go ahead and mark out manipulation leg.
+[08:06] Go from this high to the low that made that high.
+[08:09] And then I can go ahead and mark that out with my projections.
+[08:13] Now what I can also do is if I use my indicator, I can just go into the settings
+[08:17] here and I will turn on the projections.
+[08:20] And this will allow me to do the exact same thing without having to mark them up.
+[08:24] You can see we get our projections on the screen.
+[08:26] What do we notice about this manipulation leg?
+[08:28] It is quite large.
+[08:30] This is where am I really expecting this current daily range to go expand all the
+[08:34] way down here?
+[08:35] Probably not.
+[08:37] So this is where I can look for price to expand to the negative one within this
+[08:40] current daily range.
+[08:42] Let's see how this works out.
+[08:45] There we hit our negative one.
+[08:46] Now if we're going to get a continuation to these lows, we have all these failure
+[08:50] swings that lines up with the negative two to negative 2.5.
+[08:54] So then that gives me a confluence to the target for this downside move.
+[08:59] And you can see there we go and run out these lows, as well as hit all of these
+[09:04] standard deviation projection targets.
+[09:06] So here we are in our last and final example.
+[09:09] And let's take a look at a few scenarios.
+[09:12] What do we notice about this reversal right here?
+[09:14] If we take a look at the range, it is quite a large manipulation leg.
+[09:18] So what would I want to be targeting in this scenario?
+[09:21] Well, the negative one, right?
+[09:23] And so we hit our negative one and we get a consolidation and we're starting to
+[09:27] form a little reversal off of that.
+[09:29] Now let's play through this and see what happens and how projections can add some
+[09:33] confluence.
+[09:34] So here we get a reversal.
+[09:36] Do we get the closure we do?
+[09:38] So taking a look at this, what do we notice?
+[09:40] We have our negative two to negative 2.5 just before that low.
+[09:44] Now when this occurs, I like to take my profit at that liquidity point prior to
+[09:49] the final target, because a lot of times price will take out this low.
+[09:53] And then if it's consolidating, go back into the range.
+[09:56] So I'll go ahead and see how does this work out?
+[10:00] We go and hit that target.
+[10:01] We open up a new candle and we go and hit that final target.
+[10:06] But that's just a scenario where most of the time I'm going to take my profit here
+[10:10] and not be greedy to hold for it extra few points and give up the entire move.
+[10:15] Now let's see if we form a reversal in the other direction.
+[10:18] We do.
+[10:19] And what do we notice about these targets, right?
+[10:22] The negative one aligns with some equal highs here and the negative two to
+[10:26] negative 2.5 lines up with these failure swing highs here.
+[10:29] Now if price is going to remain in a consolidation, this is where I'm going to
+[10:33] want to actually pay attention to this negative one target because it's the
+[10:36] liquidity point internal to this range.
+[10:38] But let's see how this works out.
+[10:41] There we go.
+[10:41] And we do not reverse off this high.
+[10:43] That could be looking for price to trade higher into the highs.
+[10:47] And this is where we actually are currently.
+[10:49] But we'll see if this high eventually does get taken out.
+[10:52] But that is what I would be looking for.
+[10:53] The projections are a confluence to this target here.
+[10:57] Now I hope you enjoyed this video.
+[10:58] If it does make sense to you, please like and subscribe.
+[11:01] And if you have any questions, leave them in the comment section below.
+[11:04] With that, I hope you have a great rest of your day and I'll see you guys next time.
+[11:07] Have a good one.

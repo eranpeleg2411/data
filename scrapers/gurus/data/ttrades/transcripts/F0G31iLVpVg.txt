@@ -1,0 +1,359 @@
+[00:00] How's it going everyone, and welcome back to another video.
+[00:14] This is going to be part 3 in my phases of price series, so if you haven't seen part
+[00:18] 1 or 2, make sure to check those out, and specifically the expansion video, because
+[00:22] if you haven't seen that, this video won't make sense.
+[00:25] Let's get ahead and get into the PDF.
+[00:28] So the first thing we have to understand is what is a retracement, what does it look
+[00:32] like, and how do we identify it.
+[00:34] Well, if you've watched the expansion video, it's going to be the opposite of an expansion.
+[00:39] So where an expansion is a strong, fast directional move in one direction, we want to see the
+[00:44] opposite out of that in a retracement.
+[00:46] We want to see a slow, shallow move opposing the trend.
+[00:49] It will have expansion, a slow, shallow move forming a retracement, and then an expansion
+[00:55] again.
+[00:56] And we'll talk about where we anticipate these lows to form in a retracement a little
+[01:00] later in this PDF.
+[01:01] But one thing I want to point out is if you've seen my high resistance versus low resistance
+[01:06] liquidity video, what do we want to see on these highs here?
+[01:09] We want to see failure swings, and that allows us to, once a low forms and we're trading
+[01:14] this long, to target those failure swings on the high.
+[01:17] Right, so that is a common signature that you want to see with a retracement is the
+[01:21] formation of failure swings.
+[01:24] Now where do we interact with retracement?
+[01:26] Well, following the aggressive move or the expansion higher, where do we expect a retracement
+[01:32] to go to?
+[01:33] Well, we have fair value gaps here.
+[01:34] I'm anticipating a low to form in a fair value gap.
+[01:38] There's a few different ways you can approach this.
+[01:40] You can one mark out a fair value gap and look for a candle closure or a lower timeframe
+[01:45] entry model within here.
+[01:46] So you can see we have a candle to closure, you can look for my fractal model down there,
+[01:50] or I can let a protected swing form out of this area.
+[01:53] So once we get a closure over these down close candles right here, and then I could
+[01:57] look for a continuation following on this timeframe.
+[02:00] Either way you choose to interact, the most important is to just understand you want to
+[02:04] see expansion, a shallow move or a retracement into a PD array, which is generally a fair
+[02:10] value gap, a formation of failure swings on the high.
+[02:14] And then you want to see that reverse and then go into a new expansion.
+[02:18] Let's get into trading view and go over a few examples.
+[02:22] So here we are with our first example of retracement.
+[02:25] And this is going to be following an expansion.
+[02:28] So what do we notice right here is we want to have price set up to expand.
+[02:32] We have a candle to closure here or price closing back inside.
+[02:37] And we have a change in the state of delivery.
+[02:39] I'm expecting price to have an expansion day here higher.
+[02:43] So if we're going to go ahead and mark this out, let's visualize it.
+[02:47] We have expansion up here.
+[02:49] Do we want to see expansion back lower?
+[02:52] No, that is a reversal.
+[02:53] We want to see a slow shallow move.
+[02:56] So as we let this play out, let's see what happens.
+[03:00] You see how we have a nice, slow shallow move back into this range.
+[03:05] That is what you want to see out of a retracement.
+[03:07] And then once again, we could look for an entry down here on this candle to closure
+[03:13] or we could wait for price to close over the series of down close candles forming a protected swing.
+[03:19] Either way works, but we'll go ahead and just watch it play out.
+[03:23] And you can see we go from what expansion retracement into a new expansion following that reversal.
+[03:31] And you can see where is that formed in a fair value gap.
+[03:34] Yes, it digs a bit deeper, but you can see how the bodies respect.
+[03:37] Now as we go into the next day, let's see what happens.
+[03:40] What do we have?
+[03:41] We have a fair value gap here.
+[03:43] We have some failure swings down here as well.
+[03:45] So if we're going to get a continuation, we're either going to get what?
+[03:49] A consolidation in which we sweep out the load to continue higher, or we're going to get a retracement.
+[03:54] What does that look like?
+[03:55] Insolidation sweeps the low to trade higher, or we're going to have a slow shallow move and then trade a higher.
+[04:03] So let's see what happens.
+[04:06] You can see we have a slow shallow move.
+[04:08] All of these candles here on the way back down, you can see nine hours worth of candles.
+[04:14] Pick up the range of about three hours of expansion.
+[04:18] So as we look at this here, we could look for an entry when, well, we have a candle closure here.
+[04:25] So my model could form right here, or I can wait for what?
+[04:29] A protected swing to form.
+[04:31] So taking a look, let's see what happens.
+[04:35] We close over, we form a protected swing, and then we expand higher.
+[04:38] You can see expansion retracement, expansion, retracement, expansion.
+[04:45] And the main thing you want to notice here is see how it is a slow shallow move, right?
+[04:49] Expansion is aggressive, fast and large range.
+[04:53] Retracement is slow and shallow in a small range.
+[04:57] Let's get into another example.
+[04:59] So here we are in our next example.
+[05:01] And you know, I mainly focus on the daily and hourly for my phases of price, but it does also apply to the lower time frames.
+[05:08] We'll go ahead and take a look at a Euro USD five minute example.
+[05:12] And if you notice, we have our hourly chart on the side.
+[05:15] We have a closure back inside the range.
+[05:17] We have what all these hourly lows lined up.
+[05:20] So those are failure swings as marked up on my indicator.
+[05:23] And what do we have?
+[05:24] I'm expecting a short to occur.
+[05:27] Now with my indicator, it says that I want to form the WIC high in this area.
+[05:31] That is what the gray box means.
+[05:32] Now for me, I view all these highs as failure swings.
+[05:35] So I would want those ran out before looking for a short.
+[05:39] Let's see if that occurs.
+[05:42] And you can see that doesn't occur, right?
+[05:44] So I would not get a short setup in here.
+[05:46] And that is just how it works.
+[05:47] Not everything is going to be perfect.
+[05:49] But if you take a look, we just ran out some lows over here.
+[05:52] Let's see how we interact with this previous hour is low.
+[05:56] And so we're getting a little consolidation.
+[05:58] If we're going to get a retracement, what's going to occur?
+[06:01] We're going to get a shallow move into a fair value gap.
+[06:04] Let's see if that occurs.
+[06:07] No, it doesn't.
+[06:08] We get a consolidation and we just expand away from it.
+[06:11] But once again, I would not get a setup right now.
+[06:14] How would this look if we had to get a setup out of both of these?
+[06:17] I would have needed a sweep here and for price to reach up into this area on one of these.
+[06:22] Right.
+[06:23] Since neither of those occurred, I wouldn't get a setup.
+[06:26] But the main thing I want to point out here is we have aggressive expansion,
+[06:29] which we're going to either get very shallow retracements or no retracements at all.
+[06:33] Let's see if this continues.
+[06:36] Right here, what do we have?
+[06:38] We have a new open of a higher time from candle.
+[06:41] So if we're going to form the wick of the higher time from candle in the T spot,
+[06:45] is what my indicator marks out.
+[06:46] I'd want to see it right in here.
+[06:47] I wouldn't really want to see price if we're going to expand, right?
+[06:51] With expansions, we get shallow retracements.
+[06:53] Do that.
+[06:54] But would I want price to be deeply retraced to then go lower?
+[06:57] No, I'd want a shallow retracement.
+[06:59] Let's see what happens.
+[07:01] We now close below here.
+[07:02] Protected swing now.
+[07:04] So now if this gets violated, this trend is over.
+[07:08] Let this continue.
+[07:09] And once again, what do we have?
+[07:11] We have a fair value gap here.
+[07:13] So that is now a new retracement.
+[07:16] And we are kind of consolidating here.
+[07:19] Right.
+[07:19] So generally, another thing you want to see with retracement is you want to see them be quick.
+[07:23] You want to see expansion retracement expansion.
+[07:26] If we expand, start a retracement, and then we fail to confirm that.
+[07:30] You see how we failed to close below here.
+[07:32] And then we hang around.
+[07:34] This is now just a consolidation.
+[07:36] Right.
+[07:36] You could view this consolidation and try to trade lower, but it's also a consolidation on the lows now.
+[07:42] Right.
+[07:43] So let's see what happens.
+[07:46] And you can see we have a consolidation expansion out expansion back in.
+[07:51] That's a reversal.
+[07:52] And this hourly candle, let's see how it closes.
+[07:55] It closes bullish.
+[07:57] So now removing all our drawings, this trend is over our hourly closure.
+[08:02] And we can see how we're going to trade it this way.
+[08:05] We're kind of combining the expansion, the consolidation, and the retracement videos together.
+[08:10] So if we're going to expect this to continue, what do we want to see when we have a fair value gap right here?
+[08:15] Ideally, a reach into that.
+[08:17] We do have a shallow reach into it.
+[08:19] I personally don't really trust that.
+[08:20] I'd like to see a consolidation low swept out.
+[08:23] Give me a wick I trust to trade it higher.
+[08:28] Now we have a consolidation up here.
+[08:29] So I'd be mainly focused on what?
+[08:32] These lows getting swept out to trade higher.
+[08:35] Because if you remember from our consolidation video, if we're expecting a continuation,
+[08:39] in this case, we are bullish, we'd want to see what?
+[08:42] Consolidation and manipulation of the low to then trade higher.
+[08:46] Right.
+[08:46] Manipulation of low, find a protected swing can trade that higher.
+[08:52] And you can see we just make equal lows and start to trade away.
+[08:55] So this is not something I'd personally trust to get on side with here.
+[08:58] Right.
+[08:59] The only way I'd be able to trust this is if we're trading higher and finding a continuation
+[09:03] out of that.
+[09:04] So we have expansion.
+[09:07] If we're going to continue, we'd want to see what either expansion continue or a retracement,
+[09:11] which is shallow to treat it higher.
+[09:14] And here we get a retracement into what a fair value gap.
+[09:18] I'm not trying to long this right away.
+[09:19] I want to wait for what a closure over the down close candle.
+[09:26] Here we get the closure over so I can either enter on the close or on the retest, but my
+[09:30] stop on this wick or the body, right?
+[09:34] I wouldn't really trust the body here with the lack of wick, though, at least on the
+[09:38] wick or a little bit higher.
+[09:40] And then look for two are.
+[09:42] And what do we notice?
+[09:43] We have nice failure swings over here on the left.
+[09:46] There we get tagged in and we don't know if they had TP because this is current price
+[09:50] action.
+[09:51] So why did I choose this example?
+[09:53] I chose this example to show you that not everything is going to be perfect, right?
+[09:57] We didn't get a sweep right here to look to get on side with the first short.
+[10:01] We didn't get a retracement into a fair value gap here for a continuation.
+[10:06] This could have provided an entry, but it's a bit late into the move and below lows.
+[10:10] So you could miss this entire move even though you anticipated it.
+[10:14] The other thing is to show strong expansions have shallow retracements or consolidations.
+[10:19] On this bullish move, what do I want to show?
+[10:21] I want to show once again, it's not going to be perfect.
+[10:23] If it was perfect, something like this would occur, right?
+[10:26] Reach into a fair value gap, sweeping out the consolidation lows, the formation of a
+[10:29] protected swing and then could trade it higher.
+[10:32] So I showed this example to show you it's not going to be perfect as well as starting
+[10:36] to combine it all together.
+[10:37] Right? You can see how the expansions, consolidations and the retracements start to blend together.
+[10:43] Once you have a bias, you can blend this all together with the phases of price to increase
+[10:47] your understanding of where the market is likely to go.
+[10:51] Now, once again, this is a fractal concept.
+[10:53] So I do prefer on the daily and hourly, but here we are on the monthly and daily.
+[10:59] Now, if you notice, we have a candle to closure.
+[11:01] We have a change in the state of delivery, but we have that reversal and then we trade
+[11:05] lower in candle three.
+[11:06] Now, if you notice, there's a few things I want to talk about up here.
+[11:09] And we sweep out this low, but what happens?
+[11:13] We want to watch for the phases of price.
+[11:15] Do we get a manipulation of this low, trade it higher?
+[11:19] No, we don't because we would have closed over this forming a bullish change in the
+[11:22] state of delivery.
+[11:23] Do we get a consolidation or a retracement?
+[11:26] Well, we retrace into this previous fair value up here and then close below here.
+[11:31] You can see how that monthly high is formed by a retracement into a fair value gap.
+[11:36] Now, getting into this next candle, since we close bearish, we can have a bearish bias.
+[11:41] What do we see?
+[11:42] We have a consolidation here.
+[11:44] We have an expansion away expansion down.
+[11:47] So that's your accumulation manipulation distribution.
+[11:51] So looking at this, my indicator is saying I'm looking for a higher timeframe wick to
+[11:55] form in here or the monthly wick to form in here.
+[11:57] Where would that form?
+[11:59] If we're going to get a retracement from this expansion, I want to see a shallow retracement
+[12:03] indicator.
+[12:04] So let's let another candle pass.
+[12:06] What happens?
+[12:07] We do get that retracement.
+[12:09] We have a nice bearish closure forming the supposing candle.
+[12:13] And this is why I posted on Twitter about this right here, because this is now where
+[12:17] I expect this wick to have formed.
+[12:19] And I can trade it lower, right?
+[12:21] So let's see what happens.
+[12:23] We expand lower.
+[12:25] You can see how we go expansion retracement expansion.
+[12:28] Here we get a consolidation where we run out the consolidation and expand lower expansion
+[12:35] retracement expansion.
+[12:37] Right.
+[12:38] So my whole thing is blending the closures with the phases of price.
+[12:42] And that's why I could mark out on Twitter that this was going to expand lower.
+[12:47] So here we are in our last example.
+[12:49] And if we're taking a look, we have a bit of a messy price action here.
+[12:51] So how can we make sense of it?
+[12:53] Well, we have a candle to closure.
+[12:55] This is engulfing the previous candles.
+[12:57] We have a change in the state of delivery.
+[12:59] And price is trading higher.
+[13:01] But you might see this consolidation range and say, Hey, why aren't we waiting for the
+[13:05] low to get taken in this consolidation range?
+[13:08] Well, if we look to our correlated asset or ES, ES has taken out that low.
+[13:13] So we can consider that an SMT.
+[13:16] And then it is valid to look for long setups.
+[13:19] Now, if we're tracking our protected swings, which is important, we have one right here
+[13:23] from the change in the state of delivery.
+[13:25] And then we have a new one right here from this new opposing candle.
+[13:29] We can go ahead and move that right here, because that is a new protected swing.
+[13:33] Now, if you notice, let's see what happens next.
+[13:36] We retrace back in, we rebalance this area, and then what happens?
+[13:41] We expand away.
+[13:42] Now we have this expansion through a high.
+[13:44] So we want to see, are we going to aggressively displace back into the range, forming a reversal
+[13:49] to trade lower?
+[13:50] Or are we going to consolidate?
+[13:52] In which case, what are we looking for?
+[13:54] We'd mark out the lows, wait for manipulation of the lows to trade it higher.
+[13:57] Or are we going to retrace into a fair value gap to then trade it higher?
+[14:01] So we don't know what's going to happen.
+[14:03] Let's let the candle closures tell us what is expand a bit higher.
+[14:08] There we retrace into it.
+[14:10] And we have a new candle.
+[14:12] What does this candle tell us?
+[14:13] We aren't closing back inside this range.
+[14:16] We're closing back inside this previous candle's body.
+[14:19] What do we see?
+[14:21] We start to trade it higher.
+[14:23] So we have expansion, retracement, expansion.
+[14:26] And what do we have now a new protected swing?
+[14:30] We can go ahead and track that.
+[14:31] So if we get long from anywhere down here, I have a new spot for my stop loss to trail
+[14:36] to.
+[14:37] So we have expansion higher.
+[14:40] What do we get?
+[14:41] We have expansion and we have this little consolidation here.
+[14:44] Right.
+[14:45] Do I trust this personally?
+[14:47] Not really.
+[14:48] Because I could definitely see price just trading a little bit lower into this fair value
+[14:51] gap.
+[14:52] But if we expand here, that's just something I'm going to miss.
+[14:56] And we do expand from there.
+[14:57] So that's something I would miss.
+[14:58] We have expansion, a little consolidation, manipulation, trade it higher.
+[15:02] Here we have expansion.
+[15:04] This would be something that would make more sense to me as we have reach into a fair value
+[15:09] gap.
+[15:10] And then we start to expand away from that.
+[15:13] What do we notice here?
+[15:14] We were traced back into this range.
+[15:15] You don't really want to see that in expansion.
+[15:17] You want to see it just trade higher.
+[15:18] But what is this now?
+[15:20] This is just a consolidation.
+[15:23] So there's kind of a few options here.
+[15:25] If we're in a consolidation, we're going to trade it higher.
+[15:27] We want to see a sweep of the low, then trade higher.
+[15:30] If we're a bearish, we want to see a sweep of a high to trade it lower.
+[15:34] Let's see what happens.
+[15:36] Here we sweep up the low, aggressively back in.
+[15:40] Now do we form a protected low?
+[15:42] Because that is what I'm looking for.
+[15:43] Do we close over this level?
+[15:46] And we do.
+[15:47] So now we have a new protected low right here.
+[15:50] So this trend is still continuing higher, right?
+[15:54] Protected low, protected low, protected low.
+[15:58] Let's see, we expand.
+[15:59] Now we're once again over highs.
+[16:02] So once again, I want to see, do we aggressively come back into this range?
+[16:06] Or are we going to consolidate?
+[16:08] In which case I'm looking for the highs to get taken, go lower, or consolidate for the
+[16:13] lows to get taken, or are we going to get a retracement?
+[16:16] Right.
+[16:17] So I'm just looking for those phases of price.
+[16:19] Let's see.
+[16:20] Taking a look there.
+[16:22] Is that a retracement or a consolidation?
+[16:24] No.
+[16:25] Expansion met with expansion, which we'll talk about in the next video, but that's a
+[16:29] reversal.
+[16:30] So if price is going to reverse from here, what does that mean?
+[16:33] Our protected low is likely not safe and becomes the draw on liquidity.
+[16:37] So I'm then expecting price to go trade to this low or this swing point to fail.
+[16:43] Let this play out.
+[16:46] And there we go.
+[16:47] We go take out the low.
+[16:48] And you can see we have some messy price action there.
+[16:50] But hopefully that made sense when we are going to trend, right?
+[16:54] We're going to have very shallow retracement.
+[16:55] It's not the cleanest of price action, but just make note of expansion retracement, expansion
+[17:01] retracement, expansion.
+[17:03] We have a little consolidation.
+[17:04] That's fine.
+[17:05] If you can anticipate that, you can catch it.
+[17:07] That's fine.
+[17:08] We form a consolidation.
+[17:10] It's just using the phases of price.
+[17:12] If I see a consolidation, I know I want to see a manipulation.
+[17:14] If I see a retracement, I want to see a protected swing and then I can trade it higher.
+[17:19] When you understand the phases of price, you can understand or anticipate what is going
+[17:23] to be next or where the opportunities lie in the market.
+[17:26] So I hope you enjoyed the video.
+[17:28] I'll see you guys in the next one where we go over reversals.
+[17:31] And then following that, it will be a final video blending everything together using the
+[17:36] phases of price with examples within my fractal model and actually finding entries using it.
+[17:41] Hope you have a great rest of your day.
+[17:43] I'll see you guys next time.
+[17:44] Have a good one.
+[17:53] Bye.

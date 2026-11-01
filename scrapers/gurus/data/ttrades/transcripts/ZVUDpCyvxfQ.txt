@@ -1,0 +1,87 @@
+[00:00] How's it going everyone? This video is going to be over Fair Value Gaps. What is a Fair
+[00:15] Value Gap? What is a busy? What is a sippy? What is consequent encroachment? As well as
+[00:20] inversion. We will also touch on the difference between a Fair Value Gap, a Volume and Balance,
+[00:26] and a Gap. The first thing we are going to go over is what is a Fair Value Gap? A Fair
+[00:31] Value Gap is a three candlestick pattern where the first candle low does not overlap
+[00:37] with the third candle's high, or where the first candle high does not overlap with the
+[00:43] third candle's low. Let's take a little bit of a deeper look into that. If we take a look
+[00:47] at this candle's low and drag it out, and this candle's high and drag it out, because
+[00:54] this high does not overlap with this low, this is now a Fair Value Gap. Going over to
+[01:00] this example, this candlestick high does not overlap with this candlestick's low, so this
+[01:08] is also a Fair Value Gap. Now that you understand what a Fair Value Gap looks like, what doesn't
+[01:13] it look like? If we were to extend this candle's low down to here, and this candle's high up
+[01:21] to here, let's drag the high and low across and see if there is a gap. When dragging the
+[01:26] high and low across, you can see that the overlap, the low from the first candle is lower than
+[01:32] the high of this third candle, so there is no gap there, and this is not a Fair Value
+[01:38] Gap. Similarly over here, if we were to extend this high up and this low down, you can see
+[01:45] that there is overlap between the first candle's high and the third candle's low, meaning there
+[01:51] is no Fair Value Gap here. So just to clarify, a gap between the first candle's low and the
+[01:58] third candle's high, or the first candle's high and the third candle's low is what creates
+[02:03] a Fair Value Gap. Let's go over a few examples of finding Fair Value Gaps. So if you look
+[02:09] right here, we have our first candle's low, extend that out, and our third candle's high,
+[02:16] extend that out. There is a gap between this candle's low and this candle's high, and that
+[02:21] creates a Fair Value Gap. Now if you notice, do we have another one? Yes, because this
+[02:26] candle's low does not overlap with this candle's high. So now we get an aggressive move in the
+[02:32] opposite direction, and looking at this candle right here, one, two, three, this candle's
+[02:38] high does not overlap with this candle's low, which creates another Fair Value Gap.
+[02:46] The next thing we are going to go over are Sibbys and Bisis. A Sibbys is a sellside imbalance
+[02:53] buyside inefficiency. What does that mean? It means that sellside was offered, but buyside
+[02:58] wasn't. So it is inefficient. We're simply put a bearish Fair Value Gap. A Bisis is a buyside
+[03:05] imbalance, sellside inefficiency. This means that buyside was offered, but sellside wasn't. So
+[03:11] it is inefficient or a bullish Fair Value Gap. So if we look at this price section right here,
+[03:17] we have a bearish Fair Value Gap where sellside is offered, but buyside is inefficient. So this
+[03:24] creates a Sibbys. Now if we move over here and let this play out, you can see price made a
+[03:33] bullish Fair Value Gap here or a Bisis, because it offered buyside, but not sellside.
+[03:42] And there we go. There is an example of a Sibbys and a Bisis, and I hope that clarifies some
+[03:48] things for you guys. There are three things that I look for within a Fair Value Gap. The first
+[03:53] being the start of the Fair Value Gap, the second being the consequent encroachment, or the 50%
+[03:59] of the Fair Value Gap, and lastly where price completely fills the Fair Value Gap. When price
+[04:05] returns to the Fair Value Gap, I want to see a few different things. One, price can either reach
+[04:10] up into this Fair Value Gap, close out and continue lower, and also reach up into the consequent
+[04:16] encroachment of this Fair Value Gap. From here, I would like to see a candle close outside of it,
+[04:21] but as long as it's respecting the consequent encroachment, I'm pretty flexible with that. It
+[04:26] can also reach up, build a Fair Value Gap, and with this, I prefer to see price close outside
+[04:33] the consequent encroachment of this Fair Value Gap. The one thing I look for when I'm invalidating
+[04:38] a Fair Value Gap is this close. When we start to close over the consequent encroachment or outside
+[04:46] of the Fair Value Gap, price is not respecting that, and a lot of times price will not reverse
+[04:51] back down. Going back to our previous example, we have a Siby right here. Let's mark out the
+[04:56] consequent encroachment and see what happens. So you can see when we reach up into this Fair Value
+[05:04] Gap, price does not close over the consequent encroachment. Now, for example, let's take a look
+[05:09] at this Siby right here, marking out the consequent encroachment. You can see that price did not
+[05:16] respect this Siby at all and closed right through it. This is when I will invalidate a Fair Value
+[05:21] Gap because price is not respecting it. Now, if we take a look at this busy right here and mark
+[05:28] out the consequent encroachment, let's see what happens. Price reaches into the Fair Value Gap,
+[05:34] closes out, so it is currently respecting. However, if we take a discount and premium of this range,
+[05:41] I would like to have it reach a little bit lower to reach a discount of the range. There price,
+[05:49] you can see we touch the consequent encroachment, close outside of here and get a continuation
+[05:55] higher. The next thing we're going to look at is Fair Value Gap inversion. And what that is,
+[06:00] is when a Fair Value Gap fails or price closes through it, this Fair Value Gap can then be used
+[06:07] as support or resistance. But then I would expect price to, if it does return to this old Siby,
+[06:14] use it as support and move away. And over here, if it returns to this old busy, use it as resistance
+[06:22] and move away. One thing is that this doesn't need to occur back to back or these Fair Value Gaps
+[06:28] don't have to overlap. This can occur later on after a period of consolidation. Going back to
+[06:34] this previous example, we have a Siby right here. Price closes through it. I can then look to see
+[06:42] if this Siby supports price, which it then does before getting a move higher. Here's an example
+[06:53] of what I mean when I say that Fair Value Gap inversion does not need to occur back to back.
+[06:58] So as we watch this play out, our first clue is that this close below the consequent encroachment,
+[07:05] we cannot displace back out hit this week right here, come back in. Let's see if we can close below
+[07:14] the Fair Value Gap. And right here, we get a close below the Fair Value Gap extending this out.
+[07:23] Let's see what happens when price returns to this. You can see price returns to this busy,
+[07:32] this old busy. It then uses it as resistance to go lower. For our next example, we have a Siby right
+[07:40] here. So let's see how price reacts to it. And you can see we filled this Fair Value Gap and price
+[07:48] closes out of it. So it's currently respecting it. It takes cell side liquidity, comes back up,
+[07:55] still respecting the Siby as it closes out of it. Takes cell side liquidity again, comes back up,
+[08:07] still respects it. We open up. And right here, we close over this Siby. So extending this out in
+[08:18] time. Let's see what happens when price returns. You can see how the consequent encroachment was
+[08:27] used as support. And then going even further ahead, we reach into this old Siby again, use it as
+[08:37] support and get this placement back out of it. Last thing we're going to cover in this video is
+[08:43] the difference between a Fair Value Gap, Volume Invalence, and a Gap. We already discussed what
+[08:49] defines a Fair Value Gap. So let's look into a Volume Invalence and Gap. A Volume Invalence is a gap
+[08:55] between the closing and opening price of two candles. And the difference between a Volume Invalence
+[09:00] and a Gap is a gap has a complete absence of trading between two candles, while a Volume Invalence had
+[09:08] trading or overlap between the high and the low. A quick example of a Volume Invalence would be from
+[09:15] this closing price to this opening price, we have a Gap. However, price did trade through these
+[09:22] areas. So it is a Volume Invalence and not a Gap. And so when price returns, we get a nice reaction
+[09:30] from that area. And here's an example of a Gap, where between two candles, we have a complete absence
+[09:37] of trading. I hope you found this video helpful. If you did, please consider liking and subscribing.
+[09:43] And I hope you have a great rest of your day. See ya.

@@ -1,0 +1,303 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "SlWxhzhLo3A",
+    "title": "Wick Size Matters: The Key to Understanding Reversal and Expansion Candles",
+    "url": "https://www.youtube.com/watch?v=SlWxhzhLo3A",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/SlWxhzhLo3A.json"
+  },
+  "stats": {
+    "word_count": 5661,
+    "duration_seconds": 1593.82,
+    "segments": 573,
+    "concepts_detected": 8,
+    "candidate_strategies": 4
+  },
+  "concept_mentions": {
+    "Liquidity": 6,
+    "Fair Value Gap": 5,
+    "SMT Divergence": 6,
+    "Premium and Discount": 1,
+    "TTrades Fractal Model": 4,
+    "Candle 3 Setup": 13,
+    "Protected Swing": 3,
+    "CISD": 1
+  },
+  "spoken_time_references": [
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Liquidity Reversal",
+      "evidence": [
+        {
+          "start": 122.06,
+          "end": 132.9,
+          "text": "And for targeting, I'm going to be looking for expansion targets, liquidity points, or this average candles range. Now with a reversal candle, you can see it uses most of its time period to form its",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 13
+        },
+        {
+          "start": 255.14,
+          "end": 264.02,
+          "text": "So I want to adjust my targets. If price is going to form a reversal in here, I'm really just expecting to return back around its opening price or the liquidity resting around there.",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 11
+        },
+        {
+          "start": 826.58,
+          "end": 833.94,
+          "text": "You can see we have a little reversal here. Why would it not make sense to trade any of these reversals? Well, you're trying to trade away from the drawn liquidity.",
+          "concepts": [
+            "Liquidity"
+          ],
+          "strategies": [
+            "Liquidity Reversal"
+          ],
+          "score": 12
+        }
+      ]
+    },
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 1035.7,
+          "end": 1045.26,
+          "text": "Once that candle closes, then we have a valid fractal model. And this is where I could maybe consider a continuation just because we have traded and showed and we want to trade away.",
+          "concepts": [
+            "TTrades Fractal Model"
+          ],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 10
+        }
+      ]
+    },
+    {
+      "name": "SMT-Confirmed Reversal",
+      "evidence": [
+        {
+          "start": 1156.38,
+          "end": 1165.1,
+          "text": "And you can see a nice little V shape here. We have SMT. So we're forming the reversal off of that previous candles high in the early",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 11
+        },
+        {
+          "start": 1491.82,
+          "end": 1502.46,
+          "text": "So I'd rather let this candle close and then see if we do form a reversal using that higher timeframe candle as the filter. And there you can see, we do have SMT.",
+          "concepts": [
+            "SMT Divergence"
+          ],
+          "strategies": [
+            "SMT-Confirmed Reversal"
+          ],
+          "score": 11
+        }
+      ]
+    },
+    {
+      "name": "Premium Discount Expansion",
+      "evidence": [
+        {
+          "start": 400.74,
+          "end": 413.08,
+          "text": "We want to think, do we get a nice shallow run above previous day high to form a reversal in which we can trade back towards the equilibrium or back into the range, expecting an expansion candle or a larger range, or do we get a large",
+          "concepts": [
+            "Premium and Discount"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 10
+        },
+        {
+          "start": 496.58,
+          "end": 507.02,
+          "text": "I can anticipate this wick to have formed and we have a small wick which supports expansion where lower. Now, just mechanically speaking within the fractal model, my EQ can be the",
+          "concepts": [
+            "TTrades Fractal Model"
+          ],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 9
+        },
+        {
+          "start": 513.02,
+          "end": 527.06,
+          "text": "And there we go and reach towards EQ and we hit it right at the end of the day. So you can see just to review, we have a shallow opposing run, right? A small wick with a change in the state of delivery that supports expansion",
+          "concepts": [],
+          "strategies": [
+            "Premium Discount Expansion"
+          ],
+          "score": 6
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 122.06,
+      "end": 132.9,
+      "text": "And for targeting, I'm going to be looking for expansion targets, liquidity points, or this average candles range. Now with a reversal candle, you can see it uses most of its time period to form its",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 13
+    },
+    {
+      "start": 175.1,
+      "end": 182.54,
+      "text": "I'm looking for the opening price or liquidity points or points of interest around there to target. So let's take a look at a few different candles.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 255.14,
+      "end": 264.02,
+      "text": "So I want to adjust my targets. If price is going to form a reversal in here, I'm really just expecting to return back around its opening price or the liquidity resting around there.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 11
+    },
+    {
+      "start": 271.18,
+      "end": 284.58,
+      "text": "So the easiest way to look to trade this is if I have a large wick that doesn't support expansion, I'm just going to wait for a new higher timeframe candle that does support expansion. So following that large wick on the next candle or candle three, and this is my candle three",
+      "concepts": [
+        "Candle 3 Setup"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 400.74,
+      "end": 413.08,
+      "text": "We want to think, do we get a nice shallow run above previous day high to form a reversal in which we can trade back towards the equilibrium or back into the range, expecting an expansion candle or a larger range, or do we get a large",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 10
+    },
+    {
+      "start": 496.58,
+      "end": 507.02,
+      "text": "I can anticipate this wick to have formed and we have a small wick which supports expansion where lower. Now, just mechanically speaking within the fractal model, my EQ can be the",
+      "concepts": [
+        "TTrades Fractal Model"
+      ],
+      "strategies": [
+        "Premium Discount Expansion"
+      ],
+      "score": 9
+    },
+    {
+      "start": 659.42,
+      "end": 670.22,
+      "text": "And generally I'll use a fair value gap or the opening price. If we have a protected low intraday, if we have failure swings on those session lows, then I will be more interested or more inclined to just",
+      "concepts": [
+        "Fair Value Gap",
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 826.58,
+      "end": 833.94,
+      "text": "You can see we have a little reversal here. Why would it not make sense to trade any of these reversals? Well, you're trying to trade away from the drawn liquidity.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [
+        "Liquidity Reversal"
+      ],
+      "score": 12
+    },
+    {
+      "start": 1035.7,
+      "end": 1045.26,
+      "text": "Once that candle closes, then we have a valid fractal model. And this is where I could maybe consider a continuation just because we have traded and showed and we want to trade away.",
+      "concepts": [
+        "TTrades Fractal Model"
+      ],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 10
+    },
+    {
+      "start": 1156.38,
+      "end": 1165.1,
+      "text": "And you can see a nice little V shape here. We have SMT. So we're forming the reversal off of that previous candles high in the early",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 11
+    },
+    {
+      "start": 1491.82,
+      "end": 1502.46,
+      "text": "So I'd rather let this candle close and then see if we do form a reversal using that higher timeframe candle as the filter. And there you can see, we do have SMT.",
+      "concepts": [
+        "SMT Divergence"
+      ],
+      "strategies": [
+        "SMT-Confirmed Reversal"
+      ],
+      "score": 11
+    },
+    {
+      "start": 1534.02,
+      "end": 1546.62,
+      "text": "higher as this is the continuation following a large wick reversal. And then you can see not the best closure, but we are forming a protected swing right at the end or beginning of that new higher timeframe candle.",
+      "concepts": [
+        "Protected Swing"
+      ],
+      "strategies": [],
+      "score": 9
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:36.438501+00:00"
+}

@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "video": {
+    "id": "CqMIh-Vvhbg",
+    "title": "Intro To TTrades Fractal Model [Indicator & Settings]",
+    "url": "https://www.youtube.com/watch?v=CqMIh-Vvhbg",
+    "upload_date": "unknown",
+    "channel": "TTrades"
+  },
+  "transcript": {
+    "model": "small",
+    "language": "en",
+    "file": "../transcripts/CqMIh-Vvhbg.json"
+  },
+  "stats": {
+    "word_count": 3947,
+    "duration_seconds": 1164.54,
+    "segments": 339,
+    "concepts_detected": 9,
+    "candidate_strategies": 2
+  },
+  "concept_mentions": {
+    "Liquidity": 4,
+    "Fair Value Gap": 1,
+    "Order Blocks and Breakers": 1,
+    "Power of Three": 1,
+    "Premium and Discount": 1,
+    "TTrades Fractal Model": 8,
+    "Candle 3 Setup": 2,
+    "Candle 4 Setup": 3,
+    "Daily Bias": 1
+  },
+  "spoken_time_references": [
+    "kill zone",
+    "New York session"
+  ],
+  "candidate_strategies": [
+    {
+      "name": "Trend Continuation",
+      "evidence": [
+        {
+          "start": 955.38,
+          "end": 968.46,
+          "text": "for me to be looking for a continuation lower when it closes over that level. And you can see that closure right there over my level was the early warning that this setup was not likely to continue.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 7
+        },
+        {
+          "start": 1004.3,
+          "end": 1016.26,
+          "text": "And you can see what do we notice the continuation from this bearish setup has failed. And that is what actually creates the bullish candle to closure.",
+          "concepts": [],
+          "strategies": [
+            "Trend Continuation"
+          ],
+          "score": 7
+        }
+      ]
+    },
+    {
+      "name": "Power of Three / AMD",
+      "evidence": [
+        {
+          "start": 504.58,
+          "end": 516.1,
+          "text": "And then I'll get those setups as well. Now going into a few of the customizable settings, the higher timeframe candles or the power of three candles on the right side, I have the option to hide those if I don't",
+          "concepts": [
+            "Power of Three"
+          ],
+          "strategies": [
+            "Power of Three / AMD"
+          ],
+          "score": 12
+        }
+      ]
+    }
+  ],
+  "key_passages": [
+    {
+      "start": 28.8,
+      "end": 38.96,
+      "text": "So my fractal model relies on the foundational understanding that the market cannot reverse without a swing point. So you can see here the market has formed a swing point to reverse or go from bearish",
+      "concepts": [
+        "TTrades Fractal Model"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 378.1,
+      "end": 393.02,
+      "text": "Now C2, C3 and C4 are the higher timeframe candle closures. Now I go over all the requirements for these within my course and mentorship, but essentially this means candle to candle three, candle four, and then specific candle closures with that.",
+      "concepts": [
+        "Candle 3 Setup",
+        "Candle 4 Setup"
+      ],
+      "strategies": [],
+      "score": 11
+    },
+    {
+      "start": 399.18,
+      "end": 410.78,
+      "text": "Then I will only see candle three closures with candle four continuation. I personally like to have all of these on because I like to view all of them. Now you may notice on the chart, there are a few different colors of these C2, C3 and",
+      "concepts": [
+        "Candle 3 Setup",
+        "Candle 4 Setup"
+      ],
+      "strategies": [],
+      "score": 10
+    },
+    {
+      "start": 504.58,
+      "end": 516.1,
+      "text": "And then I'll get those setups as well. Now going into a few of the customizable settings, the higher timeframe candles or the power of three candles on the right side, I have the option to hide those if I don't",
+      "concepts": [
+        "Power of Three"
+      ],
+      "strategies": [
+        "Power of Three / AMD"
+      ],
+      "score": 12
+    },
+    {
+      "start": 664.34,
+      "end": 673.46,
+      "text": "Now for candle equilibrium, that is just going to mark out this higher timeframe candles, EQ. So you can see it is marked out there as well as on the lower timeframes.",
+      "concepts": [
+        "Premium and Discount"
+      ],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 704.38,
+      "end": 714.46,
+      "text": "Now going into the projections, these are currently drawn from the bodies. So these series of bodies in the change in the state of delivery. I can go ahead and adjust the manual input on these projections.",
+      "concepts": [],
+      "strategies": [],
+      "score": 8
+    },
+    {
+      "start": 892.66,
+      "end": 899.62,
+      "text": "because it's overlaying the higher timeframe candles with the lower timeframe candles. So I'll go ahead and hide these higher timeframe candles.",
+      "concepts": [],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 955.38,
+      "end": 968.46,
+      "text": "for me to be looking for a continuation lower when it closes over that level. And you can see that closure right there over my level was the early warning that this setup was not likely to continue.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 7
+    },
+    {
+      "start": 986.54,
+      "end": 996.14,
+      "text": "wick form in this area here. And we have a fair value gap here. So narrowing down this point of interest, I can drop down to the hourly and",
+      "concepts": [
+        "Fair Value Gap"
+      ],
+      "strategies": [],
+      "score": 6
+    },
+    {
+      "start": 1004.3,
+      "end": 1016.26,
+      "text": "And you can see what do we notice the continuation from this bearish setup has failed. And that is what actually creates the bullish candle to closure.",
+      "concepts": [],
+      "strategies": [
+        "Trend Continuation"
+      ],
+      "score": 7
+    },
+    {
+      "start": 1022.66,
+      "end": 1029.86,
+      "text": "Now with the closure through these opposing candles here, that would be an order block. I could look to take an entry in here.",
+      "concepts": [
+        "Order Blocks and Breakers"
+      ],
+      "strategies": [],
+      "score": 7
+    },
+    {
+      "start": 1129.86,
+      "end": 1139.78,
+      "text": "Well, ideally using the formation liquidity or the previous days low over here, which is marked out and in line with the projections, I'd like to see price expand to these lows.",
+      "concepts": [
+        "Liquidity"
+      ],
+      "strategies": [],
+      "score": 6
+    }
+  ],
+  "generated_at": "2026-09-01T19:28:34.756935+00:00"
+}
